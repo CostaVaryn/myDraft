@@ -1,4 +1,5 @@
 import java.io.*;
+import java.util.Date;
 
 /**
  * <h1> Сложите два числа!</h1>
@@ -36,6 +37,17 @@ public class AddNum {
      */
 
     public static void main(String args[]) throws IOException {
+
+        System.out.format("Сегодня %tc\n\n",new Date());
+
+        for(int i = 2; i < 10; i++) {
+            System.out.print(i + " | ");
+            for (int j = 1; j < 10; j++) {
+                System.out.format("%d\t",  i * j);
+            }
+            System.out.print('\n');
+        }
+
         AddNum obj = new AddNum();
         int sum = obj.addNum(10, 20);
         System.out.println("Суммой 10 и 20 является :" + sum);
