@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WriterTest2.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +180,98 @@
       <option name="project" value="LOCAL" />
       <updated>1661875149308</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update TestScanner.java">
+      <created>1661955747213</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661955747213</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update workspace.xml">
+      <created>1661955762157</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661955762157</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add ArtifactMuseum.java">
+      <created>1661955820755</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661955820755</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add ArtifactMuseum.java">
+      <created>1661956399510</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956399510</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add ConcreteFileData.java">
+      <created>1661956419104</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956419104</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add Employee.java">
+      <created>1661956427742</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956427742</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add EmployeeTest.java">
+      <created>1661956437581</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956437581</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add FileData.java">
+      <created>1661956447837</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956447837</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add NullFileData.java">
+      <created>1661956461236</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956461236</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add PersonData.java">
+      <created>1661956468731</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956468731</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add Solution.java">
+      <created>1661956481839</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956481839</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add WriterTest.java">
+      <created>1661956489672</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956489672</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add WriterTest2.java">
+      <created>1661956497008</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956497008</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,15 +286,26 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add files" />
     <MESSAGE value="add file" />
     <MESSAGE value="add FiboSequence.java" />
     <MESSAGE value="add AddNum.java" />
     <MESSAGE value="add TestScanner.java" />
     <MESSAGE value="add SumTest.java" />
     <MESSAGE value="add TestLength.java" />
+    <MESSAGE value="update TestScanner.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add files" />
+    <MESSAGE value="add ArtifactMuseum.java" />
+    <MESSAGE value="add ConcreteFileData.java" />
+    <MESSAGE value="add Employee.java" />
+    <MESSAGE value="add EmployeeTest.java" />
+    <MESSAGE value="add FileData.java" />
+    <MESSAGE value="add NullFileData.java" />
+    <MESSAGE value="add PersonData.java" />
+    <MESSAGE value="add Solution.java" />
+    <MESSAGE value="add WriterTest.java" />
+    <MESSAGE value="add WriterTest2.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add WriterTest2.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
