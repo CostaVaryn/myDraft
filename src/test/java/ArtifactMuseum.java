@@ -22,7 +22,6 @@ public class ArtifactMuseum {
     }
 
     public static void main(String[] args) {
-
         ArtifactMuseum firstArt = new ArtifactMuseum();
         ArtifactMuseum secondArt = new ArtifactMuseum(1000, "Aztecs");
         ArtifactMuseum thirdArt = new ArtifactMuseum(1002, "Aztecs", 12);
