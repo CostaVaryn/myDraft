@@ -1,7 +1,6 @@
 package hardtask;
 
 public class ConcreteFileData implements FileData {
-
     private boolean hidden;
     private boolean executable;
     private boolean directory;
