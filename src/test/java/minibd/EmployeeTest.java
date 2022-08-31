@@ -1,8 +1,8 @@
 package minibd;
 
-public class EmployeeTest{
+public class EmployeeTest {
 
-    public static void main(String args[]){
+    public static void main(String args[]) {
         Employee empOne = new Employee("Олег Олегов");
         Employee empTwo = new Employee("Иван Иванов");
 
