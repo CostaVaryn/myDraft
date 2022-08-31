@@ -1,6 +1,7 @@
 package hardtask;
 
 public class NullFileData implements FileData {
+
     private Exception exception;
 
     public NullFileData(Exception e) {
