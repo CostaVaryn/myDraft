@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add TestScanner.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AddNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AddNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,17 +39,29 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumTest">
-    <configuration name="AddNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddNum" />
+  <component name="RunManager" selected="Application.WriterTest2">
+    <configuration name="NullObjectDesignPattern$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="illustratenull.NullObjectDesignPattern$Main" />
       <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="illustratenull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FiboSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FiboSequence" />
+    <configuration name="PersonData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.PersonData" />
       <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,40 +73,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestLength" />
+    <configuration name="WriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writer.WriterTest" />
       <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestScanner" />
+    <configuration name="WriterTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writer.WriterTest2" />
       <module name="myDraft" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="myDraft" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="myDraft" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WriterTest2" />
+        <item itemvalue="Application.NullObjectDesignPattern$Main" />
+        <item itemvalue="Application.WriterTest" />
+        <item itemvalue="Application.PersonData" />
         <item itemvalue="Application.SumTest" />
-        <item itemvalue="Application.AddNum" />
-        <item itemvalue="Application.TestScanner" />
-        <item itemvalue="Application.TestLength" />
-        <item itemvalue="Application.FiboSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +146,42 @@
       <option name="project" value="LOCAL" />
       <updated>1661854719467</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add AddNum.java">
+      <created>1661875088817</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661875088817</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add TestScanner.java">
+      <created>1661875097258</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661875097258</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add SumTest.java">
+      <created>1661875116393</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661875116393</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add TestLength.java">
+      <created>1661875129724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661875129724</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update workspace.xml">
+      <created>1661875149308</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661875149308</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,8 +199,12 @@
     <MESSAGE value="add files" />
     <MESSAGE value="add file" />
     <MESSAGE value="add FiboSequence.java" />
+    <MESSAGE value="add AddNum.java" />
     <MESSAGE value="add TestScanner.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add TestScanner.java" />
+    <MESSAGE value="add SumTest.java" />
+    <MESSAGE value="add TestLength.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
