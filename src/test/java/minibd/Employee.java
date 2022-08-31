@@ -1,6 +1,6 @@
 package minibd;
 
-public class Employee{
+public class Employee {
     String name;
     int age;
     String designation;
