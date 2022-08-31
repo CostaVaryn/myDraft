@@ -7,8 +7,6 @@ public class TestScanner {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число:");
 
-
-
         if (scanner.hasNextInt()) {
             int number = scanner.nextInt();
             // Диапазон значений от -2^31 до 2^31
@@ -60,6 +58,5 @@ public class TestScanner {
                 System.out.println("Извините, но это явно не число. Перезапустите программу и попробуйте снова!");
 
         }
-
     }
 }
