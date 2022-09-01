@@ -1,4 +1,4 @@
-package hardtask;
+package hardtask.nullobject;
 
 public class NullFileData implements FileData {
 
