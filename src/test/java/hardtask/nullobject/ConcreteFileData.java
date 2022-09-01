@@ -1,4 +1,4 @@
-package hardtask;
+package hardtask.nullobject;
 
 public class ConcreteFileData implements FileData {
     private boolean hidden;
