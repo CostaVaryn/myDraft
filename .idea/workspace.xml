@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WriterTest2.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hardtask/ConcreteFileData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hardtask/nullobject/ConcreteFileData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hardtask/FileData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hardtask/nullobject/FileData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hardtask/NullFileData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hardtask/nullobject/NullFileData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hardtask/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hardtask/nullobject/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/writer/WriterTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/writer/WriterTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,46 +43,39 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WriterTest2">
+  <component name="RunManager" selected="Application.CheckDouble">
+    <configuration name="CheckDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="url.CheckDouble" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="url.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="url.CheckTest" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="url.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NullObjectDesignPattern$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="illustratenull.NullObjectDesignPattern$Main" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="illustratenull.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.PersonData" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scanner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumTest" />
-      <module name="myDraft" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="writer.WriterTest" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="writer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WriterTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writer.WriterTest3" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckDouble" />
+        <item itemvalue="Application.CheckTest" />
+        <item itemvalue="Application.WriterTest3" />
         <item itemvalue="Application.WriterTest2" />
         <item itemvalue="Application.NullObjectDesignPattern$Main" />
-        <item itemvalue="Application.WriterTest" />
-        <item itemvalue="Application.PersonData" />
-        <item itemvalue="Application.SumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661956497008</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update workspace.xml">
+      <created>1661956520449</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956520449</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,7 +311,6 @@
     <MESSAGE value="add SumTest.java" />
     <MESSAGE value="add TestLength.java" />
     <MESSAGE value="update TestScanner.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add files" />
     <MESSAGE value="add ArtifactMuseum.java" />
     <MESSAGE value="add ConcreteFileData.java" />
@@ -305,7 +322,8 @@
     <MESSAGE value="add Solution.java" />
     <MESSAGE value="add WriterTest.java" />
     <MESSAGE value="add WriterTest2.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add WriterTest2.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -313,6 +331,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="6" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
