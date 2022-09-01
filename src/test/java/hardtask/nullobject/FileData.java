@@ -1,4 +1,4 @@
-package hardtask;
+package hardtask.nullobject;
 
 public interface FileData {
     boolean isHidden();
