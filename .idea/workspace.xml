@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/EasySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EasySum">
+  <component name="RunManager" selected="Application.CheckDouble">
     <configuration name="CheckDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="url.CheckDouble" />
       <module name="myDraft" />
@@ -107,8 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EasySum" />
         <item itemvalue="Application.CheckDouble" />
+        <item itemvalue="Application.EasySum" />
         <item itemvalue="Application.CheckTest" />
         <item itemvalue="Application.WriterTest3" />
         <item itemvalue="Application.WriterTest2" />
@@ -355,7 +352,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662030880258</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="add EasySum.java">
+      <created>1662389556281</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1662389556281</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update workspace.xml">
+      <created>1662389586921</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1662389586921</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,7 +381,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add TestScanner.java" />
     <MESSAGE value="add SumTest.java" />
     <MESSAGE value="add TestLength.java" />
     <MESSAGE value="update TestScanner.java" />
@@ -394,6 +404,7 @@
     <MESSAGE value="add SortValues.java" />
     <MESSAGE value="add CheckDouble.java" />
     <MESSAGE value="add CheckTest.java" />
+    <MESSAGE value="add EasySum.java" />
     <MESSAGE value="update workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
