@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/EasySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hardtask/ConcreteFileData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hardtask/nullobject/ConcreteFileData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hardtask/FileData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hardtask/nullobject/FileData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hardtask/NullFileData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hardtask/nullobject/NullFileData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hardtask/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hardtask/nullobject/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/writer/WriterTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/writer/WriterTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CheckDouble">
+  <component name="RunManager" selected="Application.EasySum">
     <configuration name="CheckDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="url.CheckDouble" />
       <module name="myDraft" />
@@ -70,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullObjectDesignPattern$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="illustratenull.NullObjectDesignPattern$Main" />
+    <configuration name="EasySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.EasySum" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="illustratenull.*" />
+          <option name="PATTERN" value="stepik.introductory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EasySum" />
         <item itemvalue="Application.CheckDouble" />
         <item itemvalue="Application.CheckTest" />
         <item itemvalue="Application.WriterTest3" />
         <item itemvalue="Application.WriterTest2" />
-        <item itemvalue="Application.NullObjectDesignPattern$Main" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +285,77 @@
       <option name="project" value="LOCAL" />
       <updated>1661956520449</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="update ConcreteFileData.java">
+      <created>1662030705409</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030705409</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update FileData.java">
+      <created>1662030726458</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030726458</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update NullFileData.java">
+      <created>1662030742527</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030742527</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update Solution.java">
+      <created>1662030760835</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030760835</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update WriterTest2.java">
+      <created>1662030775574</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030775574</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add WriterTest3.java">
+      <created>1662030798588</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030798588</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add SortValues.java">
+      <created>1662030818558</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030818558</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add CheckDouble.java">
+      <created>1662030833106</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030833106</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add CheckTest.java">
+      <created>1662030844988</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030844988</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update workspace.xml">
+      <created>1662030880258</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030880258</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,9 +370,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add file" />
-    <MESSAGE value="add FiboSequence.java" />
-    <MESSAGE value="add AddNum.java" />
     <MESSAGE value="add TestScanner.java" />
     <MESSAGE value="add SumTest.java" />
     <MESSAGE value="add TestLength.java" />
@@ -322,6 +385,15 @@
     <MESSAGE value="add Solution.java" />
     <MESSAGE value="add WriterTest.java" />
     <MESSAGE value="add WriterTest2.java" />
+    <MESSAGE value="update ConcreteFileData.java" />
+    <MESSAGE value="update FileData.java" />
+    <MESSAGE value="update NullFileData.java" />
+    <MESSAGE value="update Solution.java" />
+    <MESSAGE value="update WriterTest2.java" />
+    <MESSAGE value="add WriterTest3.java" />
+    <MESSAGE value="add SortValues.java" />
+    <MESSAGE value="add CheckDouble.java" />
+    <MESSAGE value="add CheckTest.java" />
     <MESSAGE value="update workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
