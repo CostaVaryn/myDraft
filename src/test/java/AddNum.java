@@ -13,7 +13,7 @@ import java.util.Date;
  *
  * @автор  Constantin
  * @версия 1.0
- * @от   2022-08-29
+ * @дата   2022-08-29
  */
 public class AddNum {
     /**
