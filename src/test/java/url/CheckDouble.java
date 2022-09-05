@@ -9,17 +9,15 @@ public class CheckDouble {
         URL url = new URL("https://javarush.ru");
         URLConnection connection = url.openConnection();
         connection.setDoOutput(true);
-// отправляем данные
+        // отправляем данные
         try (OutputStream output = connection.getOutputStream();
-             PrintStream sender = new PrintStream(output))
-        {
+            PrintStream sender = new PrintStream(output)) {
             sender.println("Привет");
         }
 
-// читаем данные
+        // читаем данные
         try(InputStream input = connection.getInputStream();
-            BufferedReader reader = new BufferedReader(new InputStreamReader(input)))
-        {
+            BufferedReader reader = new BufferedReader(new InputStreamReader(input))) {
             while (reader.ready())
                 System.out.println(reader.readLine());
         }
