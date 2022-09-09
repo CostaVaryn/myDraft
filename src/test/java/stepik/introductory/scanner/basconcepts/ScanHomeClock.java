@@ -1,4 +1,4 @@
-package stepik.introductory.scanner;
+package stepik.introductory.scanner.basconcepts;
 
 import java.util.Scanner;
 
