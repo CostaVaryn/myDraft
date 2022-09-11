@@ -15,7 +15,9 @@ import java.util.Date;
  * @версия 1.0
  * @дата   2022-08-29
  */
+
 public class AddNum {
+    
     /**
      * Этот метод используется для сложения двух целых чисел. Это
      * простейшая форма метода класса, просто чтобы
@@ -24,6 +26,7 @@ public class AddNum {
      * @param numB Это второй параметр метода addNum
      * @return int Это возвращает сумму numA и numB.
      */
+    
     public int addNum(int numA, int numB) {
         return numA + numB;
     }
