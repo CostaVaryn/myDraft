@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/AverageOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/BooleanFalse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/MaximumEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/NumberWithDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/RelationshipSign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/SwitchScan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/TwoSegments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/WageStrike.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WageStrike.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,69 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00023" summary="update workspace.xml">
-      <created>1661956520449</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1661956520449</updated>
-    </task>
-    <task id="LOCAL-00024" summary="update ConcreteFileData.java">
-      <created>1662030705409</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030705409</updated>
-    </task>
-    <task id="LOCAL-00025" summary="update FileData.java">
-      <created>1662030726458</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030726458</updated>
-    </task>
-    <task id="LOCAL-00026" summary="update NullFileData.java">
-      <created>1662030742527</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030742527</updated>
-    </task>
-    <task id="LOCAL-00027" summary="update Solution.java">
-      <created>1662030760835</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030760835</updated>
-    </task>
-    <task id="LOCAL-00028" summary="update WriterTest2.java">
-      <created>1662030775574</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030775574</updated>
-    </task>
-    <task id="LOCAL-00029" summary="add WriterTest3.java">
-      <created>1662030798588</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030798588</updated>
-    </task>
-    <task id="LOCAL-00030" summary="add SortValues.java">
-      <created>1662030818558</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030818558</updated>
-    </task>
-    <task id="LOCAL-00031" summary="add CheckDouble.java">
-      <created>1662030833106</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030833106</updated>
     </task>
     <task id="LOCAL-00032" summary="add CheckTest.java">
       <created>1662030844988</created>
@@ -478,7 +407,70 @@
       <option name="project" value="LOCAL" />
       <updated>1662977604475</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="update workspace.xml">
+      <created>1663074008019</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074008019</updated>
+    </task>
+    <task id="LOCAL-00073" summary="add AverageOfThree.java">
+      <created>1663074146459</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074146459</updated>
+    </task>
+    <task id="LOCAL-00074" summary="add BooleanFalse.java">
+      <created>1663074163097</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074163098</updated>
+    </task>
+    <task id="LOCAL-00075" summary="add MaximumEven.java">
+      <created>1663074177627</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074177628</updated>
+    </task>
+    <task id="LOCAL-00076" summary="add NumberWithDigit.java">
+      <created>1663074185596</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074185596</updated>
+    </task>
+    <task id="LOCAL-00077" summary="add RelationshipSign.java">
+      <created>1663074201193</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074201193</updated>
+    </task>
+    <task id="LOCAL-00078" summary="add SwitchScan.java">
+      <created>1663074218874</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074218875</updated>
+    </task>
+    <task id="LOCAL-00079" summary="add TwoSegments.java">
+      <created>1663074238288</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074238288</updated>
+    </task>
+    <task id="LOCAL-00080" summary="add WageStrike.java">
+      <created>1663074259734</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1663074259734</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,14 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Man.java" />
-    <MESSAGE value="add Anagramma.java" />
-    <MESSAGE value="update Man.java" />
-    <MESSAGE value="add NumbGame.java" />
-    <MESSAGE value="add ScanChar.java" />
-    <MESSAGE value="add ScanAverage.java" />
-    <MESSAGE value="add ScanDraft.java" />
-    <MESSAGE value="add ScanEquation.java" />
     <MESSAGE value="add ScanEquationRoots.java" />
     <MESSAGE value="add ScanFunc.java" />
     <MESSAGE value="add ScanHomeClock.java" />
@@ -518,7 +502,15 @@
     <MESSAGE value="add ScanOneSymbol.java" />
     <MESSAGE value="add ScanTwoOutOfThree.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add AverageOfThree.java" />
+    <MESSAGE value="add BooleanFalse.java" />
+    <MESSAGE value="add MaximumEven.java" />
+    <MESSAGE value="add NumberWithDigit.java" />
+    <MESSAGE value="add RelationshipSign.java" />
+    <MESSAGE value="add SwitchScan.java" />
+    <MESSAGE value="add TwoSegments.java" />
+    <MESSAGE value="add WageStrike.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add WageStrike.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
