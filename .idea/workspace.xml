@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ScanTwoOutOfThree.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/AverageOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/BooleanFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/MaximumEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/NumberWithDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/RelationshipSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/SwitchScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/TwoSegments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/WageStrike.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,29 +50,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumYah">
-    <configuration name="LogicExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.LogicExpression" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumYah" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumYah" />
-      <module name="myDraft" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScanAlphabetOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.ScanAlphabetOrder" />
+  <component name="RunManager" selected="Application.NumberWithDigit">
+    <configuration name="BooleanFalse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.BooleanFalse" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScanIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.basconcepts.ScanIf" />
+    <configuration name="NumberWithDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.NumberWithDigit" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +77,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScanLeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.ScanLeapTest" />
+    <configuration name="SwitchScan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.SwitchScan" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.constractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSegments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.TwoSegments" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.constractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WageStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.WageStrike" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumYah" />
-        <item itemvalue="Application.ScanAlphabetOrder" />
-        <item itemvalue="Application.ScanLeapTest" />
-        <item itemvalue="Application.LogicExpression" />
-        <item itemvalue="Application.ScanIf" />
+        <item itemvalue="Application.NumberWithDigit" />
+        <item itemvalue="Application.BooleanFalse" />
+        <item itemvalue="Application.SwitchScan" />
+        <item itemvalue="Application.TwoSegments" />
+        <item itemvalue="Application.WageStrike" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00022" summary="add WriterTest2.java">
-      <created>1661956497008</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1661956497008</updated>
     </task>
     <task id="LOCAL-00023" summary="update workspace.xml">
       <created>1661956520449</created>
@@ -464,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662806486052</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="update workspace.xml">
+      <created>1662977604475</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1662977604475</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,7 +496,6 @@
     <MESSAGE value="add Man.java" />
     <MESSAGE value="add Anagramma.java" />
     <MESSAGE value="update Man.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add NumbGame.java" />
     <MESSAGE value="add ScanChar.java" />
     <MESSAGE value="add ScanAverage.java" />
@@ -504,7 +517,8 @@
     <MESSAGE value="add ScanLeapTest.java" />
     <MESSAGE value="add ScanOneSymbol.java" />
     <MESSAGE value="add ScanTwoOutOfThree.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ScanTwoOutOfThree.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
