@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WageStrike.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,20 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00032" summary="add CheckTest.java">
-      <created>1662030844988</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030844988</updated>
-    </task>
-    <task id="LOCAL-00033" summary="update workspace.xml">
-      <created>1662030880258</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1662030880258</updated>
     </task>
     <task id="LOCAL-00034" summary="add EasySum.java">
       <created>1662389556281</created>
@@ -470,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663074259734</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="add OrderWorld.java">
+      <created>1663077589417</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1663077589418</updated>
+    </task>
+    <task id="LOCAL-00082" summary="update workspace.xml">
+      <created>1663077602847</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1663077602847</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ScanEquationRoots.java" />
     <MESSAGE value="add ScanFunc.java" />
     <MESSAGE value="add ScanHomeClock.java" />
     <MESSAGE value="add ScanLeapYears.java" />
@@ -501,7 +500,6 @@
     <MESSAGE value="add ScanLeapTest.java" />
     <MESSAGE value="add ScanOneSymbol.java" />
     <MESSAGE value="add ScanTwoOutOfThree.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add AverageOfThree.java" />
     <MESSAGE value="add BooleanFalse.java" />
     <MESSAGE value="add MaximumEven.java" />
@@ -510,7 +508,9 @@
     <MESSAGE value="add SwitchScan.java" />
     <MESSAGE value="add TwoSegments.java" />
     <MESSAGE value="add WageStrike.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add WageStrike.java" />
+    <MESSAGE value="add OrderWorld.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
