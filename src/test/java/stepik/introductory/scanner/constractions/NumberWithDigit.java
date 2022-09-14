@@ -17,5 +17,6 @@ public class NumberWithDigit {
         } else {
             System.out.println("error");
         }
+        sc.close();
     }
 }
