@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update OrderWorld.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/JustWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhilePlusSqrt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/OrderWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/OrderWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/RelationshipSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/RelationshipSign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanAlphabetOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanAlphabetOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanOneSymbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanOneSymbol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanTwoOutOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanTwoOutOfThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/WageStrike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/WageStrike.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WageStrike">
+  <component name="RunManager" selected="Application.WhilePlusSqrt">
     <configuration name="BooleanFalse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.BooleanFalse" />
       <module name="myDraft" />
@@ -62,34 +58,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JustWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.JustWhile" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberWithDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.NumberWithDigit" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.constractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchScan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.SwitchScan" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.constractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSegments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.TwoSegments" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -114,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhilePlusSqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhilePlusSqrt" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhilePlusSqrt" />
+        <item itemvalue="Application.JustWhile" />
         <item itemvalue="Application.WageStrike" />
         <item itemvalue="Application.NumberWithDigit" />
         <item itemvalue="Application.BooleanFalse" />
-        <item itemvalue="Application.SwitchScan" />
-        <item itemvalue="Application.TwoSegments" />
       </list>
     </recent_temporary>
   </component>
@@ -132,48 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00041" summary="update workspace.xml">
-      <created>1662458723909</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1662458723909</updated>
-    </task>
-    <task id="LOCAL-00042" summary="update workspace.xml">
-      <created>1662470495981</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1662470495981</updated>
-    </task>
-    <task id="LOCAL-00043" summary="update workspace.xml">
-      <created>1662561275411</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1662561275411</updated>
-    </task>
-    <task id="LOCAL-00044" summary="add Man.java">
-      <created>1662561314758</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1662561314758</updated>
-    </task>
-    <task id="LOCAL-00045" summary="add Anagramma.java">
-      <created>1662626488768</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1662626488768</updated>
-    </task>
-    <task id="LOCAL-00046" summary="update workspace.xml">
-      <created>1662626504477</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1662626504477</updated>
     </task>
     <task id="LOCAL-00047" summary="update Man.java">
       <created>1662720354594</created>
@@ -476,7 +430,49 @@
       <option name="project" value="LOCAL" />
       <updated>1663160785143</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="update RelationshipSign.java">
+      <created>1663160795775</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1663160795775</updated>
+    </task>
+    <task id="LOCAL-00091" summary="update ScanAlphabetOrder.java">
+      <created>1663160804805</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1663160804805</updated>
+    </task>
+    <task id="LOCAL-00092" summary="update ScanOneSymbol.java">
+      <created>1663160850119</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1663160850119</updated>
+    </task>
+    <task id="LOCAL-00093" summary="update ScanTwoOutOfThree.java">
+      <created>1663160858407</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1663160858407</updated>
+    </task>
+    <task id="LOCAL-00094" summary="update WageStrike.java">
+      <created>1663160867901</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1663160867901</updated>
+    </task>
+    <task id="LOCAL-00095" summary="update workspace.xml">
+      <created>1663160875580</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1663160875580</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,11 +487,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ScannerZero.java" />
-    <MESSAGE value="add ScanIf.java" />
-    <MESSAGE value="relocate file" />
-    <MESSAGE value="update file" />
-    <MESSAGE value="add LogicExpression.java" />
     <MESSAGE value="add ScanAlphabetOrder.java" />
     <MESSAGE value="add ScanEvenAndOdd.java" />
     <MESSAGE value="add ScanLeapTest.java" />
@@ -510,13 +501,18 @@
     <MESSAGE value="add TwoSegments.java" />
     <MESSAGE value="add WageStrike.java" />
     <MESSAGE value="add OrderWorld.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update AverageOfThree.java" />
     <MESSAGE value="update BooleanFalse.java" />
     <MESSAGE value="update MaximumEven.java" />
     <MESSAGE value="update NumberWithDigit.java" />
     <MESSAGE value="update OrderWorld.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update OrderWorld.java" />
+    <MESSAGE value="update RelationshipSign.java" />
+    <MESSAGE value="update ScanAlphabetOrder.java" />
+    <MESSAGE value="update ScanOneSymbol.java" />
+    <MESSAGE value="update ScanTwoOutOfThree.java" />
+    <MESSAGE value="update WageStrike.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
