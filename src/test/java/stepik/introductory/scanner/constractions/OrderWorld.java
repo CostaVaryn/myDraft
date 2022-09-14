@@ -14,6 +14,7 @@ public class OrderWorld {
 
             System.out.println("Здесь никого нет, Вы ошиблись дверью");
         }
+        sc.close();
     }
 }
 
