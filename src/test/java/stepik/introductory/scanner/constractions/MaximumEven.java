@@ -9,6 +9,7 @@ public class MaximumEven {
         int min = Math.min(Math.min(a, b), c);
         int max = Math.max(Math.max(a, b), c);
         int w = (a+b+c)-min-max;
+        sc.close();
         if (max%2==0) {
             System.out.println(max);
         }
