@@ -12,6 +12,7 @@ public class ScanAlphabetOrder {
         for (String word : words) {
             System.out.println(word);
         }
+        sc.close();
 
 
         /**
