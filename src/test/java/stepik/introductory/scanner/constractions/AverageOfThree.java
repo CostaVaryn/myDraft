@@ -13,6 +13,7 @@ public class AverageOfThree {
         } else {
             System.out.println(c);
         }
+        sc.close();
     }
 }
 
