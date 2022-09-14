@@ -8,5 +8,6 @@ public class BooleanFalse {
         int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
         boolean z = a == 12 || b != 5 && c <= 10;
         System.out.println(z);
+        sc.close();
     }
 }
