@@ -10,6 +10,7 @@ public class WageStrike {
         int max = Math.max(Math.max(a,b), c);
         int min = Math.min(Math.min(a,b), c);
         int res = max % min;
+        sc.close();
         if (res > x) {
             System.out.println("Ура, бастуем!");
         } else {
