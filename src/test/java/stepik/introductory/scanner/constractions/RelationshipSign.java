@@ -7,6 +7,7 @@ public class RelationshipSign {
         Scanner sc = new Scanner(System.in);
         double a = sc.nextDouble(), b = sc.nextDouble();
         System.out.println((a < b) ? "<" : (a > b) ? ">" : "=");
+        sc.close();
     }
 }
 
