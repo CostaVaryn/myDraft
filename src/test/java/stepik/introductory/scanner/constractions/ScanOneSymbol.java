@@ -12,6 +12,7 @@ public class ScanOneSymbol {
         } else {
             System.out.println("NO");
         }
+        sc.close();
     }
 }
 
