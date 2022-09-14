@@ -15,5 +15,6 @@ public class ScanTwoOutOfThree {
         } else {
             System.out.println("false");
         }
+        sc.close();
     }
 }
