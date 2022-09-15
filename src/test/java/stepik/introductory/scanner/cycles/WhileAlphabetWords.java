@@ -13,6 +13,7 @@ public class WhileAlphabetWords {
                 System.out.println(str);
             }
         }
+        sc.close();
     }
 }
 
