@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WhileNumReverse.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileNumReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileNumReverse.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,20 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00060" summary="add ScannerTextDate.java">
-      <created>1662720495898</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1662720495898</updated>
-    </task>
-    <task id="LOCAL-00061" summary="add ScannerZero.java">
-      <created>1662720507663</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1662720507663</updated>
     </task>
     <task id="LOCAL-00062" summary="add ScanIf.java">
       <created>1662726082231</created>
@@ -471,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663248445086</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="update WhileNumReverse.java">
+      <created>1663248986929</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1663248986929</updated>
+    </task>
+    <task id="LOCAL-00110" summary="update workspace.xml">
+      <created>1663248994652</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1663248994652</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add NumberWithDigit.java" />
     <MESSAGE value="add RelationshipSign.java" />
     <MESSAGE value="add SwitchScan.java" />
     <MESSAGE value="add TwoSegments.java" />
@@ -508,10 +504,11 @@
     <MESSAGE value="add WhileHashNext.java" />
     <MESSAGE value="add WhileNumericalSequence.java" />
     <MESSAGE value="add" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add WhileRating.java" />
     <MESSAGE value="add WhileNumReverse.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add WhileNumReverse.java" />
+    <MESSAGE value="update WhileNumReverse.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
