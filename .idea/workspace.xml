@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WhilePlusSqrt.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileHashNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileSubZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,20 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00050" summary="add ScanChar.java">
-      <created>1662720388947</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1662720388948</updated>
-    </task>
-    <task id="LOCAL-00051" summary="add ScanAverage.java">
-      <created>1662720396367</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1662720396367</updated>
     </task>
     <task id="LOCAL-00052" summary="add ScanAverage.java">
       <created>1662720404132</created>
@@ -472,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663164305744</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="add WhileSubZero.java">
+      <created>1663168570291</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1663168570291</updated>
+    </task>
+    <task id="LOCAL-00100" summary="update workspace.xml">
+      <created>1663168582748</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1663168582748</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -487,7 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ScanLeapTest.java" />
     <MESSAGE value="add ScanOneSymbol.java" />
     <MESSAGE value="add ScanTwoOutOfThree.java" />
     <MESSAGE value="add AverageOfThree.java" />
@@ -509,10 +506,11 @@
     <MESSAGE value="update ScanOneSymbol.java" />
     <MESSAGE value="update ScanTwoOutOfThree.java" />
     <MESSAGE value="update WageStrike.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add JustWhile.java" />
     <MESSAGE value="add WhilePlusSqrt.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add WhilePlusSqrt.java" />
+    <MESSAGE value="add WhileSubZero.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
