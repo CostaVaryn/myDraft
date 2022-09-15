@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WhileAlphabetWords.java">
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileAlphabetWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileAlphabetWords.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,20 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00064" summary="update file">
-      <created>1662806377767</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1662806377768</updated>
-    </task>
-    <task id="LOCAL-00065" summary="add LogicExpression.java">
-      <created>1662806390375</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1662806390375</updated>
     </task>
     <task id="LOCAL-00066" summary="add ScanAlphabetOrder.java">
       <created>1662806411100</created>
@@ -470,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663249186845</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="update WhileAlphabetWords.java">
+      <created>1663249699138</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1663249699138</updated>
+    </task>
+    <task id="LOCAL-00114" summary="update workspace.xml">
+      <created>1663249709548</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1663249709548</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add SwitchScan.java" />
     <MESSAGE value="add TwoSegments.java" />
     <MESSAGE value="add WageStrike.java" />
     <MESSAGE value="add OrderWorld.java" />
@@ -508,9 +505,10 @@
     <MESSAGE value="add WhileRating.java" />
     <MESSAGE value="add WhileNumReverse.java" />
     <MESSAGE value="update WhileNumReverse.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add WhileAlphabetWords.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add WhileAlphabetWords.java" />
+    <MESSAGE value="update WhileAlphabetWords.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
