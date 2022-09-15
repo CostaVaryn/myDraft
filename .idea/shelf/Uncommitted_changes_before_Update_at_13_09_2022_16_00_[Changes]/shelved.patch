@@ -1,0 +1,306 @@
+Index: src/test/java/stepik/introductory/scanner/constractions/TwoSegments.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/stepik/introductory/scanner/constractions/TwoSegments.java b/src/test/java/stepik/introductory/scanner/constractions/TwoSegments.java
+new file mode 100644
+--- /dev/null	(date 1662984827103)
++++ b/src/test/java/stepik/introductory/scanner/constractions/TwoSegments.java	(date 1662984827103)
+@@ -0,0 +1,53 @@
++package stepik.introductory.scanner.constractions;
++
++import java.util.Scanner;
++
++public class TwoSegments {
++    public static void main (String [] args) {
++        Scanner sc = new Scanner(System.in);
++        int a1 = sc.nextInt();
++        int b1 = sc.nextInt();
++        int a2 = sc.nextInt();
++        int b2 = sc.nextInt();
++        if ((b1 < a2) || (b2 < a1)) {
++            System.out.print ("Пересечения нет");
++        } else if (b2 > b1) {
++            if ((a1 < a2) && (b1 > a2)) {
++                System.out.print (a2 + " " + b1);
++            } else if ((a2 < a1) || (a1 == a2)) {
++                System.out.print (a1 + " " + b1);
++            } else if (b1 == a2)  {
++                System.out.print (b1);
++            }
++        } else if (b1 > b2) {
++            if ((a1 < a2) || (a1 == a2)) {
++                System.out.print (a2 + " " + b2);
++            } else if ((a2 < a1) && (b2 > a1)) {
++                System.out.print (a1 + " " + b2);
++            } else if (b2 == a1) {
++                System.out.print (a1);
++            }
++        } else if (b2 == b1) {
++            if ((a2 == a1) || (a1 > a2)) {
++                System.out.print (a1 + " " + b1);
++            } else if (a2 > a1) {
++                System.out.print (a2 + " " + b1);
++            }
++        }
++        sc.close();
++    }
++}
++
++/**
++ * Sample Input 1:
++ * 2 5
++ * 6 10
++ * Sample Output 1:
++ * Пересечения нет
++ *
++ * Sample Input 2:
++ * 2 5
++ * 4 10
++ * Sample Output 2:
++ * 4 5
++ */
+\ No newline at end of file
+Index: src/test/java/stepik/introductory/scanner/constractions/MaximumEven.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/stepik/introductory/scanner/constractions/MaximumEven.java b/src/test/java/stepik/introductory/scanner/constractions/MaximumEven.java
+new file mode 100644
+--- /dev/null	(date 1662986584314)
++++ b/src/test/java/stepik/introductory/scanner/constractions/MaximumEven.java	(date 1662986584314)
+@@ -0,0 +1,33 @@
++package stepik.introductory.scanner.constractions;
++
++import java.util.Scanner;
++
++public class MaximumEven {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        int a = sc.nextInt(); int b = sc.nextInt(); int c = sc.nextInt();
++        int min = Math.min(Math.min(a, b), c);
++        int max = Math.max(Math.max(a, b), c);
++        int w = (a+b+c)-min-max;
++        if (max%2==0) {
++            System.out.println(max);
++        }
++        else if (w%2==0) {
++            System.out.println(w);
++        }
++        else if (min%2==0) {
++            System.out.println(min);
++        }
++        else System.out.println("Чётных чисел нет");
++    }
++}
++
++/**
++ * На вход подаётся три целых числа. Выведите максимальное чётное из них.
++ * Если чётных чисел нет, выведите "Чётных чисел нет".
++ *
++ * Sample Input:
++ * 5 10 15
++ * Sample Output:
++ * 10
++ */
+\ No newline at end of file
+Index: src/test/java/stepik/introductory/scanner/constractions/AverageOfThree.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/stepik/introductory/scanner/constractions/AverageOfThree.java b/src/test/java/stepik/introductory/scanner/constractions/AverageOfThree.java
+new file mode 100644
+--- /dev/null	(date 1662978540530)
++++ b/src/test/java/stepik/introductory/scanner/constractions/AverageOfThree.java	(date 1662978540530)
+@@ -0,0 +1,25 @@
++package stepik.introductory.scanner.constractions;
++
++import java.util.Scanner;
++
++public class AverageOfThree {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
++        if (a >= b && a <= c || a <= b && a >= c) {
++            System.out.println(a);
++        } else if (b >= a && b <= c || b <= a && b >= c) {
++            System.out.println(b);
++        } else {
++            System.out.println(c);
++        }
++    }
++}
++
++/**
++ * Sample Input:
++ * 5 10 11
++ *
++ * Sample Output:
++ * 10
++ */
+\ No newline at end of file
+Index: src/test/java/stepik/introductory/scanner/constractions/WageStrike.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/stepik/introductory/scanner/constractions/WageStrike.java b/src/test/java/stepik/introductory/scanner/constractions/WageStrike.java
+new file mode 100644
+--- /dev/null	(date 1662979569123)
++++ b/src/test/java/stepik/introductory/scanner/constractions/WageStrike.java	(date 1662979569123)
+@@ -0,0 +1,28 @@
++package stepik.introductory.scanner.constractions;
++
++import java.util.Scanner;
++
++public class WageStrike {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
++        int x = sc.nextInt();
++        int max = Math.max(Math.max(a,b), c);
++        int min = Math.min(Math.min(a,b), c);
++        int res = max % min;
++        if (res > x) {
++            System.out.println("Ура, бастуем!");
++        } else {
++            System.out.println("За работу, Солнце ещё высоко");
++        }
++    }
++}
++
++/**
++ * Sample Input:
++ * 300 400 500
++ * 100
++ *
++ * Sample Output:
++ * Ура, бастуем!
++ */
+\ No newline at end of file
+Index: src/test/java/stepik/introductory/scanner/constractions/NumberWithDigit.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/stepik/introductory/scanner/constractions/NumberWithDigit.java b/src/test/java/stepik/introductory/scanner/constractions/NumberWithDigit.java
+new file mode 100644
+--- /dev/null	(date 1662991431161)
++++ b/src/test/java/stepik/introductory/scanner/constractions/NumberWithDigit.java	(date 1662991431161)
+@@ -0,0 +1,21 @@
++package stepik.introductory.scanner.constractions;
++
++import java.util.Scanner;
++
++public class NumberWithDigit {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        int x = Math.abs(sc.nextInt()), y = Math.abs(sc.nextInt());
++        int z = (x%100)/10;
++        if (x > 99 && x < 1000) {
++            if (z == y) {
++                System.out.println("true");
++            } else {
++                System.out.println("false");
++            }
++
++        } else {
++            System.out.println("error");
++        }
++    }
++}
+Index: src/test/java/stepik/introductory/scanner/constractions/RelationshipSign.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/stepik/introductory/scanner/constractions/RelationshipSign.java b/src/test/java/stepik/introductory/scanner/constractions/RelationshipSign.java
+new file mode 100644
+--- /dev/null	(date 1662992671194)
++++ b/src/test/java/stepik/introductory/scanner/constractions/RelationshipSign.java	(date 1662992671194)
+@@ -0,0 +1,25 @@
++package stepik.introductory.scanner.constractions;
++
++import java.util.Scanner;
++
++public class RelationshipSign {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        double a = sc.nextDouble(), b = sc.nextDouble();
++        System.out.println((a < b) ? "<" : (a > b) ? ">" : "=");
++    }
++}
++
++/**
++ * На вход подаётся два числа - a и b. Выведите знак отношения между числами:
++ * один символ "<", если a < b, ">", если a > b и "=", если a=b.
++ *
++ * Sample Input 1:
++ * 8 11
++ * Sample Output 1:
++ * <
++ * Sample Input 2:
++ * 10 5
++ * Sample Output 2:
++ * >
++ */
+\ No newline at end of file
+Index: src/test/java/stepik/introductory/scanner/constractions/SwitchScan.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/stepik/introductory/scanner/constractions/SwitchScan.java b/src/test/java/stepik/introductory/scanner/constractions/SwitchScan.java
+new file mode 100644
+--- /dev/null	(date 1662987844909)
++++ b/src/test/java/stepik/introductory/scanner/constractions/SwitchScan.java	(date 1662987844909)
+@@ -0,0 +1,24 @@
++package stepik.introductory.scanner.constractions;
++
++import java.util.Scanner;
++
++public class SwitchScan {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        String str = sc.nextLine();
++        switch (str) {
++            case "System.out.println()":
++                System.out.println("Это команда вывода на печать");
++                break;
++            case "if":
++                System.out.println("Это условный оператор");
++                break;
++            case "else":
++                System.out.println("Это альтернативная конструкция условного оператора");
++                break;
++            default:
++                System.out.println("Раздел в разработке");
++        }
++        sc.close();
++    }
++}
+Index: src/test/java/stepik/introductory/scanner/constractions/BooleanFalse.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/stepik/introductory/scanner/constractions/BooleanFalse.java b/src/test/java/stepik/introductory/scanner/constractions/BooleanFalse.java
+new file mode 100644
+--- /dev/null	(date 1662988453138)
++++ b/src/test/java/stepik/introductory/scanner/constractions/BooleanFalse.java	(date 1662988453138)
+@@ -0,0 +1,12 @@
++package stepik.introductory.scanner.constractions;
++
++import java.util.Scanner;
++
++public class BooleanFalse {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
++        boolean z = a == 12 || b != 5 && c <= 10;
++        System.out.println(z);
++    }
++}
