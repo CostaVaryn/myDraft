@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileHashNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileNumericalSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WhileSubZero">
+  <component name="RunManager" selected="Application.WhileHashNext">
     <configuration name="JustWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.JustWhile" />
       <module name="myDraft" />
@@ -56,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberWithDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.NumberWithDigit" />
+    <configuration name="WhileHashNext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileHashNext" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.constractions.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WageStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.constractions.WageStrike" />
+    <configuration name="WhileNumericalSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileNumericalSequence" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.constractions.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileHashNext" />
+        <item itemvalue="Application.WhileNumericalSequence" />
         <item itemvalue="Application.WhileSubZero" />
         <item itemvalue="Application.WhilePlusSqrt" />
         <item itemvalue="Application.JustWhile" />
-        <item itemvalue="Application.WageStrike" />
-        <item itemvalue="Application.NumberWithDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00052" summary="add ScanAverage.java">
-      <created>1662720404132</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1662720404133</updated>
     </task>
     <task id="LOCAL-00053" summary="add ScanDraft.java">
       <created>1662720417210</created>
@@ -470,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663168582748</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="update workspace.xml">
+      <created>1663241892490</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241892490</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,6 +525,11 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="6" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileHashNext.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
