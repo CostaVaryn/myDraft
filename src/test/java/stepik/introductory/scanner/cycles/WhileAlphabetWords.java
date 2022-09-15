@@ -1,8 +1,18 @@
 package stepik.introductory.scanner.cycles;
 
+import java.util.Scanner;
+
 public class WhileAlphabetWords {
     public static void main(String[] args) {
-
+        Scanner sc = new Scanner(System.in);
+        String let1 = sc.next(), let2 = sc.next();
+        int val1 = let1.charAt(0), val2 = let2.charAt(0);
+        while (sc.hasNext()) {
+            String str = sc.next();
+            if ((str.charAt(0) >=val1) && (str.charAt(0) <= val2)) {
+                System.out.println(str);
+            }
+        }
     }
 }
 
