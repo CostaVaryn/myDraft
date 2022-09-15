@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileRating.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WhileNumReverse.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileNumReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileNumReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WhileRating">
+  <component name="RunManager" selected="Application.WhileNumReverse">
     <configuration name="WhileHashNext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileHashNext" />
       <module name="myDraft" />
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileNumericalSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileNumericalSequence" />
+    <configuration name="WhileNumReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileNumReverse" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhilePlusSqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhilePlusSqrt" />
+    <configuration name="WhileNumericalSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileNumericalSequence" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileNumReverse" />
         <item itemvalue="Application.WhileRating" />
         <item itemvalue="Application.WhileHashNext" />
         <item itemvalue="Application.WhileNumericalSequence" />
         <item itemvalue="Application.WhileSubZero" />
-        <item itemvalue="Application.WhilePlusSqrt" />
       </list>
     </recent_temporary>
   </component>
@@ -127,27 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00057" summary="add ScanHomeClock.java">
-      <created>1662720459402</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1662720459402</updated>
-    </task>
-    <task id="LOCAL-00058" summary="add ScanLeapYears.java">
-      <created>1662720467797</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1662720467797</updated>
-    </task>
-    <task id="LOCAL-00059" summary="add ScannerSum.java">
-      <created>1662720482029</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1662720482029</updated>
     </task>
     <task id="LOCAL-00060" summary="add ScannerTextDate.java">
       <created>1662720495898</created>
@@ -471,7 +450,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663246791093</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="update workspace.xml">
+      <created>1663248404035</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1663248404035</updated>
+    </task>
+    <task id="LOCAL-00107" summary="add WhileRating.java">
+      <created>1663248437378</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1663248437378</updated>
+    </task>
+    <task id="LOCAL-00108" summary="add WhileNumReverse.java">
+      <created>1663248445086</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1663248445086</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,8 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add BooleanFalse.java" />
-    <MESSAGE value="add MaximumEven.java" />
     <MESSAGE value="add NumberWithDigit.java" />
     <MESSAGE value="add RelationshipSign.java" />
     <MESSAGE value="add SwitchScan.java" />
@@ -507,11 +505,13 @@
     <MESSAGE value="add JustWhile.java" />
     <MESSAGE value="add WhilePlusSqrt.java" />
     <MESSAGE value="add WhileSubZero.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add WhileHashNext.java" />
     <MESSAGE value="add WhileNumericalSequence.java" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add WhileRating.java" />
+    <MESSAGE value="add WhileNumReverse.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add WhileNumReverse.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
