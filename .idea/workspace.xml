@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WhileAlphabetWords.java">
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileAlphabetWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileAlphabetWords.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WhileNumReverse">
+  <component name="RunManager" selected="Application.WhileAlphabetWords">
+    <configuration name="WhileAlphabetWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileAlphabetWords" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhileHashNext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileHashNext" />
       <module name="myDraft" />
@@ -93,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileSubZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileSubZero" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileAlphabetWords" />
         <item itemvalue="Application.WhileNumReverse" />
         <item itemvalue="Application.WhileRating" />
         <item itemvalue="Application.WhileHashNext" />
         <item itemvalue="Application.WhileNumericalSequence" />
-        <item itemvalue="Application.WhileSubZero" />
       </list>
     </recent_temporary>
   </component>
@@ -124,20 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00062" summary="add ScanIf.java">
-      <created>1662726082231</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1662726082231</updated>
-    </task>
-    <task id="LOCAL-00063" summary="relocate file">
-      <created>1662736610981</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1662736610981</updated>
     </task>
     <task id="LOCAL-00064" summary="update file">
       <created>1662806377767</created>
@@ -468,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663248994652</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="update workspace.xml">
+      <created>1663249176948</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1663249176948</updated>
+    </task>
+    <task id="LOCAL-00112" summary="add WhileAlphabetWords.java">
+      <created>1663249186845</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1663249186845</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add RelationshipSign.java" />
     <MESSAGE value="add SwitchScan.java" />
     <MESSAGE value="add TwoSegments.java" />
     <MESSAGE value="add WageStrike.java" />
@@ -508,7 +509,8 @@
     <MESSAGE value="add WhileNumReverse.java" />
     <MESSAGE value="update WhileNumReverse.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add WhileAlphabetWords.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add WhileAlphabetWords.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
