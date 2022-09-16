@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update ForNumDivide.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="grouped file">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForEasyInserted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForNumRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +44,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ForNumDivide">
+  <component name="RunManager" selected="Application.ForEasyInserted">
     <configuration name="ForAlphabetWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForAlphabetWords" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEasyInserted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForEasyInserted" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -80,21 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileAlphabetWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justwhile.WhileAlphabetWords" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileNumReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justwhile.WhileNumReverse" />
+    <configuration name="ForNumRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumRepeat" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEasyInserted" />
+        <item itemvalue="Application.ForNumRepeat" />
         <item itemvalue="Application.ForNumDivide" />
         <item itemvalue="Application.ForEasyNum" />
         <item itemvalue="Application.ForAlphabetWords" />
-        <item itemvalue="Application.WhileAlphabetWords" />
-        <item itemvalue="Application.WhileNumReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -124,34 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00077" summary="add RelationshipSign.java">
-      <created>1663074201193</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1663074201193</updated>
-    </task>
-    <task id="LOCAL-00078" summary="add SwitchScan.java">
-      <created>1663074218874</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1663074218875</updated>
-    </task>
-    <task id="LOCAL-00079" summary="add TwoSegments.java">
-      <created>1663074238288</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1663074238288</updated>
-    </task>
-    <task id="LOCAL-00080" summary="add WageStrike.java">
-      <created>1663074259734</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1663074259734</updated>
     </task>
     <task id="LOCAL-00081" summary="add OrderWorld.java">
       <created>1663077589417</created>
@@ -468,7 +444,35 @@
       <option name="project" value="LOCAL" />
       <updated>1663335252551</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="update ForNumDivide.java">
+      <created>1663335340334</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335340334</updated>
+    </task>
+    <task id="LOCAL-00127" summary="update workspace.xml">
+      <created>1663335347995</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335347995</updated>
+    </task>
+    <task id="LOCAL-00128" summary="update workspace.xml">
+      <created>1663335477101</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335477101</updated>
+    </task>
+    <task id="LOCAL-00129" summary="grouped file">
+      <created>1663335493695</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335493696</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +487,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update BooleanFalse.java" />
     <MESSAGE value="update MaximumEven.java" />
     <MESSAGE value="update NumberWithDigit.java" />
     <MESSAGE value="update OrderWorld.java" />
@@ -505,10 +508,11 @@
     <MESSAGE value="update WhileAlphabetWords.java" />
     <MESSAGE value="add ForAlphabetWords.java" />
     <MESSAGE value="add ForEasyNum.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ForNumDivide.java" />
     <MESSAGE value="update ForNumDivide.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update ForNumDivide.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="grouped file" />
+    <option name="LAST_COMMIT_MESSAGE" value="grouped file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -522,9 +526,14 @@
           <option name="timeStamp" value="6" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/WhileRating.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileRating.java</url>
           <line>8</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForEasyInserted.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
