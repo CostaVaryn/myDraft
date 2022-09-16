@@ -12,6 +12,7 @@ public class ForSimpleRectangle {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
 

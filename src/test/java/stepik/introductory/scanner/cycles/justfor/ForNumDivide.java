@@ -16,6 +16,7 @@ public class ForNumDivide {
         if (b == 1) {
             System.out.println("Таких чисел нет");
         }
+        sc.close();
     }
 }
 

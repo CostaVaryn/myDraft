@@ -9,6 +9,7 @@ public class ForNumRepeat {
         for (int i = 0; i < b; i++) {
             System.out.print(a + " ");
         }
+        sc.close();
     }
 }
 
