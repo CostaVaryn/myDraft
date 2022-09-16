@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ForEasyNum.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/ForNumDivide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update ForNumDivide.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,27 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00074" summary="add BooleanFalse.java">
-      <created>1663074163097</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1663074163098</updated>
-    </task>
-    <task id="LOCAL-00075" summary="add MaximumEven.java">
-      <created>1663074177627</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1663074177628</updated>
-    </task>
-    <task id="LOCAL-00076" summary="add NumberWithDigit.java">
-      <created>1663074185596</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1663074185596</updated>
     </task>
     <task id="LOCAL-00077" summary="add RelationshipSign.java">
       <created>1663074201193</created>
@@ -471,7 +447,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663334135898</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="update workspace.xml">
+      <created>1663335072858</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335072858</updated>
+    </task>
+    <task id="LOCAL-00124" summary="add ForNumDivide.java">
+      <created>1663335082484</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335082484</updated>
+    </task>
+    <task id="LOCAL-00125" summary="update ForNumDivide.java">
+      <created>1663335252551</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335252551</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,8 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add OrderWorld.java" />
-    <MESSAGE value="update AverageOfThree.java" />
     <MESSAGE value="update BooleanFalse.java" />
     <MESSAGE value="update MaximumEven.java" />
     <MESSAGE value="update NumberWithDigit.java" />
@@ -509,9 +504,11 @@
     <MESSAGE value="add WhileAlphabetWords.java" />
     <MESSAGE value="update WhileAlphabetWords.java" />
     <MESSAGE value="add ForAlphabetWords.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ForEasyNum.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ForEasyNum.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add ForNumDivide.java" />
+    <MESSAGE value="update ForNumDivide.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ForNumDivide.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
