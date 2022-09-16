@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update file">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForNumSqrt.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ForNumSqrt.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,20 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00088" summary="update NumberWithDigit.java">
-      <created>1663160777002</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1663160777002</updated>
-    </task>
-    <task id="LOCAL-00089" summary="update OrderWorld.java">
-      <created>1663160785143</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1663160785143</updated>
     </task>
     <task id="LOCAL-00090" summary="update RelationshipSign.java">
       <created>1663160795775</created>
@@ -470,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663336594156</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="update workspace.xml">
+      <created>1663336765065</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1663336765065</updated>
+    </task>
+    <task id="LOCAL-00138" summary="add ForNumSqrt.java">
+      <created>1663338440902</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1663338440902</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update ScanAlphabetOrder.java" />
     <MESSAGE value="update ScanOneSymbol.java" />
     <MESSAGE value="update ScanTwoOutOfThree.java" />
     <MESSAGE value="update WageStrike.java" />
@@ -507,10 +506,11 @@
     <MESSAGE value="grouped file" />
     <MESSAGE value="add ForEasyInserted.java" />
     <MESSAGE value="add ForNumRepeat.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ForSimpleRectangle.java" />
     <MESSAGE value="update file" />
-    <option name="LAST_COMMIT_MESSAGE" value="update file" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add ForNumSqrt.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ForNumSqrt.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
