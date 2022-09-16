@@ -5,10 +5,17 @@ import java.util.Scanner;
 public class ForNumSqrt {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int a = Math.abs(sc.nextInt()), b = Math.abs(sc.nextInt());
-        for (int i = 0; i < b; i++) {
-            System.out.print(a + " ");
+        while (sc.hasNext()) {
+            if (sc.hasNextInt()) {
+                int n = sc.nextInt();
+                for (int i = 2; i < 6; i++) {
+                    int pow= (int) Math.pow(n,i);
+                    System.out.print(pow + (i<5 ? " " : ""));
+                }
+                System.out.print("\n");
+            }
         }
+        sc.close();
     }
 }
 
