@@ -128,13 +128,6 @@
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
     </task>
-    <task id="LOCAL-00091" summary="update ScanAlphabetOrder.java">
-      <created>1663160804805</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1663160804805</updated>
-    </task>
     <task id="LOCAL-00092" summary="update ScanOneSymbol.java">
       <created>1663160850119</created>
       <option name="number" value="00092" />
@@ -471,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663338720054</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="update workspace.xml">
+      <created>1663340239819</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1663340239819</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
