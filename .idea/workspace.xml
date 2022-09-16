@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ForAlphabetWords.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,34 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00066" summary="add ScanAlphabetOrder.java">
-      <created>1662806411100</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1662806411100</updated>
-    </task>
-    <task id="LOCAL-00067" summary="add ScanEvenAndOdd.java">
-      <created>1662806427046</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1662806427046</updated>
-    </task>
-    <task id="LOCAL-00068" summary="add ScanLeapTest.java">
-      <created>1662806445446</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1662806445446</updated>
-    </task>
-    <task id="LOCAL-00069" summary="add ScanOneSymbol.java">
-      <created>1662806459896</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1662806459896</updated>
     </task>
     <task id="LOCAL-00070" summary="add ScanTwoOutOfThree.java">
       <created>1662806486052</created>
@@ -468,7 +440,35 @@
       <option name="project" value="LOCAL" />
       <updated>1663249709548</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="update workspace.xml">
+      <created>1663249732142</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1663249732143</updated>
+    </task>
+    <task id="LOCAL-00116" summary="update workspace.xml">
+      <created>1663249992213</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1663249992213</updated>
+    </task>
+    <task id="LOCAL-00117" summary="update WhileAlphabetWords.java">
+      <created>1663250002054</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1663250002054</updated>
+    </task>
+    <task id="LOCAL-00118" summary="add ForAlphabetWords.java">
+      <created>1663250012066</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1663250012066</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add TwoSegments.java" />
     <MESSAGE value="add WageStrike.java" />
     <MESSAGE value="add OrderWorld.java" />
     <MESSAGE value="update AverageOfThree.java" />
@@ -506,9 +505,10 @@
     <MESSAGE value="add WhileNumReverse.java" />
     <MESSAGE value="update WhileNumReverse.java" />
     <MESSAGE value="add WhileAlphabetWords.java" />
-    <MESSAGE value="update WhileAlphabetWords.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="update WhileAlphabetWords.java" />
+    <MESSAGE value="add ForAlphabetWords.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ForAlphabetWords.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
