@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ForNumRepeat.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForSimpleRectangle.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update file">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForNumSqrt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,34 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00084" summary="update workspace.xml">
-      <created>1663160506922</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1663160506922</updated>
-    </task>
-    <task id="LOCAL-00085" summary="update AverageOfThree.java">
-      <created>1663160754001</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1663160754001</updated>
-    </task>
-    <task id="LOCAL-00086" summary="update BooleanFalse.java">
-      <created>1663160762041</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1663160762041</updated>
-    </task>
-    <task id="LOCAL-00087" summary="update MaximumEven.java">
-      <created>1663160770019</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1663160770019</updated>
     </task>
     <task id="LOCAL-00088" summary="update NumberWithDigit.java">
       <created>1663160777002</created>
@@ -470,7 +442,35 @@
       <option name="project" value="LOCAL" />
       <updated>1663336186988</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="update workspace.xml">
+      <created>1663336480507</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1663336480507</updated>
+    </task>
+    <task id="LOCAL-00134" summary="add ForSimpleRectangle.java">
+      <created>1663336489414</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1663336489414</updated>
+    </task>
+    <task id="LOCAL-00135" summary="add ForSimpleRectangle.java">
+      <created>1663336539938</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1663336539938</updated>
+    </task>
+    <task id="LOCAL-00136" summary="update file">
+      <created>1663336594156</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1663336594156</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,8 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update OrderWorld.java" />
-    <MESSAGE value="update RelationshipSign.java" />
     <MESSAGE value="update ScanAlphabetOrder.java" />
     <MESSAGE value="update ScanOneSymbol.java" />
     <MESSAGE value="update ScanTwoOutOfThree.java" />
@@ -507,10 +505,12 @@
     <MESSAGE value="add ForNumDivide.java" />
     <MESSAGE value="update ForNumDivide.java" />
     <MESSAGE value="grouped file" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ForEasyInserted.java" />
     <MESSAGE value="add ForNumRepeat.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ForNumRepeat.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add ForSimpleRectangle.java" />
+    <MESSAGE value="update file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
