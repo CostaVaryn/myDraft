@@ -1,4 +1,4 @@
-package stepik.introductory.scanner.cycles;
+package stepik.introductory.scanner.cycles.justfor;
 
 public class ForEasyNum {
     public static void main(String[] args) {

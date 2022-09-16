@@ -1,4 +1,4 @@
-package stepik.introductory.scanner.cycles;
+package stepik.introductory.scanner.cycles.justwhile;
 
 public class JustWhile {
     public static void main(String[] args) {

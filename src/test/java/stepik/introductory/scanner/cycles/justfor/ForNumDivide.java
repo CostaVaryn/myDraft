@@ -1,4 +1,4 @@
-package stepik.introductory.scanner.cycles;
+package stepik.introductory.scanner.cycles.justfor;
 
 import java.util.Scanner;
 

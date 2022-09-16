@@ -1,17 +1,14 @@
-package stepik.introductory.scanner.cycles;
+package stepik.introductory.scanner.cycles.justfor;
 
 import java.util.Scanner;
 
-public class WhileAlphabetWords {
+public class ForAlphabetWords {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String let1 = sc.next(), let2 = sc.next();
-        int val1 = let1.charAt(0), val2 = let2.charAt(0);
-        while (sc.hasNext()) {
-            String str = sc.next();
-            if ((str.charAt(0) >=val1) && (str.charAt(0) <= val2)) {
-                System.out.println(str);
-            }
+        String x = sc.nextLine(); String[] y = sc.nextLine().split(" ");
+        for(int i = 0; i < y.length; i++) {
+            if(y[i].charAt(0) >= x.charAt(0) && y[i].charAt(0) <= x.charAt(2))
+                System.out.println(y[i]);
         }
         sc.close();
     }

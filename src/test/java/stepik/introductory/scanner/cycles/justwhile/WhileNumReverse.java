@@ -1,4 +1,4 @@
-package stepik.introductory.scanner.cycles;
+package stepik.introductory.scanner.cycles.justwhile;
 
 import java.util.Scanner;
 
