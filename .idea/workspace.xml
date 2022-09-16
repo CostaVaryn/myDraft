@@ -42,11 +42,11 @@
 }</component>
   <component name="RunManager" selected="Application.ForNumDivide">
     <configuration name="ForAlphabetWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.ForAlphabetWords" />
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForAlphabetWords" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,11 +55,11 @@
       </method>
     </configuration>
     <configuration name="ForEasyNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.ForEasyNum" />
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForEasyNum" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,11 +68,11 @@
       </method>
     </configuration>
     <configuration name="ForNumDivide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.ForNumDivide" />
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumDivide" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="WhileAlphabetWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileAlphabetWords" />
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justwhile.WhileAlphabetWords" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="WhileNumReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.WhileNumReverse" />
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justwhile.WhileNumReverse" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
