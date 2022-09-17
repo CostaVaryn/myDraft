@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ForNumLadder.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForNumSubsequence.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForNumSubseqDouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForNumSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForNumSubsequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ForNumSubsequence">
-    <configuration name="ForEasyInserted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForEasyInserted" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ForNumSubseqDouble">
     <configuration name="ForNumLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumLadder" />
       <module name="myDraft" />
@@ -72,6 +60,19 @@
     </configuration>
     <configuration name="ForNumSqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumSqrt" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForNumSubseqDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumSubseqDouble" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForNumSubseqDouble" />
         <item itemvalue="Application.ForNumSubsequence" />
         <item itemvalue="Application.ForNumLadder" />
         <item itemvalue="Application.ForNumSqrt" />
         <item itemvalue="Application.ForSimpleRectangle" />
-        <item itemvalue="Application.ForEasyInserted" />
       </list>
     </recent_temporary>
   </component>
@@ -127,20 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00098" summary="add WhilePlusSqrt.java">
-      <created>1663164305744</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1663164305744</updated>
-    </task>
-    <task id="LOCAL-00099" summary="add WhileSubZero.java">
-      <created>1663168570291</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1663168570291</updated>
     </task>
     <task id="LOCAL-00100" summary="update workspace.xml">
       <created>1663168582748</created>
@@ -471,7 +458,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663410504169</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="add ForNumSubsequence.java">
+      <created>1663411697920</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1663411697920</updated>
+    </task>
+    <task id="LOCAL-00148" summary="update workspace.xml">
+      <created>1663411713813</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1663411713813</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +487,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update ScanTwoOutOfThree.java" />
     <MESSAGE value="update WageStrike.java" />
     <MESSAGE value="add JustWhile.java" />
     <MESSAGE value="add WhilePlusSqrt.java" />
@@ -509,9 +509,10 @@
     <MESSAGE value="add ForSimpleRectangle.java" />
     <MESSAGE value="update file" />
     <MESSAGE value="add ForNumSqrt.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ForNumLadder.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ForNumLadder.java" />
+    <MESSAGE value="add ForNumSubsequence.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
