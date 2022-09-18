@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update MathExponentiation.java">
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathExponentiation.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MathExponentiation">
-    <configuration name="ForNumLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumLadder" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MathConstants">
     <configuration name="ForNumLadderDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumLadderDouble" />
       <module name="myDraft" />
@@ -95,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MathConstants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.basicmath.MathConstants" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.basicmath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MathExponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.basicmath.MathExponentiation" />
       <module name="myDraft" />
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathConstants" />
         <item itemvalue="Application.MathExponentiation" />
         <item itemvalue="Application.ForNumLadderDouble" />
         <item itemvalue="Application.ForNumSubseqDouble" />
         <item itemvalue="Application.ForNumSubsequence" />
-        <item itemvalue="Application.ForNumLadder" />
       </list>
     </recent_temporary>
   </component>
@@ -126,20 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00109" summary="update WhileNumReverse.java">
-      <created>1663248986929</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1663248986929</updated>
-    </task>
-    <task id="LOCAL-00110" summary="update workspace.xml">
-      <created>1663248994652</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1663248994652</updated>
     </task>
     <task id="LOCAL-00111" summary="update workspace.xml">
       <created>1663249176948</created>
@@ -470,7 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663494966029</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="update MathExponentiation.java">
+      <created>1663495207710</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1663495207710</updated>
+    </task>
+    <task id="LOCAL-00159" summary="update workspace.xml">
+      <created>1663495516779</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1663495516779</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,10 +508,10 @@
     <MESSAGE value="add ForNumSubseqDouble.java" />
     <MESSAGE value="add ForNumLadderDouble.java" />
     <MESSAGE value="update" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add MathExponentiation.java" />
     <MESSAGE value="update MathExponentiation.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update MathExponentiation.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
