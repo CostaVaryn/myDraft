@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathExponentiation.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update MathExponentiation.java">
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathExponentiation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,20 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00107" summary="add WhileRating.java">
-      <created>1663248437378</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1663248437378</updated>
-    </task>
-    <task id="LOCAL-00108" summary="add WhileNumReverse.java">
-      <created>1663248445086</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1663248445086</updated>
     </task>
     <task id="LOCAL-00109" summary="update WhileNumReverse.java">
       <created>1663248986929</created>
@@ -470,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663494436154</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="update workspace.xml">
+      <created>1663494955707</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1663494955707</updated>
+    </task>
+    <task id="LOCAL-00157" summary="add MathExponentiation.java">
+      <created>1663494966029</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1663494966029</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,8 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add WhileHashNext.java" />
-    <MESSAGE value="add WhileNumericalSequence.java" />
     <MESSAGE value="add" />
     <MESSAGE value="add WhileRating.java" />
     <MESSAGE value="add WhileNumReverse.java" />
@@ -507,10 +505,12 @@
     <MESSAGE value="add ForNumSubsequence.java" />
     <MESSAGE value="update ForNumSubsequence.java" />
     <MESSAGE value="add ForNumSubseqDouble.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ForNumLadderDouble.java" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add MathExponentiation.java" />
+    <MESSAGE value="update MathExponentiation.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update MathExponentiation.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
