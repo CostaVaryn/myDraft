@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrLengthNumsAndLastIndex.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrNumsAndSum.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrNumsBigAndSmall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrNumsAndSum">
+  <component name="RunManager" selected="Application.ArrNumsBigAndSmall">
     <configuration name="ArrLengthNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrLengthNums" />
       <module name="myDraft" />
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForSimpleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForSimpleNum" />
+    <configuration name="ArrNumsBigAndSmall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrNumsBigAndSmall" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrNumsBigAndSmall" />
         <item itemvalue="Application.ArrNumsAndSum" />
         <item itemvalue="Application.ArrLengthNumsAndLastIndex" />
         <item itemvalue="Application.ArrLengthNums" />
         <item itemvalue="Application.ArrNumFive" />
-        <item itemvalue="Application.ForSimpleNum" />
       </list>
     </recent_temporary>
   </component>
@@ -127,20 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00132" summary="add ForNumRepeat.java">
-      <created>1663336186988</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1663336186988</updated>
-    </task>
-    <task id="LOCAL-00133" summary="update workspace.xml">
-      <created>1663336480507</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1663336480507</updated>
     </task>
     <task id="LOCAL-00134" summary="add ForSimpleRectangle.java">
       <created>1663336489414</created>
@@ -471,7 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663599807158</updated>
     </task>
-    <option name="localTasksCounter" value="181" />
+    <task id="LOCAL-00181" summary="add ArrNumsAndSum.java">
+      <created>1663600470638</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1663600470638</updated>
+    </task>
+    <task id="LOCAL-00182" summary="update workspace.xml">
+      <created>1663600681936</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1663600681936</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ForSimpleRectangle.java" />
     <MESSAGE value="update file" />
     <MESSAGE value="add ForNumSqrt.java" />
     <MESSAGE value="add ForNumLadder.java" />
@@ -508,10 +507,11 @@
     <MESSAGE value="add ForNumBetweenInt.java" />
     <MESSAGE value="add ForSimpleNum.java" />
     <MESSAGE value="add ArrNumFive.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ArrLengthNums.java" />
     <MESSAGE value="add ArrLengthNumsAndLastIndex.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArrLengthNumsAndLastIndex.java" />
+    <MESSAGE value="add ArrNumsAndSum.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
