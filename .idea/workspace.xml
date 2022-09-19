@@ -40,7 +40,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrNumsBigAndSmall">
+  <component name="RunManager" selected="Application.ArrFiveNums">
+    <configuration name="ArrFiveNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrFiveNums" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrLengthNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrLengthNums" />
       <module name="myDraft" />
@@ -56,19 +69,6 @@
     </configuration>
     <configuration name="ArrLengthNumsAndLastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrLengthNumsAndLastIndex" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrNumFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrNumFive" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrFiveNums" />
         <item itemvalue="Application.ArrNumsBigAndSmall" />
         <item itemvalue="Application.ArrNumsAndSum" />
         <item itemvalue="Application.ArrLengthNumsAndLastIndex" />
         <item itemvalue="Application.ArrLengthNums" />
-        <item itemvalue="Application.ArrNumFive" />
       </list>
     </recent_temporary>
   </component>
