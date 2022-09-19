@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrNumsBigAndSmall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrNumsBigAndSmall.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,20 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00134" summary="add ForSimpleRectangle.java">
-      <created>1663336489414</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1663336489414</updated>
-    </task>
-    <task id="LOCAL-00135" summary="add ForSimpleRectangle.java">
-      <created>1663336539938</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1663336539938</updated>
     </task>
     <task id="LOCAL-00136" summary="update file">
       <created>1663336594156</created>
@@ -471,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663600681936</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="update workspace.xml">
+      <created>1663601473908</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1663601473909</updated>
+    </task>
+    <task id="LOCAL-00184" summary="add ArrNumsBigAndSmall.java">
+      <created>1663601484441</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1663601484441</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update file" />
     <MESSAGE value="add ForNumSqrt.java" />
     <MESSAGE value="add ForNumLadder.java" />
     <MESSAGE value="add ForNumSubsequence.java" />
@@ -511,7 +507,8 @@
     <MESSAGE value="add ArrLengthNumsAndLastIndex.java" />
     <MESSAGE value="add ArrNumsAndSum.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add ArrNumsBigAndSmall.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ArrNumsBigAndSmall.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
