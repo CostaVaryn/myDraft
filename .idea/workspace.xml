@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathConstants.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ForNumOddDivide.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,48 +42,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MathConstants">
-    <configuration name="ForNumLadderDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumLadderDouble" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForNumSubseqDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumSubseqDouble" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForNumSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForNumSubsequence" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathConstants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.basicmath.MathConstants" />
+  <component name="RunManager" selected="Application.MaxNum">
+    <configuration name="MathPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.basicmath.MathPI" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +56,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathExponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.basicmath.MathExponentiation" />
+    <configuration name="MathPowPi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.basicmath.MathPowPi" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stepik.introductory.scanner.cycles.basicmath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.basicmath.MathRectangle" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.basicmath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathSinCos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.basicmath.MathSinCos" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.basicmath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.MaxNum" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MathConstants" />
-        <item itemvalue="Application.MathExponentiation" />
-        <item itemvalue="Application.ForNumLadderDouble" />
-        <item itemvalue="Application.ForNumSubseqDouble" />
-        <item itemvalue="Application.ForNumSubsequence" />
+        <item itemvalue="Application.MaxNum" />
+        <item itemvalue="Application.MathRectangle" />
+        <item itemvalue="Application.MathPowPi" />
+        <item itemvalue="Application.MathPI" />
+        <item itemvalue="Application.MathSinCos" />
       </list>
     </recent_temporary>
   </component>
@@ -127,69 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00111" summary="update workspace.xml">
-      <created>1663249176948</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1663249176948</updated>
-    </task>
-    <task id="LOCAL-00112" summary="add WhileAlphabetWords.java">
-      <created>1663249186845</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1663249186845</updated>
-    </task>
-    <task id="LOCAL-00113" summary="update WhileAlphabetWords.java">
-      <created>1663249699138</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1663249699138</updated>
-    </task>
-    <task id="LOCAL-00114" summary="update workspace.xml">
-      <created>1663249709548</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1663249709548</updated>
-    </task>
-    <task id="LOCAL-00115" summary="update workspace.xml">
-      <created>1663249732142</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1663249732143</updated>
-    </task>
-    <task id="LOCAL-00116" summary="update workspace.xml">
-      <created>1663249992213</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1663249992213</updated>
-    </task>
-    <task id="LOCAL-00117" summary="update WhileAlphabetWords.java">
-      <created>1663250002054</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1663250002054</updated>
-    </task>
-    <task id="LOCAL-00118" summary="add ForAlphabetWords.java">
-      <created>1663250012066</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1663250012066</updated>
-    </task>
-    <task id="LOCAL-00119" summary="update workspace.xml">
-      <created>1663332466677</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1663332466677</updated>
     </task>
     <task id="LOCAL-00120" summary="update workspace.xml">
       <created>1663332542088</created>
@@ -471,7 +407,70 @@
       <option name="project" value="LOCAL" />
       <updated>1663495516779</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="update workspace.xml">
+      <created>1663496245653</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1663496245653</updated>
+    </task>
+    <task id="LOCAL-00161" summary="add MathConstants.java">
+      <created>1663496255008</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1663496255008</updated>
+    </task>
+    <task id="LOCAL-00162" summary="add MathNumToRadians.java">
+      <created>1663496547555</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1663496547555</updated>
+    </task>
+    <task id="LOCAL-00163" summary="add MathSinCos.java">
+      <created>1663497310597</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1663497310597</updated>
+    </task>
+    <task id="LOCAL-00164" summary="add MathPI.java">
+      <created>1663500478251</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1663500478251</updated>
+    </task>
+    <task id="LOCAL-00165" summary="add MathPowPi.java">
+      <created>1663501470136</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1663501470136</updated>
+    </task>
+    <task id="LOCAL-00166" summary="add MathRectangle.java">
+      <created>1663502651517</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1663502651517</updated>
+    </task>
+    <task id="LOCAL-00167" summary="add MaxNum.java">
+      <created>1663503423451</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1663503423451</updated>
+    </task>
+    <task id="LOCAL-00168" summary="add ForNumOddDivide.java">
+      <created>1663504225214</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1663504225214</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,14 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add" />
-    <MESSAGE value="add WhileRating.java" />
-    <MESSAGE value="add WhileNumReverse.java" />
-    <MESSAGE value="update WhileNumReverse.java" />
-    <MESSAGE value="add WhileAlphabetWords.java" />
-    <MESSAGE value="update WhileAlphabetWords.java" />
-    <MESSAGE value="add ForAlphabetWords.java" />
-    <MESSAGE value="add ForEasyNum.java" />
     <MESSAGE value="add ForNumDivide.java" />
     <MESSAGE value="update ForNumDivide.java" />
     <MESSAGE value="grouped file" />
@@ -511,7 +502,15 @@
     <MESSAGE value="add MathExponentiation.java" />
     <MESSAGE value="update MathExponentiation.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add MathConstants.java" />
+    <MESSAGE value="add MathNumToRadians.java" />
+    <MESSAGE value="add MathSinCos.java" />
+    <MESSAGE value="add MathPI.java" />
+    <MESSAGE value="add MathPowPi.java" />
+    <MESSAGE value="add MathRectangle.java" />
+    <MESSAGE value="add MaxNum.java" />
+    <MESSAGE value="add ForNumOddDivide.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ForNumOddDivide.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
