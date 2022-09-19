@@ -128,13 +128,6 @@
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
     </task>
-    <task id="LOCAL-00124" summary="add ForNumDivide.java">
-      <created>1663335082484</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1663335082484</updated>
-    </task>
     <task id="LOCAL-00125" summary="update ForNumDivide.java">
       <created>1663335252551</created>
       <option name="number" value="00125" />
@@ -471,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663594808053</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="update workspace.xml">
+      <created>1663596367447</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1663596367447</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
