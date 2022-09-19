@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrNumFive.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,13 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00127" summary="update workspace.xml">
-      <created>1663335347995</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1663335347995</updated>
     </task>
     <task id="LOCAL-00128" summary="update workspace.xml">
       <created>1663335477101</created>
@@ -468,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663596396592</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="update workspace.xml">
+      <created>1663596880720</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1663596880720</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,9 +506,9 @@
     <MESSAGE value="add ForNumOddDivide.java" />
     <MESSAGE value="add ForNumBetweenInt.java" />
     <MESSAGE value="add ForSimpleNum.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ArrNumFive.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArrNumFive.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
