@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ForNumBetweenInt.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForNumBetweenInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForSimpleNum.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrNumFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +43,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ForSimpleNum">
-    <configuration name="ForSimpleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForSimpleNum" />
+  <component name="RunManager" selected="Application.ArrNumFive">
+    <configuration name="ArrNumFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrNumFive" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.basicmath.MathPI" />
+    <configuration name="ForSimpleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.cycles.justfor.ForSimpleNum" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.cycles.basicmath.*" />
+          <option name="PATTERN" value="stepik.introductory.scanner.cycles.justfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrNumFive" />
         <item itemvalue="Application.ForSimpleNum" />
         <item itemvalue="Application.MaxNum" />
         <item itemvalue="Application.MathRectangle" />
         <item itemvalue="Application.MathPowPi" />
-        <item itemvalue="Application.MathPI" />
       </list>
     </recent_temporary>
   </component>
@@ -128,27 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00121" summary="update workspace.xml">
-      <created>1663334127159</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1663334127160</updated>
-    </task>
-    <task id="LOCAL-00122" summary="add ForEasyNum.java">
-      <created>1663334135898</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1663334135898</updated>
-    </task>
-    <task id="LOCAL-00123" summary="update workspace.xml">
-      <created>1663335072858</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1663335072858</updated>
     </task>
     <task id="LOCAL-00124" summary="add ForNumDivide.java">
       <created>1663335082484</created>
@@ -472,7 +450,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663591703821</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="add ForNumBetweenInt.java">
+      <created>1663594788509</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1663594788509</updated>
+    </task>
+    <task id="LOCAL-00171" summary="add ForSimpleNum.java">
+      <created>1663594796080</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1663594796080</updated>
+    </task>
+    <task id="LOCAL-00172" summary="update workspace.xml">
+      <created>1663594808053</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1663594808053</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -487,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update ForNumDivide.java" />
     <MESSAGE value="grouped file" />
     <MESSAGE value="add ForEasyInserted.java" />
     <MESSAGE value="add ForNumRepeat.java" />
@@ -510,9 +508,10 @@
     <MESSAGE value="add MathRectangle.java" />
     <MESSAGE value="add MaxNum.java" />
     <MESSAGE value="add ForNumOddDivide.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ForNumBetweenInt.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ForNumBetweenInt.java" />
+    <MESSAGE value="add ForSimpleNum.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
