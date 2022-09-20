@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrNumMethods.java">
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrNumMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrNumMethods.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update ArrNumMethods.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrNumsPrintFull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +43,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrNumMethods">
+  <component name="RunManager" selected="Application.ArrNumsPrintFull">
     <configuration name="ArrFiveNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrFiveNums" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrLengthNumsAndLastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrLengthNumsAndLastIndex" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -108,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrNumsPrintFull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrNumsPrintFull" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrNumsPrintFull" />
         <item itemvalue="Application.ArrNumMethods" />
         <item itemvalue="Application.ArrFiveNums" />
         <item itemvalue="Application.ArrNumsBigAndSmall" />
         <item itemvalue="Application.ArrNumsAndSum" />
-        <item itemvalue="Application.ArrLengthNumsAndLastIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -126,27 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00142" summary="add ForNumSqrt.java">
-      <created>1663340264545</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1663340264545</updated>
-    </task>
-    <task id="LOCAL-00143" summary="update workspace.xml">
-      <created>1663409717760</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1663409717761</updated>
-    </task>
-    <task id="LOCAL-00144" summary="update workspace.xml">
-      <created>1663410018022</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1663410018022</updated>
     </task>
     <task id="LOCAL-00145" summary="update workspace.xml">
       <created>1663410466503</created>
@@ -470,7 +450,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663679858809</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="update ArrNumMethods.java">
+      <created>1663680251574</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1663680251574</updated>
+    </task>
+    <task id="LOCAL-00192" summary="update workspace.xml">
+      <created>1663680268222</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1663680268222</updated>
+    </task>
+    <task id="LOCAL-00193" summary="update ArrNumMethods.java">
+      <created>1663680440034</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1663680440034</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ForNumSubsequence.java" />
     <MESSAGE value="update ForNumSubsequence.java" />
     <MESSAGE value="add ForNumSubseqDouble.java" />
     <MESSAGE value="add ForNumLadderDouble.java" />
@@ -508,9 +508,10 @@
     <MESSAGE value="add ArrNumsAndSum.java" />
     <MESSAGE value="add ArrNumsBigAndSmall.java" />
     <MESSAGE value="add ArrFiveNums.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ArrNumMethods.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArrNumMethods.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update ArrNumMethods.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ArrNumMethods.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
