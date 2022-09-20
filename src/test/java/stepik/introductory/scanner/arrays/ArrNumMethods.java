@@ -14,11 +14,7 @@ public class ArrNumMethods {
         Arrays.sort(arr);
         int k = sc.nextInt();
         sc.close();
-        if (k <= n) {
-            System.out.println(arr[k-1]);
-        } else {
-            System.out.println("Ошибка ввода");
-        }
+        System.out.print(k<1 && k>n ? "Ошибка ввода" : arr[k-1]);
     }
 }
 
