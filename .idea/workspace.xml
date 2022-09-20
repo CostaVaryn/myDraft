@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrNumsPrintFull.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrOneThreeTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,13 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00147" summary="add ForNumSubsequence.java">
-      <created>1663411697920</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1663411697920</updated>
     </task>
     <task id="LOCAL-00148" summary="update workspace.xml">
       <created>1663411713813</created>
@@ -468,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663681293700</updated>
     </task>
-    <option name="localTasksCounter" value="196" />
+    <task id="LOCAL-00196" summary="update &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;">
+      <created>1663682789613</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1663682789613</updated>
+    </task>
+    <option name="localTasksCounter" value="197" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ForNumSubseqDouble.java" />
     <MESSAGE value="add ForNumLadderDouble.java" />
     <MESSAGE value="update" />
     <MESSAGE value="add MathExponentiation.java" />
@@ -508,7 +510,8 @@
     <MESSAGE value="update ArrNumMethods.java" />
     <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ArrNumsPrintFull.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArrNumsPrintFull.java" />
+    <MESSAGE value="update &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="update &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
