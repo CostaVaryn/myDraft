@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update ArrMinSumNums.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,20 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00157" summary="add MathExponentiation.java">
-      <created>1663494966029</created>
-      <option name="number" value="00157" />
-      <option name="presentableId" value="LOCAL-00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1663494966029</updated>
-    </task>
-    <task id="LOCAL-00158" summary="update MathExponentiation.java">
-      <created>1663495207710</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1663495207710</updated>
     </task>
     <task id="LOCAL-00159" summary="update workspace.xml">
       <created>1663495516779</created>
@@ -468,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663764370294</updated>
     </task>
-    <option name="localTasksCounter" value="206" />
+    <task id="LOCAL-00206" summary="update workspace.xml">
+      <created>1663764908990</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1663764908990</updated>
+    </task>
+    <task id="LOCAL-00207" summary="update ArrMinSumNums.java">
+      <created>1663765029948</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1663765029948</updated>
+    </task>
+    <option name="localTasksCounter" value="208" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add MathConstants.java" />
     <MESSAGE value="add MathNumToRadians.java" />
     <MESSAGE value="add MathSinCos.java" />
     <MESSAGE value="add MathPI.java" />
@@ -508,7 +509,8 @@
     <MESSAGE value="add ArrHaveSmallWords.java" />
     <MESSAGE value="add ArrMinSumNums.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="update ArrMinSumNums.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ArrMinSumNums.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
