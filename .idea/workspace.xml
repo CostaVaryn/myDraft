@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassMultiplyTable.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrMassMultiplyTable.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassAnyString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +43,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrMassMultiplyTable">
+  <component name="RunManager" selected="Application.ArrMassAnyString">
     <configuration name="ArrHaveSmallWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrHaveSmallWords" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrMassAnyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrMassAnyString" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -83,19 +96,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrNumMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrNumMethods" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ArrNumsPrintFull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrNumsPrintFull" />
       <module name="myDraft" />
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrMassAnyString" />
         <item itemvalue="Application.ArrMassMultiplyTable" />
         <item itemvalue="Application.ArrMinSumNums" />
         <item itemvalue="Application.ArrHaveSmallWords" />
         <item itemvalue="Application.ArrNumsPrintFull" />
-        <item itemvalue="Application.ArrNumMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -127,20 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00161" summary="add MathConstants.java">
-      <created>1663496255008</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1663496255008</updated>
-    </task>
-    <task id="LOCAL-00162" summary="add MathNumToRadians.java">
-      <created>1663496547555</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1663496547555</updated>
     </task>
     <task id="LOCAL-00163" summary="add MathSinCos.java">
       <created>1663497310597</created>
@@ -471,7 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663766239607</updated>
     </task>
-    <option name="localTasksCounter" value="210" />
+    <task id="LOCAL-00210" summary="update workspace.xml">
+      <created>1663767572825</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1663767572826</updated>
+    </task>
+    <task id="LOCAL-00211" summary="add ArrMassMultiplyTable.java">
+      <created>1663767583571</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1663767583571</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add MathNumToRadians.java" />
     <MESSAGE value="add MathSinCos.java" />
     <MESSAGE value="add MathPI.java" />
     <MESSAGE value="add MathPowPi.java" />
@@ -511,7 +510,8 @@
     <MESSAGE value="add ArrMinSumNums.java" />
     <MESSAGE value="update ArrMinSumNums.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add ArrMassMultiplyTable.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ArrMassMultiplyTable.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
