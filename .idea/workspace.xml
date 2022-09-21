@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrMassMultiplyTable.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassAnyString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -127,13 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00163" summary="add MathSinCos.java">
-      <created>1663497310597</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1663497310597</updated>
     </task>
     <task id="LOCAL-00164" summary="add MathPI.java">
       <created>1663500478251</created>
@@ -471,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663767583571</updated>
     </task>
-    <option name="localTasksCounter" value="212" />
+    <task id="LOCAL-00212" summary="update workspace.xml">
+      <created>1663771176370</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1663771176370</updated>
+    </task>
+    <option name="localTasksCounter" value="213" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,9 +509,9 @@
     <MESSAGE value="add ArrHaveSmallWords.java" />
     <MESSAGE value="add ArrMinSumNums.java" />
     <MESSAGE value="update ArrMinSumNums.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ArrMassMultiplyTable.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArrMassMultiplyTable.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
