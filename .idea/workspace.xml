@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrHaveSmallWords.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrHaveSmallWords.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMinSumNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,20 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00153" summary="update workspace.xml">
-      <created>1663417209206</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1663417209206</updated>
-    </task>
-    <task id="LOCAL-00154" summary="add ForNumLadderDouble.java">
-      <created>1663417228585</created>
-      <option name="number" value="00154" />
-      <option name="presentableId" value="LOCAL-00154" />
-      <option name="project" value="LOCAL" />
-      <updated>1663417228585</updated>
     </task>
     <task id="LOCAL-00155" summary="update">
       <created>1663494436153</created>
@@ -472,7 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663760240233</updated>
     </task>
-    <option name="localTasksCounter" value="202" />
+    <task id="LOCAL-00202" summary="update workspace.xml">
+      <created>1663764204944</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1663764204944</updated>
+    </task>
+    <task id="LOCAL-00203" summary="add ArrHaveSmallWords.java">
+      <created>1663764338028</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1663764338028</updated>
+    </task>
+    <option name="localTasksCounter" value="204" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -487,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add MathExponentiation.java" />
     <MESSAGE value="update MathExponentiation.java" />
     <MESSAGE value="add MathConstants.java" />
     <MESSAGE value="add MathNumToRadians.java" />
@@ -510,9 +508,10 @@
     <MESSAGE value="add ArrNumsPrintFull.java" />
     <MESSAGE value="update &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;" />
     <MESSAGE value="add ArrOneThreeTwo.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add ArrHaveSmallWords.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ArrHaveSmallWords.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -534,11 +533,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForEasyInserted.java</url>
           <line>8</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMinSumNums.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
