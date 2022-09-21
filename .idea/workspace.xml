@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrOneThreeTwo.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,13 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00150" summary="update ForNumSubsequence.java">
-      <created>1663412298554</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1663412298554</updated>
     </task>
     <task id="LOCAL-00151" summary="add ForNumSubseqDouble.java">
       <created>1663412325769</created>
@@ -468,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663683161578</updated>
     </task>
-    <option name="localTasksCounter" value="199" />
+    <task id="LOCAL-00199" summary="update workspace.xml">
+      <created>1663685495169</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1663685495169</updated>
+    </task>
+    <option name="localTasksCounter" value="200" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,9 +506,9 @@
     <MESSAGE value="update ArrNumMethods.java" />
     <MESSAGE value="add ArrNumsPrintFull.java" />
     <MESSAGE value="update &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ArrOneThreeTwo.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArrOneThreeTwo.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
