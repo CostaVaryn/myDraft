@@ -128,13 +128,6 @@
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
     </task>
-    <task id="LOCAL-00164" summary="add MathPI.java">
-      <created>1663500478251</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1663500478251</updated>
-    </task>
     <task id="LOCAL-00165" summary="add MathPowPi.java">
       <created>1663501470136</created>
       <option name="number" value="00165" />
@@ -471,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663771176370</updated>
     </task>
-    <option name="localTasksCounter" value="213" />
+    <task id="LOCAL-00213" summary="update workspace.xml">
+      <created>1663772597435</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1663772597435</updated>
+    </task>
+    <option name="localTasksCounter" value="214" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -538,6 +538,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMinSumNums.java</url>
           <line>10</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassAnyString.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
