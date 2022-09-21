@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassAnyString.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrMassAnyString.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassAnyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassAnyString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,20 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00173" summary="update workspace.xml">
-      <created>1663596367447</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1663596367447</updated>
-    </task>
-    <task id="LOCAL-00174" summary="update workspace.xml">
-      <created>1663596384836</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1663596384836</updated>
     </task>
     <task id="LOCAL-00175" summary="add ArrNumFive.java">
       <created>1663596396592</created>
@@ -471,7 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663779879385</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="update workspace.xml">
+      <created>1663780574579</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1663780574579</updated>
+    </task>
+    <task id="LOCAL-00223" summary="add ArrMassAnyString.java">
+      <created>1663780584455</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1663780584455</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add MathSinCos.java" />
     <MESSAGE value="add MathPI.java" />
     <MESSAGE value="add MathPowPi.java" />
     <MESSAGE value="add MathRectangle.java" />
@@ -511,7 +510,8 @@
     <MESSAGE value="update ArrMinSumNums.java" />
     <MESSAGE value="add ArrMassMultiplyTable.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add ArrMassAnyString.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ArrMassAnyString.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -538,11 +538,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMinSumNums.java</url>
           <line>10</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassAnyString.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
