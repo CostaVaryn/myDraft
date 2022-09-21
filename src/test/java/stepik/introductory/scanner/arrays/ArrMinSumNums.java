@@ -17,7 +17,7 @@ public class ArrMinSumNums {
         if (nums.length <= 2) {
             System.out.println(0);
         }
-        Arrays.sort(arr);
+
         System.out.println(arr[0] + arr[2]);
     }
 }
