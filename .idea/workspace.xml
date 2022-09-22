@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update ArrUpendMatrix.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrOneNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -127,13 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00189" summary="update workspace.xml">
-      <created>1663679848146</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1663679848146</updated>
     </task>
     <task id="LOCAL-00190" summary="add ArrNumMethods.java">
       <created>1663679858809</created>
@@ -471,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663852085382</updated>
     </task>
-    <option name="localTasksCounter" value="238" />
+    <task id="LOCAL-00238" summary="update workspace.xml">
+      <created>1663853924719</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1663853924719</updated>
+    </task>
+    <option name="localTasksCounter" value="239" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,11 +507,11 @@
     <MESSAGE value="update" />
     <MESSAGE value="add ArrMassAnyString.java" />
     <MESSAGE value="add ArrEasyMatrix.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ArrUpendMatrix.java" />
     <MESSAGE value="add ArrNumsMatrixDiagonal.java" />
     <MESSAGE value="update ArrUpendMatrix.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update ArrUpendMatrix.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -546,8 +546,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrOneNum.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="20" />
+          <line>8</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
