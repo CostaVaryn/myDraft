@@ -1,5 +1,6 @@
 package stepik.introductory.scanner.arrays;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class ArrOneNum {
@@ -7,10 +8,12 @@ public class ArrOneNum {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();sc.nextLine();
         String line = sc.nextLine();
-        String[] num = line.split(" ");
-        System.out.println(num[n-1]);
-        if (num[n-1] == null) {
+        int b = line.length();
+        if ( n < 0 || n >= b) {
             System.out.println("Неверный ввод");
+        } else {
+            String[] num = line.split(" ");
+            System.out.println(num[n]);
         }
     }
 }
