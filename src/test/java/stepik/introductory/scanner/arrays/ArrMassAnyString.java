@@ -16,15 +16,14 @@ public class ArrMassAnyString {
         String[][] str = new String[size][];
 
 
-
-        for (int i = 0; i < str.length; ++i) {
-            for(int j = 0; j < str.length; ++j) {
+        do {
+            for (int i = 0; i < size; ++i) {
                 str[i] = sc.nextLine().split(" ");
-                System.out.print(Arrays.toString(str[i]));
+                System.out.print(Arrays.toString(str[i]) + "\n");
             }
-            ;
-        }
-        System.out.println(Arrays.toString(str[size]));
+        } while(sc.hasNext());
+        sc.close();
+        //System.out.println(Arrays.toString(str[size]));
 
 /**
         for (int i = 0; i <= size; i++) {
