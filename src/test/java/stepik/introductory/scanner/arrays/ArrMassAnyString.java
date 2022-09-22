@@ -4,22 +4,27 @@ import com.sun.glass.ui.Size;
 
 import java.util.Arrays;
 import java.util.Scanner;
+import java.util.stream.IntStream;
 
 public class ArrMassAnyString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String string = sc.nextLine();
-        int size = Integer.parseInt(string);
-        String[][] str = new String[4][];
-        System.out.println();
+        int size = sc.nextInt();
+       // int size = 5;
+        sc.nextLine();
 
-        for (int i = 0; i <= size; i++) {
-            str[i] = sc.nextLine().split(" ");
+        String[][] str = new String[size][];
+
+
+
+        for (int i = 0; i < str.length; ++i) {
+            for(int j = 0; j < str.length; ++j) {
+                str[i] = sc.nextLine().split(" ");
                 System.out.print(Arrays.toString(str[i]));
-
-            System.out.println();
+            }
+            ;
         }
-
+        System.out.println(Arrays.toString(str[size]));
 
 /**
         for (int i = 0; i <= size; i++) {
