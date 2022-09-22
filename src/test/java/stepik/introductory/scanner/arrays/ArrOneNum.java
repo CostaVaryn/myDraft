@@ -8,7 +8,10 @@ public class ArrOneNum {
         int n = sc.nextInt();sc.nextLine();
         String line = sc.nextLine();
         String[] num = line.split(" ");
-        System.out.println(num[n]);
+        System.out.println(num[n-1]);
+        if (num[n-1] == null) {
+            System.out.println("Неверный ввод");
+        }
     }
 }
 
