@@ -16,9 +16,10 @@ public class ArrMinSumNums {
         }
         if (nums.length <= 2) {
             System.out.println(0);
+        } else {
+            System.out.println(arr[0] + arr[2]);
         }
 
-        System.out.println(arr[0] + arr[2]);
     }
 }
 
