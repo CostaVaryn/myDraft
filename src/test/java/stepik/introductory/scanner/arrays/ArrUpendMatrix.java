@@ -37,6 +37,31 @@ public class ArrUpendMatrix {
             }
             System.out.println();
         }
+
+        /**
+         *         String[] arr = str.split(" ");
+         *         int b = arr.length/counter;
+         *         String[][] matrix = new String[b][counter];
+         *         for (int i = 0 ; i < counter; i++) {
+         *             for (int j = 0 ; j < (arr.length/counter); j++) {
+         *                 matrix[j][counter-1-i] = arr[k];
+         *                 k++;
+         *             }
+         *         }
+         *         for (String[]i: matrix) {
+         *             int z = 1;
+         *             for(String j:i) {
+         *                 System.out.print(j);
+         *                 if(counter>z) {
+         *                     System.out.print(" ");
+         *                     z++;
+         *                 }
+         *             }
+         *             System.out.println();
+         *         }
+         */
+
+
     }
 }
 
