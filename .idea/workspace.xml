@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update ArrMinSumNums.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="MatrixClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.basicjava.MatrixClass" />
+      <option name="MAIN_CLASS_NAME" value="stepik.basicjava.block3.MatrixClass" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.basicjava.*" />
+          <option name="PATTERN" value="stepik.basicjava.block3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00218" summary="update workspace.xml">
-      <created>1663777754203</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1663777754203</updated>
     </task>
     <task id="LOCAL-00219" summary="update workspace.xml">
       <created>1663778776961</created>
@@ -468,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663926459662</updated>
     </task>
-    <option name="localTasksCounter" value="267" />
+    <task id="LOCAL-00267" summary="update workspace.xml">
+      <created>1663928575437</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1663928575438</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,11 +504,11 @@
     <MESSAGE value="add ArrUpendMatrixReverse.java" />
     <MESSAGE value="update ArrUpendMatrix.java" />
     <MESSAGE value="update ArrUpendMatrixReverse.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add MatrixClass.java" />
     <MESSAGE value="add ArrSapper.java" />
     <MESSAGE value="update ArrMinSumNums.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update ArrMinSumNums.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
