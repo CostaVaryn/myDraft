@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add PalindromeClass.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +101,7 @@
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.basicjava.block3.*" />
+          <option name="PATTERN" value="stepik.basicjava.block3.Robot" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,27 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00219" summary="update workspace.xml">
-      <created>1663778776961</created>
-      <option name="number" value="00219" />
-      <option name="presentableId" value="LOCAL-00219" />
-      <option name="project" value="LOCAL" />
-      <updated>1663778776961</updated>
-    </task>
-    <task id="LOCAL-00220" summary="update workspace.xml">
-      <created>1663779276258</created>
-      <option name="number" value="00220" />
-      <option name="presentableId" value="LOCAL-00220" />
-      <option name="project" value="LOCAL" />
-      <updated>1663779276258</updated>
-    </task>
-    <task id="LOCAL-00221" summary="update workspace.xml">
-      <created>1663779879385</created>
-      <option name="number" value="00221" />
-      <option name="presentableId" value="LOCAL-00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1663779879385</updated>
     </task>
     <task id="LOCAL-00222" summary="update workspace.xml">
       <created>1663780574579</created>
@@ -468,7 +450,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663928575438</updated>
     </task>
-    <option name="localTasksCounter" value="268" />
+    <task id="LOCAL-00268" summary="update workspace.xml">
+      <created>1663928849475</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1663928849475</updated>
+    </task>
+    <task id="LOCAL-00269" summary="moved">
+      <created>1663928863790</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1663928863790</updated>
+    </task>
+    <task id="LOCAL-00270" summary="add PalindromeClass.java">
+      <created>1663928871572</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1663928871572</updated>
+    </task>
+    <option name="localTasksCounter" value="271" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,8 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ArrNumMethods.java" />
-    <MESSAGE value="update ArrNumMethods.java" />
     <MESSAGE value="add ArrNumsPrintFull.java" />
     <MESSAGE value="update &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;" />
     <MESSAGE value="add ArrOneThreeTwo.java" />
@@ -508,7 +509,9 @@
     <MESSAGE value="add ArrSapper.java" />
     <MESSAGE value="update ArrMinSumNums.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="moved" />
+    <MESSAGE value="add PalindromeClass.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PalindromeClass.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
