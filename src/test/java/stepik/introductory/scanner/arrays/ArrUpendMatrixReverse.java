@@ -5,21 +5,21 @@ import java.util.Scanner;
 public class ArrUpendMatrixReverse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int counter = 3;
+        int counter = 0;
         int k = 0;
-        String str = "1 2 3 4 5 6 7 8 9";
-        /**while(sc.hasNextLine()) {
+        String str = "";
+        while(sc.hasNextLine()) {
             String str1 = sc.nextLine();
             str = str + str1 + " ";
             counter++;
-        }*/
+        }
 
         String[] arr = str.split(" ");
         int b = arr.length/counter;
         String[][] matrix = new String[b][counter];
         for (int i = 0 ; i < counter; i++) {
             for (int j = 0 ; j < (arr.length/counter); j++) {
-                matrix[j][counter-1-i] = arr[k];
+                matrix[j][counter-1-i] = arr[arr.length-1-k];
                 k++;
             }
         }
