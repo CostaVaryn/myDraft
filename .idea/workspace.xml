@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArrUpendMatrixReverse.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update ArrUpendMatrixReverse.java">
       <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrUpendMatrixReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrUpendMatrixReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,27 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00207" summary="update ArrMinSumNums.java">
-      <created>1663765029948</created>
-      <option name="number" value="00207" />
-      <option name="presentableId" value="LOCAL-00207" />
-      <option name="project" value="LOCAL" />
-      <updated>1663765029948</updated>
-    </task>
-    <task id="LOCAL-00208" summary="update workspace.xml">
-      <created>1663765733638</created>
-      <option name="number" value="00208" />
-      <option name="presentableId" value="LOCAL-00208" />
-      <option name="project" value="LOCAL" />
-      <updated>1663765733638</updated>
-    </task>
-    <task id="LOCAL-00209" summary="update workspace.xml">
-      <created>1663766239607</created>
-      <option name="number" value="00209" />
-      <option name="presentableId" value="LOCAL-00209" />
-      <option name="project" value="LOCAL" />
-      <updated>1663766239607</updated>
     </task>
     <task id="LOCAL-00210" summary="update workspace.xml">
       <created>1663767572825</created>
@@ -471,7 +449,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663917653153</updated>
     </task>
-    <option name="localTasksCounter" value="256" />
+    <task id="LOCAL-00256" summary="update workspace.xml">
+      <created>1663918646118</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1663918646118</updated>
+    </task>
+    <task id="LOCAL-00257" summary="update ArrUpendMatrix.java">
+      <created>1663918656957</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1663918656957</updated>
+    </task>
+    <task id="LOCAL-00258" summary="update ArrUpendMatrixReverse.java">
+      <created>1663918666304</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1663918666304</updated>
+    </task>
+    <option name="localTasksCounter" value="259" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ArrNumsAndSum.java" />
     <MESSAGE value="add ArrNumsBigAndSmall.java" />
     <MESSAGE value="add ArrFiveNums.java" />
     <MESSAGE value="add ArrNumMethods.java" />
@@ -508,10 +506,11 @@
     <MESSAGE value="update ArrMassAnyString.java" />
     <MESSAGE value="update" />
     <MESSAGE value="add ArrOccurringNumberSequence.java" />
+    <MESSAGE value="add ArrUpendMatrixReverse.java" />
     <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update ArrUpendMatrix.java" />
-    <MESSAGE value="add ArrUpendMatrixReverse.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArrUpendMatrixReverse.java" />
+    <MESSAGE value="update ArrUpendMatrixReverse.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ArrUpendMatrixReverse.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
