@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update ArrMassAnyString.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrOccurringNumberSequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassAnyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrMassAnyString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrOneNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrOneNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrOneNum">
-    <configuration name="ArrListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrListTest" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ArrOccurringNumberSequence">
     <configuration name="ArrMassAnyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrMassAnyString" />
       <module name="myDraft" />
@@ -73,6 +59,19 @@
     </configuration>
     <configuration name="ArrNumsMatrixDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrNumsMatrixDiagonal" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrOccurringNumberSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrOccurringNumberSequence" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrOccurringNumberSequence" />
         <item itemvalue="Application.ArrOneNum" />
         <item itemvalue="Application.ArrUpendMatrix" />
         <item itemvalue="Application.ArrNumsMatrixDiagonal" />
         <item itemvalue="Application.ArrMassAnyString" />
-        <item itemvalue="Application.ArrListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -128,27 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00198" summary="add ArrOneThreeTwo.java">
-      <created>1663683161578</created>
-      <option name="number" value="00198" />
-      <option name="presentableId" value="LOCAL-00198" />
-      <option name="project" value="LOCAL" />
-      <updated>1663683161578</updated>
-    </task>
-    <task id="LOCAL-00199" summary="update workspace.xml">
-      <created>1663685495169</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1663685495169</updated>
-    </task>
-    <task id="LOCAL-00200" summary="update workspace.xml">
-      <created>1663760113039</created>
-      <option name="number" value="00200" />
-      <option name="presentableId" value="LOCAL-00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1663760113040</updated>
     </task>
     <task id="LOCAL-00201" summary="update">
       <created>1663760240233</created>
@@ -472,7 +450,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663857042378</updated>
     </task>
-    <option name="localTasksCounter" value="247" />
+    <task id="LOCAL-00247" summary="update workspace.xml">
+      <created>1663860412735</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1663860412735</updated>
+    </task>
+    <task id="LOCAL-00248" summary="update ArrOneNum.java">
+      <created>1663860429471</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1663860429471</updated>
+    </task>
+    <task id="LOCAL-00249" summary="update ArrMassAnyString.java">
+      <created>1663860442079</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1663860442079</updated>
+    </task>
+    <option name="localTasksCounter" value="250" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -487,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ArrNumFive.java" />
     <MESSAGE value="add ArrLengthNums.java" />
     <MESSAGE value="add ArrLengthNumsAndLastIndex.java" />
     <MESSAGE value="add ArrNumsAndSum.java" />
@@ -510,9 +508,10 @@
     <MESSAGE value="add ArrNumsMatrixDiagonal.java" />
     <MESSAGE value="update ArrUpendMatrix.java" />
     <MESSAGE value="add ArrOneNum.java" />
-    <MESSAGE value="update ArrOneNum.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="update ArrOneNum.java" />
+    <MESSAGE value="update ArrMassAnyString.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ArrMassAnyString.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
