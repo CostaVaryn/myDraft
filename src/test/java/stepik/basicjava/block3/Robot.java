@@ -1,11 +1,14 @@
 package stepik.basicjava.block3;
 
-
-import com.sun.javafx.scene.traversal.Direction;
-
 public class Robot {
-    int x=0;
-    int y=0;
+    public enum Direction {
+        UP,
+        DOWN,
+        LEFT,
+        RIGHT
+    }
+    int x = 0;
+    int y = 0;
     Direction direction = Direction.UP;
 
     public Direction getDirection() {
@@ -34,38 +37,47 @@ public class Robot {
     }
 
     public static void moveRobot(Robot robot, int toX, int toY) {
-        if (toX < robot.getX()){
-            while (robot.getDirection() != Direction.LEFT){
+        if (toX < robot.getX()) {
+            while (robot.getDirection() != Direction.LEFT) {
                 robot.turnRight();
             }
-            while (robot.getX() != toX ){
+            while (robot.getX() != toX ) {
                 robot.stepForward();
             }
-        }
-        else if (toX > robot.getX()){
-            while (robot.getDirection() != Direction.RIGHT){
+        } else if (toX > robot.getX()) {
+            while (robot.getDirection() != Direction.RIGHT) {
                 robot.turnRight();
             }
-            while ( robot.getX() != toX ){
+            while (robot.getX() != toX) {
                 robot.stepForward();
             }
         }
         if (toY < robot.getY()){
-            while (robot.getDirection() != Direction.DOWN){
+            while (robot.getDirection() != Direction.DOWN) {
                 robot.turnRight();
             }
-            while ( robot.getY() != toY ){
+            while (robot.getY() != toY) {
+                robot.stepForward();
+            }
+        } else if (toY > robot.getY()) {
+            while (robot.getDirection() != Direction.UP) {
+                robot.turnRight();
+            }
+            while (robot.getY() != toY) {
                 robot.stepForward();
             }
         }
-        else if (toY > robot.getY()){
-            while (robot.getDirection() != Direction.UP){
-                robot.turnRight();
-            }
-            while ( robot.getY() != toY ){
-                robot.stepForward();
-            }
-        }
-
     }
 }
+
+/**
+ * В метод передано: toX == 3, toY == 0; начальное состояние робота такое:
+ * robot.getX() == 0, robot.getY() == 0, robot.getDirection() == Direction.UP
+ *
+ * Чтобы привести робота в указанную точку (3, 0), метод должен вызвать у робота следующие методы:
+ *
+ * robot.turnRight();
+ * robot.stepForward();
+ * robot.stepForward();
+ * robot.stepForward();
+ */
