@@ -1,4 +1,4 @@
-package stepik.basicjava;
+package stepik.basicjava.block3;
 
 import java.util.Arrays;
 
