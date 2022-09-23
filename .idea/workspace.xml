@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MatrixClass">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ArrMinSumNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrMinSumNums" />
       <module name="myDraft" />
@@ -69,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrUpendMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrUpendMatrix" />
+    <configuration name="ArrUpendMatrixReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrUpendMatrixReverse" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrUpendMatrixReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrUpendMatrixReverse" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.basicjava.block3.shapes.Main" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
+          <option name="PATTERN" value="stepik.basicjava.block3.shapes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MatrixClass" />
         <item itemvalue="Application.ArrMinSumNums" />
         <item itemvalue="Application.ArrSapper" />
         <item itemvalue="Application.ArrUpendMatrixReverse" />
-        <item itemvalue="Application.ArrUpendMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00226" summary="update workspace.xml">
-      <created>1663847326597</created>
-      <option name="number" value="00226" />
-      <option name="presentableId" value="LOCAL-00226" />
-      <option name="project" value="LOCAL" />
-      <updated>1663847326597</updated>
     </task>
     <task id="LOCAL-00227" summary="add ArrListTest.java">
       <created>1663847336856</created>
@@ -470,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663933194115</updated>
     </task>
-    <option name="localTasksCounter" value="275" />
+    <task id="LOCAL-00275" summary="update workspace.xml">
+      <created>1663934383020</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1663934383020</updated>
+    </task>
+    <option name="localTasksCounter" value="276" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
