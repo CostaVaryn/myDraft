@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/LeftRectangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Circle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Color.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Main.java" afterDir="false" />
@@ -12,6 +14,8 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Shape.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Square.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/timer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/timer/Timer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00227" summary="add ArrListTest.java">
-      <created>1663847336856</created>
-      <option name="number" value="00227" />
-      <option name="presentableId" value="LOCAL-00227" />
-      <option name="project" value="LOCAL" />
-      <updated>1663847336856</updated>
     </task>
     <task id="LOCAL-00228" summary="update">
       <created>1663847347383</created>
@@ -477,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663934383020</updated>
     </task>
-    <option name="localTasksCounter" value="276" />
+    <task id="LOCAL-00276" summary="update workspace.xml">
+      <created>1663936682617</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1663936682617</updated>
+    </task>
+    <option name="localTasksCounter" value="277" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
