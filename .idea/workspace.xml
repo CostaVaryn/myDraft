@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Timer.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/ComplexNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/LeftRectangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Circle.java" afterDir="false" />
@@ -14,9 +14,6 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Shape.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Square.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/timer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/timer/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,27 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00228" summary="update">
-      <created>1663847347383</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1663847347383</updated>
-    </task>
-    <task id="LOCAL-00229" summary="update workspace.xml">
-      <created>1663849026470</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1663849026470</updated>
-    </task>
-    <task id="LOCAL-00230" summary="add ArrMassAnyString.java">
-      <created>1663849042000</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1663849042000</updated>
     </task>
     <task id="LOCAL-00231" summary="add ArrEasyMatrix.java">
       <created>1663849049807</created>
@@ -481,7 +457,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663936682617</updated>
     </task>
-    <option name="localTasksCounter" value="277" />
+    <task id="LOCAL-00277" summary="update workspace.xml">
+      <created>1664008850387</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1664008850387</updated>
+    </task>
+    <task id="LOCAL-00278" summary="add Main.java">
+      <created>1664008872127</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1664008872128</updated>
+    </task>
+    <task id="LOCAL-00279" summary="add Timer.java">
+      <created>1664008887943</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1664008887943</updated>
+    </task>
+    <option name="localTasksCounter" value="280" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,8 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ArrOneThreeTwo.java" />
-    <MESSAGE value="add ArrHaveSmallWords.java" />
     <MESSAGE value="add ArrMinSumNums.java" />
     <MESSAGE value="add ArrMassMultiplyTable.java" />
     <MESSAGE value="add ArrListTest.java" />
@@ -521,7 +516,9 @@
     <MESSAGE value="add Robot.java" />
     <MESSAGE value="update Robot.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add Main.java" />
+    <MESSAGE value="add Timer.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Timer.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
