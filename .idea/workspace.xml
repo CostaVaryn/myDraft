@@ -48,39 +48,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.UserTest.getAverageAgeOfAllUsers">
-    <configuration name="ArrMinSumNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.introductory.scanner.arrays.ArrMinSumNums" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.introductory.scanner.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UserTest.getAverageAgeOfAllUsers_MALE">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.basicjava.block3.shapes.Main" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stepik.basicjava.block3.shapes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MatrixClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.basicjava.block3.MatrixClass" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.basicjava.block3.Robot" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +93,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserTest.getAverageAgeOfAllUsers_FEMALE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="user" />
+      <option name="MAIN_CLASS_NAME" value="user.UserTest" />
+      <option name="METHOD_NAME" value="getAverageAgeOfAllUsers_FEMALE" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.getAverageAgeOfAllUsers_MALE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="user" />
+      <option name="MAIN_CLASS_NAME" value="user.UserTest" />
+      <option name="METHOD_NAME" value="getAverageAgeOfAllUsers_MALE" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserTest.getAverageAgeOfAllUsers_MALE" />
+        <item itemvalue="JUnit.UserTest.getAverageAgeOfAllUsers_FEMALE" />
         <item itemvalue="JUnit.UserTest.getAverageAgeOfAllUsers" />
         <item itemvalue="JUnit.UserTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MatrixClass" />
-        <item itemvalue="Application.ArrMinSumNums" />
       </list>
     </recent_temporary>
   </component>
