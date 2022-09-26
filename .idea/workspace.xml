@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Timer.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/LeftRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/shapes/Triangle.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add LeftRectangle.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,76 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00231" summary="add ArrEasyMatrix.java">
-      <created>1663849049807</created>
-      <option name="number" value="00231" />
-      <option name="presentableId" value="LOCAL-00231" />
-      <option name="project" value="LOCAL" />
-      <updated>1663849049807</updated>
-    </task>
-    <task id="LOCAL-00232" summary="add ArrEasyMatrix.java">
-      <created>1663849066746</created>
-      <option name="number" value="00232" />
-      <option name="presentableId" value="LOCAL-00232" />
-      <option name="project" value="LOCAL" />
-      <updated>1663849066746</updated>
-    </task>
-    <task id="LOCAL-00233" summary="update workspace.xml">
-      <created>1663850631056</created>
-      <option name="number" value="00233" />
-      <option name="presentableId" value="LOCAL-00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1663850631056</updated>
-    </task>
-    <task id="LOCAL-00234" summary="update workspace.xml">
-      <created>1663851956039</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1663851956039</updated>
-    </task>
-    <task id="LOCAL-00235" summary="add ArrUpendMatrix.java">
-      <created>1663851964066</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1663851964066</updated>
-    </task>
-    <task id="LOCAL-00236" summary="add ArrNumsMatrixDiagonal.java">
-      <created>1663851972139</created>
-      <option name="number" value="00236" />
-      <option name="presentableId" value="LOCAL-00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1663851972139</updated>
-    </task>
-    <task id="LOCAL-00237" summary="update ArrUpendMatrix.java">
-      <created>1663852085382</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1663852085382</updated>
-    </task>
-    <task id="LOCAL-00238" summary="update workspace.xml">
-      <created>1663853924719</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1663853924719</updated>
-    </task>
-    <task id="LOCAL-00239" summary="update workspace.xml">
-      <created>1663853955006</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1663853955006</updated>
-    </task>
-    <task id="LOCAL-00240" summary="add ArrOneNum.java">
-      <created>1663853966384</created>
-      <option name="number" value="00240" />
-      <option name="presentableId" value="LOCAL-00240" />
-      <option name="project" value="LOCAL" />
-      <updated>1663853966384</updated>
     </task>
     <task id="LOCAL-00241" summary="update workspace.xml">
       <created>1663854423717</created>
@@ -478,7 +400,77 @@
       <option name="project" value="LOCAL" />
       <updated>1664008887943</updated>
     </task>
-    <option name="localTasksCounter" value="280" />
+    <task id="LOCAL-00280" summary="update workspace.xml">
+      <created>1664105034238</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105034238</updated>
+    </task>
+    <task id="LOCAL-00281" summary="add Triangle.java">
+      <created>1664105068122</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105068122</updated>
+    </task>
+    <task id="LOCAL-00282" summary="add Square.java">
+      <created>1664105081716</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105081716</updated>
+    </task>
+    <task id="LOCAL-00283" summary="add Shape.java">
+      <created>1664105090002</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105090002</updated>
+    </task>
+    <task id="LOCAL-00284" summary="add Point.java">
+      <created>1664105135189</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105135189</updated>
+    </task>
+    <task id="LOCAL-00285" summary="add Main.java">
+      <created>1664105144282</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105144282</updated>
+    </task>
+    <task id="LOCAL-00286" summary="add Color.java">
+      <created>1664105157168</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105157168</updated>
+    </task>
+    <task id="LOCAL-00287" summary="add Circle.java">
+      <created>1664105164700</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105164700</updated>
+    </task>
+    <task id="LOCAL-00288" summary="add ComplexNumber.java">
+      <created>1664105185418</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105185418</updated>
+    </task>
+    <task id="LOCAL-00289" summary="add LeftRectangle.java">
+      <created>1664105201130</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105201130</updated>
+    </task>
+    <option name="localTasksCounter" value="290" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,14 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ArrMinSumNums.java" />
-    <MESSAGE value="add ArrMassMultiplyTable.java" />
-    <MESSAGE value="add ArrListTest.java" />
-    <MESSAGE value="add ArrMassAnyString.java" />
-    <MESSAGE value="add ArrEasyMatrix.java" />
-    <MESSAGE value="add ArrUpendMatrix.java" />
-    <MESSAGE value="add ArrNumsMatrixDiagonal.java" />
-    <MESSAGE value="add ArrOneNum.java" />
     <MESSAGE value="update ArrOneNum.java" />
     <MESSAGE value="update ArrMassAnyString.java" />
     <MESSAGE value="update" />
@@ -515,10 +499,18 @@
     <MESSAGE value="add PalindromeClass.java" />
     <MESSAGE value="add Robot.java" />
     <MESSAGE value="update Robot.java" />
-    <MESSAGE value="update workspace.xml" />
-    <MESSAGE value="add Main.java" />
     <MESSAGE value="add Timer.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Timer.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add Triangle.java" />
+    <MESSAGE value="add Square.java" />
+    <MESSAGE value="add Shape.java" />
+    <MESSAGE value="add Point.java" />
+    <MESSAGE value="add Main.java" />
+    <MESSAGE value="add Color.java" />
+    <MESSAGE value="add Circle.java" />
+    <MESSAGE value="add ComplexNumber.java" />
+    <MESSAGE value="add LeftRectangle.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add LeftRectangle.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
