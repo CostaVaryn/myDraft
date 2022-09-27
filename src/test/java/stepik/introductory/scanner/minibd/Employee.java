@@ -1,4 +1,4 @@
-package minibd;
+package stepik.introductory.scanner.minibd;
 
 public class Employee {
     String name;
