@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change beforePath="$PROJECT_DIR$/src/test/java/minibd/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/minibd/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/minibd/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/minibd/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/user/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/user/UserTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="relocate Employee.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,34 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00254" summary="update ArrUpendMatrix.java">
-      <created>1663917632202</created>
-      <option name="number" value="00254" />
-      <option name="presentableId" value="LOCAL-00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1663917632203</updated>
-    </task>
-    <task id="LOCAL-00255" summary="add ArrUpendMatrixReverse.java">
-      <created>1663917653153</created>
-      <option name="number" value="00255" />
-      <option name="presentableId" value="LOCAL-00255" />
-      <option name="project" value="LOCAL" />
-      <updated>1663917653153</updated>
-    </task>
-    <task id="LOCAL-00256" summary="update workspace.xml">
-      <created>1663918646118</created>
-      <option name="number" value="00256" />
-      <option name="presentableId" value="LOCAL-00256" />
-      <option name="project" value="LOCAL" />
-      <updated>1663918646118</updated>
-    </task>
-    <task id="LOCAL-00257" summary="update ArrUpendMatrix.java">
-      <created>1663918656957</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
-      <option name="project" value="LOCAL" />
-      <updated>1663918656957</updated>
     </task>
     <task id="LOCAL-00258" summary="update ArrUpendMatrixReverse.java">
       <created>1663918666304</created>
@@ -487,7 +455,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664282741881</updated>
     </task>
-    <option name="localTasksCounter" value="303" />
+    <task id="LOCAL-00303" summary="update workspace.xml">
+      <created>1664283130781</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1664283130781</updated>
+    </task>
+    <task id="LOCAL-00304" summary="update UserTest.java">
+      <created>1664283152743</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1664283152743</updated>
+    </task>
+    <task id="LOCAL-00305" summary="relocate EmployeeTest.java">
+      <created>1664283193832</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1664283193832</updated>
+    </task>
+    <task id="LOCAL-00306" summary="relocate Employee.java">
+      <created>1664283206851</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1664283206851</updated>
+    </task>
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,9 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ArrUpendMatrixReverse.java" />
-    <MESSAGE value="update ArrUpendMatrix.java" />
-    <MESSAGE value="update ArrUpendMatrixReverse.java" />
     <MESSAGE value="add MatrixClass.java" />
     <MESSAGE value="add ArrSapper.java" />
     <MESSAGE value="update ArrMinSumNums.java" />
@@ -527,7 +520,10 @@
     <MESSAGE value="add User.java" />
     <MESSAGE value="add UserTest.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="update UserTest.java" />
+    <MESSAGE value="relocate EmployeeTest.java" />
+    <MESSAGE value="relocate Employee.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="relocate Employee.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
