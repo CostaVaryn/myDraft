@@ -3,9 +3,7 @@ package illustratenull;
 public class NullObjectDesignPattern {
     public abstract class Emp {
         protected String name;
-
         public abstract boolean isNull();
-
         public abstract String getName();
     }
 
@@ -54,7 +52,8 @@ public class NullObjectDesignPattern {
     public class Main {
         public void main(String[] args) {
 
-/*          Emp emp1 = EmpData.getClient("Lokesh");
+            /**
+            Emp emp1 = EmpData.getClient("Lokesh");
             Emp emp2 = EmpData.getClient("Kushagra");
             Emp emp3 = EmpData.getClient("Vikram");
             Emp emp4 = EmpData.getClient("Rishabh");
@@ -63,7 +62,7 @@ public class NullObjectDesignPattern {
             System.out.println(emp2.getName());
             System.out.println(emp3.getName());
             System.out.println(emp4.getName());
-*/
+            */
         }
     }
 }
