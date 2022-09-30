@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/spamornot/KeywordAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/spamornot/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/basicjava/block3/spamornot/TextAnalyzer.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add TextAnalyzer.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,34 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00270" summary="add PalindromeClass.java">
-      <created>1663928871572</created>
-      <option name="number" value="00270" />
-      <option name="presentableId" value="LOCAL-00270" />
-      <option name="project" value="LOCAL" />
-      <updated>1663928871572</updated>
-    </task>
-    <task id="LOCAL-00271" summary="update workspace.xml">
-      <created>1663931989083</created>
-      <option name="number" value="00271" />
-      <option name="presentableId" value="LOCAL-00271" />
-      <option name="project" value="LOCAL" />
-      <updated>1663931989083</updated>
-    </task>
-    <task id="LOCAL-00272" summary="add Robot.java">
-      <created>1663931998021</created>
-      <option name="number" value="00272" />
-      <option name="presentableId" value="LOCAL-00272" />
-      <option name="project" value="LOCAL" />
-      <updated>1663931998021</updated>
-    </task>
-    <task id="LOCAL-00273" summary="update Robot.java">
-      <created>1663932171753</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1663932171753</updated>
     </task>
     <task id="LOCAL-00274" summary="update workspace.xml">
       <created>1663933194115</created>
@@ -489,7 +459,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664536163603</updated>
     </task>
-    <option name="localTasksCounter" value="319" />
+    <task id="LOCAL-00319" summary="update workspace.xml">
+      <created>1664536611646</created>
+      <option name="number" value="00319" />
+      <option name="presentableId" value="LOCAL-00319" />
+      <option name="project" value="LOCAL" />
+      <updated>1664536611647</updated>
+    </task>
+    <task id="LOCAL-00320" summary="add KeywordAnalyzer.java">
+      <created>1664536619904</created>
+      <option name="number" value="00320" />
+      <option name="presentableId" value="LOCAL-00320" />
+      <option name="project" value="LOCAL" />
+      <updated>1664536619904</updated>
+    </task>
+    <task id="LOCAL-00321" summary="add Label.java">
+      <created>1664536627463</created>
+      <option name="number" value="00321" />
+      <option name="presentableId" value="LOCAL-00321" />
+      <option name="project" value="LOCAL" />
+      <updated>1664536627463</updated>
+    </task>
+    <task id="LOCAL-00322" summary="add TextAnalyzer.java">
+      <created>1664536637862</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1664536637862</updated>
+    </task>
+    <option name="localTasksCounter" value="323" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,9 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Robot.java" />
-    <MESSAGE value="update Robot.java" />
-    <MESSAGE value="add Timer.java" />
     <MESSAGE value="add Triangle.java" />
     <MESSAGE value="add Square.java" />
     <MESSAGE value="add Shape.java" />
@@ -529,7 +524,10 @@
     <MESSAGE value="add AvgNums.java" />
     <MESSAGE value="update AvgNums.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add KeywordAnalyzer.java" />
+    <MESSAGE value="add Label.java" />
+    <MESSAGE value="add TextAnalyzer.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add TextAnalyzer.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
