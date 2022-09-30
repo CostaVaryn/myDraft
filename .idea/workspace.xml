@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update MinusNums.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update PrimeNumber.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javacore/mainmodule/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,20 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00280" summary="update workspace.xml">
-      <created>1664105034238</created>
-      <option name="number" value="00280" />
-      <option name="presentableId" value="LOCAL-00280" />
-      <option name="project" value="LOCAL" />
-      <updated>1664105034238</updated>
-    </task>
-    <task id="LOCAL-00281" summary="add Triangle.java">
-      <created>1664105068122</created>
-      <option name="number" value="00281" />
-      <option name="presentableId" value="LOCAL-00281" />
-      <option name="project" value="LOCAL" />
-      <updated>1664105068122</updated>
     </task>
     <task id="LOCAL-00282" summary="add Square.java">
       <created>1664105081716</created>
@@ -479,7 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664544985959</updated>
     </task>
-    <option name="localTasksCounter" value="329" />
+    <task id="LOCAL-00329" summary="update workspace.xml">
+      <created>1664544999422</created>
+      <option name="number" value="00329" />
+      <option name="presentableId" value="LOCAL-00329" />
+      <option name="project" value="LOCAL" />
+      <updated>1664544999422</updated>
+    </task>
+    <task id="LOCAL-00330" summary="update PrimeNumber.java">
+      <created>1664545830235</created>
+      <option name="number" value="00330" />
+      <option name="presentableId" value="LOCAL-00330" />
+      <option name="project" value="LOCAL" />
+      <updated>1664545830235</updated>
+    </task>
+    <option name="localTasksCounter" value="331" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Shape.java" />
     <MESSAGE value="add Point.java" />
     <MESSAGE value="add Main.java" />
     <MESSAGE value="add Color.java" />
@@ -517,9 +516,10 @@
     <MESSAGE value="add Label.java" />
     <MESSAGE value="add TextAnalyzer.java" />
     <MESSAGE value="add TwoNumAndOneMin.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update MinusNums.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update MinusNums.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update PrimeNumber.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update PrimeNumber.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
