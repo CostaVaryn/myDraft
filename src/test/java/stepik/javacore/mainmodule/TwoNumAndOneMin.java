@@ -1,4 +1,4 @@
-package stepik.javacore;
+package stepik.javacore.mainmodule;
 
 import java.util.Scanner;
 
@@ -7,8 +7,11 @@ public class TwoNumAndOneMin {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int[] arr = new int[n];
-        for (int i = 0; i < n; i++) {
-            arr[i] = in.nextInt();
+        if (n > 1) {
+            for (int i = 0; i < n; i++) {
+                arr[i] = in.nextInt();
+            }
+            System.out.println(arr[n - 1]);
         }
     }
 }
