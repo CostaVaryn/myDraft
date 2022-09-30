@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NumsSumRezMulDiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NumsThreeMultiply.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add NumsThreeMultiply.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NumsAbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NumsAbs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +49,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumsSumRezMulDiv">
-    <configuration name="AvgNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.adaptivecourse.AvgNums" />
+  <component name="RunManager" selected="Application.NumsAbs">
+    <configuration name="MinusNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javacore.mainmodule.MinusNums" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.adaptivecourse.*" />
+          <option name="PATTERN" value="stepik.javacore.mainmodule.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinusNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javacore.mainmodule.MinusNums" />
+    <configuration name="NumsAbs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.NumsAbs" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javacore.mainmodule.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumsAbs" />
         <item itemvalue="Application.NumsSumRezMulDiv" />
         <item itemvalue="Application.MinusNums" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.TwoNumAndOneMin" />
-        <item itemvalue="Application.AvgNums" />
       </list>
     </recent_temporary>
   </component>
@@ -133,34 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00284" summary="add Point.java">
-      <created>1664105135189</created>
-      <option name="number" value="00284" />
-      <option name="presentableId" value="LOCAL-00284" />
-      <option name="project" value="LOCAL" />
-      <updated>1664105135189</updated>
-    </task>
-    <task id="LOCAL-00285" summary="add Main.java">
-      <created>1664105144282</created>
-      <option name="number" value="00285" />
-      <option name="presentableId" value="LOCAL-00285" />
-      <option name="project" value="LOCAL" />
-      <updated>1664105144282</updated>
-    </task>
-    <task id="LOCAL-00286" summary="add Color.java">
-      <created>1664105157168</created>
-      <option name="number" value="00286" />
-      <option name="presentableId" value="LOCAL-00286" />
-      <option name="project" value="LOCAL" />
-      <updated>1664105157168</updated>
-    </task>
-    <task id="LOCAL-00287" summary="add Circle.java">
-      <created>1664105164700</created>
-      <option name="number" value="00287" />
-      <option name="presentableId" value="LOCAL-00287" />
-      <option name="project" value="LOCAL" />
-      <updated>1664105164700</updated>
     </task>
     <task id="LOCAL-00288" summary="add ComplexNumber.java">
       <created>1664105185418</created>
@@ -477,7 +449,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664546389412</updated>
     </task>
-    <option name="localTasksCounter" value="333" />
+    <task id="LOCAL-00333" summary="update workspace.xml">
+      <created>1664546636199</created>
+      <option name="number" value="00333" />
+      <option name="presentableId" value="LOCAL-00333" />
+      <option name="project" value="LOCAL" />
+      <updated>1664546636199</updated>
+    </task>
+    <task id="LOCAL-00334" summary="add NumsAbs.java">
+      <created>1664546645449</created>
+      <option name="number" value="00334" />
+      <option name="presentableId" value="LOCAL-00334" />
+      <option name="project" value="LOCAL" />
+      <updated>1664546645449</updated>
+    </task>
+    <task id="LOCAL-00335" summary="add NumsSumRezMulDiv.java">
+      <created>1664546652898</created>
+      <option name="number" value="00335" />
+      <option name="presentableId" value="LOCAL-00335" />
+      <option name="project" value="LOCAL" />
+      <updated>1664546652898</updated>
+    </task>
+    <task id="LOCAL-00336" summary="add NumsThreeMultiply.java">
+      <created>1664546660172</created>
+      <option name="number" value="00336" />
+      <option name="presentableId" value="LOCAL-00336" />
+      <option name="project" value="LOCAL" />
+      <updated>1664546660172</updated>
+    </task>
+    <option name="localTasksCounter" value="337" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,9 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Point.java" />
-    <MESSAGE value="add Main.java" />
-    <MESSAGE value="add Color.java" />
     <MESSAGE value="add Circle.java" />
     <MESSAGE value="add ComplexNumber.java" />
     <MESSAGE value="add LeftRectangle.java" />
@@ -517,7 +514,10 @@
     <MESSAGE value="update MinusNums.java" />
     <MESSAGE value="update PrimeNumber.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add NumsAbs.java" />
+    <MESSAGE value="add NumsSumRezMulDiv.java" />
+    <MESSAGE value="add NumsThreeMultiply.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add NumsThreeMultiply.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
