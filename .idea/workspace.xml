@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add NumsThreeMultiply.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update NumsAbs.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/SquareAndPerimeter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NumsAbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NumsAbs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,20 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00288" summary="add ComplexNumber.java">
-      <created>1664105185418</created>
-      <option name="number" value="00288" />
-      <option name="presentableId" value="LOCAL-00288" />
-      <option name="project" value="LOCAL" />
-      <updated>1664105185418</updated>
-    </task>
-    <task id="LOCAL-00289" summary="add LeftRectangle.java">
-      <created>1664105201130</created>
-      <option name="number" value="00289" />
-      <option name="presentableId" value="LOCAL-00289" />
-      <option name="project" value="LOCAL" />
-      <updated>1664105201130</updated>
     </task>
     <task id="LOCAL-00290" summary="update workspace.xml">
       <created>1664193686658</created>
@@ -477,7 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664546660172</updated>
     </task>
-    <option name="localTasksCounter" value="337" />
+    <task id="LOCAL-00337" summary="update workspace.xml">
+      <created>1664547179840</created>
+      <option name="number" value="00337" />
+      <option name="presentableId" value="LOCAL-00337" />
+      <option name="project" value="LOCAL" />
+      <updated>1664547179840</updated>
+    </task>
+    <task id="LOCAL-00338" summary="update NumsAbs.java">
+      <created>1664547187885</created>
+      <option name="number" value="00338" />
+      <option name="presentableId" value="LOCAL-00338" />
+      <option name="project" value="LOCAL" />
+      <updated>1664547187885</updated>
+    </task>
+    <option name="localTasksCounter" value="339" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Circle.java" />
     <MESSAGE value="add ComplexNumber.java" />
     <MESSAGE value="add LeftRectangle.java" />
     <MESSAGE value="update pom.xml" />
@@ -513,11 +512,12 @@
     <MESSAGE value="add TwoNumAndOneMin.java" />
     <MESSAGE value="update MinusNums.java" />
     <MESSAGE value="update PrimeNumber.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add NumsAbs.java" />
     <MESSAGE value="add NumsSumRezMulDiv.java" />
     <MESSAGE value="add NumsThreeMultiply.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add NumsThreeMultiply.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update NumsAbs.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update NumsAbs.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
