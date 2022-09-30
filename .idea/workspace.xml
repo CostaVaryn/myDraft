@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add TextAnalyzer.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add TwoNumAndOneMin.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javacore/mainmodule/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javacore/TwoNumAndOneMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javacore/mainmodule/TwoNumAndOneMin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AvgNums">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration name="AvgNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.adaptivecourse.AvgNums" />
       <module name="myDraft" />
@@ -62,33 +64,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javacore.mainmodule.PrimeNumber" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="user.*" />
+          <option name="PATTERN" value="stepik.javacore.mainmodule.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="user" />
-      <option name="MAIN_CLASS_NAME" value="user.UserTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.getAverageAgeOfAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TwoNumAndOneMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javacore.mainmodule.TwoNumAndOneMin" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="user.*" />
+          <option name="PATTERN" value="stepik.javacore.mainmodule.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="user" />
-      <option name="MAIN_CLASS_NAME" value="user.UserTest" />
-      <option name="METHOD_NAME" value="getAverageAgeOfAllUsers" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.TwoNumAndOneMin" />
         <item itemvalue="Application.AvgNums" />
         <item itemvalue="JUnit.UserTest.getAverageAgeOfAllUsers_MALE" />
         <item itemvalue="JUnit.UserTest.getAverageAgeOfAllUsers_FEMALE" />
-        <item itemvalue="JUnit.UserTest.getAverageAgeOfAllUsers" />
-        <item itemvalue="JUnit.UserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -143,20 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00274" summary="update workspace.xml">
-      <created>1663933194115</created>
-      <option name="number" value="00274" />
-      <option name="presentableId" value="LOCAL-00274" />
-      <option name="project" value="LOCAL" />
-      <updated>1663933194115</updated>
-    </task>
-    <task id="LOCAL-00275" summary="update workspace.xml">
-      <created>1663934383020</created>
-      <option name="number" value="00275" />
-      <option name="presentableId" value="LOCAL-00275" />
-      <option name="project" value="LOCAL" />
-      <updated>1663934383020</updated>
     </task>
     <task id="LOCAL-00276" summary="update workspace.xml">
       <created>1663936682617</created>
@@ -487,7 +470,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664536637862</updated>
     </task>
-    <option name="localTasksCounter" value="323" />
+    <task id="LOCAL-00323" summary="update workspace.xml">
+      <created>1664539874915</created>
+      <option name="number" value="00323" />
+      <option name="presentableId" value="LOCAL-00323" />
+      <option name="project" value="LOCAL" />
+      <updated>1664539874915</updated>
+    </task>
+    <task id="LOCAL-00324" summary="add TwoNumAndOneMin.java">
+      <created>1664539885234</created>
+      <option name="number" value="00324" />
+      <option name="presentableId" value="LOCAL-00324" />
+      <option name="project" value="LOCAL" />
+      <updated>1664539885234</updated>
+    </task>
+    <option name="localTasksCounter" value="325" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Triangle.java" />
     <MESSAGE value="add Square.java" />
     <MESSAGE value="add Shape.java" />
     <MESSAGE value="add Point.java" />
@@ -523,11 +519,12 @@
     <MESSAGE value="update NullObjectDesignPattern.java" />
     <MESSAGE value="add AvgNums.java" />
     <MESSAGE value="update AvgNums.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add KeywordAnalyzer.java" />
     <MESSAGE value="add Label.java" />
     <MESSAGE value="add TextAnalyzer.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add TextAnalyzer.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add TwoNumAndOneMin.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add TwoNumAndOneMin.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
