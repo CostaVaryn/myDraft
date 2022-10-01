@@ -48,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NextEvenNum">
+  <component name="RunManager" selected="Application.PurchasePrice">
     <configuration name="MinusNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javacore.mainmodule.MinusNums" />
       <module name="myDraft" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javacore.mainmodule.PrimeNumber" />
+    <configuration name="PurchasePrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.PurchasePrice" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javacore.mainmodule.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PurchasePrice" />
         <item itemvalue="Application.NextEvenNum" />
         <item itemvalue="Application.NumsAbs" />
         <item itemvalue="Application.NumsSumRezMulDiv" />
         <item itemvalue="Application.MinusNums" />
-        <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
   </component>
