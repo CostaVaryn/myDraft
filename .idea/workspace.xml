@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NextEvenNum.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add PurchasePrice.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,34 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00294" summary="update workspace.xml">
-      <created>1664196419975</created>
-      <option name="number" value="00294" />
-      <option name="presentableId" value="LOCAL-00294" />
-      <option name="project" value="LOCAL" />
-      <updated>1664196419975</updated>
-    </task>
-    <task id="LOCAL-00295" summary="add Sex.java">
-      <created>1664196432003</created>
-      <option name="number" value="00295" />
-      <option name="presentableId" value="LOCAL-00295" />
-      <option name="project" value="LOCAL" />
-      <updated>1664196432003</updated>
-    </task>
-    <task id="LOCAL-00296" summary="add User.java">
-      <created>1664196441285</created>
-      <option name="number" value="00296" />
-      <option name="presentableId" value="LOCAL-00296" />
-      <option name="project" value="LOCAL" />
-      <updated>1664196441285</updated>
-    </task>
-    <task id="LOCAL-00297" summary="add UserTest.java">
-      <created>1664196451556</created>
-      <option name="number" value="00297" />
-      <option name="presentableId" value="LOCAL-00297" />
-      <option name="project" value="LOCAL" />
-      <updated>1664196451556</updated>
     </task>
     <task id="LOCAL-00298" summary="update workspace.xml">
       <created>1664196738283</created>
@@ -476,7 +446,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664631719614</updated>
     </task>
-    <option name="localTasksCounter" value="343" />
+    <task id="LOCAL-00343" summary="update workspace.xml">
+      <created>1664632058521</created>
+      <option name="number" value="00343" />
+      <option name="presentableId" value="LOCAL-00343" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632058521</updated>
+    </task>
+    <task id="LOCAL-00344" summary="add NextEvenNum.java">
+      <created>1664632066710</created>
+      <option name="number" value="00344" />
+      <option name="presentableId" value="LOCAL-00344" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632066710</updated>
+    </task>
+    <task id="LOCAL-00345" summary="update workspace.xml">
+      <created>1664632322828</created>
+      <option name="number" value="00345" />
+      <option name="presentableId" value="LOCAL-00345" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632322828</updated>
+    </task>
+    <task id="LOCAL-00346" summary="add PurchasePrice.java">
+      <created>1664632334208</created>
+      <option name="number" value="00346" />
+      <option name="presentableId" value="LOCAL-00346" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632334208</updated>
+    </task>
+    <option name="localTasksCounter" value="347" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,8 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add LeftRectangle.java" />
-    <MESSAGE value="update pom.xml" />
     <MESSAGE value="add Sex.java" />
     <MESSAGE value="add User.java" />
     <MESSAGE value="add UserTest.java" />
@@ -515,8 +511,10 @@
     <MESSAGE value="add NumsThreeMultiply.java" />
     <MESSAGE value="update NumsAbs.java" />
     <MESSAGE value="add SquareAndPerimeter.java" />
+    <MESSAGE value="add NextEvenNum.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add PurchasePrice.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PurchasePrice.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
