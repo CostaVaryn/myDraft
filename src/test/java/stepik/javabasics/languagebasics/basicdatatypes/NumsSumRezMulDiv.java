@@ -1,4 +1,4 @@
-package stepik.javabasics.languagebasics;
+package stepik.javabasics.languagebasics.basicdatatypes;
 
 public class NumsSumRezMulDiv {
     public static void main(String[] args){

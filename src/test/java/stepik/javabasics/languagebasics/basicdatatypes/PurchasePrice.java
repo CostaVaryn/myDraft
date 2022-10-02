@@ -1,4 +1,4 @@
-package stepik.javabasics.languagebasics;
+package stepik.javabasics.languagebasics.basicdatatypes;
 
 import java.util.Scanner;
 
