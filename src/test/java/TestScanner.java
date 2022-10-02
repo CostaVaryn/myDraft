@@ -56,7 +56,6 @@ public class TestScanner {
         }
         else {
             System.out.println("Извините, но это явно не число. Перезапустите программу и попробуйте снова!");
-
         }
     }
 }
