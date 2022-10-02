@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add PurchasePrice.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/LastNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NextEvenNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/NextEvenNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NumsAbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/NumsAbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NumsSumRezMulDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/NumsSumRezMulDiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/NumsThreeMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/NumsThreeMultiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/PurchasePrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/PurchasePrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/SquareAndPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/SquareAndPerimeter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,13 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PurchasePrice">
-    <configuration name="MinusNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javacore.mainmodule.MinusNums" />
+  <component name="RunManager" selected="Application.LastNum">
+    <configuration name="LastNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.LastNum" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javacore.mainmodule.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicdatatypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="NextEvenNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.NextEvenNum" />
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.NextEvenNum" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicdatatypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="NumsAbs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.NumsAbs" />
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.NumsAbs" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicdatatypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="NumsSumRezMulDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.NumsSumRezMulDiv" />
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.NumsSumRezMulDiv" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicdatatypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="PurchasePrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.PurchasePrice" />
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.PurchasePrice" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicdatatypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastNum" />
         <item itemvalue="Application.PurchasePrice" />
         <item itemvalue="Application.NextEvenNum" />
         <item itemvalue="Application.NumsAbs" />
         <item itemvalue="Application.NumsSumRezMulDiv" />
-        <item itemvalue="Application.MinusNums" />
       </list>
     </recent_temporary>
   </component>
@@ -130,13 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00298" summary="update workspace.xml">
-      <created>1664196738283</created>
-      <option name="number" value="00298" />
-      <option name="presentableId" value="LOCAL-00298" />
-      <option name="project" value="LOCAL" />
-      <updated>1664196738283</updated>
     </task>
     <task id="LOCAL-00299" summary="update workspace.xml">
       <created>1664199550968</created>
@@ -474,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664632334208</updated>
     </task>
-    <option name="localTasksCounter" value="347" />
+    <task id="LOCAL-00347" summary="update workspace.xml">
+      <created>1664745531369</created>
+      <option name="number" value="00347" />
+      <option name="presentableId" value="LOCAL-00347" />
+      <option name="project" value="LOCAL" />
+      <updated>1664745531369</updated>
+    </task>
+    <option name="localTasksCounter" value="348" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,9 +521,9 @@
     <MESSAGE value="update NumsAbs.java" />
     <MESSAGE value="add SquareAndPerimeter.java" />
     <MESSAGE value="add NextEvenNum.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add PurchasePrice.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add PurchasePrice.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
