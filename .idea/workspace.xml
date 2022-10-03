@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/MKAD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/Snail.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MKAD">
+  <component name="RunManager" selected="Application.Snail">
     <configuration name="LastNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.LastNum" />
       <module name="myDraft" />
@@ -76,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextEvenNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.NextEvenNum" />
+    <configuration name="PurchasePrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.PurchasePrice" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PurchasePrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.PurchasePrice" />
+    <configuration name="Snail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.Snail" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snail" />
         <item itemvalue="Application.MKAD" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.LastNum" />
         <item itemvalue="Application.PurchasePrice" />
-        <item itemvalue="Application.NextEvenNum" />
       </list>
     </recent_temporary>
   </component>
@@ -133,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00305" summary="relocate EmployeeTest.java">
-      <created>1664283193832</created>
-      <option name="number" value="00305" />
-      <option name="presentableId" value="LOCAL-00305" />
-      <option name="project" value="LOCAL" />
-      <updated>1664283193832</updated>
     </task>
     <task id="LOCAL-00306" summary="relocate Employee.java">
       <created>1664283206851</created>
@@ -477,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664798139566</updated>
     </task>
-    <option name="localTasksCounter" value="354" />
+    <task id="LOCAL-00354" summary="update workspace.xml">
+      <created>1664799434924</created>
+      <option name="number" value="00354" />
+      <option name="presentableId" value="LOCAL-00354" />
+      <option name="project" value="LOCAL" />
+      <updated>1664799434924</updated>
+    </task>
+    <option name="localTasksCounter" value="355" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
