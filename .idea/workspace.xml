@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SumOfDigits.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/Snail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00309" summary="update PersonData.java">
-      <created>1664371826351</created>
-      <option name="number" value="00309" />
-      <option name="presentableId" value="LOCAL-00309" />
-      <option name="project" value="LOCAL" />
-      <updated>1664371826351</updated>
     </task>
     <task id="LOCAL-00310" summary="update NullObjectDesignPattern.java">
       <created>1664371834516</created>
@@ -477,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664800256282</updated>
     </task>
-    <option name="localTasksCounter" value="358" />
+    <task id="LOCAL-00358" summary="update workspace.xml">
+      <created>1664805554060</created>
+      <option name="number" value="00358" />
+      <option name="presentableId" value="LOCAL-00358" />
+      <option name="project" value="LOCAL" />
+      <updated>1664805554060</updated>
+    </task>
+    <option name="localTasksCounter" value="359" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,10 +513,10 @@
     <MESSAGE value="add PurchasePrice.java" />
     <MESSAGE value="add LastNum.java" />
     <MESSAGE value="relocate" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add MKAD.java" />
     <MESSAGE value="add SumOfDigits.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add SumOfDigits.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
