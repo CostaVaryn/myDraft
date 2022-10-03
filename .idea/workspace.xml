@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/additionalcalculationtasks/Walle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/Snail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Snail.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/additionalcalculationtasks/WalleAndTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,27 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00313" summary="update AvgNums.java">
-      <created>1664373441961</created>
-      <option name="number" value="00313" />
-      <option name="presentableId" value="LOCAL-00313" />
-      <option name="project" value="LOCAL" />
-      <updated>1664373441961</updated>
-    </task>
-    <task id="LOCAL-00314" summary="update workspace.xml">
-      <created>1664373448573</created>
-      <option name="number" value="00314" />
-      <option name="presentableId" value="LOCAL-00314" />
-      <option name="project" value="LOCAL" />
-      <updated>1664373448573</updated>
-    </task>
-    <task id="LOCAL-00315" summary="update workspace.xml">
-      <created>1664378737564</created>
-      <option name="number" value="00315" />
-      <option name="presentableId" value="LOCAL-00315" />
-      <option name="project" value="LOCAL" />
-      <updated>1664378737564</updated>
     </task>
     <task id="LOCAL-00316" summary="update workspace.xml">
       <created>1664454286037</created>
@@ -478,7 +455,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664808948269</updated>
     </task>
-    <option name="localTasksCounter" value="362" />
+    <task id="LOCAL-00362" summary="update workspace.xml">
+      <created>1664809029745</created>
+      <option name="number" value="00362" />
+      <option name="presentableId" value="LOCAL-00362" />
+      <option name="project" value="LOCAL" />
+      <updated>1664809029745</updated>
+    </task>
+    <task id="LOCAL-00363" summary="add Walle.java">
+      <created>1664809051229</created>
+      <option name="number" value="00363" />
+      <option name="presentableId" value="LOCAL-00363" />
+      <option name="project" value="LOCAL" />
+      <updated>1664809051229</updated>
+    </task>
+    <task id="LOCAL-00364" summary="add Snail.java">
+      <created>1664809062778</created>
+      <option name="number" value="00364" />
+      <option name="presentableId" value="LOCAL-00364" />
+      <option name="project" value="LOCAL" />
+      <updated>1664809062778</updated>
+    </task>
+    <option name="localTasksCounter" value="365" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,8 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="relocate EmployeeTest.java" />
-    <MESSAGE value="relocate Employee.java" />
     <MESSAGE value="update TestScanner.java" />
     <MESSAGE value="update PersonData.java" />
     <MESSAGE value="update NullObjectDesignPattern.java" />
@@ -518,7 +514,9 @@
     <MESSAGE value="add MKAD.java" />
     <MESSAGE value="add SumOfDigits.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add Walle.java" />
+    <MESSAGE value="add Snail.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Snail.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
