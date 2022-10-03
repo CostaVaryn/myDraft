@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/MKAD.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00303" summary="update workspace.xml">
-      <created>1664283130781</created>
-      <option name="number" value="00303" />
-      <option name="presentableId" value="LOCAL-00303" />
-      <option name="project" value="LOCAL" />
-      <updated>1664283130781</updated>
     </task>
     <task id="LOCAL-00304" summary="update UserTest.java">
       <created>1664283152743</created>
@@ -477,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664797028998</updated>
     </task>
-    <option name="localTasksCounter" value="352" />
+    <task id="LOCAL-00352" summary="update workspace.xml">
+      <created>1664797922819</created>
+      <option name="number" value="00352" />
+      <option name="presentableId" value="LOCAL-00352" />
+      <option name="project" value="LOCAL" />
+      <updated>1664797922819</updated>
+    </task>
+    <option name="localTasksCounter" value="353" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,11 +544,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrListTest.java</url>
           <line>21</line>
           <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/SumOfDigits.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
