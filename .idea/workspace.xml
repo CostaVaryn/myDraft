@@ -49,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumOfDigits">
+  <component name="RunManager" selected="Application.MKAD">
     <configuration name="LastNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.LastNum" />
       <module name="myDraft" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextEvenNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.NextEvenNum" />
+    <configuration name="MKAD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.MKAD" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumsAbs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.NumsAbs" />
+    <configuration name="NextEvenNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.NextEvenNum" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MKAD" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.LastNum" />
         <item itemvalue="Application.PurchasePrice" />
         <item itemvalue="Application.NextEvenNum" />
-        <item itemvalue="Application.NumsAbs" />
       </list>
     </recent_temporary>
   </component>
@@ -133,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00304" summary="update UserTest.java">
-      <created>1664283152743</created>
-      <option name="number" value="00304" />
-      <option name="presentableId" value="LOCAL-00304" />
-      <option name="project" value="LOCAL" />
-      <updated>1664283152743</updated>
     </task>
     <task id="LOCAL-00305" summary="relocate EmployeeTest.java">
       <created>1664283193832</created>
@@ -477,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664797922819</updated>
     </task>
-    <option name="localTasksCounter" value="353" />
+    <task id="LOCAL-00353" summary="update workspace.xml">
+      <created>1664798139566</created>
+      <option name="number" value="00353" />
+      <option name="presentableId" value="LOCAL-00353" />
+      <option name="project" value="LOCAL" />
+      <updated>1664798139566</updated>
+    </task>
+    <option name="localTasksCounter" value="354" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
