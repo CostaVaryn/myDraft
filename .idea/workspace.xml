@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/MKAD.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SumOfDigits.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/Snail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicdatatypes/SumOfDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,27 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00306" summary="relocate Employee.java">
-      <created>1664283206851</created>
-      <option name="number" value="00306" />
-      <option name="presentableId" value="LOCAL-00306" />
-      <option name="project" value="LOCAL" />
-      <updated>1664283206851</updated>
-    </task>
-    <task id="LOCAL-00307" summary="update workspace.xml">
-      <created>1664371409654</created>
-      <option name="number" value="00307" />
-      <option name="presentableId" value="LOCAL-00307" />
-      <option name="project" value="LOCAL" />
-      <updated>1664371409655</updated>
-    </task>
-    <task id="LOCAL-00308" summary="update TestScanner.java">
-      <created>1664371656040</created>
-      <option name="number" value="00308" />
-      <option name="presentableId" value="LOCAL-00308" />
-      <option name="project" value="LOCAL" />
-      <updated>1664371656040</updated>
     </task>
     <task id="LOCAL-00309" summary="update PersonData.java">
       <created>1664371826351</created>
@@ -479,7 +456,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664799434924</updated>
     </task>
-    <option name="localTasksCounter" value="355" />
+    <task id="LOCAL-00355" summary="update workspace.xml">
+      <created>1664800234522</created>
+      <option name="number" value="00355" />
+      <option name="presentableId" value="LOCAL-00355" />
+      <option name="project" value="LOCAL" />
+      <updated>1664800234522</updated>
+    </task>
+    <task id="LOCAL-00356" summary="add MKAD.java">
+      <created>1664800247733</created>
+      <option name="number" value="00356" />
+      <option name="presentableId" value="LOCAL-00356" />
+      <option name="project" value="LOCAL" />
+      <updated>1664800247733</updated>
+    </task>
+    <task id="LOCAL-00357" summary="add SumOfDigits.java">
+      <created>1664800256282</created>
+      <option name="number" value="00357" />
+      <option name="presentableId" value="LOCAL-00357" />
+      <option name="project" value="LOCAL" />
+      <updated>1664800256282</updated>
+    </task>
+    <option name="localTasksCounter" value="358" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,8 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add UserTest.java" />
-    <MESSAGE value="update UserTest.java" />
     <MESSAGE value="relocate EmployeeTest.java" />
     <MESSAGE value="relocate Employee.java" />
     <MESSAGE value="update TestScanner.java" />
@@ -519,7 +515,9 @@
     <MESSAGE value="add LastNum.java" />
     <MESSAGE value="relocate" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add MKAD.java" />
+    <MESSAGE value="add SumOfDigits.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SumOfDigits.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
