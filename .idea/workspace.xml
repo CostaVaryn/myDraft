@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/additionalcalculationtasks/WalleAndTwo.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WalleAndTwo.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/additionalcalculationtasks/WalleAndFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/additionalcalculationtasks/WalleAndFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/additionalcalculationtasks/WalleAndSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/additionalcalculationtasks/WalleAndThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/additionalcalculationtasks/Walle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/additionalcalculationtasks/WalleAndOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WalleAndTwo">
-    <configuration name="MKAD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.MKAD" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicdatatypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WalleAndFour">
     <configuration name="Snail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.Snail" />
       <module name="myDraft" />
@@ -75,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicdatatypes.SumOfDigits" />
+    <configuration name="WalleAndFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.additionalcalculationtasks.WalleAndFour" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicdatatypes.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.additionalcalculationtasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,8 +80,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Walle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.additionalcalculationtasks.Walle" />
+    <configuration name="WalleAndOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.additionalcalculationtasks.WalleAndOne" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.additionalcalculationtasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalleAndThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.additionalcalculationtasks.WalleAndThree" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WalleAndFour" />
+        <item itemvalue="Application.WalleAndThree" />
         <item itemvalue="Application.WalleAndTwo" />
-        <item itemvalue="Application.Walle" />
+        <item itemvalue="Application.WalleAndOne" />
         <item itemvalue="Application.Snail" />
-        <item itemvalue="Application.MKAD" />
-        <item itemvalue="Application.SumOfDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -132,27 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00317" summary="update workspace.xml">
-      <created>1664462260005</created>
-      <option name="number" value="00317" />
-      <option name="presentableId" value="LOCAL-00317" />
-      <option name="project" value="LOCAL" />
-      <updated>1664462260005</updated>
-    </task>
-    <task id="LOCAL-00318" summary="update workspace.xml">
-      <created>1664536163602</created>
-      <option name="number" value="00318" />
-      <option name="presentableId" value="LOCAL-00318" />
-      <option name="project" value="LOCAL" />
-      <updated>1664536163603</updated>
-    </task>
-    <task id="LOCAL-00319" summary="update workspace.xml">
-      <created>1664536611646</created>
-      <option name="number" value="00319" />
-      <option name="presentableId" value="LOCAL-00319" />
-      <option name="project" value="LOCAL" />
-      <updated>1664536611647</updated>
     </task>
     <task id="LOCAL-00320" summary="add KeywordAnalyzer.java">
       <created>1664536619904</created>
@@ -476,7 +460,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664810075968</updated>
     </task>
-    <option name="localTasksCounter" value="366" />
+    <task id="LOCAL-00366" summary="update workspace.xml">
+      <created>1664810681746</created>
+      <option name="number" value="00366" />
+      <option name="presentableId" value="LOCAL-00366" />
+      <option name="project" value="LOCAL" />
+      <updated>1664810681746</updated>
+    </task>
+    <task id="LOCAL-00367" summary="update workspace.xml">
+      <created>1664810708738</created>
+      <option name="number" value="00367" />
+      <option name="presentableId" value="LOCAL-00367" />
+      <option name="project" value="LOCAL" />
+      <updated>1664810708738</updated>
+    </task>
+    <task id="LOCAL-00368" summary="add WalleAndTwo.java">
+      <created>1664810717714</created>
+      <option name="number" value="00368" />
+      <option name="presentableId" value="LOCAL-00368" />
+      <option name="project" value="LOCAL" />
+      <updated>1664810717714</updated>
+    </task>
+    <option name="localTasksCounter" value="369" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update TestScanner.java" />
     <MESSAGE value="update PersonData.java" />
     <MESSAGE value="update NullObjectDesignPattern.java" />
     <MESSAGE value="add AvgNums.java" />
@@ -516,7 +520,8 @@
     <MESSAGE value="add Walle.java" />
     <MESSAGE value="add Snail.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add WalleAndTwo.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add WalleAndTwo.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
