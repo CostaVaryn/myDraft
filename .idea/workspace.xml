@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/GreatestOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/StrangeHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/TwoEqualLines.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add StrangeHours.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/YashaSwimsInThePool.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -138,48 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00347" summary="update workspace.xml">
-      <created>1664745531369</created>
-      <option name="number" value="00347" />
-      <option name="presentableId" value="LOCAL-00347" />
-      <option name="project" value="LOCAL" />
-      <updated>1664745531369</updated>
-    </task>
-    <task id="LOCAL-00348" summary="update workspace.xml">
-      <created>1664745931265</created>
-      <option name="number" value="00348" />
-      <option name="presentableId" value="LOCAL-00348" />
-      <option name="project" value="LOCAL" />
-      <updated>1664745931265</updated>
-    </task>
-    <task id="LOCAL-00349" summary="add LastNum.java">
-      <created>1664745938755</created>
-      <option name="number" value="00349" />
-      <option name="presentableId" value="LOCAL-00349" />
-      <option name="project" value="LOCAL" />
-      <updated>1664745938755</updated>
-    </task>
-    <task id="LOCAL-00350" summary="relocate">
-      <created>1664745975080</created>
-      <option name="number" value="00350" />
-      <option name="presentableId" value="LOCAL-00350" />
-      <option name="project" value="LOCAL" />
-      <updated>1664745975080</updated>
-    </task>
-    <task id="LOCAL-00351" summary="update workspace.xml">
-      <created>1664797028997</created>
-      <option name="number" value="00351" />
-      <option name="presentableId" value="LOCAL-00351" />
-      <option name="project" value="LOCAL" />
-      <updated>1664797028998</updated>
-    </task>
-    <task id="LOCAL-00352" summary="update workspace.xml">
-      <created>1664797922819</created>
-      <option name="number" value="00352" />
-      <option name="presentableId" value="LOCAL-00352" />
-      <option name="project" value="LOCAL" />
-      <updated>1664797922819</updated>
     </task>
     <task id="LOCAL-00353" summary="update workspace.xml">
       <created>1664798139566</created>
@@ -482,7 +435,49 @@
       <option name="project" value="LOCAL" />
       <updated>1664967748834</updated>
     </task>
-    <option name="localTasksCounter" value="396" />
+    <task id="LOCAL-00396" summary="update workspace.xml">
+      <created>1664969502772</created>
+      <option name="number" value="00396" />
+      <option name="presentableId" value="LOCAL-00396" />
+      <option name="project" value="LOCAL" />
+      <updated>1664969502772</updated>
+    </task>
+    <task id="LOCAL-00397" summary="add Chocolate.java">
+      <created>1664969512130</created>
+      <option name="number" value="00397" />
+      <option name="presentableId" value="LOCAL-00397" />
+      <option name="project" value="LOCAL" />
+      <updated>1664969512130</updated>
+    </task>
+    <task id="LOCAL-00398" summary="add GreatestOfThree.java">
+      <created>1664969518946</created>
+      <option name="number" value="00398" />
+      <option name="presentableId" value="LOCAL-00398" />
+      <option name="project" value="LOCAL" />
+      <updated>1664969518946</updated>
+    </task>
+    <task id="LOCAL-00399" summary="add LeapYear.java">
+      <created>1664969525572</created>
+      <option name="number" value="00399" />
+      <option name="presentableId" value="LOCAL-00399" />
+      <option name="project" value="LOCAL" />
+      <updated>1664969525572</updated>
+    </task>
+    <task id="LOCAL-00400" summary="add TwoEqualLines.java">
+      <created>1664969533049</created>
+      <option name="number" value="00400" />
+      <option name="presentableId" value="LOCAL-00400" />
+      <option name="project" value="LOCAL" />
+      <updated>1664969533049</updated>
+    </task>
+    <task id="LOCAL-00401" summary="add StrangeHours.java">
+      <created>1664969539344</created>
+      <option name="number" value="00401" />
+      <option name="presentableId" value="LOCAL-00401" />
+      <option name="project" value="LOCAL" />
+      <updated>1664969539344</updated>
+    </task>
+    <option name="localTasksCounter" value="402" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,11 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="relocate" />
-    <MESSAGE value="add MKAD.java" />
-    <MESSAGE value="add SumOfDigits.java" />
-    <MESSAGE value="add Walle.java" />
-    <MESSAGE value="add Snail.java" />
     <MESSAGE value="add WalleAndTwo.java" />
     <MESSAGE value="renamed" />
     <MESSAGE value="add WalleAndFive.java" />
@@ -522,7 +512,12 @@
     <MESSAGE value="add ThreeEqualLines.java" />
     <MESSAGE value="add RedRidingHood.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add Chocolate.java" />
+    <MESSAGE value="add GreatestOfThree.java" />
+    <MESSAGE value="add LeapYear.java" />
+    <MESSAGE value="add TwoEqualLines.java" />
+    <MESSAGE value="add StrangeHours.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add StrangeHours.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
