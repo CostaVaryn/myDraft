@@ -6,10 +6,17 @@ public class YashaSwimsInThePool {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt(), M = sc.nextInt(), x = sc.nextInt(), y = sc.nextInt();
-        int resNx = N - x;
-        int resMy = M - y;
-        int result = Math.min(Math.min(resNx,x),Math.min(resMy,y));
-        System.out.println(result);
+        int z = N - x;
+        int k = M - y;
+        if (x < y && x < z && x < k) {
+            System.out.println(x);
+        } else if (y < x && y < z && y < k) {
+            System.out.println(y);
+        } else if (z < x && z < y && z < k) {
+            System.out.println(z);
+        } else if (k < x && k < y && k < z) {
+            System.out.println(k);
+        }
     }
 }
 
