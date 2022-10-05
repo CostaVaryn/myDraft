@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add YashaSwimsInThePool.java">
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/YashaSwimsInThePool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/YashaSwimsInThePool.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update YashaSwimsInThePool.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/NumberOfDigitsOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,20 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00355" summary="update workspace.xml">
-      <created>1664800234522</created>
-      <option name="number" value="00355" />
-      <option name="presentableId" value="LOCAL-00355" />
-      <option name="project" value="LOCAL" />
-      <updated>1664800234522</updated>
-    </task>
-    <task id="LOCAL-00356" summary="add MKAD.java">
-      <created>1664800247733</created>
-      <option name="number" value="00356" />
-      <option name="presentableId" value="LOCAL-00356" />
-      <option name="project" value="LOCAL" />
-      <updated>1664800247733</updated>
     </task>
     <task id="LOCAL-00357" summary="add SumOfDigits.java">
       <created>1664800256282</created>
@@ -476,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664970915747</updated>
     </task>
-    <option name="localTasksCounter" value="404" />
+    <task id="LOCAL-00404" summary="update YashaSwimsInThePool.java">
+      <created>1664971147072</created>
+      <option name="number" value="00404" />
+      <option name="presentableId" value="LOCAL-00404" />
+      <option name="project" value="LOCAL" />
+      <updated>1664971147072</updated>
+    </task>
+    <task id="LOCAL-00405" summary="update YashaSwimsInThePool.java">
+      <created>1664971155554</created>
+      <option name="number" value="00405" />
+      <option name="presentableId" value="LOCAL-00405" />
+      <option name="project" value="LOCAL" />
+      <updated>1664971155554</updated>
+    </task>
+    <option name="localTasksCounter" value="406" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="renamed" />
     <MESSAGE value="add WalleAndFive.java" />
     <MESSAGE value="add WalleAndFour.java" />
     <MESSAGE value="add WalleAndThree.java" />
@@ -516,7 +517,8 @@
     <MESSAGE value="add StrangeHours.java" />
     <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add YashaSwimsInThePool.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add YashaSwimsInThePool.java" />
+    <MESSAGE value="update YashaSwimsInThePool.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update YashaSwimsInThePool.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
