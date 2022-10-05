@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ThreeEqualLines.java">
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/RedRidingHood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/conditionaloperator/RedRidingHood.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,20 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00343" summary="update workspace.xml">
-      <created>1664632058521</created>
-      <option name="number" value="00343" />
-      <option name="presentableId" value="LOCAL-00343" />
-      <option name="project" value="LOCAL" />
-      <updated>1664632058521</updated>
-    </task>
-    <task id="LOCAL-00344" summary="add NextEvenNum.java">
-      <created>1664632066710</created>
-      <option name="number" value="00344" />
-      <option name="presentableId" value="LOCAL-00344" />
-      <option name="project" value="LOCAL" />
-      <updated>1664632066710</updated>
     </task>
     <task id="LOCAL-00345" summary="update workspace.xml">
       <created>1664632322828</created>
@@ -476,7 +460,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664885208747</updated>
     </task>
-    <option name="localTasksCounter" value="392" />
+    <task id="LOCAL-00392" summary="add RedRidingHood.java">
+      <created>1664885497417</created>
+      <option name="number" value="00392" />
+      <option name="presentableId" value="LOCAL-00392" />
+      <option name="project" value="LOCAL" />
+      <updated>1664885497417</updated>
+    </task>
+    <task id="LOCAL-00393" summary="update workspace.xml">
+      <created>1664885505594</created>
+      <option name="number" value="00393" />
+      <option name="presentableId" value="LOCAL-00393" />
+      <option name="project" value="LOCAL" />
+      <updated>1664885505594</updated>
+    </task>
+    <option name="localTasksCounter" value="394" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -511,12 +509,12 @@
     <MESSAGE value="add WalleAndSix.java" />
     <MESSAGE value="add WalleAndTen.java" />
     <MESSAGE value="add WalleAndThirteen.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add DivideValue.java" />
-    <MESSAGE value="add RedRidingHood.java" />
     <MESSAGE value="add WhoIsBigger.java" />
     <MESSAGE value="add ThreeEqualLines.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ThreeEqualLines.java" />
+    <MESSAGE value="add RedRidingHood.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
