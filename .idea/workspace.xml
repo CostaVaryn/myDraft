@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/PointOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/PointTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationThree.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update PointTwo.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/PointFour.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,48 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00371" summary="add WalleAndFive.java">
-      <created>1664870671841</created>
-      <option name="number" value="00371" />
-      <option name="presentableId" value="LOCAL-00371" />
-      <option name="project" value="LOCAL" />
-      <updated>1664870671841</updated>
-    </task>
-    <task id="LOCAL-00372" summary="add WalleAndFour.java">
-      <created>1664870680271</created>
-      <option name="number" value="00372" />
-      <option name="presentableId" value="LOCAL-00372" />
-      <option name="project" value="LOCAL" />
-      <updated>1664870680271</updated>
-    </task>
-    <task id="LOCAL-00373" summary="add WalleAndSix.java">
-      <created>1664870695028</created>
-      <option name="number" value="00373" />
-      <option name="presentableId" value="LOCAL-00373" />
-      <option name="project" value="LOCAL" />
-      <updated>1664870695028</updated>
-    </task>
-    <task id="LOCAL-00374" summary="add WalleAndThree.java">
-      <created>1664870702938</created>
-      <option name="number" value="00374" />
-      <option name="presentableId" value="LOCAL-00374" />
-      <option name="project" value="LOCAL" />
-      <updated>1664870702938</updated>
-    </task>
-    <task id="LOCAL-00375" summary="update workspace.xml">
-      <created>1664881473024</created>
-      <option name="number" value="00375" />
-      <option name="presentableId" value="LOCAL-00375" />
-      <option name="project" value="LOCAL" />
-      <updated>1664881473024</updated>
-    </task>
-    <task id="LOCAL-00376" summary="update workspace.xml">
-      <created>1664883101633</created>
-      <option name="number" value="00376" />
-      <option name="presentableId" value="LOCAL-00376" />
-      <option name="project" value="LOCAL" />
-      <updated>1664883101633</updated>
     </task>
     <task id="LOCAL-00377" summary="add WalleAndTwelve.java">
       <created>1664883109260</created>
@@ -479,7 +434,49 @@
       <option name="project" value="LOCAL" />
       <updated>1665058421271</updated>
     </task>
-    <option name="localTasksCounter" value="420" />
+    <task id="LOCAL-00420" summary="update workspace.xml">
+      <created>1665059147418</created>
+      <option name="number" value="00420" />
+      <option name="presentableId" value="LOCAL-00420" />
+      <option name="project" value="LOCAL" />
+      <updated>1665059147418</updated>
+    </task>
+    <task id="LOCAL-00421" summary="add EquationThree.java">
+      <created>1665059160188</created>
+      <option name="number" value="00421" />
+      <option name="presentableId" value="LOCAL-00421" />
+      <option name="project" value="LOCAL" />
+      <updated>1665059160188</updated>
+    </task>
+    <task id="LOCAL-00422" summary="add PointOne.java">
+      <created>1665059168097</created>
+      <option name="number" value="00422" />
+      <option name="presentableId" value="LOCAL-00422" />
+      <option name="project" value="LOCAL" />
+      <updated>1665059168097</updated>
+    </task>
+    <task id="LOCAL-00423" summary="add PointThree.java">
+      <created>1665059175413</created>
+      <option name="number" value="00423" />
+      <option name="presentableId" value="LOCAL-00423" />
+      <option name="project" value="LOCAL" />
+      <updated>1665059175413</updated>
+    </task>
+    <task id="LOCAL-00424" summary="add PointTwo.java">
+      <created>1665059182092</created>
+      <option name="number" value="00424" />
+      <option name="presentableId" value="LOCAL-00424" />
+      <option name="project" value="LOCAL" />
+      <updated>1665059182092</updated>
+    </task>
+    <task id="LOCAL-00425" summary="update PointTwo.java">
+      <created>1665059305451</created>
+      <option name="number" value="00425" />
+      <option name="presentableId" value="LOCAL-00425" />
+      <option name="project" value="LOCAL" />
+      <updated>1665059305451</updated>
+    </task>
+    <option name="localTasksCounter" value="426" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,10 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add WalleAndFifteen.java" />
-    <MESSAGE value="add WalleAndFourteen.java" />
-    <MESSAGE value="add WalleAndNine.java" />
-    <MESSAGE value="add WalleAndSeven.java" />
     <MESSAGE value="add WalleAndSix.java" />
     <MESSAGE value="add WalleAndTen.java" />
     <MESSAGE value="add WalleAndThirteen.java" />
@@ -517,9 +510,13 @@
     <MESSAGE value="add NumberOfDigitsOne.java" />
     <MESSAGE value="add EquationOne.java" />
     <MESSAGE value="add EquationTwo.java" />
-    <MESSAGE value="add EquationThree.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add EquationThree.java" />
+    <MESSAGE value="add PointOne.java" />
+    <MESSAGE value="add PointThree.java" />
+    <MESSAGE value="add PointTwo.java" />
+    <MESSAGE value="update PointTwo.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update PointTwo.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
