@@ -7,16 +7,20 @@ public class EquationThree {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
         int D = b * b - 4 * a * c;
-        if (a != 0) {
-            if (D < 0) {
+        if (a == 0) {
+            if (b == 0 && c != 0) {
                 System.out.println("0");
+            } else if (b == 0 && c == 0) {
+                System.out.println("inf");
             } else {
-                System.out.println(D == 0 ? "1" : "2");
+                System.out.println("1");
             }
-        } else if (a == 0 && b == 0) {
-            System.out.println("inf");
+        } else if (D < 0) {
+            System.out.println("0");
+        } else if(D > 0) {
+            System.out.println("2");
         } else {
-            System.out.println(a != 0 ? "1" : "0");
+            System.out.println("1");
         }
     }
 }
