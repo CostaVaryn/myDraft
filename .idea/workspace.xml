@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/PointFive.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/PointFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/PointSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00378" summary="add WalleAndEight.java">
-      <created>1664883117458</created>
-      <option name="number" value="00378" />
-      <option name="presentableId" value="LOCAL-00378" />
-      <option name="project" value="LOCAL" />
-      <updated>1664883117458</updated>
     </task>
     <task id="LOCAL-00379" summary="add WalleAndEleven.java">
       <created>1664883125183</created>
@@ -476,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665059490518</updated>
     </task>
-    <option name="localTasksCounter" value="427" />
+    <task id="LOCAL-00427" summary="update workspace.xml">
+      <created>1665059955241</created>
+      <option name="number" value="00427" />
+      <option name="presentableId" value="LOCAL-00427" />
+      <option name="project" value="LOCAL" />
+      <updated>1665059955241</updated>
+    </task>
+    <option name="localTasksCounter" value="428" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
