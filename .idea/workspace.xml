@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationTwo.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add EquationTwo.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,27 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00363" summary="add Walle.java">
-      <created>1664809051229</created>
-      <option name="number" value="00363" />
-      <option name="presentableId" value="LOCAL-00363" />
-      <option name="project" value="LOCAL" />
-      <updated>1664809051229</updated>
-    </task>
-    <task id="LOCAL-00364" summary="add Snail.java">
-      <created>1664809062778</created>
-      <option name="number" value="00364" />
-      <option name="presentableId" value="LOCAL-00364" />
-      <option name="project" value="LOCAL" />
-      <updated>1664809062778</updated>
-    </task>
-    <task id="LOCAL-00365" summary="update workspace.xml">
-      <created>1664810075968</created>
-      <option name="number" value="00365" />
-      <option name="presentableId" value="LOCAL-00365" />
-      <option name="project" value="LOCAL" />
-      <updated>1664810075968</updated>
     </task>
     <task id="LOCAL-00366" summary="update workspace.xml">
       <created>1664810681746</created>
@@ -477,7 +453,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664973119601</updated>
     </task>
-    <option name="localTasksCounter" value="412" />
+    <task id="LOCAL-00412" summary="update workspace.xml">
+      <created>1664973550730</created>
+      <option name="number" value="00412" />
+      <option name="presentableId" value="LOCAL-00412" />
+      <option name="project" value="LOCAL" />
+      <updated>1664973550730</updated>
+    </task>
+    <task id="LOCAL-00413" summary="add EquationOne.java">
+      <created>1664973653299</created>
+      <option name="number" value="00413" />
+      <option name="presentableId" value="LOCAL-00413" />
+      <option name="project" value="LOCAL" />
+      <updated>1664973653299</updated>
+    </task>
+    <task id="LOCAL-00414" summary="add EquationTwo.java">
+      <created>1664973663581</created>
+      <option name="number" value="00414" />
+      <option name="presentableId" value="LOCAL-00414" />
+      <option name="project" value="LOCAL" />
+      <updated>1664973663581</updated>
+    </task>
+    <option name="localTasksCounter" value="415" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,8 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add WalleAndTwelve.java" />
-    <MESSAGE value="add WalleAndEight.java" />
     <MESSAGE value="add WalleAndEleven.java" />
     <MESSAGE value="add WalleAndFifteen.java" />
     <MESSAGE value="add WalleAndFourteen.java" />
@@ -517,7 +512,9 @@
     <MESSAGE value="add NumberOfDigitsTwo.java" />
     <MESSAGE value="add NumberOfDigitsOne.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add EquationOne.java" />
+    <MESSAGE value="add EquationTwo.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add EquationTwo.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
