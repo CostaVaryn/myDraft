@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update PointTwo.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/PointFour.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00377" summary="add WalleAndTwelve.java">
-      <created>1664883109260</created>
-      <option name="number" value="00377" />
-      <option name="presentableId" value="LOCAL-00377" />
-      <option name="project" value="LOCAL" />
-      <updated>1664883109260</updated>
     </task>
     <task id="LOCAL-00378" summary="add WalleAndEight.java">
       <created>1664883117458</created>
@@ -476,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665059305451</updated>
     </task>
-    <option name="localTasksCounter" value="426" />
+    <task id="LOCAL-00426" summary="update workspace.xml">
+      <created>1665059490518</created>
+      <option name="number" value="00426" />
+      <option name="presentableId" value="LOCAL-00426" />
+      <option name="project" value="LOCAL" />
+      <updated>1665059490518</updated>
+    </task>
+    <option name="localTasksCounter" value="427" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -510,13 +510,13 @@
     <MESSAGE value="add NumberOfDigitsOne.java" />
     <MESSAGE value="add EquationOne.java" />
     <MESSAGE value="add EquationTwo.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add EquationThree.java" />
     <MESSAGE value="add PointOne.java" />
     <MESSAGE value="add PointThree.java" />
     <MESSAGE value="add PointTwo.java" />
     <MESSAGE value="update PointTwo.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update PointTwo.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
