@@ -6,7 +6,7 @@ public class PointThree {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         double x = sc.nextDouble(), y = sc.nextDouble();
-        if ((y > (2*x)) && (y < (3*x))) {
+        if ((y < (x/2)) && (y > ((x*x)-(2*x)-3))) {
             System.out.println("Yes");
         } else {
             System.out.println("No");
