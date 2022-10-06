@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add EquationThree.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/PointOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00369" summary="update workspace.xml">
-      <created>1664870627417</created>
-      <option name="number" value="00369" />
-      <option name="presentableId" value="LOCAL-00369" />
-      <option name="project" value="LOCAL" />
-      <updated>1664870627417</updated>
     </task>
     <task id="LOCAL-00370" summary="renamed">
       <created>1664870661363</created>
@@ -476,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665053833180</updated>
     </task>
-    <option name="localTasksCounter" value="418" />
+    <task id="LOCAL-00418" summary="update workspace.xml">
+      <created>1665054184913</created>
+      <option name="number" value="00418" />
+      <option name="presentableId" value="LOCAL-00418" />
+      <option name="project" value="LOCAL" />
+      <updated>1665054184913</updated>
+    </task>
+    <option name="localTasksCounter" value="419" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,9 +516,9 @@
     <MESSAGE value="add NumberOfDigitsOne.java" />
     <MESSAGE value="add EquationOne.java" />
     <MESSAGE value="add EquationTwo.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add EquationThree.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add EquationThree.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
