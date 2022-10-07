@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/AreYou21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/CoordinateQuarters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Elephant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Hypotenuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/JustMainNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Rook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/SameCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Triangle.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Triangle.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Cows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Cutlets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,83 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00389" summary="add RedRidingHood.java">
-      <created>1664885190399</created>
-      <option name="number" value="00389" />
-      <option name="presentableId" value="LOCAL-00389" />
-      <option name="project" value="LOCAL" />
-      <updated>1664885190399</updated>
-    </task>
-    <task id="LOCAL-00390" summary="add WhoIsBigger.java">
-      <created>1664885202573</created>
-      <option name="number" value="00390" />
-      <option name="presentableId" value="LOCAL-00390" />
-      <option name="project" value="LOCAL" />
-      <updated>1664885202573</updated>
-    </task>
-    <task id="LOCAL-00391" summary="add ThreeEqualLines.java">
-      <created>1664885208747</created>
-      <option name="number" value="00391" />
-      <option name="presentableId" value="LOCAL-00391" />
-      <option name="project" value="LOCAL" />
-      <updated>1664885208747</updated>
-    </task>
-    <task id="LOCAL-00392" summary="add RedRidingHood.java">
-      <created>1664885497417</created>
-      <option name="number" value="00392" />
-      <option name="presentableId" value="LOCAL-00392" />
-      <option name="project" value="LOCAL" />
-      <updated>1664885497417</updated>
-    </task>
-    <task id="LOCAL-00393" summary="update workspace.xml">
-      <created>1664885505594</created>
-      <option name="number" value="00393" />
-      <option name="presentableId" value="LOCAL-00393" />
-      <option name="project" value="LOCAL" />
-      <updated>1664885505594</updated>
-    </task>
-    <task id="LOCAL-00394" summary="update workspace.xml">
-      <created>1664966186184</created>
-      <option name="number" value="00394" />
-      <option name="presentableId" value="LOCAL-00394" />
-      <option name="project" value="LOCAL" />
-      <updated>1664966186185</updated>
-    </task>
-    <task id="LOCAL-00395" summary="update workspace.xml">
-      <created>1664967748834</created>
-      <option name="number" value="00395" />
-      <option name="presentableId" value="LOCAL-00395" />
-      <option name="project" value="LOCAL" />
-      <updated>1664967748834</updated>
-    </task>
-    <task id="LOCAL-00396" summary="update workspace.xml">
-      <created>1664969502772</created>
-      <option name="number" value="00396" />
-      <option name="presentableId" value="LOCAL-00396" />
-      <option name="project" value="LOCAL" />
-      <updated>1664969502772</updated>
-    </task>
-    <task id="LOCAL-00397" summary="add Chocolate.java">
-      <created>1664969512130</created>
-      <option name="number" value="00397" />
-      <option name="presentableId" value="LOCAL-00397" />
-      <option name="project" value="LOCAL" />
-      <updated>1664969512130</updated>
-    </task>
-    <task id="LOCAL-00398" summary="add GreatestOfThree.java">
-      <created>1664969518946</created>
-      <option name="number" value="00398" />
-      <option name="presentableId" value="LOCAL-00398" />
-      <option name="project" value="LOCAL" />
-      <updated>1664969518946</updated>
-    </task>
-    <task id="LOCAL-00399" summary="add LeapYear.java">
-      <created>1664969525572</created>
-      <option name="number" value="00399" />
-      <option name="presentableId" value="LOCAL-00399" />
-      <option name="project" value="LOCAL" />
-      <updated>1664969525572</updated>
     </task>
     <task id="LOCAL-00400" summary="add TwoEqualLines.java">
       <created>1664969533049</created>
@@ -485,7 +401,84 @@
       <option name="project" value="LOCAL" />
       <updated>1665137963262</updated>
     </task>
-    <option name="localTasksCounter" value="438" />
+    <task id="LOCAL-00438" summary="update workspace.xml">
+      <created>1665138538307</created>
+      <option name="number" value="00438" />
+      <option name="presentableId" value="LOCAL-00438" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138538307</updated>
+    </task>
+    <task id="LOCAL-00439" summary="add AreYou21.java">
+      <created>1665138545225</created>
+      <option name="number" value="00439" />
+      <option name="presentableId" value="LOCAL-00439" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138545225</updated>
+    </task>
+    <task id="LOCAL-00440" summary="add CoordinateQuarters.java">
+      <created>1665138553221</created>
+      <option name="number" value="00440" />
+      <option name="presentableId" value="LOCAL-00440" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138553221</updated>
+    </task>
+    <task id="LOCAL-00441" summary="add Elephant.java">
+      <created>1665138561265</created>
+      <option name="number" value="00441" />
+      <option name="presentableId" value="LOCAL-00441" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138561265</updated>
+    </task>
+    <task id="LOCAL-00442" summary="add Horse.java">
+      <created>1665138568582</created>
+      <option name="number" value="00442" />
+      <option name="presentableId" value="LOCAL-00442" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138568582</updated>
+    </task>
+    <task id="LOCAL-00443" summary="add Hypotenuse.java">
+      <created>1665138574272</created>
+      <option name="number" value="00443" />
+      <option name="presentableId" value="LOCAL-00443" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138574273</updated>
+    </task>
+    <task id="LOCAL-00444" summary="add JustMainNums.java">
+      <created>1665138583251</created>
+      <option name="number" value="00444" />
+      <option name="presentableId" value="LOCAL-00444" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138583251</updated>
+    </task>
+    <task id="LOCAL-00445" summary="add Queen.java">
+      <created>1665138588967</created>
+      <option name="number" value="00445" />
+      <option name="presentableId" value="LOCAL-00445" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138588967</updated>
+    </task>
+    <task id="LOCAL-00446" summary="add Rook.java">
+      <created>1665138595174</created>
+      <option name="number" value="00446" />
+      <option name="presentableId" value="LOCAL-00446" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138595174</updated>
+    </task>
+    <task id="LOCAL-00447" summary="add SameCoffee.java">
+      <created>1665138600553</created>
+      <option name="number" value="00447" />
+      <option name="presentableId" value="LOCAL-00447" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138600553</updated>
+    </task>
+    <task id="LOCAL-00448" summary="add Triangle.java">
+      <created>1665138605975</created>
+      <option name="number" value="00448" />
+      <option name="presentableId" value="LOCAL-00448" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138605975</updated>
+    </task>
+    <option name="localTasksCounter" value="449" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,16 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add WhoIsBigger.java" />
-    <MESSAGE value="add ThreeEqualLines.java" />
-    <MESSAGE value="add RedRidingHood.java" />
-    <MESSAGE value="add Chocolate.java" />
-    <MESSAGE value="add GreatestOfThree.java" />
-    <MESSAGE value="add LeapYear.java" />
-    <MESSAGE value="add TwoEqualLines.java" />
-    <MESSAGE value="add StrangeHours.java" />
-    <MESSAGE value="add YashaSwimsInThePool.java" />
-    <MESSAGE value="update YashaSwimsInThePool.java" />
     <MESSAGE value="add Temperature.java" />
     <MESSAGE value="add NumberOfDigitsTwo.java" />
     <MESSAGE value="add NumberOfDigitsOne.java" />
@@ -525,7 +508,17 @@
     <MESSAGE value="add PointFour.java" />
     <MESSAGE value="add PointSix.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add AreYou21.java" />
+    <MESSAGE value="add CoordinateQuarters.java" />
+    <MESSAGE value="add Elephant.java" />
+    <MESSAGE value="add Horse.java" />
+    <MESSAGE value="add Hypotenuse.java" />
+    <MESSAGE value="add JustMainNums.java" />
+    <MESSAGE value="add Queen.java" />
+    <MESSAGE value="add Rook.java" />
+    <MESSAGE value="add SameCoffee.java" />
+    <MESSAGE value="add Triangle.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Triangle.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
