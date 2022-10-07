@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add PointSix.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,13 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00385" summary="add WalleAndTen.java">
-      <created>1664883176335</created>
-      <option name="number" value="00385" />
-      <option name="presentableId" value="LOCAL-00385" />
-      <option name="project" value="LOCAL" />
-      <updated>1664883176335</updated>
     </task>
     <task id="LOCAL-00386" summary="add WalleAndThirteen.java">
       <created>1664883183852</created>
@@ -474,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665061386736</updated>
     </task>
-    <option name="localTasksCounter" value="434" />
+    <task id="LOCAL-00434" summary="update workspace.xml">
+      <created>1665062290226</created>
+      <option name="number" value="00434" />
+      <option name="presentableId" value="LOCAL-00434" />
+      <option name="project" value="LOCAL" />
+      <updated>1665062290226</updated>
+    </task>
+    <option name="localTasksCounter" value="435" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,12 +509,12 @@
     <MESSAGE value="add PointThree.java" />
     <MESSAGE value="add PointTwo.java" />
     <MESSAGE value="update PointTwo.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update EquationThree.java" />
     <MESSAGE value="add PointFive.java" />
     <MESSAGE value="add PointFour.java" />
     <MESSAGE value="add PointSix.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add PointSix.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
