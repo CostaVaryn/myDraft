@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Triangle.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Cows.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/Cutlets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00400" summary="add TwoEqualLines.java">
-      <created>1664969533049</created>
-      <option name="number" value="00400" />
-      <option name="presentableId" value="LOCAL-00400" />
-      <option name="project" value="LOCAL" />
-      <updated>1664969533049</updated>
     </task>
     <task id="LOCAL-00401" summary="add StrangeHours.java">
       <created>1664969539344</created>
@@ -478,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665138605975</updated>
     </task>
-    <option name="localTasksCounter" value="449" />
+    <task id="LOCAL-00449" summary="update workspace.xml">
+      <created>1665139362136</created>
+      <option name="number" value="00449" />
+      <option name="presentableId" value="LOCAL-00449" />
+      <option name="project" value="LOCAL" />
+      <updated>1665139362136</updated>
+    </task>
+    <option name="localTasksCounter" value="450" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,7 +506,6 @@
     <MESSAGE value="add PointFive.java" />
     <MESSAGE value="add PointFour.java" />
     <MESSAGE value="add PointSix.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add AreYou21.java" />
     <MESSAGE value="add CoordinateQuarters.java" />
     <MESSAGE value="add Elephant.java" />
@@ -518,7 +516,8 @@
     <MESSAGE value="add Rook.java" />
     <MESSAGE value="add SameCoffee.java" />
     <MESSAGE value="add Triangle.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Triangle.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
