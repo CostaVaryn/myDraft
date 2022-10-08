@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add RomanNumeralSystem.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/MinimumDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/Quantity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/ReadNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/Squares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrangeThreeNumbers">
+  <component name="RunManager" selected="Application.Maximum">
     <configuration name="ArrangeThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.ternaryoperator.ArrangeThreeNumbers" />
       <module name="myDraft" />
@@ -66,6 +75,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stepik.javabasics.languagebasics.ternaryoperator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.cycleconceptwhile.Maximum" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.cycleconceptwhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WalleAndThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.additionalcalculationtasks.WalleAndThree" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.additionalcalculationtasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximum" />
         <item itemvalue="Application.ArrangeThreeNumbers" />
         <item itemvalue="Application.JustMainNums" />
         <item itemvalue="Application.ThreeEqualLines" />
         <item itemvalue="Application.WalleAndFour" />
-        <item itemvalue="Application.WalleAndThree" />
       </list>
     </recent_temporary>
   </component>
@@ -130,13 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00409" summary="add NumberOfDigitsTwo.java">
-      <created>1664972714589</created>
-      <option name="number" value="00409" />
-      <option name="presentableId" value="LOCAL-00409" />
-      <option name="project" value="LOCAL" />
-      <updated>1664972714589</updated>
     </task>
     <task id="LOCAL-00410" summary="add NumberOfDigitsOne.java">
       <created>1664972721105</created>
@@ -474,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665143259635</updated>
     </task>
-    <option name="localTasksCounter" value="458" />
+    <task id="LOCAL-00458" summary="update workspace.xml">
+      <created>1665143299027</created>
+      <option name="number" value="00458" />
+      <option name="presentableId" value="LOCAL-00458" />
+      <option name="project" value="LOCAL" />
+      <updated>1665143299027</updated>
+    </task>
+    <option name="localTasksCounter" value="459" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,12 +518,12 @@
     <MESSAGE value="add Rook.java" />
     <MESSAGE value="add SameCoffee.java" />
     <MESSAGE value="add Triangle.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ArrangeThreeNumbers.java" />
     <MESSAGE value="add Cows.java" />
     <MESSAGE value="add Cutlets.java" />
     <MESSAGE value="add RomanNumeralSystem.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add RomanNumeralSystem.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -536,11 +545,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForEasyInserted.java</url>
           <line>8</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/arrays/ArrListTest.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/JustMainNums.java</url>
