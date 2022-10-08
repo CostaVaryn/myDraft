@@ -139,13 +139,6 @@
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
     </task>
-    <task id="LOCAL-00412" summary="update workspace.xml">
-      <created>1664973550730</created>
-      <option name="number" value="00412" />
-      <option name="presentableId" value="LOCAL-00412" />
-      <option name="project" value="LOCAL" />
-      <updated>1664973550730</updated>
-    </task>
     <task id="LOCAL-00413" summary="add EquationOne.java">
       <created>1664973653299</created>
       <option name="number" value="00413" />
@@ -482,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665230323131</updated>
     </task>
-    <option name="localTasksCounter" value="461" />
+    <task id="LOCAL-00461" summary="update workspace.xml">
+      <created>1665233122646</created>
+      <option name="number" value="00461" />
+      <option name="presentableId" value="LOCAL-00461" />
+      <option name="project" value="LOCAL" />
+      <updated>1665233122646</updated>
+    </task>
+    <option name="localTasksCounter" value="462" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
