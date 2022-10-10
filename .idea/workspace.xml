@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/EvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/Maximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/MinimumDivisor.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add MinimumDivisor.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/Quantity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/ReadNums.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/Squares.java" afterDir="false" />
@@ -138,34 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00414" summary="add EquationTwo.java">
-      <created>1664973663581</created>
-      <option name="number" value="00414" />
-      <option name="presentableId" value="LOCAL-00414" />
-      <option name="project" value="LOCAL" />
-      <updated>1664973663581</updated>
-    </task>
-    <task id="LOCAL-00415" summary="update workspace.xml">
-      <created>1665053451616</created>
-      <option name="number" value="00415" />
-      <option name="presentableId" value="LOCAL-00415" />
-      <option name="project" value="LOCAL" />
-      <updated>1665053451617</updated>
-    </task>
-    <task id="LOCAL-00416" summary="update workspace.xml">
-      <created>1665053817582</created>
-      <option name="number" value="00416" />
-      <option name="presentableId" value="LOCAL-00416" />
-      <option name="project" value="LOCAL" />
-      <updated>1665053817582</updated>
-    </task>
-    <task id="LOCAL-00417" summary="add EquationThree.java">
-      <created>1665053833180</created>
-      <option name="number" value="00417" />
-      <option name="presentableId" value="LOCAL-00417" />
-      <option name="project" value="LOCAL" />
-      <updated>1665053833180</updated>
     </task>
     <task id="LOCAL-00418" summary="update workspace.xml">
       <created>1665054184913</created>
@@ -482,7 +451,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665243268712</updated>
     </task>
-    <option name="localTasksCounter" value="463" />
+    <task id="LOCAL-00463" summary="update workspace.xml">
+      <created>1665318350661</created>
+      <option name="number" value="00463" />
+      <option name="presentableId" value="LOCAL-00463" />
+      <option name="project" value="LOCAL" />
+      <updated>1665318350661</updated>
+    </task>
+    <task id="LOCAL-00464" summary="add EvenNumbers.java">
+      <created>1665318641645</created>
+      <option name="number" value="00464" />
+      <option name="presentableId" value="LOCAL-00464" />
+      <option name="project" value="LOCAL" />
+      <updated>1665318641645</updated>
+    </task>
+    <task id="LOCAL-00465" summary="add Maximum.java">
+      <created>1665318654950</created>
+      <option name="number" value="00465" />
+      <option name="presentableId" value="LOCAL-00465" />
+      <option name="project" value="LOCAL" />
+      <updated>1665318654950</updated>
+    </task>
+    <task id="LOCAL-00466" summary="add MinimumDivisor.java">
+      <created>1665318664269</created>
+      <option name="number" value="00466" />
+      <option name="presentableId" value="LOCAL-00466" />
+      <option name="project" value="LOCAL" />
+      <updated>1665318664269</updated>
+    </task>
+    <option name="localTasksCounter" value="467" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,9 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add EquationTwo.java" />
-    <MESSAGE value="add EquationThree.java" />
-    <MESSAGE value="add PointOne.java" />
     <MESSAGE value="add PointThree.java" />
     <MESSAGE value="add PointTwo.java" />
     <MESSAGE value="update PointTwo.java" />
@@ -522,7 +516,10 @@
     <MESSAGE value="add Cutlets.java" />
     <MESSAGE value="add RomanNumeralSystem.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add EvenNumbers.java" />
+    <MESSAGE value="add Maximum.java" />
+    <MESSAGE value="add MinimumDivisor.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add MinimumDivisor.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
