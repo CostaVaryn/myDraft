@@ -14,7 +14,8 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/Sum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/SumNaturalNums.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cycleconceptwhile/SumOfSquares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,13 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00424" summary="add PointTwo.java">
-      <created>1665059182092</created>
-      <option name="number" value="00424" />
-      <option name="presentableId" value="LOCAL-00424" />
-      <option name="project" value="LOCAL" />
-      <updated>1665059182092</updated>
     </task>
     <task id="LOCAL-00425" summary="update PointTwo.java">
       <created>1665059305451</created>
@@ -485,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665397747524</updated>
     </task>
-    <option name="localTasksCounter" value="473" />
+    <task id="LOCAL-00473" summary="update workspace.xml">
+      <created>1665398597593</created>
+      <option name="number" value="00473" />
+      <option name="presentableId" value="LOCAL-00473" />
+      <option name="project" value="LOCAL" />
+      <updated>1665398597593</updated>
+    </task>
+    <option name="localTasksCounter" value="474" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
