@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Task10.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/AgainAmount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/BinaryNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/FindCube2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/FindTheCube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/GeometricProgression.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add GeometricProgression.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/HowManyMaximum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/MinAndMax.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/Multiplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/Only7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/Repetition1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/Repetition2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskscycles/Dollars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskscycles/Multy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskscycles/Repeat10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskscycles/SumOfSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskscycles/SumSameNums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,22 +59,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindCube2">
+  <component name="RunManager" selected="Application.SumSameNums">
     <configuration name="BinaryNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.cyclefor.BinaryNotation" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.cyclefor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.cyclefor.Factorial" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -126,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumSameNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.taskscycles.SumSameNums" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.taskscycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumSameNums" />
         <item itemvalue="Application.FindCube2" />
         <item itemvalue="Application.BinaryNotation" />
         <item itemvalue="Application.GeometricProgression" />
         <item itemvalue="Application.Multiplication" />
-        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -144,55 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00453" summary="update workspace.xml">
-      <created>1665143233752</created>
-      <option name="number" value="00453" />
-      <option name="presentableId" value="LOCAL-00453" />
-      <option name="project" value="LOCAL" />
-      <updated>1665143233752</updated>
-    </task>
-    <task id="LOCAL-00454" summary="add ArrangeThreeNumbers.java">
-      <created>1665143242457</created>
-      <option name="number" value="00454" />
-      <option name="presentableId" value="LOCAL-00454" />
-      <option name="project" value="LOCAL" />
-      <updated>1665143242457</updated>
-    </task>
-    <task id="LOCAL-00455" summary="add Cows.java">
-      <created>1665143248757</created>
-      <option name="number" value="00455" />
-      <option name="presentableId" value="LOCAL-00455" />
-      <option name="project" value="LOCAL" />
-      <updated>1665143248757</updated>
-    </task>
-    <task id="LOCAL-00456" summary="add Cutlets.java">
-      <created>1665143254055</created>
-      <option name="number" value="00456" />
-      <option name="presentableId" value="LOCAL-00456" />
-      <option name="project" value="LOCAL" />
-      <updated>1665143254055</updated>
-    </task>
-    <task id="LOCAL-00457" summary="add RomanNumeralSystem.java">
-      <created>1665143259635</created>
-      <option name="number" value="00457" />
-      <option name="presentableId" value="LOCAL-00457" />
-      <option name="project" value="LOCAL" />
-      <updated>1665143259635</updated>
-    </task>
-    <task id="LOCAL-00458" summary="update workspace.xml">
-      <created>1665143299027</created>
-      <option name="number" value="00458" />
-      <option name="presentableId" value="LOCAL-00458" />
-      <option name="project" value="LOCAL" />
-      <updated>1665143299027</updated>
-    </task>
-    <task id="LOCAL-00459" summary="update workspace.xml">
-      <created>1665226599908</created>
-      <option name="number" value="00459" />
-      <option name="presentableId" value="LOCAL-00459" />
-      <option name="project" value="LOCAL" />
-      <updated>1665226599909</updated>
     </task>
     <task id="LOCAL-00460" summary="update workspace.xml">
       <created>1665230323127</created>
@@ -488,7 +438,56 @@
       <option name="project" value="LOCAL" />
       <updated>1665480117810</updated>
     </task>
-    <option name="localTasksCounter" value="502" />
+    <task id="LOCAL-00502" summary="update workspace.xml">
+      <created>1665484012748</created>
+      <option name="number" value="00502" />
+      <option name="presentableId" value="LOCAL-00502" />
+      <option name="project" value="LOCAL" />
+      <updated>1665484012748</updated>
+    </task>
+    <task id="LOCAL-00503" summary="add AgainAmount.java">
+      <created>1665484058266</created>
+      <option name="number" value="00503" />
+      <option name="presentableId" value="LOCAL-00503" />
+      <option name="project" value="LOCAL" />
+      <updated>1665484058266</updated>
+    </task>
+    <task id="LOCAL-00504" summary="add BinaryNotation.java">
+      <created>1665484064668</created>
+      <option name="number" value="00504" />
+      <option name="presentableId" value="LOCAL-00504" />
+      <option name="project" value="LOCAL" />
+      <updated>1665484064668</updated>
+    </task>
+    <task id="LOCAL-00505" summary="add Factorial.java">
+      <created>1665484073547</created>
+      <option name="number" value="00505" />
+      <option name="presentableId" value="LOCAL-00505" />
+      <option name="project" value="LOCAL" />
+      <updated>1665484073547</updated>
+    </task>
+    <task id="LOCAL-00506" summary="add FindCube2.java">
+      <created>1665484404484</created>
+      <option name="number" value="00506" />
+      <option name="presentableId" value="LOCAL-00506" />
+      <option name="project" value="LOCAL" />
+      <updated>1665484404484</updated>
+    </task>
+    <task id="LOCAL-00507" summary="add FindTheCube.java">
+      <created>1665484412925</created>
+      <option name="number" value="00507" />
+      <option name="presentableId" value="LOCAL-00507" />
+      <option name="project" value="LOCAL" />
+      <updated>1665484412925</updated>
+    </task>
+    <task id="LOCAL-00508" summary="add GeometricProgression.java">
+      <created>1665484424897</created>
+      <option name="number" value="00508" />
+      <option name="presentableId" value="LOCAL-00508" />
+      <option name="project" value="LOCAL" />
+      <updated>1665484424897</updated>
+    </task>
+    <option name="localTasksCounter" value="509" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,12 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Cutlets.java" />
-    <MESSAGE value="add RomanNumeralSystem.java" />
-    <MESSAGE value="add EvenNumbers.java" />
-    <MESSAGE value="add Maximum.java" />
-    <MESSAGE value="add MinimumDivisor.java" />
-    <MESSAGE value="add MorningRunning.java" />
     <MESSAGE value="add NumberOfElements.java" />
     <MESSAGE value="add Quantity.java" />
     <MESSAGE value="add ReadNums.java" />
@@ -517,7 +510,6 @@
     <MESSAGE value="add Sum.java" />
     <MESSAGE value="add SumNaturalNums.java" />
     <MESSAGE value="add SumOfSquares.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add Task1.java" />
     <MESSAGE value="add Task2.java" />
     <MESSAGE value="add Task3.java" />
@@ -528,7 +520,14 @@
     <MESSAGE value="add Task8.java" />
     <MESSAGE value="add Task9.java" />
     <MESSAGE value="add Task10.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Task10.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add AgainAmount.java" />
+    <MESSAGE value="add BinaryNotation.java" />
+    <MESSAGE value="add Factorial.java" />
+    <MESSAGE value="add FindCube2.java" />
+    <MESSAGE value="add FindTheCube.java" />
+    <MESSAGE value="add GeometricProgression.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add GeometricProgression.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
