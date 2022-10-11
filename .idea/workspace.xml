@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Task10.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/AgainAmount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/BinaryNotation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/Factorial.java" afterDir="false" />
@@ -17,16 +17,6 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/Only7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/Repetition1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/cyclefor/Repetition2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/taskswhile/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,83 +144,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00442" summary="add Horse.java">
-      <created>1665138568582</created>
-      <option name="number" value="00442" />
-      <option name="presentableId" value="LOCAL-00442" />
-      <option name="project" value="LOCAL" />
-      <updated>1665138568582</updated>
-    </task>
-    <task id="LOCAL-00443" summary="add Hypotenuse.java">
-      <created>1665138574272</created>
-      <option name="number" value="00443" />
-      <option name="presentableId" value="LOCAL-00443" />
-      <option name="project" value="LOCAL" />
-      <updated>1665138574273</updated>
-    </task>
-    <task id="LOCAL-00444" summary="add JustMainNums.java">
-      <created>1665138583251</created>
-      <option name="number" value="00444" />
-      <option name="presentableId" value="LOCAL-00444" />
-      <option name="project" value="LOCAL" />
-      <updated>1665138583251</updated>
-    </task>
-    <task id="LOCAL-00445" summary="add Queen.java">
-      <created>1665138588967</created>
-      <option name="number" value="00445" />
-      <option name="presentableId" value="LOCAL-00445" />
-      <option name="project" value="LOCAL" />
-      <updated>1665138588967</updated>
-    </task>
-    <task id="LOCAL-00446" summary="add Rook.java">
-      <created>1665138595174</created>
-      <option name="number" value="00446" />
-      <option name="presentableId" value="LOCAL-00446" />
-      <option name="project" value="LOCAL" />
-      <updated>1665138595174</updated>
-    </task>
-    <task id="LOCAL-00447" summary="add SameCoffee.java">
-      <created>1665138600553</created>
-      <option name="number" value="00447" />
-      <option name="presentableId" value="LOCAL-00447" />
-      <option name="project" value="LOCAL" />
-      <updated>1665138600553</updated>
-    </task>
-    <task id="LOCAL-00448" summary="add Triangle.java">
-      <created>1665138605975</created>
-      <option name="number" value="00448" />
-      <option name="presentableId" value="LOCAL-00448" />
-      <option name="project" value="LOCAL" />
-      <updated>1665138605975</updated>
-    </task>
-    <task id="LOCAL-00449" summary="update workspace.xml">
-      <created>1665139362136</created>
-      <option name="number" value="00449" />
-      <option name="presentableId" value="LOCAL-00449" />
-      <option name="project" value="LOCAL" />
-      <updated>1665139362136</updated>
-    </task>
-    <task id="LOCAL-00450" summary="update workspace.xml">
-      <created>1665140286013</created>
-      <option name="number" value="00450" />
-      <option name="presentableId" value="LOCAL-00450" />
-      <option name="project" value="LOCAL" />
-      <updated>1665140286013</updated>
-    </task>
-    <task id="LOCAL-00451" summary="update workspace.xml">
-      <created>1665141383371</created>
-      <option name="number" value="00451" />
-      <option name="presentableId" value="LOCAL-00451" />
-      <option name="project" value="LOCAL" />
-      <updated>1665141383371</updated>
-    </task>
-    <task id="LOCAL-00452" summary="update workspace.xml">
-      <created>1665142277061</created>
-      <option name="number" value="00452" />
-      <option name="presentableId" value="LOCAL-00452" />
-      <option name="project" value="LOCAL" />
-      <updated>1665142277061</updated>
     </task>
     <task id="LOCAL-00453" summary="update workspace.xml">
       <created>1665143233752</created>
@@ -498,7 +411,84 @@
       <option name="project" value="LOCAL" />
       <updated>1665417971901</updated>
     </task>
-    <option name="localTasksCounter" value="491" />
+    <task id="LOCAL-00491" summary="update workspace.xml">
+      <created>1665480035764</created>
+      <option name="number" value="00491" />
+      <option name="presentableId" value="LOCAL-00491" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480035765</updated>
+    </task>
+    <task id="LOCAL-00492" summary="add Task1.java">
+      <created>1665480043467</created>
+      <option name="number" value="00492" />
+      <option name="presentableId" value="LOCAL-00492" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480043468</updated>
+    </task>
+    <task id="LOCAL-00493" summary="add Task2.java">
+      <created>1665480050606</created>
+      <option name="number" value="00493" />
+      <option name="presentableId" value="LOCAL-00493" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480050606</updated>
+    </task>
+    <task id="LOCAL-00494" summary="add Task3.java">
+      <created>1665480059624</created>
+      <option name="number" value="00494" />
+      <option name="presentableId" value="LOCAL-00494" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480059624</updated>
+    </task>
+    <task id="LOCAL-00495" summary="add Task4.java">
+      <created>1665480068868</created>
+      <option name="number" value="00495" />
+      <option name="presentableId" value="LOCAL-00495" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480068868</updated>
+    </task>
+    <task id="LOCAL-00496" summary="add Task5.java">
+      <created>1665480076418</created>
+      <option name="number" value="00496" />
+      <option name="presentableId" value="LOCAL-00496" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480076418</updated>
+    </task>
+    <task id="LOCAL-00497" summary="add Task6.java">
+      <created>1665480086307</created>
+      <option name="number" value="00497" />
+      <option name="presentableId" value="LOCAL-00497" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480086307</updated>
+    </task>
+    <task id="LOCAL-00498" summary="add Task7.java">
+      <created>1665480095916</created>
+      <option name="number" value="00498" />
+      <option name="presentableId" value="LOCAL-00498" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480095916</updated>
+    </task>
+    <task id="LOCAL-00499" summary="add Task8.java">
+      <created>1665480104848</created>
+      <option name="number" value="00499" />
+      <option name="presentableId" value="LOCAL-00499" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480104848</updated>
+    </task>
+    <task id="LOCAL-00500" summary="add Task9.java">
+      <created>1665480111340</created>
+      <option name="number" value="00500" />
+      <option name="presentableId" value="LOCAL-00500" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480111340</updated>
+    </task>
+    <task id="LOCAL-00501" summary="add Task10.java">
+      <created>1665480117810</created>
+      <option name="number" value="00501" />
+      <option name="presentableId" value="LOCAL-00501" />
+      <option name="project" value="LOCAL" />
+      <updated>1665480117810</updated>
+    </task>
+    <option name="localTasksCounter" value="502" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -513,16 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Elephant.java" />
-    <MESSAGE value="add Horse.java" />
-    <MESSAGE value="add Hypotenuse.java" />
-    <MESSAGE value="add JustMainNums.java" />
-    <MESSAGE value="add Queen.java" />
-    <MESSAGE value="add Rook.java" />
-    <MESSAGE value="add SameCoffee.java" />
-    <MESSAGE value="add Triangle.java" />
-    <MESSAGE value="add ArrangeThreeNumbers.java" />
-    <MESSAGE value="add Cows.java" />
     <MESSAGE value="add Cutlets.java" />
     <MESSAGE value="add RomanNumeralSystem.java" />
     <MESSAGE value="add EvenNumbers.java" />
@@ -538,7 +518,17 @@
     <MESSAGE value="add SumNaturalNums.java" />
     <MESSAGE value="add SumOfSquares.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add Task1.java" />
+    <MESSAGE value="add Task2.java" />
+    <MESSAGE value="add Task3.java" />
+    <MESSAGE value="add Task4.java" />
+    <MESSAGE value="add Task5.java" />
+    <MESSAGE value="add Task6.java" />
+    <MESSAGE value="add Task7.java" />
+    <MESSAGE value="add Task8.java" />
+    <MESSAGE value="add Task9.java" />
+    <MESSAGE value="add Task10.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Task10.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
