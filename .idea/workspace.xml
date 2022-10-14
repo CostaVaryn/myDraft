@@ -30,7 +30,6 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/NormalView.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate90.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/SumOfArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,13 +156,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00505" summary="add Factorial.java">
-      <created>1665484073547</created>
-      <option name="number" value="00505" />
-      <option name="presentableId" value="LOCAL-00505" />
-      <option name="project" value="LOCAL" />
-      <updated>1665484073547</updated>
     </task>
     <task id="LOCAL-00506" summary="add FindCube2.java">
       <created>1665484404484</created>
@@ -501,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665663420301</updated>
     </task>
-    <option name="localTasksCounter" value="554" />
+    <task id="LOCAL-00554" summary="update workspace.xml">
+      <created>1665670834610</created>
+      <option name="number" value="00554" />
+      <option name="presentableId" value="LOCAL-00554" />
+      <option name="project" value="LOCAL" />
+      <updated>1665670834610</updated>
+    </task>
+    <option name="localTasksCounter" value="555" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
