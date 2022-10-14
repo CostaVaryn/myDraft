@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Task12.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/arrays/SwapPlaces.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/arrays/TrueOrFalse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/arrays/UniqueElements.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/debuggingprograms/WhenYouOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/MagicSquare.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate4x4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate90.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate90Left.java" afterDir="false" />
@@ -139,13 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00528" summary="add OddNumbers.java">
-      <created>1665567973911</created>
-      <option name="number" value="00528" />
-      <option name="presentableId" value="LOCAL-00528" />
-      <option name="project" value="LOCAL" />
-      <updated>1665567973911</updated>
     </task>
     <task id="LOCAL-00529" summary="add Only7.java">
       <created>1665567981438</created>
@@ -483,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665755019173</updated>
     </task>
-    <option name="localTasksCounter" value="577" />
+    <task id="LOCAL-00577" summary="update workspace.xml">
+      <created>1665755988116</created>
+      <option name="number" value="00577" />
+      <option name="presentableId" value="LOCAL-00577" />
+      <option name="project" value="LOCAL" />
+      <updated>1665755988116</updated>
+    </task>
+    <option name="localTasksCounter" value="578" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -510,7 +511,6 @@
     <MESSAGE value="add MultiplicationTable.java" />
     <MESSAGE value="add NormalView.java" />
     <MESSAGE value="add SumOfArrays.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add Task1.java" />
     <MESSAGE value="add Task2.java" />
     <MESSAGE value="add Task3.java" />
@@ -523,7 +523,8 @@
     <MESSAGE value="add Task10.java" />
     <MESSAGE value="add Task11.java" />
     <MESSAGE value="add Task12.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Task12.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
