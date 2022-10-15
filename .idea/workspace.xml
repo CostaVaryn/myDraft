@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add TrueOrFalse.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/arrays/SwapPlaces.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SideDiagonal.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/ArraySort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/EvenIndices.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/MoreNeighbors.java" afterDir="false" />
@@ -14,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate90.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate90Left.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/SideDiagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/SideDiagonal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveEvenElements">
+  <component name="RunManager" selected="Application.SideDiagonal">
     <configuration name="EvenIndices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.EvenIndices" />
       <module name="myDraft" />
@@ -96,19 +96,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.Rotate90" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.twodimensionalarrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Rotate90Left" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.Rotate90Left" />
       <module name="myDraft" />
@@ -122,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SideDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.SideDiagonal" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.twodimensionalarrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SideDiagonal" />
         <item itemvalue="Application.RemoveEvenElements" />
         <item itemvalue="Application.EvenIndices" />
         <item itemvalue="Application.Rotate4x4" />
         <item itemvalue="Application.Rotate90Left" />
-        <item itemvalue="Application.Rotate90" />
       </list>
     </recent_temporary>
   </component>
@@ -140,27 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00536" summary="add Cubes.java">
-      <created>1665647416176</created>
-      <option name="number" value="00536" />
-      <option name="presentableId" value="LOCAL-00536" />
-      <option name="project" value="LOCAL" />
-      <updated>1665647416176</updated>
-    </task>
-    <task id="LOCAL-00537" summary="add Cubes.java">
-      <created>1665647420301</created>
-      <option name="number" value="00537" />
-      <option name="presentableId" value="LOCAL-00537" />
-      <option name="project" value="LOCAL" />
-      <updated>1665647420301</updated>
-    </task>
-    <task id="LOCAL-00538" summary="add Kindergarten.java">
-      <created>1665647453344</created>
-      <option name="number" value="00538" />
-      <option name="presentableId" value="LOCAL-00538" />
-      <option name="project" value="LOCAL" />
-      <updated>1665647453344</updated>
     </task>
     <task id="LOCAL-00539" summary="add Line.java">
       <created>1665647460329</created>
@@ -484,7 +463,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665845204724</updated>
     </task>
-    <option name="localTasksCounter" value="585" />
+    <task id="LOCAL-00585" summary="update workspace.xml">
+      <created>1665847711758</created>
+      <option name="number" value="00585" />
+      <option name="presentableId" value="LOCAL-00585" />
+      <option name="project" value="LOCAL" />
+      <updated>1665847711758</updated>
+    </task>
+    <task id="LOCAL-00586" summary="add SwapPlaces.java">
+      <created>1665847727914</created>
+      <option name="number" value="00586" />
+      <option name="presentableId" value="LOCAL-00586" />
+      <option name="project" value="LOCAL" />
+      <updated>1665847727914</updated>
+    </task>
+    <task id="LOCAL-00587" summary="add SideDiagonal.java">
+      <created>1665847733480</created>
+      <option name="number" value="00587" />
+      <option name="presentableId" value="LOCAL-00587" />
+      <option name="project" value="LOCAL" />
+      <updated>1665847733480</updated>
+    </task>
+    <option name="localTasksCounter" value="588" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,8 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add MatrixSymmetrical.java" />
-    <MESSAGE value="add MinimumElement.java" />
     <MESSAGE value="add MaximumSum.java" />
     <MESSAGE value="add MultidimensionalArrays.java" />
     <MESSAGE value="add MultiplicationTable.java" />
@@ -518,13 +516,15 @@
     <MESSAGE value="add Task10.java" />
     <MESSAGE value="add Task11.java" />
     <MESSAGE value="add Task12.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add MagicSquare.java" />
     <MESSAGE value="add Rotate4x4.java" />
     <MESSAGE value="add WhenYouOld.java" />
     <MESSAGE value="add UniqueElements.java" />
     <MESSAGE value="add TrueOrFalse.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add TrueOrFalse.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add SwapPlaces.java" />
+    <MESSAGE value="add SideDiagonal.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SideDiagonal.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
