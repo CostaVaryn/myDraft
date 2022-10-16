@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SideDiagonal.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Rotate90.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/ArraySort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/EvenIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/MatrixSymmetrical2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/MoreNeighbors.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/NeighborsOfTheSameSign.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/RemoveEvenElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate90Left.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/SideDiagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/SideDiagonal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,34 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00539" summary="add Line.java">
-      <created>1665647460329</created>
-      <option name="number" value="00539" />
-      <option name="presentableId" value="LOCAL-00539" />
-      <option name="project" value="LOCAL" />
-      <updated>1665647460329</updated>
-    </task>
-    <task id="LOCAL-00540" summary="add OwlsAreTender.java">
-      <created>1665647466750</created>
-      <option name="number" value="00540" />
-      <option name="presentableId" value="LOCAL-00540" />
-      <option name="project" value="LOCAL" />
-      <updated>1665647466750</updated>
-    </task>
-    <task id="LOCAL-00541" summary="add Repeat10.java">
-      <created>1665647499285</created>
-      <option name="number" value="00541" />
-      <option name="presentableId" value="LOCAL-00541" />
-      <option name="project" value="LOCAL" />
-      <updated>1665647499285</updated>
-    </task>
-    <task id="LOCAL-00542" summary="add Repetition1.java">
-      <created>1665647505764</created>
-      <option name="number" value="00542" />
-      <option name="presentableId" value="LOCAL-00542" />
-      <option name="project" value="LOCAL" />
-      <updated>1665647505764</updated>
     </task>
     <task id="LOCAL-00543" summary="add Repetition2.java">
       <created>1665647512830</created>
@@ -484,7 +453,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665847733480</updated>
     </task>
-    <option name="localTasksCounter" value="588" />
+    <task id="LOCAL-00588" summary="update workspace.xml">
+      <created>1665848428646</created>
+      <option name="number" value="00588" />
+      <option name="presentableId" value="LOCAL-00588" />
+      <option name="project" value="LOCAL" />
+      <updated>1665848428646</updated>
+    </task>
+    <task id="LOCAL-00589" summary="update SideDiagonal.java">
+      <created>1665848438644</created>
+      <option name="number" value="00589" />
+      <option name="presentableId" value="LOCAL-00589" />
+      <option name="project" value="LOCAL" />
+      <updated>1665848438644</updated>
+    </task>
+    <task id="LOCAL-00590" summary="add Rotate90Left.java">
+      <created>1665848444443</created>
+      <option name="number" value="00590" />
+      <option name="presentableId" value="LOCAL-00590" />
+      <option name="project" value="LOCAL" />
+      <updated>1665848444443</updated>
+    </task>
+    <task id="LOCAL-00591" summary="add Rotate90.java">
+      <created>1665848451329</created>
+      <option name="number" value="00591" />
+      <option name="presentableId" value="LOCAL-00591" />
+      <option name="project" value="LOCAL" />
+      <updated>1665848451329</updated>
+    </task>
+    <option name="localTasksCounter" value="592" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,9 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add MaximumSum.java" />
-    <MESSAGE value="add MultidimensionalArrays.java" />
-    <MESSAGE value="add MultiplicationTable.java" />
     <MESSAGE value="add NormalView.java" />
     <MESSAGE value="add SumOfArrays.java" />
     <MESSAGE value="add Task1.java" />
@@ -521,10 +515,13 @@
     <MESSAGE value="add WhenYouOld.java" />
     <MESSAGE value="add UniqueElements.java" />
     <MESSAGE value="add TrueOrFalse.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add SwapPlaces.java" />
     <MESSAGE value="add SideDiagonal.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add SideDiagonal.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update SideDiagonal.java" />
+    <MESSAGE value="add Rotate90Left.java" />
+    <MESSAGE value="add Rotate90.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Rotate90.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
