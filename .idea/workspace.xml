@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArraySort.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/HammerThrowing2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00552" summary="add SwapAdjacent.java">
-      <created>1665650595500</created>
-      <option name="number" value="00552" />
-      <option name="presentableId" value="LOCAL-00552" />
-      <option name="project" value="LOCAL" />
-      <updated>1665650595500</updated>
     </task>
     <task id="LOCAL-00553" summary="update workspace.xml">
       <created>1665663420301</created>
@@ -477,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665915510954</updated>
     </task>
-    <option name="localTasksCounter" value="601" />
+    <task id="LOCAL-00601" summary="update workspace.xml">
+      <created>1665916103358</created>
+      <option name="number" value="00601" />
+      <option name="presentableId" value="LOCAL-00601" />
+      <option name="project" value="LOCAL" />
+      <updated>1665916103358</updated>
+    </task>
+    <option name="localTasksCounter" value="602" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,7 +508,6 @@
     <MESSAGE value="update SideDiagonal.java" />
     <MESSAGE value="add Rotate90Left.java" />
     <MESSAGE value="add Rotate90.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add RemoveEvenElements.java" />
     <MESSAGE value="add NeighborsOfTheSameSign.java" />
     <MESSAGE value="add MoreNeighbors.java" />
@@ -517,7 +515,8 @@
     <MESSAGE value="add HammerThrowing.java" />
     <MESSAGE value="add EvenIndices.java" />
     <MESSAGE value="add ArraySort.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArraySort.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
