@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/EvenIndices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/HammerThrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/MatrixSymmetrical2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/MoreNeighbors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/NeighborsOfTheSameSign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/RemoveEvenElements.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ArraySort.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/HammerThrowing2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HammerThrowing">
+  <component name="RunManager" selected="Application.HammerThrowing2">
     <configuration name="EvenIndices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.EvenIndices" />
       <module name="myDraft" />
@@ -82,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveEvenElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.RemoveEvenElements" />
+    <configuration name="HammerThrowing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.HammerThrowing2" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate4x4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.Rotate4x4" />
+    <configuration name="RemoveEvenElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.RemoveEvenElements" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HammerThrowing2" />
         <item itemvalue="Application.HammerThrowing" />
         <item itemvalue="Application.SideDiagonal" />
         <item itemvalue="Application.RemoveEvenElements" />
         <item itemvalue="Application.EvenIndices" />
-        <item itemvalue="Application.Rotate4x4" />
       </list>
     </recent_temporary>
   </component>
@@ -139,62 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00544" summary="update workspace.xml">
-      <created>1665650543195</created>
-      <option name="number" value="00544" />
-      <option name="presentableId" value="LOCAL-00544" />
-      <option name="project" value="LOCAL" />
-      <updated>1665650543195</updated>
-    </task>
-    <task id="LOCAL-00545" summary="add RepetitionOnTheFlags.java">
-      <created>1665650547690</created>
-      <option name="number" value="00545" />
-      <option name="presentableId" value="LOCAL-00545" />
-      <option name="project" value="LOCAL" />
-      <updated>1665650547690</updated>
-    </task>
-    <task id="LOCAL-00546" summary="add SimpleArrayProcessing.java">
-      <created>1665650553819</created>
-      <option name="number" value="00546" />
-      <option name="presentableId" value="LOCAL-00546" />
-      <option name="project" value="LOCAL" />
-      <updated>1665650553819</updated>
-    </task>
-    <task id="LOCAL-00547" summary="add Subsequence333.java">
-      <created>1665650561881</created>
-      <option name="number" value="00547" />
-      <option name="presentableId" value="LOCAL-00547" />
-      <option name="project" value="LOCAL" />
-      <updated>1665650561881</updated>
-    </task>
-    <task id="LOCAL-00548" summary="add Sum.java">
-      <created>1665650566804</created>
-      <option name="number" value="00548" />
-      <option name="presentableId" value="LOCAL-00548" />
-      <option name="project" value="LOCAL" />
-      <updated>1665650566804</updated>
-    </task>
-    <task id="LOCAL-00549" summary="add Sum2.java">
-      <created>1665650575318</created>
-      <option name="number" value="00549" />
-      <option name="presentableId" value="LOCAL-00549" />
-      <option name="project" value="LOCAL" />
-      <updated>1665650575318</updated>
-    </task>
-    <task id="LOCAL-00550" summary="add SumOfSquares.java">
-      <created>1665650579975</created>
-      <option name="number" value="00550" />
-      <option name="presentableId" value="LOCAL-00550" />
-      <option name="project" value="LOCAL" />
-      <updated>1665650579975</updated>
-    </task>
-    <task id="LOCAL-00551" summary="add SumSameNums.java">
-      <created>1665650587263</created>
-      <option name="number" value="00551" />
-      <option name="presentableId" value="LOCAL-00551" />
-      <option name="project" value="LOCAL" />
-      <updated>1665650587263</updated>
     </task>
     <task id="LOCAL-00552" summary="add SwapAdjacent.java">
       <created>1665650595500</created>
@@ -483,7 +421,63 @@
       <option name="project" value="LOCAL" />
       <updated>1665906561431</updated>
     </task>
-    <option name="localTasksCounter" value="593" />
+    <task id="LOCAL-00593" summary="update workspace.xml">
+      <created>1665915442425</created>
+      <option name="number" value="00593" />
+      <option name="presentableId" value="LOCAL-00593" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915442425</updated>
+    </task>
+    <task id="LOCAL-00594" summary="add RemoveEvenElements.java">
+      <created>1665915466166</created>
+      <option name="number" value="00594" />
+      <option name="presentableId" value="LOCAL-00594" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915466166</updated>
+    </task>
+    <task id="LOCAL-00595" summary="add NeighborsOfTheSameSign.java">
+      <created>1665915471247</created>
+      <option name="number" value="00595" />
+      <option name="presentableId" value="LOCAL-00595" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915471247</updated>
+    </task>
+    <task id="LOCAL-00596" summary="add MoreNeighbors.java">
+      <created>1665915480616</created>
+      <option name="number" value="00596" />
+      <option name="presentableId" value="LOCAL-00596" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915480616</updated>
+    </task>
+    <task id="LOCAL-00597" summary="add MatrixSymmetrical2.java">
+      <created>1665915491408</created>
+      <option name="number" value="00597" />
+      <option name="presentableId" value="LOCAL-00597" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915491408</updated>
+    </task>
+    <task id="LOCAL-00598" summary="add HammerThrowing.java">
+      <created>1665915496494</created>
+      <option name="number" value="00598" />
+      <option name="presentableId" value="LOCAL-00598" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915496494</updated>
+    </task>
+    <task id="LOCAL-00599" summary="add EvenIndices.java">
+      <created>1665915505916</created>
+      <option name="number" value="00599" />
+      <option name="presentableId" value="LOCAL-00599" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915505916</updated>
+    </task>
+    <task id="LOCAL-00600" summary="add ArraySort.java">
+      <created>1665915510954</created>
+      <option name="number" value="00600" />
+      <option name="presentableId" value="LOCAL-00600" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915510954</updated>
+    </task>
+    <option name="localTasksCounter" value="601" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,13 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add NormalView.java" />
-    <MESSAGE value="add SumOfArrays.java" />
-    <MESSAGE value="add Task1.java" />
-    <MESSAGE value="add Task2.java" />
-    <MESSAGE value="add Task3.java" />
-    <MESSAGE value="add Task4.java" />
-    <MESSAGE value="add Task5.java" />
     <MESSAGE value="add Task6.java" />
     <MESSAGE value="add Task7.java" />
     <MESSAGE value="add Task8.java" />
@@ -523,7 +510,14 @@
     <MESSAGE value="add Rotate90Left.java" />
     <MESSAGE value="add Rotate90.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add RemoveEvenElements.java" />
+    <MESSAGE value="add NeighborsOfTheSameSign.java" />
+    <MESSAGE value="add MoreNeighbors.java" />
+    <MESSAGE value="add MatrixSymmetrical2.java" />
+    <MESSAGE value="add HammerThrowing.java" />
+    <MESSAGE value="add EvenIndices.java" />
+    <MESSAGE value="add ArraySort.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ArraySort.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
