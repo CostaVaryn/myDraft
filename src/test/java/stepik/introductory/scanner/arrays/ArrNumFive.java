@@ -13,7 +13,7 @@ public class ArrNumFive {
             System.out.print(nums[i] + ((nums[i] == n) ? "" : " "));
         }
 
-        /**
+        /*
         for (int i = 1; i <= nums.length; i++) {
             System.out.println(i + " ");
         }
@@ -21,7 +21,7 @@ public class ArrNumFive {
     }
 }
 
-/**
+/*
  * На вход подаётся натуральное число n.
  * Создайте массив натуральных чисел от единицы до n включительно и выведите его на печать (в одной строке, через пробел).
  *
