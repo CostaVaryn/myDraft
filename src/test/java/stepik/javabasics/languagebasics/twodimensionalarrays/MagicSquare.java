@@ -6,6 +6,8 @@ public class MagicSquare {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        int count = 0;
+        int counter = 0;
 
         int[][] mas = new int[n][n];
         for (int i = 0; i < n; i++) {
@@ -15,7 +17,58 @@ public class MagicSquare {
         }
         sc.close();
 
+        for (int j = 0; j < mas[0].length; j++) {
+            counter += mas[0][j];
+        }
 
+        int op = 0;
+        for (int i = 0; i < mas.length; i++) {
+            op = 0;
+            for (int j = 0; j < mas[i].length; j++) {
+                op += mas[i][j];
+            }
+            if (op == counter) {
+                count++;
+            }
+        }
+
+        int ip = 0;
+        for (int i = 0; i < mas.length; i++) {
+            ip = 0;
+            for (int j = 0; j < mas[i].length; j++) {
+                ip += mas[j][i];
+            }
+            if (ip == counter) {
+                count++;
+            }
+        }
+
+        int sh = 0;
+        for (int i = 0; i < mas.length; i++) {
+            for (int j = 0; j < mas[i].length; j++) {
+                if (i == j) {
+                    sh += mas[j][i];
+                }
+            }
+        }
+
+        if (sh == counter) {
+            count++;
+        }
+
+        int lp=0;
+        int maxIdx = mas.length - 1;
+        for (int i = maxIdx; i >= 0; i--) {
+            lp += mas[i][maxIdx - i];
+        } if (lp == counter) {
+            count++;
+        }
+
+        if (count == n*2+2) {
+            System.out.println("YES");
+        } else {
+            System.out.println("NO");
+        }
     }
 }
 
