@@ -15,7 +15,7 @@ public class HammerThrowing {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 mas[i][j] = sc.nextInt();
-                if(mas[i][j] > maxResult) {
+                if (mas[i][j] > maxResult) {
                     maxResult = mas[i][j];
                     numHuman = i;
                     numAttempt = j;
