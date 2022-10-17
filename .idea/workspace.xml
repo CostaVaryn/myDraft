@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update ArrNumFive.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/HammerThrowing2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,20 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00557" summary="add MatrixSymmetrical.java">
-      <created>1665744846544</created>
-      <option name="number" value="00557" />
-      <option name="presentableId" value="LOCAL-00557" />
-      <option name="project" value="LOCAL" />
-      <updated>1665744846545</updated>
-    </task>
-    <task id="LOCAL-00558" summary="add MinimumElement.java">
-      <created>1665744851259</created>
-      <option name="number" value="00558" />
-      <option name="presentableId" value="LOCAL-00558" />
-      <option name="project" value="LOCAL" />
-      <updated>1665744851259</updated>
     </task>
     <task id="LOCAL-00559" summary="add MaximumSum.java">
       <created>1665744859334</created>
@@ -476,7 +462,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665944424713</updated>
     </task>
-    <option name="localTasksCounter" value="606" />
+    <task id="LOCAL-00606" summary="update workspace.xml">
+      <created>1665945009932</created>
+      <option name="number" value="00606" />
+      <option name="presentableId" value="LOCAL-00606" />
+      <option name="project" value="LOCAL" />
+      <updated>1665945009932</updated>
+    </task>
+    <task id="LOCAL-00607" summary="update ArrNumFive.java">
+      <created>1665945616572</created>
+      <option name="number" value="00607" />
+      <option name="presentableId" value="LOCAL-00607" />
+      <option name="project" value="LOCAL" />
+      <updated>1665945616572</updated>
+    </task>
+    <option name="localTasksCounter" value="608" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Task6.java" />
     <MESSAGE value="add Task7.java" />
     <MESSAGE value="add Task8.java" />
     <MESSAGE value="add Task9.java" />
@@ -516,7 +515,8 @@
     <MESSAGE value="add EvenIndices.java" />
     <MESSAGE value="add ArraySort.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="update ArrNumFive.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ArrNumFive.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
