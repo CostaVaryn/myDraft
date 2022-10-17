@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Replacement.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/HowManyWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/IPAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/JustConnectThem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/WhoIsFirst.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add HowManyWords.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/Replacement2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IPAddress">
+  <component name="RunManager" selected="Application.Replacement2">
     <configuration name="HowManyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.HowManyWords" />
       <module name="myDraft" />
@@ -92,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.Strings" />
+    <configuration name="Replacement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.Replacement2" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Replacement2" />
         <item itemvalue="Application.IPAddress" />
         <item itemvalue="Application.HowManyWords" />
         <item itemvalue="Application.WhoIsFirst" />
         <item itemvalue="Application.Replacement" />
-        <item itemvalue="Application.Strings" />
       </list>
     </recent_temporary>
   </component>
@@ -136,41 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00572" summary="add Task8.java">
-      <created>1665754999191</created>
-      <option name="number" value="00572" />
-      <option name="presentableId" value="LOCAL-00572" />
-      <option name="project" value="LOCAL" />
-      <updated>1665754999191</updated>
-    </task>
-    <task id="LOCAL-00573" summary="add Task9.java">
-      <created>1665755004689</created>
-      <option name="number" value="00573" />
-      <option name="presentableId" value="LOCAL-00573" />
-      <option name="project" value="LOCAL" />
-      <updated>1665755004690</updated>
-    </task>
-    <task id="LOCAL-00574" summary="add Task10.java">
-      <created>1665755010095</created>
-      <option name="number" value="00574" />
-      <option name="presentableId" value="LOCAL-00574" />
-      <option name="project" value="LOCAL" />
-      <updated>1665755010095</updated>
-    </task>
-    <task id="LOCAL-00575" summary="add Task11.java">
-      <created>1665755014527</created>
-      <option name="number" value="00575" />
-      <option name="presentableId" value="LOCAL-00575" />
-      <option name="project" value="LOCAL" />
-      <updated>1665755014527</updated>
-    </task>
-    <task id="LOCAL-00576" summary="add Task12.java">
-      <created>1665755019172</created>
-      <option name="number" value="00576" />
-      <option name="presentableId" value="LOCAL-00576" />
-      <option name="project" value="LOCAL" />
-      <updated>1665755019173</updated>
     </task>
     <task id="LOCAL-00577" summary="update workspace.xml">
       <created>1665755988116</created>
@@ -480,7 +442,42 @@
       <option name="project" value="LOCAL" />
       <updated>1666006862400</updated>
     </task>
-    <option name="localTasksCounter" value="621" />
+    <task id="LOCAL-00621" summary="update workspace.xml">
+      <created>1666013266972</created>
+      <option name="number" value="00621" />
+      <option name="presentableId" value="LOCAL-00621" />
+      <option name="project" value="LOCAL" />
+      <updated>1666013266972</updated>
+    </task>
+    <task id="LOCAL-00622" summary="add WhoIsFirst.java">
+      <created>1666013271777</created>
+      <option name="number" value="00622" />
+      <option name="presentableId" value="LOCAL-00622" />
+      <option name="project" value="LOCAL" />
+      <updated>1666013271777</updated>
+    </task>
+    <task id="LOCAL-00623" summary="add JustConnectThem.java">
+      <created>1666013276835</created>
+      <option name="number" value="00623" />
+      <option name="presentableId" value="LOCAL-00623" />
+      <option name="project" value="LOCAL" />
+      <updated>1666013276835</updated>
+    </task>
+    <task id="LOCAL-00624" summary="add IPAddress.java">
+      <created>1666013283513</created>
+      <option name="number" value="00624" />
+      <option name="presentableId" value="LOCAL-00624" />
+      <option name="project" value="LOCAL" />
+      <updated>1666013283513</updated>
+    </task>
+    <task id="LOCAL-00625" summary="add HowManyWords.java">
+      <created>1666013287998</created>
+      <option name="number" value="00625" />
+      <option name="presentableId" value="LOCAL-00625" />
+      <option name="project" value="LOCAL" />
+      <updated>1666013287998</updated>
+    </task>
+    <option name="localTasksCounter" value="626" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,10 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add WhenYouOld.java" />
-    <MESSAGE value="add UniqueElements.java" />
-    <MESSAGE value="add TrueOrFalse.java" />
-    <MESSAGE value="add SwapPlaces.java" />
     <MESSAGE value="add SideDiagonal.java" />
     <MESSAGE value="update SideDiagonal.java" />
     <MESSAGE value="add Rotate90Left.java" />
@@ -518,9 +511,13 @@
     <MESSAGE value="add IsItANumber.java" />
     <MESSAGE value="add Replacement.java" />
     <MESSAGE value="add Strings.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Replacement.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Replacement.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add WhoIsFirst.java" />
+    <MESSAGE value="add JustConnectThem.java" />
+    <MESSAGE value="add IPAddress.java" />
+    <MESSAGE value="add HowManyWords.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add HowManyWords.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -557,6 +554,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/HowManyWords.java</url>
           <line>11</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/Replacement2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
