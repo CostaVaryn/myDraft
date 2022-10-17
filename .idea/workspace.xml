@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Strings.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Replacement.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/HowManyWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/IPAddress.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/JustConnectThem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/WhoIsFirst.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/Replacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/Replacement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +52,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Replacement">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.Example" />
+  <component name="RunManager" selected="Application.IPAddress">
+    <configuration name="HowManyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.HowManyWords" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -64,25 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HammerThrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.HammerThrowing" />
+    <configuration name="IPAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.IPAddress" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.twodimensionalarrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HammerThrowing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.twodimensionalarrays.HammerThrowing2" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.twodimensionalarrays.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicstringfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhoIsFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.WhoIsFirst" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicstringfunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IPAddress" />
+        <item itemvalue="Application.HowManyWords" />
+        <item itemvalue="Application.WhoIsFirst" />
         <item itemvalue="Application.Replacement" />
         <item itemvalue="Application.Strings" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.HammerThrowing2" />
-        <item itemvalue="Application.HammerThrowing" />
       </list>
     </recent_temporary>
   </component>
@@ -134,20 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00570" summary="add Task6.java">
-      <created>1665754987107</created>
-      <option name="number" value="00570" />
-      <option name="presentableId" value="LOCAL-00570" />
-      <option name="project" value="LOCAL" />
-      <updated>1665754987107</updated>
-    </task>
-    <task id="LOCAL-00571" summary="add Task7.java">
-      <created>1665754993665</created>
-      <option name="number" value="00571" />
-      <option name="presentableId" value="LOCAL-00571" />
-      <option name="project" value="LOCAL" />
-      <updated>1665754993665</updated>
     </task>
     <task id="LOCAL-00572" summary="add Task8.java">
       <created>1665754999191</created>
@@ -478,7 +466,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666005899332</updated>
     </task>
-    <option name="localTasksCounter" value="619" />
+    <task id="LOCAL-00619" summary="update workspace.xml">
+      <created>1666006857432</created>
+      <option name="number" value="00619" />
+      <option name="presentableId" value="LOCAL-00619" />
+      <option name="project" value="LOCAL" />
+      <updated>1666006857433</updated>
+    </task>
+    <task id="LOCAL-00620" summary="update Replacement.java">
+      <created>1666006862400</created>
+      <option name="number" value="00620" />
+      <option name="presentableId" value="LOCAL-00620" />
+      <option name="project" value="LOCAL" />
+      <updated>1666006862400</updated>
+    </task>
+    <option name="localTasksCounter" value="621" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +495,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Rotate4x4.java" />
     <MESSAGE value="add WhenYouOld.java" />
     <MESSAGE value="add UniqueElements.java" />
     <MESSAGE value="add TrueOrFalse.java" />
@@ -512,13 +513,14 @@
     <MESSAGE value="update ArrNumFive.java" />
     <MESSAGE value="update HammerThrowing.java" />
     <MESSAGE value="update MagicSquare.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add Example.java" />
     <MESSAGE value="add HammerThrowing2.java" />
     <MESSAGE value="add IsItANumber.java" />
     <MESSAGE value="add Replacement.java" />
     <MESSAGE value="add Strings.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Strings.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update Replacement.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Replacement.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,6 +552,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate90Left.java</url>
           <line>15</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/HowManyWords.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
