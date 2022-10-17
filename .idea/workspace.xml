@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/Replacement2.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add CaseSensitiveCounting.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/CaseInsensitiveCounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/CaseSensitiveCounting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/WhoMore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,27 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00580" summary="add MagicSquare.java">
-      <created>1665845175361</created>
-      <option name="number" value="00580" />
-      <option name="presentableId" value="LOCAL-00580" />
-      <option name="project" value="LOCAL" />
-      <updated>1665845175362</updated>
-    </task>
-    <task id="LOCAL-00581" summary="add Rotate4x4.java">
-      <created>1665845186042</created>
-      <option name="number" value="00581" />
-      <option name="presentableId" value="LOCAL-00581" />
-      <option name="project" value="LOCAL" />
-      <updated>1665845186042</updated>
-    </task>
-    <task id="LOCAL-00582" summary="add WhenYouOld.java">
-      <created>1665845192746</created>
-      <option name="number" value="00582" />
-      <option name="presentableId" value="LOCAL-00582" />
-      <option name="project" value="LOCAL" />
-      <updated>1665845192746</updated>
     </task>
     <task id="LOCAL-00583" summary="add UniqueElements.java">
       <created>1665845197924</created>
@@ -479,7 +456,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666017639943</updated>
     </task>
-    <option name="localTasksCounter" value="629" />
+    <task id="LOCAL-00629" summary="update workspace.xml">
+      <created>1666021434966</created>
+      <option name="number" value="00629" />
+      <option name="presentableId" value="LOCAL-00629" />
+      <option name="project" value="LOCAL" />
+      <updated>1666021434967</updated>
+    </task>
+    <task id="LOCAL-00630" summary="add Replacement2.java">
+      <created>1666021448952</created>
+      <option name="number" value="00630" />
+      <option name="presentableId" value="LOCAL-00630" />
+      <option name="project" value="LOCAL" />
+      <updated>1666021448952</updated>
+    </task>
+    <task id="LOCAL-00631" summary="add CaseSensitiveCounting.java">
+      <created>1666021453308</created>
+      <option name="number" value="00631" />
+      <option name="presentableId" value="LOCAL-00631" />
+      <option name="project" value="LOCAL" />
+      <updated>1666021453308</updated>
+    </task>
+    <option name="localTasksCounter" value="632" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,8 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add SideDiagonal.java" />
-    <MESSAGE value="update SideDiagonal.java" />
     <MESSAGE value="add Rotate90Left.java" />
     <MESSAGE value="add Rotate90.java" />
     <MESSAGE value="add RemoveEvenElements.java" />
@@ -519,7 +515,9 @@
     <MESSAGE value="add IPAddress.java" />
     <MESSAGE value="add HowManyWords.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add Replacement2.java" />
+    <MESSAGE value="add CaseSensitiveCounting.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add CaseSensitiveCounting.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
