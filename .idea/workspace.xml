@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add RepeatingLines.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/AddingAnElement.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/CreateAList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/ReplacingAnElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00602" summary="update workspace.xml">
-      <created>1665916200413</created>
-      <option name="number" value="00602" />
-      <option name="presentableId" value="LOCAL-00602" />
-      <option name="project" value="LOCAL" />
-      <updated>1665916200413</updated>
     </task>
     <task id="LOCAL-00603" summary="update workspace.xml">
       <created>1665943366537</created>
@@ -477,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666095741157</updated>
     </task>
-    <option name="localTasksCounter" value="651" />
+    <task id="LOCAL-00651" summary="update workspace.xml">
+      <created>1666098026247</created>
+      <option name="number" value="00651" />
+      <option name="presentableId" value="LOCAL-00651" />
+      <option name="project" value="LOCAL" />
+      <updated>1666098026247</updated>
+    </task>
+    <option name="localTasksCounter" value="652" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,9 +517,9 @@
     <MESSAGE value="update LongestWord.java" />
     <MESSAGE value="add InterestingTranslation.java" />
     <MESSAGE value="add SecondClassChallenge.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add RepeatingLines.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add RepeatingLines.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
