@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/CaseInsensitiveCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/LongestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/MostCommonCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/RemoveExcess.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/WhoMore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CaseSensitiveCounting">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="CaseSensitiveCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.stringasanarray.CaseSensitiveCounting" />
       <module name="myDraft" />
@@ -89,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.stringasanarray.Palindrome" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.stringasanarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Replacement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.Replacement2" />
       <module name="myDraft" />
@@ -102,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhoIsFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.WhoIsFirst" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicstringfunctions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.CaseSensitiveCounting" />
         <item itemvalue="Application.Replacement2" />
         <item itemvalue="Application.IPAddress" />
         <item itemvalue="Application.HowManyWords" />
-        <item itemvalue="Application.WhoIsFirst" />
       </list>
     </recent_temporary>
   </component>
@@ -133,13 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00584" summary="add TrueOrFalse.java">
-      <created>1665845204724</created>
-      <option name="number" value="00584" />
-      <option name="presentableId" value="LOCAL-00584" />
-      <option name="project" value="LOCAL" />
-      <updated>1665845204724</updated>
     </task>
     <task id="LOCAL-00585" summary="update workspace.xml">
       <created>1665847711758</created>
@@ -477,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666021989970</updated>
     </task>
-    <option name="localTasksCounter" value="633" />
+    <task id="LOCAL-00633" summary="update workspace.xml">
+      <created>1666079084447</created>
+      <option name="number" value="00633" />
+      <option name="presentableId" value="LOCAL-00633" />
+      <option name="project" value="LOCAL" />
+      <updated>1666079084448</updated>
+    </task>
+    <option name="localTasksCounter" value="634" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
