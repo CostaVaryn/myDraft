@@ -7,6 +7,7 @@ public class MostCommonCharacter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char[] arr = sc.nextLine().toLowerCase().replaceAll(" ", "").toCharArray();
+        sc.close();
         Arrays.sort(arr);
         int max = Integer.MIN_VALUE;
         int count = 1;
