@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add CaseInsensitiveCounting.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/InterestingTranslation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/SecondClassChallenge.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SecondClassChallenge.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/RepeatingLines.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/LongestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/LongestWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/MostCommonCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/MostCommonCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/stringasanarray/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,26 +49,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.RepeatingLines">
     <configuration name="CaseSensitiveCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.stringasanarray.CaseSensitiveCounting" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stepik.javabasics.languagebasics.stringasanarray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HowManyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.HowManyWords" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicstringfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RepeatingLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.lists.RepeatingLines" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Replacement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.Replacement2" />
       <module name="myDraft" />
@@ -121,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatingLines" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.CaseSensitiveCounting" />
         <item itemvalue="Application.Replacement2" />
         <item itemvalue="Application.IPAddress" />
-        <item itemvalue="Application.HowManyWords" />
       </list>
     </recent_temporary>
   </component>
@@ -137,48 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00592" summary="update workspace.xml">
-      <created>1665906561431</created>
-      <option name="number" value="00592" />
-      <option name="presentableId" value="LOCAL-00592" />
-      <option name="project" value="LOCAL" />
-      <updated>1665906561431</updated>
-    </task>
-    <task id="LOCAL-00593" summary="update workspace.xml">
-      <created>1665915442425</created>
-      <option name="number" value="00593" />
-      <option name="presentableId" value="LOCAL-00593" />
-      <option name="project" value="LOCAL" />
-      <updated>1665915442425</updated>
-    </task>
-    <task id="LOCAL-00594" summary="add RemoveEvenElements.java">
-      <created>1665915466166</created>
-      <option name="number" value="00594" />
-      <option name="presentableId" value="LOCAL-00594" />
-      <option name="project" value="LOCAL" />
-      <updated>1665915466166</updated>
-    </task>
-    <task id="LOCAL-00595" summary="add NeighborsOfTheSameSign.java">
-      <created>1665915471247</created>
-      <option name="number" value="00595" />
-      <option name="presentableId" value="LOCAL-00595" />
-      <option name="project" value="LOCAL" />
-      <updated>1665915471247</updated>
-    </task>
-    <task id="LOCAL-00596" summary="add MoreNeighbors.java">
-      <created>1665915480616</created>
-      <option name="number" value="00596" />
-      <option name="presentableId" value="LOCAL-00596" />
-      <option name="project" value="LOCAL" />
-      <updated>1665915480616</updated>
-    </task>
-    <task id="LOCAL-00597" summary="add MatrixSymmetrical2.java">
-      <created>1665915491408</created>
-      <option name="number" value="00597" />
-      <option name="presentableId" value="LOCAL-00597" />
-      <option name="project" value="LOCAL" />
-      <updated>1665915491408</updated>
     </task>
     <task id="LOCAL-00598" summary="add HammerThrowing.java">
       <created>1665915496494</created>
@@ -481,7 +435,49 @@
       <option name="project" value="LOCAL" />
       <updated>1666081391382</updated>
     </task>
-    <option name="localTasksCounter" value="641" />
+    <task id="LOCAL-00641" summary="update workspace.xml">
+      <created>1666092382741</created>
+      <option name="number" value="00641" />
+      <option name="presentableId" value="LOCAL-00641" />
+      <option name="project" value="LOCAL" />
+      <updated>1666092382741</updated>
+    </task>
+    <task id="LOCAL-00642" summary="update Palindrome.java">
+      <created>1666092388676</created>
+      <option name="number" value="00642" />
+      <option name="presentableId" value="LOCAL-00642" />
+      <option name="project" value="LOCAL" />
+      <updated>1666092388676</updated>
+    </task>
+    <task id="LOCAL-00643" summary="update MostCommonCharacter.java">
+      <created>1666092393161</created>
+      <option name="number" value="00643" />
+      <option name="presentableId" value="LOCAL-00643" />
+      <option name="project" value="LOCAL" />
+      <updated>1666092393161</updated>
+    </task>
+    <task id="LOCAL-00644" summary="update LongestWord.java">
+      <created>1666092397666</created>
+      <option name="number" value="00644" />
+      <option name="presentableId" value="LOCAL-00644" />
+      <option name="project" value="LOCAL" />
+      <updated>1666092397666</updated>
+    </task>
+    <task id="LOCAL-00645" summary="add InterestingTranslation.java">
+      <created>1666092405370</created>
+      <option name="number" value="00645" />
+      <option name="presentableId" value="LOCAL-00645" />
+      <option name="project" value="LOCAL" />
+      <updated>1666092405370</updated>
+    </task>
+    <task id="LOCAL-00646" summary="add SecondClassChallenge.java">
+      <created>1666092412786</created>
+      <option name="number" value="00646" />
+      <option name="presentableId" value="LOCAL-00646" />
+      <option name="project" value="LOCAL" />
+      <updated>1666092412786</updated>
+    </task>
+    <option name="localTasksCounter" value="647" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,11 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add HammerThrowing.java" />
-    <MESSAGE value="add EvenIndices.java" />
-    <MESSAGE value="add ArraySort.java" />
-    <MESSAGE value="update ArrNumFive.java" />
-    <MESSAGE value="update HammerThrowing.java" />
     <MESSAGE value="update MagicSquare.java" />
     <MESSAGE value="add Example.java" />
     <MESSAGE value="add HammerThrowing2.java" />
@@ -514,14 +505,19 @@
     <MESSAGE value="add HowManyWords.java" />
     <MESSAGE value="add Replacement2.java" />
     <MESSAGE value="add CaseSensitiveCounting.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add WhoMore.java" />
     <MESSAGE value="add RemoveExcess.java" />
     <MESSAGE value="add Palindrome.java" />
     <MESSAGE value="add MostCommonCharacter.java" />
     <MESSAGE value="add LongestWord.java" />
     <MESSAGE value="add CaseInsensitiveCounting.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add CaseInsensitiveCounting.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update Palindrome.java" />
+    <MESSAGE value="update MostCommonCharacter.java" />
+    <MESSAGE value="update LongestWord.java" />
+    <MESSAGE value="add InterestingTranslation.java" />
+    <MESSAGE value="add SecondClassChallenge.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SecondClassChallenge.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
