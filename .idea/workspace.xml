@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SecondClassChallenge.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/RepeatingLines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00598" summary="add HammerThrowing.java">
-      <created>1665915496494</created>
-      <option name="number" value="00598" />
-      <option name="presentableId" value="LOCAL-00598" />
-      <option name="project" value="LOCAL" />
-      <updated>1665915496494</updated>
     </task>
     <task id="LOCAL-00599" summary="add EvenIndices.java">
       <created>1665915505916</created>
@@ -477,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666092412786</updated>
     </task>
-    <option name="localTasksCounter" value="647" />
+    <task id="LOCAL-00647" summary="update workspace.xml">
+      <created>1666095156749</created>
+      <option name="number" value="00647" />
+      <option name="presentableId" value="LOCAL-00647" />
+      <option name="project" value="LOCAL" />
+      <updated>1666095156749</updated>
+    </task>
+    <option name="localTasksCounter" value="648" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -511,13 +510,13 @@
     <MESSAGE value="add MostCommonCharacter.java" />
     <MESSAGE value="add LongestWord.java" />
     <MESSAGE value="add CaseInsensitiveCounting.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Palindrome.java" />
     <MESSAGE value="update MostCommonCharacter.java" />
     <MESSAGE value="update LongestWord.java" />
     <MESSAGE value="add InterestingTranslation.java" />
     <MESSAGE value="add SecondClassChallenge.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add SecondClassChallenge.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -559,6 +558,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/Replacement2.java</url>
           <line>27</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/RepeatingLines.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
