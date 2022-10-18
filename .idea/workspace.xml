@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/AddingAnElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/CreateAList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/RemovingAnElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/ReplacingAnElement.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ReplacingAnElement.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/Turn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,41 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00604" summary="update workspace.xml">
-      <created>1665944275741</created>
-      <option name="number" value="00604" />
-      <option name="presentableId" value="LOCAL-00604" />
-      <option name="project" value="LOCAL" />
-      <updated>1665944275741</updated>
-    </task>
-    <task id="LOCAL-00605" summary="update workspace.xml">
-      <created>1665944424713</created>
-      <option name="number" value="00605" />
-      <option name="presentableId" value="LOCAL-00605" />
-      <option name="project" value="LOCAL" />
-      <updated>1665944424713</updated>
-    </task>
-    <task id="LOCAL-00606" summary="update workspace.xml">
-      <created>1665945009932</created>
-      <option name="number" value="00606" />
-      <option name="presentableId" value="LOCAL-00606" />
-      <option name="project" value="LOCAL" />
-      <updated>1665945009932</updated>
-    </task>
-    <task id="LOCAL-00607" summary="update ArrNumFive.java">
-      <created>1665945616572</created>
-      <option name="number" value="00607" />
-      <option name="presentableId" value="LOCAL-00607" />
-      <option name="project" value="LOCAL" />
-      <updated>1665945616572</updated>
-    </task>
-    <task id="LOCAL-00608" summary="update workspace.xml">
-      <created>1665993821974</created>
-      <option name="number" value="00608" />
-      <option name="presentableId" value="LOCAL-00608" />
-      <option name="project" value="LOCAL" />
-      <updated>1665993821974</updated>
     </task>
     <task id="LOCAL-00609" summary="update HammerThrowing.java">
       <created>1665993867394</created>
@@ -479,7 +442,42 @@
       <option name="project" value="LOCAL" />
       <updated>1666099179714</updated>
     </task>
-    <option name="localTasksCounter" value="653" />
+    <task id="LOCAL-00653" summary="update workspace.xml">
+      <created>1666099502836</created>
+      <option name="number" value="00653" />
+      <option name="presentableId" value="LOCAL-00653" />
+      <option name="project" value="LOCAL" />
+      <updated>1666099502836</updated>
+    </task>
+    <task id="LOCAL-00654" summary="add AddingAnElement.java">
+      <created>1666099509909</created>
+      <option name="number" value="00654" />
+      <option name="presentableId" value="LOCAL-00654" />
+      <option name="project" value="LOCAL" />
+      <updated>1666099509909</updated>
+    </task>
+    <task id="LOCAL-00655" summary="add CreateAList.java">
+      <created>1666099514401</created>
+      <option name="number" value="00655" />
+      <option name="presentableId" value="LOCAL-00655" />
+      <option name="project" value="LOCAL" />
+      <updated>1666099514401</updated>
+    </task>
+    <task id="LOCAL-00656" summary="add RemovingAnElement.java">
+      <created>1666099519841</created>
+      <option name="number" value="00656" />
+      <option name="presentableId" value="LOCAL-00656" />
+      <option name="project" value="LOCAL" />
+      <updated>1666099519841</updated>
+    </task>
+    <task id="LOCAL-00657" summary="add ReplacingAnElement.java">
+      <created>1666099525344</created>
+      <option name="number" value="00657" />
+      <option name="presentableId" value="LOCAL-00657" />
+      <option name="project" value="LOCAL" />
+      <updated>1666099525344</updated>
+    </task>
+    <option name="localTasksCounter" value="658" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,10 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Example.java" />
-    <MESSAGE value="add HammerThrowing2.java" />
-    <MESSAGE value="add IsItANumber.java" />
-    <MESSAGE value="add Replacement.java" />
     <MESSAGE value="add Strings.java" />
     <MESSAGE value="update Replacement.java" />
     <MESSAGE value="add WhoIsFirst.java" />
@@ -519,7 +513,11 @@
     <MESSAGE value="add SecondClassChallenge.java" />
     <MESSAGE value="add RepeatingLines.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add AddingAnElement.java" />
+    <MESSAGE value="add CreateAList.java" />
+    <MESSAGE value="add RemovingAnElement.java" />
+    <MESSAGE value="add ReplacingAnElement.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ReplacingAnElement.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
