@@ -6,6 +6,7 @@ public class Palindrome {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String text = sc.nextLine();
+        sc.close();
         String replaced = text.toLowerCase().replaceAll("[^a-zA-Z0-9]", "");
         String reversed = new StringBuffer(replaced).reverse().toString();
         System.out.println(reversed.equals(replaced) == true ? "YES" : "NO");
