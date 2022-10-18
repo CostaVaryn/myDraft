@@ -6,6 +6,7 @@ public class LongestWord {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] arr = sc.nextLine().split(" ");
+        sc.close();
         int big = Integer.MIN_VALUE;
         for (String word : arr) {
             if (word.length() > big) {
