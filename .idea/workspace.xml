@@ -133,13 +133,6 @@
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
     </task>
-    <task id="LOCAL-00599" summary="add EvenIndices.java">
-      <created>1665915505916</created>
-      <option name="number" value="00599" />
-      <option name="presentableId" value="LOCAL-00599" />
-      <option name="project" value="LOCAL" />
-      <updated>1665915505916</updated>
-    </task>
     <task id="LOCAL-00600" summary="add ArraySort.java">
       <created>1665915510954</created>
       <option name="number" value="00600" />
@@ -476,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666095156749</updated>
     </task>
-    <option name="localTasksCounter" value="648" />
+    <task id="LOCAL-00648" summary="update workspace.xml">
+      <created>1666095343585</created>
+      <option name="number" value="00648" />
+      <option name="presentableId" value="LOCAL-00648" />
+      <option name="project" value="LOCAL" />
+      <updated>1666095343585</updated>
+    </task>
+    <option name="localTasksCounter" value="649" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -558,11 +558,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/Replacement2.java</url>
           <line>27</line>
           <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/RepeatingLines.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
