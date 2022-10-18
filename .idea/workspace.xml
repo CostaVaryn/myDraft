@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/RepeatingLines.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add RepeatingLines.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/CreateAList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,20 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00600" summary="add ArraySort.java">
-      <created>1665915510954</created>
-      <option name="number" value="00600" />
-      <option name="presentableId" value="LOCAL-00600" />
-      <option name="project" value="LOCAL" />
-      <updated>1665915510954</updated>
-    </task>
-    <task id="LOCAL-00601" summary="update workspace.xml">
-      <created>1665916103358</created>
-      <option name="number" value="00601" />
-      <option name="presentableId" value="LOCAL-00601" />
-      <option name="project" value="LOCAL" />
-      <updated>1665916103358</updated>
     </task>
     <task id="LOCAL-00602" summary="update workspace.xml">
       <created>1665916200413</created>
@@ -476,7 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666095343585</updated>
     </task>
-    <option name="localTasksCounter" value="649" />
+    <task id="LOCAL-00649" summary="update workspace.xml">
+      <created>1666095725929</created>
+      <option name="number" value="00649" />
+      <option name="presentableId" value="LOCAL-00649" />
+      <option name="project" value="LOCAL" />
+      <updated>1666095725929</updated>
+    </task>
+    <task id="LOCAL-00650" summary="add RepeatingLines.java">
+      <created>1666095741157</created>
+      <option name="number" value="00650" />
+      <option name="presentableId" value="LOCAL-00650" />
+      <option name="project" value="LOCAL" />
+      <updated>1666095741157</updated>
+    </task>
+    <option name="localTasksCounter" value="651" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update MagicSquare.java" />
     <MESSAGE value="add Example.java" />
     <MESSAGE value="add HammerThrowing2.java" />
     <MESSAGE value="add IsItANumber.java" />
@@ -516,7 +516,8 @@
     <MESSAGE value="add InterestingTranslation.java" />
     <MESSAGE value="add SecondClassChallenge.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add RepeatingLines.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add RepeatingLines.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
