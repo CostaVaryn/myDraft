@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/HasTheNumberBeenSeenBefore.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/IntHashSet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/NumberOfUniqueNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -50,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IntHashSet">
+  <component name="RunManager" selected="Application.HasTheNumberBeenSeenBefore">
     <configuration name="Borrowed2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.lists.Borrowed2" />
       <module name="myDraft" />
@@ -64,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.IntHashSet" />
+    <configuration name="HasTheNumberBeenSeenBefore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.HasTheNumberBeenSeenBefore" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatingLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.lists.RepeatingLines" />
+    <configuration name="IntHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.IntHashSet" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.lists.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.setsanddictionaries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HasTheNumberBeenSeenBefore" />
         <item itemvalue="Application.IntHashSet" />
         <item itemvalue="Application.SynonymDictionary" />
         <item itemvalue="Application.TestHuman" />
         <item itemvalue="Application.Borrowed2" />
-        <item itemvalue="Application.RepeatingLines" />
       </list>
     </recent_temporary>
   </component>
@@ -134,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00634" summary="update workspace.xml">
-      <created>1666081355326</created>
-      <option name="number" value="00634" />
-      <option name="presentableId" value="LOCAL-00634" />
-      <option name="project" value="LOCAL" />
-      <updated>1666081355326</updated>
     </task>
     <task id="LOCAL-00635" summary="add WhoMore.java">
       <created>1666081360686</created>
@@ -478,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666184719578</updated>
     </task>
-    <option name="localTasksCounter" value="683" />
+    <task id="LOCAL-00683" summary="update workspace.xml">
+      <created>1666185158211</created>
+      <option name="number" value="00683" />
+      <option name="presentableId" value="LOCAL-00683" />
+      <option name="project" value="LOCAL" />
+      <updated>1666185158211</updated>
+    </task>
+    <option name="localTasksCounter" value="684" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
