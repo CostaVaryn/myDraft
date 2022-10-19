@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update WhatYouSaid.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/IntHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/NumberOfUniqueNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00633" summary="update workspace.xml">
-      <created>1666079084447</created>
-      <option name="number" value="00633" />
-      <option name="presentableId" value="LOCAL-00633" />
-      <option name="project" value="LOCAL" />
-      <updated>1666079084448</updated>
     </task>
     <task id="LOCAL-00634" summary="update workspace.xml">
       <created>1666081355326</created>
@@ -476,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666181815872</updated>
     </task>
-    <option name="localTasksCounter" value="682" />
+    <task id="LOCAL-00682" summary="update workspace.xml">
+      <created>1666184719578</created>
+      <option name="number" value="00682" />
+      <option name="presentableId" value="LOCAL-00682" />
+      <option name="project" value="LOCAL" />
+      <updated>1666184719578</updated>
+    </task>
+    <option name="localTasksCounter" value="683" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,9 +516,9 @@
     <MESSAGE value="add SynonymDictionary.java" />
     <MESSAGE value="add WhatYouSaid.java" />
     <MESSAGE value="update PersonneStatistics.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update WhatYouSaid.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update WhatYouSaid.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
