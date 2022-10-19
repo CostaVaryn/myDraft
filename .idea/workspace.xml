@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/PersonneStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/SynonymDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/WhatYouSaid.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WhatYouSaid.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,34 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00624" summary="add IPAddress.java">
-      <created>1666013283513</created>
-      <option name="number" value="00624" />
-      <option name="presentableId" value="LOCAL-00624" />
-      <option name="project" value="LOCAL" />
-      <updated>1666013283513</updated>
-    </task>
-    <task id="LOCAL-00625" summary="add HowManyWords.java">
-      <created>1666013287998</created>
-      <option name="number" value="00625" />
-      <option name="presentableId" value="LOCAL-00625" />
-      <option name="project" value="LOCAL" />
-      <updated>1666013287998</updated>
-    </task>
-    <task id="LOCAL-00626" summary="update workspace.xml">
-      <created>1666015306130</created>
-      <option name="number" value="00626" />
-      <option name="presentableId" value="LOCAL-00626" />
-      <option name="project" value="LOCAL" />
-      <updated>1666015306130</updated>
-    </task>
-    <task id="LOCAL-00627" summary="update workspace.xml">
-      <created>1666017626658</created>
-      <option name="number" value="00627" />
-      <option name="presentableId" value="LOCAL-00627" />
-      <option name="project" value="LOCAL" />
-      <updated>1666017626658</updated>
     </task>
     <task id="LOCAL-00628" summary="update workspace.xml">
       <created>1666017639943</created>
@@ -478,7 +446,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666179007133</updated>
     </task>
-    <option name="localTasksCounter" value="673" />
+    <task id="LOCAL-00673" summary="update workspace.xml">
+      <created>1666179195991</created>
+      <option name="number" value="00673" />
+      <option name="presentableId" value="LOCAL-00673" />
+      <option name="project" value="LOCAL" />
+      <updated>1666179195991</updated>
+    </task>
+    <task id="LOCAL-00674" summary="add PersonneStatistics.java">
+      <created>1666179219286</created>
+      <option name="number" value="00674" />
+      <option name="presentableId" value="LOCAL-00674" />
+      <option name="project" value="LOCAL" />
+      <updated>1666179219286</updated>
+    </task>
+    <task id="LOCAL-00675" summary="add SynonymDictionary.java">
+      <created>1666179227688</created>
+      <option name="number" value="00675" />
+      <option name="presentableId" value="LOCAL-00675" />
+      <option name="project" value="LOCAL" />
+      <updated>1666179227689</updated>
+    </task>
+    <task id="LOCAL-00676" summary="add WhatYouSaid.java">
+      <created>1666179233163</created>
+      <option name="number" value="00676" />
+      <option name="presentableId" value="LOCAL-00676" />
+      <option name="project" value="LOCAL" />
+      <updated>1666179233163</updated>
+    </task>
+    <option name="localTasksCounter" value="677" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,9 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add CaseSensitiveCounting.java" />
-    <MESSAGE value="add WhoMore.java" />
-    <MESSAGE value="add RemoveExcess.java" />
     <MESSAGE value="add Palindrome.java" />
     <MESSAGE value="add MostCommonCharacter.java" />
     <MESSAGE value="add LongestWord.java" />
@@ -518,7 +511,10 @@
     <MESSAGE value="add LotsOfInserts.java" />
     <MESSAGE value="add TestHuman.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add PersonneStatistics.java" />
+    <MESSAGE value="add SynonymDictionary.java" />
+    <MESSAGE value="add WhatYouSaid.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add WhatYouSaid.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
