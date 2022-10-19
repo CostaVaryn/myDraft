@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update PersonneStatistics.java">
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/PersonneStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/PersonneStatistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/WhatYouSaid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/WhatYouSaid.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update WhatYouSaid.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/IntHashSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SynonymDictionary">
+  <component name="RunManager" selected="Application.IntHashSet">
     <configuration name="Borrowed2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.lists.Borrowed2" />
       <module name="myDraft" />
@@ -63,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.stringasanarray.Palindrome" />
+    <configuration name="IntHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.IntHashSet" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.stringasanarray.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.setsanddictionaries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntHashSet" />
         <item itemvalue="Application.SynonymDictionary" />
         <item itemvalue="Application.TestHuman" />
         <item itemvalue="Application.Borrowed2" />
         <item itemvalue="Application.RepeatingLines" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -133,27 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00630" summary="add Replacement2.java">
-      <created>1666021448952</created>
-      <option name="number" value="00630" />
-      <option name="presentableId" value="LOCAL-00630" />
-      <option name="project" value="LOCAL" />
-      <updated>1666021448952</updated>
-    </task>
-    <task id="LOCAL-00631" summary="add CaseSensitiveCounting.java">
-      <created>1666021453308</created>
-      <option name="number" value="00631" />
-      <option name="presentableId" value="LOCAL-00631" />
-      <option name="project" value="LOCAL" />
-      <updated>1666021453308</updated>
-    </task>
-    <task id="LOCAL-00632" summary="update workspace.xml">
-      <created>1666021989970</created>
-      <option name="number" value="00632" />
-      <option name="presentableId" value="LOCAL-00632" />
-      <option name="project" value="LOCAL" />
-      <updated>1666021989970</updated>
     </task>
     <task id="LOCAL-00633" summary="update workspace.xml">
       <created>1666079084447</created>
@@ -477,7 +455,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666181786283</updated>
     </task>
-    <option name="localTasksCounter" value="679" />
+    <task id="LOCAL-00679" summary="update PersonneStatistics.java">
+      <created>1666181802615</created>
+      <option name="number" value="00679" />
+      <option name="presentableId" value="LOCAL-00679" />
+      <option name="project" value="LOCAL" />
+      <updated>1666181802615</updated>
+    </task>
+    <task id="LOCAL-00680" summary="update workspace.xml">
+      <created>1666181807874</created>
+      <option name="number" value="00680" />
+      <option name="presentableId" value="LOCAL-00680" />
+      <option name="project" value="LOCAL" />
+      <updated>1666181807874</updated>
+    </task>
+    <task id="LOCAL-00681" summary="update WhatYouSaid.java">
+      <created>1666181815872</created>
+      <option name="number" value="00681" />
+      <option name="presentableId" value="LOCAL-00681" />
+      <option name="project" value="LOCAL" />
+      <updated>1666181815872</updated>
+    </task>
+    <option name="localTasksCounter" value="682" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add MostCommonCharacter.java" />
     <MESSAGE value="add LongestWord.java" />
     <MESSAGE value="add CaseInsensitiveCounting.java" />
     <MESSAGE value="update Palindrome.java" />
@@ -515,9 +513,10 @@
     <MESSAGE value="add PersonneStatistics.java" />
     <MESSAGE value="add SynonymDictionary.java" />
     <MESSAGE value="add WhatYouSaid.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update PersonneStatistics.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update PersonneStatistics.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update WhatYouSaid.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update WhatYouSaid.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
