@@ -15,8 +15,8 @@ public class WhatYouSaid {
         int count = 0;
         int max = 0;
         String answer = "";
-        for (int i = 0; i < n; i++){
-            for (int j = 0; j < n; j++){
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
                 if (words.get(i).equals(words.get(j))) {
                     count++;
                 }
