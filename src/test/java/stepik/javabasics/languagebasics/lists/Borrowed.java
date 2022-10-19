@@ -1,6 +1,31 @@
 package stepik.javabasics.languagebasics.lists;
 
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class Borrowed {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        ArrayList<String> list = new ArrayList<>();
+        int n = sc.nextInt();
+        String name = null;
+        for (int i = 0; i < n; i++) {
+            String str = sc.next();
+            if (str.equalsIgnoreCase("Добавить")) {
+                list.add(sc.next());
+            } if (str.equalsIgnoreCase("Следующий!")) {
+                list.remove(0);
+            }
+            if (!str.equalsIgnoreCase("Добавить") && !str.equalsIgnoreCase("Следующий!")) {
+                sc.next();
+                sc.next();
+                name = sc.next();
+                int index = list.indexOf(name);
+                list.add(index + 1, str);
+            }
+        }
+        System.out.println(String.join(" ", list));
+    }
 }
 
 /*
