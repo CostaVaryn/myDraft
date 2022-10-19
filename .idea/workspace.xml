@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add LotsOfInserts.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/SynonymDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/TestHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Borrowed2">
+  <component name="RunManager" selected="Application.TestHuman">
     <configuration name="Borrowed2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.lists.Borrowed2" />
       <module name="myDraft" />
@@ -99,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replacement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.Replacement2" />
+    <configuration name="TestHuman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.TestHuman" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicstringfunctions.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.setsanddictionaries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestHuman" />
         <item itemvalue="Application.Borrowed2" />
         <item itemvalue="Application.RepeatingLines" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.CaseSensitiveCounting" />
-        <item itemvalue="Application.Replacement2" />
       </list>
     </recent_temporary>
   </component>
@@ -130,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00619" summary="update workspace.xml">
-      <created>1666006857432</created>
-      <option name="number" value="00619" />
-      <option name="presentableId" value="LOCAL-00619" />
-      <option name="project" value="LOCAL" />
-      <updated>1666006857433</updated>
     </task>
     <task id="LOCAL-00620" summary="update Replacement.java">
       <created>1666006862400</created>
@@ -474,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666170239538</updated>
     </task>
-    <option name="localTasksCounter" value="668" />
+    <task id="LOCAL-00668" summary="update workspace.xml">
+      <created>1666172878645</created>
+      <option name="number" value="00668" />
+      <option name="presentableId" value="LOCAL-00668" />
+      <option name="project" value="LOCAL" />
+      <updated>1666172878645</updated>
+    </task>
+    <option name="localTasksCounter" value="669" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,12 +513,12 @@
     <MESSAGE value="add ReplacingAnElement.java" />
     <MESSAGE value="add Borrowed.java" />
     <MESSAGE value="add Turn.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Borrowed.java" />
     <MESSAGE value="add Borrowed2.java" />
     <MESSAGE value="add Stack.java" />
     <MESSAGE value="add LotsOfInserts.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add LotsOfInserts.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
