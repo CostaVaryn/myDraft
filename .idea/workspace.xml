@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Borrowed.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/Borrowed2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/LotsOfInserts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/Borrowed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/Borrowed.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +51,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RepeatingLines">
-    <configuration name="CaseSensitiveCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.stringasanarray.CaseSensitiveCounting" />
+  <component name="RunManager" selected="Application.Borrowed2">
+    <configuration name="Borrowed2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.lists.Borrowed2" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.stringasanarray.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IPAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.basicstringfunctions.IPAddress" />
+    <configuration name="CaseSensitiveCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.stringasanarray.CaseSensitiveCounting" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.basicstringfunctions.*" />
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.stringasanarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Borrowed2" />
         <item itemvalue="Application.RepeatingLines" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.CaseSensitiveCounting" />
         <item itemvalue="Application.Replacement2" />
-        <item itemvalue="Application.IPAddress" />
       </list>
     </recent_temporary>
   </component>
@@ -134,20 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00613" summary="update workspace.xml">
-      <created>1666005866080</created>
-      <option name="number" value="00613" />
-      <option name="presentableId" value="LOCAL-00613" />
-      <option name="project" value="LOCAL" />
-      <updated>1666005866080</updated>
-    </task>
-    <task id="LOCAL-00614" summary="add Example.java">
-      <created>1666005874993</created>
-      <option name="number" value="00614" />
-      <option name="presentableId" value="LOCAL-00614" />
-      <option name="project" value="LOCAL" />
-      <updated>1666005874993</updated>
     </task>
     <task id="LOCAL-00615" summary="add HammerThrowing2.java">
       <created>1666005879727</created>
@@ -478,7 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666165495203</updated>
     </task>
-    <option name="localTasksCounter" value="662" />
+    <task id="LOCAL-00662" summary="update workspace.xml">
+      <created>1666166741251</created>
+      <option name="number" value="00662" />
+      <option name="presentableId" value="LOCAL-00662" />
+      <option name="project" value="LOCAL" />
+      <updated>1666166741251</updated>
+    </task>
+    <task id="LOCAL-00663" summary="update Borrowed.java">
+      <created>1666166748212</created>
+      <option name="number" value="00663" />
+      <option name="presentableId" value="LOCAL-00663" />
+      <option name="project" value="LOCAL" />
+      <updated>1666166748212</updated>
+    </task>
+    <option name="localTasksCounter" value="664" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add WhoIsFirst.java" />
     <MESSAGE value="add JustConnectThem.java" />
     <MESSAGE value="add IPAddress.java" />
     <MESSAGE value="add HowManyWords.java" />
@@ -518,7 +518,8 @@
     <MESSAGE value="add Borrowed.java" />
     <MESSAGE value="add Turn.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="update Borrowed.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Borrowed.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
