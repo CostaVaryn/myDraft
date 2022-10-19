@@ -1,37 +1,35 @@
 package stepik.javabasics.languagebasics.setsanddictionaries;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class PersonneStatistics {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        HashMap<String, String> words = new HashMap<String, String>();
+        Scanner in = new Scanner(System.in);
+        HashMap<String, Integer> map = new HashMap<String,Integer>();
+        LinkedHashMap<String, String> prof = new LinkedHashMap<String,String>();
+        int n = in.nextInt(), count = 0;
+        String line, answer = "", name;
         for (int i = 0; i < n; i++) {
-            String name = sc.next();
-            String prof = sc.next();
-            words.put(name, prof);
-        }
-        int count = 0;
-        int max = 0;
-        String answer = "";
-        ArrayList<String> arrayList = new ArrayList<>();
-        for (int i = 0; i < n; i++){
-            for (int j = 0; j < n; j++){
-                if (words.get(i).equals(words.get(j))) {
-                    count++;
-                }
-                if (count > max) {
-                    max = count;
-                    answer = words.get(i);
-                }
+            name = in.next();
+            line = in.next();
+            prof.put(name, line);
+            if (map.containsKey(line)) {
+                map.put(line, map.get(line) + 1);
+            } else {
+                map.put(line, 1);
             }
-            count = 0;
+            if (count < map.get(line)) {
+                count = map.get(line);
+                answer = line;
+            }
         }
+        System.out.println(count);
         System.out.println(answer);
+        for (String str: prof.keySet()) {
+            if (answer.equals(prof.get(str))) {
+                System.out.println(str);
+            }
+        }
     }
 }
 
