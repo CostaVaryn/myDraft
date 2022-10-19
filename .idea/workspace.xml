@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/HasTheNumberBeenSeenBefore.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/IntHashSet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/NumberOfUniqueNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/NumberOfWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
