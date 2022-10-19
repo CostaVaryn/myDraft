@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ReplacingAnElement.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/lists/Turn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Turn.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,27 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00609" summary="update HammerThrowing.java">
-      <created>1665993867394</created>
-      <option name="number" value="00609" />
-      <option name="presentableId" value="LOCAL-00609" />
-      <option name="project" value="LOCAL" />
-      <updated>1665993867394</updated>
-    </task>
-    <task id="LOCAL-00610" summary="update workspace.xml">
-      <created>1665997693590</created>
-      <option name="number" value="00610" />
-      <option name="presentableId" value="LOCAL-00610" />
-      <option name="project" value="LOCAL" />
-      <updated>1665997693590</updated>
-    </task>
-    <task id="LOCAL-00611" summary="update workspace.xml">
-      <created>1666004130718</created>
-      <option name="number" value="00611" />
-      <option name="presentableId" value="LOCAL-00611" />
-      <option name="project" value="LOCAL" />
-      <updated>1666004130718</updated>
     </task>
     <task id="LOCAL-00612" summary="update MagicSquare.java">
       <created>1666005349701</created>
@@ -477,7 +453,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666099525344</updated>
     </task>
-    <option name="localTasksCounter" value="658" />
+    <task id="LOCAL-00658" summary="update workspace.xml">
+      <created>1666100316812</created>
+      <option name="number" value="00658" />
+      <option name="presentableId" value="LOCAL-00658" />
+      <option name="project" value="LOCAL" />
+      <updated>1666100316812</updated>
+    </task>
+    <task id="LOCAL-00659" summary="add Borrowed.java">
+      <created>1666100326789</created>
+      <option name="number" value="00659" />
+      <option name="presentableId" value="LOCAL-00659" />
+      <option name="project" value="LOCAL" />
+      <updated>1666100326789</updated>
+    </task>
+    <task id="LOCAL-00660" summary="add Turn.java">
+      <created>1666100334819</created>
+      <option name="number" value="00660" />
+      <option name="presentableId" value="LOCAL-00660" />
+      <option name="project" value="LOCAL" />
+      <updated>1666100334819</updated>
+    </task>
+    <option name="localTasksCounter" value="661" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,8 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Strings.java" />
-    <MESSAGE value="update Replacement.java" />
     <MESSAGE value="add WhoIsFirst.java" />
     <MESSAGE value="add JustConnectThem.java" />
     <MESSAGE value="add IPAddress.java" />
@@ -512,12 +507,14 @@
     <MESSAGE value="add InterestingTranslation.java" />
     <MESSAGE value="add SecondClassChallenge.java" />
     <MESSAGE value="add RepeatingLines.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add AddingAnElement.java" />
     <MESSAGE value="add CreateAList.java" />
     <MESSAGE value="add RemovingAnElement.java" />
     <MESSAGE value="add ReplacingAnElement.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ReplacingAnElement.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add Borrowed.java" />
+    <MESSAGE value="add Turn.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Turn.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
