@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add NumberOfWords.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/Discriminant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/HowManyRoots.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add HowManyRoots.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/MultiplesOf3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberOfWords">
+  <component name="RunManager" selected="Application.SumOfNumbersEndingIn7or3">
     <configuration name="HasTheNumberBeenSeenBefore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.HasTheNumberBeenSeenBefore" />
       <module name="myDraft" />
@@ -89,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfNumbersEndingIn7or3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.problemsolving.SumOfNumbersEndingIn7or3" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.problemsolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SynonymDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.SynonymDictionary" />
       <module name="myDraft" />
@@ -102,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHuman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.TestHuman" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.setsanddictionaries.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfNumbersEndingIn7or3" />
         <item itemvalue="Application.NumberOfWords" />
         <item itemvalue="Application.HasTheNumberBeenSeenBefore" />
         <item itemvalue="Application.IntHashSet" />
         <item itemvalue="Application.SynonymDictionary" />
-        <item itemvalue="Application.TestHuman" />
       </list>
     </recent_temporary>
   </component>
@@ -133,27 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00643" summary="update MostCommonCharacter.java">
-      <created>1666092393161</created>
-      <option name="number" value="00643" />
-      <option name="presentableId" value="LOCAL-00643" />
-      <option name="project" value="LOCAL" />
-      <updated>1666092393161</updated>
-    </task>
-    <task id="LOCAL-00644" summary="update LongestWord.java">
-      <created>1666092397666</created>
-      <option name="number" value="00644" />
-      <option name="presentableId" value="LOCAL-00644" />
-      <option name="project" value="LOCAL" />
-      <updated>1666092397666</updated>
-    </task>
-    <task id="LOCAL-00645" summary="add InterestingTranslation.java">
-      <created>1666092405370</created>
-      <option name="number" value="00645" />
-      <option name="presentableId" value="LOCAL-00645" />
-      <option name="project" value="LOCAL" />
-      <updated>1666092405370</updated>
     </task>
     <task id="LOCAL-00646" summary="add SecondClassChallenge.java">
       <created>1666092412786</created>
@@ -477,7 +455,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666251199528</updated>
     </task>
-    <option name="localTasksCounter" value="692" />
+    <task id="LOCAL-00692" summary="update workspace.xml">
+      <created>1666251661695</created>
+      <option name="number" value="00692" />
+      <option name="presentableId" value="LOCAL-00692" />
+      <option name="project" value="LOCAL" />
+      <updated>1666251661695</updated>
+    </task>
+    <task id="LOCAL-00693" summary="add Discriminant.java">
+      <created>1666251667947</created>
+      <option name="number" value="00693" />
+      <option name="presentableId" value="LOCAL-00693" />
+      <option name="project" value="LOCAL" />
+      <updated>1666251667947</updated>
+    </task>
+    <task id="LOCAL-00694" summary="add HowManyRoots.java">
+      <created>1666251673775</created>
+      <option name="number" value="00694" />
+      <option name="presentableId" value="LOCAL-00694" />
+      <option name="project" value="LOCAL" />
+      <updated>1666251673775</updated>
+    </task>
+    <option name="localTasksCounter" value="695" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,8 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add InterestingTranslation.java" />
-    <MESSAGE value="add SecondClassChallenge.java" />
     <MESSAGE value="add RepeatingLines.java" />
     <MESSAGE value="add AddingAnElement.java" />
     <MESSAGE value="add CreateAList.java" />
@@ -513,11 +510,13 @@
     <MESSAGE value="update WhatYouSaid.java" />
     <MESSAGE value="add HasTheNumberBeenSeenBefore.java" />
     <MESSAGE value="add IntHashSet.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add DictionariesAndSets.java" />
     <MESSAGE value="add NumberOfUniqueNumbers.java" />
     <MESSAGE value="add NumberOfWords.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add NumberOfWords.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add Discriminant.java" />
+    <MESSAGE value="add HowManyRoots.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add HowManyRoots.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
