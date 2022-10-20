@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add HowManyRoots.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/MultiplesOf3.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SumOfNumbersEndingIn7or3.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/MaxSwapMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/RowAndColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/TheLetterA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumOfNumbersEndingIn7or3">
+  <component name="RunManager" selected="Application.RowAndColumn">
     <configuration name="HasTheNumberBeenSeenBefore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.HasTheNumberBeenSeenBefore" />
       <module name="myDraft" />
@@ -88,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RowAndColumn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.problemsolving.RowAndColumn" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.languagebasics.problemsolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfNumbersEndingIn7or3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.problemsolving.SumOfNumbersEndingIn7or3" />
       <module name="myDraft" />
@@ -101,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynonymDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.SynonymDictionary" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.setsanddictionaries.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RowAndColumn" />
         <item itemvalue="Application.SumOfNumbersEndingIn7or3" />
         <item itemvalue="Application.NumberOfWords" />
         <item itemvalue="Application.HasTheNumberBeenSeenBefore" />
         <item itemvalue="Application.IntHashSet" />
-        <item itemvalue="Application.SynonymDictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -132,27 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00646" summary="add SecondClassChallenge.java">
-      <created>1666092412786</created>
-      <option name="number" value="00646" />
-      <option name="presentableId" value="LOCAL-00646" />
-      <option name="project" value="LOCAL" />
-      <updated>1666092412786</updated>
-    </task>
-    <task id="LOCAL-00647" summary="update workspace.xml">
-      <created>1666095156749</created>
-      <option name="number" value="00647" />
-      <option name="presentableId" value="LOCAL-00647" />
-      <option name="project" value="LOCAL" />
-      <updated>1666095156749</updated>
-    </task>
-    <task id="LOCAL-00648" summary="update workspace.xml">
-      <created>1666095343585</created>
-      <option name="number" value="00648" />
-      <option name="presentableId" value="LOCAL-00648" />
-      <option name="project" value="LOCAL" />
-      <updated>1666095343585</updated>
     </task>
     <task id="LOCAL-00649" summary="update workspace.xml">
       <created>1666095725929</created>
@@ -476,7 +458,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666251673775</updated>
     </task>
-    <option name="localTasksCounter" value="695" />
+    <task id="LOCAL-00695" summary="update workspace.xml">
+      <created>1666252162099</created>
+      <option name="number" value="00695" />
+      <option name="presentableId" value="LOCAL-00695" />
+      <option name="project" value="LOCAL" />
+      <updated>1666252162099</updated>
+    </task>
+    <task id="LOCAL-00696" summary="add MultiplesOf3.java">
+      <created>1666252167160</created>
+      <option name="number" value="00696" />
+      <option name="presentableId" value="LOCAL-00696" />
+      <option name="project" value="LOCAL" />
+      <updated>1666252167160</updated>
+    </task>
+    <task id="LOCAL-00697" summary="add SumOfNumbersEndingIn7or3.java">
+      <created>1666252172913</created>
+      <option name="number" value="00697" />
+      <option name="presentableId" value="LOCAL-00697" />
+      <option name="project" value="LOCAL" />
+      <updated>1666252172913</updated>
+    </task>
+    <option name="localTasksCounter" value="698" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,8 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add RepeatingLines.java" />
-    <MESSAGE value="add AddingAnElement.java" />
     <MESSAGE value="add CreateAList.java" />
     <MESSAGE value="add RemovingAnElement.java" />
     <MESSAGE value="add ReplacingAnElement.java" />
@@ -513,10 +514,12 @@
     <MESSAGE value="add DictionariesAndSets.java" />
     <MESSAGE value="add NumberOfUniqueNumbers.java" />
     <MESSAGE value="add NumberOfWords.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add Discriminant.java" />
     <MESSAGE value="add HowManyRoots.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add HowManyRoots.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add MultiplesOf3.java" />
+    <MESSAGE value="add SumOfNumbersEndingIn7or3.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SumOfNumbersEndingIn7or3.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -563,6 +566,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/NumberOfWords.java</url>
           <line>13</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/RowAndColumn.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
