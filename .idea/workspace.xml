@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WhichWordIsLonger.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/WhichWordIsLonger.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/checkuphhru/CheckResume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/AreaAndPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/HeronsFormula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/MonotonicNonDecreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/PrimeNumbersInBetween.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/SortByStringLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AddNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/AddNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Anagramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/Anagramma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ArtifactMuseum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/ArtifactMuseum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FiboSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/FiboSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/SumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/TestLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/TestScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,26 +62,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RowAndColumn">
-    <configuration name="HasTheNumberBeenSeenBefore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.HasTheNumberBeenSeenBefore" />
+  <component name="RunManager" selected="Application.SortByStringLength">
+    <configuration name="CheckResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="checkuphhru.CheckResume" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.setsanddictionaries.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.IntHashSet" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.setsanddictionaries.*" />
+          <option name="PATTERN" value="checkuphhru.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortByStringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.functionparameters.SortByStringLength" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.functionparameters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfNumbersEndingIn7or3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.problemsolving.SumOfNumbersEndingIn7or3" />
       <module name="myDraft" />
@@ -116,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortByStringLength" />
+        <item itemvalue="Application.CheckResume" />
         <item itemvalue="Application.RowAndColumn" />
         <item itemvalue="Application.SumOfNumbersEndingIn7or3" />
         <item itemvalue="Application.NumberOfWords" />
-        <item itemvalue="Application.HasTheNumberBeenSeenBefore" />
-        <item itemvalue="Application.IntHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -132,13 +146,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00658" summary="update workspace.xml">
-      <created>1666100316812</created>
-      <option name="number" value="00658" />
-      <option name="presentableId" value="LOCAL-00658" />
-      <option name="project" value="LOCAL" />
-      <updated>1666100316812</updated>
     </task>
     <task id="LOCAL-00659" summary="add Borrowed.java">
       <created>1666100326789</created>
@@ -476,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666258349418</updated>
     </task>
-    <option name="localTasksCounter" value="707" />
+    <task id="LOCAL-00707" summary="update workspace.xml">
+      <created>1666258562182</created>
+      <option name="number" value="00707" />
+      <option name="presentableId" value="LOCAL-00707" />
+      <option name="project" value="LOCAL" />
+      <updated>1666258562182</updated>
+    </task>
+    <option name="localTasksCounter" value="708" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,11 +526,11 @@
     <MESSAGE value="add MaxSwapMin.java" />
     <MESSAGE value="add RowAndColumn.java" />
     <MESSAGE value="add TheLetterA.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ProductOfThreeNumbers.java" />
     <MESSAGE value="add TwoFunctions.java" />
     <MESSAGE value="add WhichWordIsLonger.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add WhichWordIsLonger.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
