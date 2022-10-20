@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add IntHashSet.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/DictionariesAndSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/NumberOfUniqueNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/setsanddictionaries/NumberOfWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add NumberOfWords.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/Discriminant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/HowManyRoots.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,34 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00639" summary="add LongestWord.java">
-      <created>1666081385485</created>
-      <option name="number" value="00639" />
-      <option name="presentableId" value="LOCAL-00639" />
-      <option name="project" value="LOCAL" />
-      <updated>1666081385485</updated>
-    </task>
-    <task id="LOCAL-00640" summary="add CaseInsensitiveCounting.java">
-      <created>1666081391382</created>
-      <option name="number" value="00640" />
-      <option name="presentableId" value="LOCAL-00640" />
-      <option name="project" value="LOCAL" />
-      <updated>1666081391382</updated>
-    </task>
-    <task id="LOCAL-00641" summary="update workspace.xml">
-      <created>1666092382741</created>
-      <option name="number" value="00641" />
-      <option name="presentableId" value="LOCAL-00641" />
-      <option name="project" value="LOCAL" />
-      <updated>1666092382741</updated>
-    </task>
-    <task id="LOCAL-00642" summary="update Palindrome.java">
-      <created>1666092388676</created>
-      <option name="number" value="00642" />
-      <option name="presentableId" value="LOCAL-00642" />
-      <option name="project" value="LOCAL" />
-      <updated>1666092388676</updated>
     </task>
     <task id="LOCAL-00643" summary="update MostCommonCharacter.java">
       <created>1666092393161</created>
@@ -479,7 +449,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666186671442</updated>
     </task>
-    <option name="localTasksCounter" value="688" />
+    <task id="LOCAL-00688" summary="update workspace.xml">
+      <created>1666251179069</created>
+      <option name="number" value="00688" />
+      <option name="presentableId" value="LOCAL-00688" />
+      <option name="project" value="LOCAL" />
+      <updated>1666251179069</updated>
+    </task>
+    <task id="LOCAL-00689" summary="add DictionariesAndSets.java">
+      <created>1666251187360</created>
+      <option name="number" value="00689" />
+      <option name="presentableId" value="LOCAL-00689" />
+      <option name="project" value="LOCAL" />
+      <updated>1666251187360</updated>
+    </task>
+    <task id="LOCAL-00690" summary="add NumberOfUniqueNumbers.java">
+      <created>1666251193715</created>
+      <option name="number" value="00690" />
+      <option name="presentableId" value="LOCAL-00690" />
+      <option name="project" value="LOCAL" />
+      <updated>1666251193715</updated>
+    </task>
+    <task id="LOCAL-00691" summary="add NumberOfWords.java">
+      <created>1666251199528</created>
+      <option name="number" value="00691" />
+      <option name="presentableId" value="LOCAL-00691" />
+      <option name="project" value="LOCAL" />
+      <updated>1666251199528</updated>
+    </task>
+    <option name="localTasksCounter" value="692" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,9 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update Palindrome.java" />
-    <MESSAGE value="update MostCommonCharacter.java" />
-    <MESSAGE value="update LongestWord.java" />
     <MESSAGE value="add InterestingTranslation.java" />
     <MESSAGE value="add SecondClassChallenge.java" />
     <MESSAGE value="add RepeatingLines.java" />
@@ -516,10 +511,13 @@
     <MESSAGE value="add WhatYouSaid.java" />
     <MESSAGE value="update PersonneStatistics.java" />
     <MESSAGE value="update WhatYouSaid.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add HasTheNumberBeenSeenBefore.java" />
     <MESSAGE value="add IntHashSet.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add IntHashSet.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add DictionariesAndSets.java" />
+    <MESSAGE value="add NumberOfUniqueNumbers.java" />
+    <MESSAGE value="add NumberOfWords.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add NumberOfWords.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
