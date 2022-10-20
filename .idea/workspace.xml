@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add TheLetterA.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/ProductOfThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/TwoFunctions.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WhichWordIsLonger.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/WhichWordIsLonger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,34 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00654" summary="add AddingAnElement.java">
-      <created>1666099509909</created>
-      <option name="number" value="00654" />
-      <option name="presentableId" value="LOCAL-00654" />
-      <option name="project" value="LOCAL" />
-      <updated>1666099509909</updated>
-    </task>
-    <task id="LOCAL-00655" summary="add CreateAList.java">
-      <created>1666099514401</created>
-      <option name="number" value="00655" />
-      <option name="presentableId" value="LOCAL-00655" />
-      <option name="project" value="LOCAL" />
-      <updated>1666099514401</updated>
-    </task>
-    <task id="LOCAL-00656" summary="add RemovingAnElement.java">
-      <created>1666099519841</created>
-      <option name="number" value="00656" />
-      <option name="presentableId" value="LOCAL-00656" />
-      <option name="project" value="LOCAL" />
-      <updated>1666099519841</updated>
-    </task>
-    <task id="LOCAL-00657" summary="add ReplacingAnElement.java">
-      <created>1666099525344</created>
-      <option name="number" value="00657" />
-      <option name="presentableId" value="LOCAL-00657" />
-      <option name="project" value="LOCAL" />
-      <updated>1666099525344</updated>
     </task>
     <task id="LOCAL-00658" summary="update workspace.xml">
       <created>1666100316812</created>
@@ -479,7 +448,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666256882978</updated>
     </task>
-    <option name="localTasksCounter" value="703" />
+    <task id="LOCAL-00703" summary="update workspace.xml">
+      <created>1666258322019</created>
+      <option name="number" value="00703" />
+      <option name="presentableId" value="LOCAL-00703" />
+      <option name="project" value="LOCAL" />
+      <updated>1666258322019</updated>
+    </task>
+    <task id="LOCAL-00704" summary="add ProductOfThreeNumbers.java">
+      <created>1666258339072</created>
+      <option name="number" value="00704" />
+      <option name="presentableId" value="LOCAL-00704" />
+      <option name="project" value="LOCAL" />
+      <updated>1666258339072</updated>
+    </task>
+    <task id="LOCAL-00705" summary="add TwoFunctions.java">
+      <created>1666258344392</created>
+      <option name="number" value="00705" />
+      <option name="presentableId" value="LOCAL-00705" />
+      <option name="project" value="LOCAL" />
+      <updated>1666258344392</updated>
+    </task>
+    <task id="LOCAL-00706" summary="add WhichWordIsLonger.java">
+      <created>1666258349418</created>
+      <option name="number" value="00706" />
+      <option name="presentableId" value="LOCAL-00706" />
+      <option name="project" value="LOCAL" />
+      <updated>1666258349418</updated>
+    </task>
+    <option name="localTasksCounter" value="707" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,9 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Borrowed.java" />
-    <MESSAGE value="add Turn.java" />
-    <MESSAGE value="update Borrowed.java" />
     <MESSAGE value="add Borrowed2.java" />
     <MESSAGE value="add Stack.java" />
     <MESSAGE value="add LotsOfInserts.java" />
@@ -517,9 +511,12 @@
     <MESSAGE value="add SumOfNumbersEndingIn7or3.java" />
     <MESSAGE value="add MaxSwapMin.java" />
     <MESSAGE value="add RowAndColumn.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add TheLetterA.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add TheLetterA.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add ProductOfThreeNumbers.java" />
+    <MESSAGE value="add TwoFunctions.java" />
+    <MESSAGE value="add WhichWordIsLonger.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add WhichWordIsLonger.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
