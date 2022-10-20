@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SumOfNumbersEndingIn7or3.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/MaxSwapMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/RowAndColumn.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add RowAndColumn.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/problemsolving/TheLetterA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -135,27 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00649" summary="update workspace.xml">
-      <created>1666095725929</created>
-      <option name="number" value="00649" />
-      <option name="presentableId" value="LOCAL-00649" />
-      <option name="project" value="LOCAL" />
-      <updated>1666095725929</updated>
-    </task>
-    <task id="LOCAL-00650" summary="add RepeatingLines.java">
-      <created>1666095741157</created>
-      <option name="number" value="00650" />
-      <option name="presentableId" value="LOCAL-00650" />
-      <option name="project" value="LOCAL" />
-      <updated>1666095741157</updated>
-    </task>
-    <task id="LOCAL-00651" summary="update workspace.xml">
-      <created>1666098026247</created>
-      <option name="number" value="00651" />
-      <option name="presentableId" value="LOCAL-00651" />
-      <option name="project" value="LOCAL" />
-      <updated>1666098026247</updated>
     </task>
     <task id="LOCAL-00652" summary="update workspace.xml">
       <created>1666099179714</created>
@@ -479,7 +456,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666252172913</updated>
     </task>
-    <option name="localTasksCounter" value="698" />
+    <task id="LOCAL-00698" summary="update workspace.xml">
+      <created>1666255483576</created>
+      <option name="number" value="00698" />
+      <option name="presentableId" value="LOCAL-00698" />
+      <option name="project" value="LOCAL" />
+      <updated>1666255483576</updated>
+    </task>
+    <task id="LOCAL-00699" summary="add MaxSwapMin.java">
+      <created>1666255487981</created>
+      <option name="number" value="00699" />
+      <option name="presentableId" value="LOCAL-00699" />
+      <option name="project" value="LOCAL" />
+      <updated>1666255487981</updated>
+    </task>
+    <task id="LOCAL-00700" summary="add RowAndColumn.java">
+      <created>1666255492564</created>
+      <option name="number" value="00700" />
+      <option name="presentableId" value="LOCAL-00700" />
+      <option name="project" value="LOCAL" />
+      <updated>1666255492564</updated>
+    </task>
+    <option name="localTasksCounter" value="701" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,8 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add CreateAList.java" />
-    <MESSAGE value="add RemovingAnElement.java" />
     <MESSAGE value="add ReplacingAnElement.java" />
     <MESSAGE value="add Borrowed.java" />
     <MESSAGE value="add Turn.java" />
@@ -516,10 +512,12 @@
     <MESSAGE value="add NumberOfWords.java" />
     <MESSAGE value="add Discriminant.java" />
     <MESSAGE value="add HowManyRoots.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add MultiplesOf3.java" />
     <MESSAGE value="add SumOfNumbersEndingIn7or3.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add SumOfNumbersEndingIn7or3.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add MaxSwapMin.java" />
+    <MESSAGE value="add RowAndColumn.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add RowAndColumn.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
