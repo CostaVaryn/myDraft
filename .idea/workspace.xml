@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add GoodDayTime.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add IsThere0.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/Maximin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/IsThere0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/ConditionsGuards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/FormatPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/TestVar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IsThere0">
+  <component name="RunManager" selected="Application.TestVar">
     <configuration name="CheckResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="checkuphhru.CheckResume" />
       <module name="myDraft" />
@@ -70,19 +72,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.returnrecursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RowAndColumn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.problemsolving.RowAndColumn" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.problemsolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.TestVar" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.returnrecursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestVar" />
         <item itemvalue="Application.IsThere0" />
         <item itemvalue="Application.SurfaceAreaOfTheParallelepiped" />
         <item itemvalue="Application.SortByStringLength" />
         <item itemvalue="Application.CheckResume" />
-        <item itemvalue="Application.RowAndColumn" />
       </list>
     </recent_temporary>
   </component>
@@ -134,20 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00674" summary="add PersonneStatistics.java">
-      <created>1666179219286</created>
-      <option name="number" value="00674" />
-      <option name="presentableId" value="LOCAL-00674" />
-      <option name="project" value="LOCAL" />
-      <updated>1666179219286</updated>
-    </task>
-    <task id="LOCAL-00675" summary="add SynonymDictionary.java">
-      <created>1666179227688</created>
-      <option name="number" value="00675" />
-      <option name="presentableId" value="LOCAL-00675" />
-      <option name="project" value="LOCAL" />
-      <updated>1666179227689</updated>
     </task>
     <task id="LOCAL-00676" summary="add WhatYouSaid.java">
       <created>1666179233163</created>
@@ -478,7 +466,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666350554060</updated>
     </task>
-    <option name="localTasksCounter" value="723" />
+    <task id="LOCAL-00723" summary="update workspace.xml">
+      <created>1666353569851</created>
+      <option name="number" value="00723" />
+      <option name="presentableId" value="LOCAL-00723" />
+      <option name="project" value="LOCAL" />
+      <updated>1666353569851</updated>
+    </task>
+    <task id="LOCAL-00724" summary="add IsThere0.java">
+      <created>1666353574868</created>
+      <option name="number" value="00724" />
+      <option name="presentableId" value="LOCAL-00724" />
+      <option name="project" value="LOCAL" />
+      <updated>1666353574868</updated>
+    </task>
+    <option name="localTasksCounter" value="725" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +495,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add DictionariesAndSets.java" />
     <MESSAGE value="add NumberOfUniqueNumbers.java" />
     <MESSAGE value="add NumberOfWords.java" />
     <MESSAGE value="add Discriminant.java" />
@@ -514,11 +515,12 @@
     <MESSAGE value="add PrimeNumber.java" />
     <MESSAGE value="add PrimeNumbersInBetween.java" />
     <MESSAGE value="add SortByStringLength.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add SurfaceAreaOfTheParallelepiped.java" />
     <MESSAGE value="add StrengthOfArchimedes.java" />
     <MESSAGE value="add GoodDayTime.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add GoodDayTime.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add IsThere0.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add IsThere0.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
