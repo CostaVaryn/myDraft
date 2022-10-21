@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add GoodDayTime.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/Maximin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/GoodDayTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/StrengthOfArchimedes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/SurfaceAreaOfTheParallelepiped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/IsThere0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +50,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SurfaceAreaOfTheParallelepiped">
+  <component name="RunManager" selected="Application.IsThere0">
     <configuration name="CheckResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="checkuphhru.CheckResume" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="checkuphhru.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsThere0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.IsThere0" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.returnrecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNumbersEndingIn7or3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.problemsolving.SumOfNumbersEndingIn7or3" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.problemsolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SurfaceAreaOfTheParallelepiped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.SurfaceAreaOfTheParallelepiped" />
       <module name="myDraft" />
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsThere0" />
         <item itemvalue="Application.SurfaceAreaOfTheParallelepiped" />
         <item itemvalue="Application.SortByStringLength" />
         <item itemvalue="Application.CheckResume" />
         <item itemvalue="Application.RowAndColumn" />
-        <item itemvalue="Application.SumOfNumbersEndingIn7or3" />
       </list>
     </recent_temporary>
   </component>
@@ -136,34 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00670" summary="update workspace.xml">
-      <created>1666177259731</created>
-      <option name="number" value="00670" />
-      <option name="presentableId" value="LOCAL-00670" />
-      <option name="project" value="LOCAL" />
-      <updated>1666177259731</updated>
-    </task>
-    <task id="LOCAL-00671" summary="add TestHuman.java">
-      <created>1666177266781</created>
-      <option name="number" value="00671" />
-      <option name="presentableId" value="LOCAL-00671" />
-      <option name="project" value="LOCAL" />
-      <updated>1666177266781</updated>
-    </task>
-    <task id="LOCAL-00672" summary="update workspace.xml">
-      <created>1666179007133</created>
-      <option name="number" value="00672" />
-      <option name="presentableId" value="LOCAL-00672" />
-      <option name="project" value="LOCAL" />
-      <updated>1666179007133</updated>
-    </task>
-    <task id="LOCAL-00673" summary="update workspace.xml">
-      <created>1666179195991</created>
-      <option name="number" value="00673" />
-      <option name="presentableId" value="LOCAL-00673" />
-      <option name="project" value="LOCAL" />
-      <updated>1666179195991</updated>
     </task>
     <task id="LOCAL-00674" summary="add PersonneStatistics.java">
       <created>1666179219286</created>
@@ -480,7 +450,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666348052759</updated>
     </task>
-    <option name="localTasksCounter" value="719" />
+    <task id="LOCAL-00719" summary="update workspace.xml">
+      <created>1666350513782</created>
+      <option name="number" value="00719" />
+      <option name="presentableId" value="LOCAL-00719" />
+      <option name="project" value="LOCAL" />
+      <updated>1666350513782</updated>
+    </task>
+    <task id="LOCAL-00720" summary="add SurfaceAreaOfTheParallelepiped.java">
+      <created>1666350538010</created>
+      <option name="number" value="00720" />
+      <option name="presentableId" value="LOCAL-00720" />
+      <option name="project" value="LOCAL" />
+      <updated>1666350538010</updated>
+    </task>
+    <task id="LOCAL-00721" summary="add StrengthOfArchimedes.java">
+      <created>1666350543012</created>
+      <option name="number" value="00721" />
+      <option name="presentableId" value="LOCAL-00721" />
+      <option name="project" value="LOCAL" />
+      <updated>1666350543012</updated>
+    </task>
+    <task id="LOCAL-00722" summary="add GoodDayTime.java">
+      <created>1666350554060</created>
+      <option name="number" value="00722" />
+      <option name="presentableId" value="LOCAL-00722" />
+      <option name="project" value="LOCAL" />
+      <updated>1666350554060</updated>
+    </task>
+    <option name="localTasksCounter" value="723" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,9 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update WhatYouSaid.java" />
-    <MESSAGE value="add HasTheNumberBeenSeenBefore.java" />
-    <MESSAGE value="add IntHashSet.java" />
     <MESSAGE value="add DictionariesAndSets.java" />
     <MESSAGE value="add NumberOfUniqueNumbers.java" />
     <MESSAGE value="add NumberOfWords.java" />
@@ -520,7 +515,10 @@
     <MESSAGE value="add PrimeNumbersInBetween.java" />
     <MESSAGE value="add SortByStringLength.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add SurfaceAreaOfTheParallelepiped.java" />
+    <MESSAGE value="add StrengthOfArchimedes.java" />
+    <MESSAGE value="add GoodDayTime.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add GoodDayTime.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
