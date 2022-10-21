@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/checkuphhru/CheckResume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/AreaAndPerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/HeronsFormula.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SortByStringLength.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/Maximin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/MonotonicNonDecreasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/PrimeNumbersInBetween.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/SortByStringLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AddNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/AddNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Anagramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/Anagramma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ArtifactMuseum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/ArtifactMuseum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FiboSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/FiboSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/SumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/TestLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miniclasses/TestScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,69 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00660" summary="add Turn.java">
-      <created>1666100334819</created>
-      <option name="number" value="00660" />
-      <option name="presentableId" value="LOCAL-00660" />
-      <option name="project" value="LOCAL" />
-      <updated>1666100334819</updated>
-    </task>
-    <task id="LOCAL-00661" summary="update workspace.xml">
-      <created>1666165495203</created>
-      <option name="number" value="00661" />
-      <option name="presentableId" value="LOCAL-00661" />
-      <option name="project" value="LOCAL" />
-      <updated>1666165495203</updated>
-    </task>
-    <task id="LOCAL-00662" summary="update workspace.xml">
-      <created>1666166741251</created>
-      <option name="number" value="00662" />
-      <option name="presentableId" value="LOCAL-00662" />
-      <option name="project" value="LOCAL" />
-      <updated>1666166741251</updated>
-    </task>
-    <task id="LOCAL-00663" summary="update Borrowed.java">
-      <created>1666166748212</created>
-      <option name="number" value="00663" />
-      <option name="presentableId" value="LOCAL-00663" />
-      <option name="project" value="LOCAL" />
-      <updated>1666166748212</updated>
-    </task>
-    <task id="LOCAL-00664" summary="update Borrowed.java">
-      <created>1666170219024</created>
-      <option name="number" value="00664" />
-      <option name="presentableId" value="LOCAL-00664" />
-      <option name="project" value="LOCAL" />
-      <updated>1666170219025</updated>
-    </task>
-    <task id="LOCAL-00665" summary="add Borrowed2.java">
-      <created>1666170227168</created>
-      <option name="number" value="00665" />
-      <option name="presentableId" value="LOCAL-00665" />
-      <option name="project" value="LOCAL" />
-      <updated>1666170227168</updated>
-    </task>
-    <task id="LOCAL-00666" summary="add Stack.java">
-      <created>1666170234669</created>
-      <option name="number" value="00666" />
-      <option name="presentableId" value="LOCAL-00666" />
-      <option name="project" value="LOCAL" />
-      <updated>1666170234669</updated>
-    </task>
-    <task id="LOCAL-00667" summary="add LotsOfInserts.java">
-      <created>1666170239538</created>
-      <option name="number" value="00667" />
-      <option name="presentableId" value="LOCAL-00667" />
-      <option name="project" value="LOCAL" />
-      <updated>1666170239538</updated>
-    </task>
-    <task id="LOCAL-00668" summary="update workspace.xml">
-      <created>1666172878645</created>
-      <option name="number" value="00668" />
-      <option name="presentableId" value="LOCAL-00668" />
-      <option name="project" value="LOCAL" />
-      <updated>1666172878645</updated>
     </task>
     <task id="LOCAL-00669" summary="update workspace.xml">
       <created>1666175114876</created>
@@ -491,7 +413,70 @@
       <option name="project" value="LOCAL" />
       <updated>1666275019167</updated>
     </task>
-    <option name="localTasksCounter" value="709" />
+    <task id="LOCAL-00709" summary="update workspace.xml">
+      <created>1666347201636</created>
+      <option name="number" value="00709" />
+      <option name="presentableId" value="LOCAL-00709" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347201636</updated>
+    </task>
+    <task id="LOCAL-00710" summary="relocate">
+      <created>1666347234458</created>
+      <option name="number" value="00710" />
+      <option name="presentableId" value="LOCAL-00710" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347234458</updated>
+    </task>
+    <task id="LOCAL-00711" summary="add AreaAndPerimeter.java">
+      <created>1666347243216</created>
+      <option name="number" value="00711" />
+      <option name="presentableId" value="LOCAL-00711" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347243216</updated>
+    </task>
+    <task id="LOCAL-00712" summary="add CheckResume.java">
+      <created>1666347249151</created>
+      <option name="number" value="00712" />
+      <option name="presentableId" value="LOCAL-00712" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347249151</updated>
+    </task>
+    <task id="LOCAL-00713" summary="add HeronsFormula.java">
+      <created>1666347254664</created>
+      <option name="number" value="00713" />
+      <option name="presentableId" value="LOCAL-00713" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347254664</updated>
+    </task>
+    <task id="LOCAL-00714" summary="add MonotonicNonDecreasing.java">
+      <created>1666347262399</created>
+      <option name="number" value="00714" />
+      <option name="presentableId" value="LOCAL-00714" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347262399</updated>
+    </task>
+    <task id="LOCAL-00715" summary="add PrimeNumber.java">
+      <created>1666347267756</created>
+      <option name="number" value="00715" />
+      <option name="presentableId" value="LOCAL-00715" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347267756</updated>
+    </task>
+    <task id="LOCAL-00716" summary="add PrimeNumbersInBetween.java">
+      <created>1666347273902</created>
+      <option name="number" value="00716" />
+      <option name="presentableId" value="LOCAL-00716" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347273902</updated>
+    </task>
+    <task id="LOCAL-00717" summary="add SortByStringLength.java">
+      <created>1666347297558</created>
+      <option name="number" value="00717" />
+      <option name="presentableId" value="LOCAL-00717" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347297558</updated>
+    </task>
+    <option name="localTasksCounter" value="718" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,14 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Borrowed2.java" />
-    <MESSAGE value="add Stack.java" />
-    <MESSAGE value="add LotsOfInserts.java" />
-    <MESSAGE value="add TestHuman.java" />
-    <MESSAGE value="add PersonneStatistics.java" />
-    <MESSAGE value="add SynonymDictionary.java" />
-    <MESSAGE value="add WhatYouSaid.java" />
-    <MESSAGE value="update PersonneStatistics.java" />
     <MESSAGE value="update WhatYouSaid.java" />
     <MESSAGE value="add HasTheNumberBeenSeenBefore.java" />
     <MESSAGE value="add IntHashSet.java" />
@@ -531,7 +508,15 @@
     <MESSAGE value="add TwoFunctions.java" />
     <MESSAGE value="add WhichWordIsLonger.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="relocate" />
+    <MESSAGE value="add AreaAndPerimeter.java" />
+    <MESSAGE value="add CheckResume.java" />
+    <MESSAGE value="add HeronsFormula.java" />
+    <MESSAGE value="add MonotonicNonDecreasing.java" />
+    <MESSAGE value="add PrimeNumber.java" />
+    <MESSAGE value="add PrimeNumbersInBetween.java" />
+    <MESSAGE value="add SortByStringLength.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SortByStringLength.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
