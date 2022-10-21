@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add IsThere0.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add FormatPhoneNumber.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/Maximin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/ConditionsGuards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/FormatPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/TestVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/RecursionWithCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestVar">
-    <configuration name="CheckResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="checkuphhru.CheckResume" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="checkuphhru.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RecursionWithCache">
     <configuration name="IsThere0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.IsThere0" />
       <module name="myDraft" />
@@ -79,12 +65,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortByStringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.functionparameters.SortByStringLength" />
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.Recursion" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.functionparameters.*" />
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.returnrecursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursionWithCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.RecursionWithCache" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.returnrecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursionWithCache" />
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.TestVar" />
         <item itemvalue="Application.IsThere0" />
         <item itemvalue="Application.SurfaceAreaOfTheParallelepiped" />
-        <item itemvalue="Application.SortByStringLength" />
-        <item itemvalue="Application.CheckResume" />
       </list>
     </recent_temporary>
   </component>
@@ -136,27 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00676" summary="add WhatYouSaid.java">
-      <created>1666179233163</created>
-      <option name="number" value="00676" />
-      <option name="presentableId" value="LOCAL-00676" />
-      <option name="project" value="LOCAL" />
-      <updated>1666179233163</updated>
-    </task>
-    <task id="LOCAL-00677" summary="update workspace.xml">
-      <created>1666179667819</created>
-      <option name="number" value="00677" />
-      <option name="presentableId" value="LOCAL-00677" />
-      <option name="project" value="LOCAL" />
-      <updated>1666179667819</updated>
-    </task>
-    <task id="LOCAL-00678" summary="update workspace.xml">
-      <created>1666181786283</created>
-      <option name="number" value="00678" />
-      <option name="presentableId" value="LOCAL-00678" />
-      <option name="project" value="LOCAL" />
-      <updated>1666181786283</updated>
     </task>
     <task id="LOCAL-00679" summary="update PersonneStatistics.java">
       <created>1666181802615</created>
@@ -480,7 +458,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666353574868</updated>
     </task>
-    <option name="localTasksCounter" value="725" />
+    <task id="LOCAL-00725" summary="update workspace.xml">
+      <created>1666357410001</created>
+      <option name="number" value="00725" />
+      <option name="presentableId" value="LOCAL-00725" />
+      <option name="project" value="LOCAL" />
+      <updated>1666357410001</updated>
+    </task>
+    <task id="LOCAL-00726" summary="add ConditionsGuards.java">
+      <created>1666357415179</created>
+      <option name="number" value="00726" />
+      <option name="presentableId" value="LOCAL-00726" />
+      <option name="project" value="LOCAL" />
+      <updated>1666357415179</updated>
+    </task>
+    <task id="LOCAL-00727" summary="add FormatPhoneNumber.java">
+      <created>1666357419978</created>
+      <option name="number" value="00727" />
+      <option name="presentableId" value="LOCAL-00727" />
+      <option name="project" value="LOCAL" />
+      <updated>1666357419978</updated>
+    </task>
+    <option name="localTasksCounter" value="728" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,8 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add NumberOfUniqueNumbers.java" />
-    <MESSAGE value="add NumberOfWords.java" />
     <MESSAGE value="add Discriminant.java" />
     <MESSAGE value="add HowManyRoots.java" />
     <MESSAGE value="add MultiplesOf3.java" />
@@ -518,9 +515,11 @@
     <MESSAGE value="add SurfaceAreaOfTheParallelepiped.java" />
     <MESSAGE value="add StrengthOfArchimedes.java" />
     <MESSAGE value="add GoodDayTime.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add IsThere0.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add IsThere0.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add ConditionsGuards.java" />
+    <MESSAGE value="add FormatPhoneNumber.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add FormatPhoneNumber.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -573,8 +572,23 @@
           <line>18</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/RecursionWithCache.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((HashMap.Node)((HashMap)RecursionWithCache.cash).entrySet().toArray()[0]).getKey()" custom="java.util.HashMap.Node,java.util.HashMap" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
