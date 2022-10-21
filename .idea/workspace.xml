@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SortByStringLength.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/Maximin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/GoodDayTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/StrengthOfArchimedes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/SurfaceAreaOfTheParallelepiped.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,26 +52,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortByStringLength">
+  <component name="RunManager" selected="Application.SurfaceAreaOfTheParallelepiped">
     <configuration name="CheckResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="checkuphhru.CheckResume" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="checkuphhru.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.languagebasics.setsanddictionaries.NumberOfWords" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.languagebasics.setsanddictionaries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SurfaceAreaOfTheParallelepiped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.SurfaceAreaOfTheParallelepiped" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.returnrecursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SurfaceAreaOfTheParallelepiped" />
         <item itemvalue="Application.SortByStringLength" />
         <item itemvalue="Application.CheckResume" />
         <item itemvalue="Application.RowAndColumn" />
         <item itemvalue="Application.SumOfNumbersEndingIn7or3" />
-        <item itemvalue="Application.NumberOfWords" />
       </list>
     </recent_temporary>
   </component>
@@ -132,13 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00669" summary="update workspace.xml">
-      <created>1666175114876</created>
-      <option name="number" value="00669" />
-      <option name="presentableId" value="LOCAL-00669" />
-      <option name="project" value="LOCAL" />
-      <updated>1666175114876</updated>
     </task>
     <task id="LOCAL-00670" summary="update workspace.xml">
       <created>1666177259731</created>
@@ -476,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666347297558</updated>
     </task>
-    <option name="localTasksCounter" value="718" />
+    <task id="LOCAL-00718" summary="update workspace.xml">
+      <created>1666348052759</created>
+      <option name="number" value="00718" />
+      <option name="presentableId" value="LOCAL-00718" />
+      <option name="project" value="LOCAL" />
+      <updated>1666348052759</updated>
+    </task>
+    <option name="localTasksCounter" value="719" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,7 +511,6 @@
     <MESSAGE value="add ProductOfThreeNumbers.java" />
     <MESSAGE value="add TwoFunctions.java" />
     <MESSAGE value="add WhichWordIsLonger.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="relocate" />
     <MESSAGE value="add AreaAndPerimeter.java" />
     <MESSAGE value="add CheckResume.java" />
@@ -516,7 +519,8 @@
     <MESSAGE value="add PrimeNumber.java" />
     <MESSAGE value="add PrimeNumbersInBetween.java" />
     <MESSAGE value="add SortByStringLength.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add SortByStringLength.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
