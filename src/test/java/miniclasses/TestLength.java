@@ -1,3 +1,5 @@
+package miniclasses;
+
 public class TestLength {
 
     public static void main(String args[]) {

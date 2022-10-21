@@ -1,3 +1,5 @@
+package miniclasses;
+
 public class FiboSequence {
     public static long[] generateFibonacciSequenceValue(int n) {
         System.out.print("0 ");

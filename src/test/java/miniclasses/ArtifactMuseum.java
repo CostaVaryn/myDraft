@@ -1,3 +1,5 @@
+package miniclasses;
+
 public class ArtifactMuseum {
 
     int number;

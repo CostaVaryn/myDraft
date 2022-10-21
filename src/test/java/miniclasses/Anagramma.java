@@ -1,3 +1,5 @@
+package miniclasses;
+
 public class Anagramma {
     private static int isRevers(String surce, String revers) {
         if (surce.length() != revers.length())
