@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Factorial.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/Maximin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/NumberOfSeconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/TheFirstRow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,20 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00685" summary="update workspace.xml">
-      <created>1666186642893</created>
-      <option name="number" value="00685" />
-      <option name="presentableId" value="LOCAL-00685" />
-      <option name="project" value="LOCAL" />
-      <updated>1666186642893</updated>
-    </task>
-    <task id="LOCAL-00686" summary="add HasTheNumberBeenSeenBefore.java">
-      <created>1666186654150</created>
-      <option name="number" value="00686" />
-      <option name="presentableId" value="LOCAL-00686" />
-      <option name="project" value="LOCAL" />
-      <updated>1666186654150</updated>
     </task>
     <task id="LOCAL-00687" summary="add IntHashSet.java">
       <created>1666186671442</created>
@@ -478,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666435671040</updated>
     </task>
-    <option name="localTasksCounter" value="734" />
+    <task id="LOCAL-00734" summary="add NumberOfSeconds.java">
+      <created>1666436816944</created>
+      <option name="number" value="00734" />
+      <option name="presentableId" value="LOCAL-00734" />
+      <option name="project" value="LOCAL" />
+      <updated>1666436816944</updated>
+    </task>
+    <task id="LOCAL-00735" summary="update workspace.xml">
+      <created>1666436826908</created>
+      <option name="number" value="00735" />
+      <option name="presentableId" value="LOCAL-00735" />
+      <option name="project" value="LOCAL" />
+      <updated>1666436826908</updated>
+    </task>
+    <option name="localTasksCounter" value="736" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add SumOfNumbersEndingIn7or3.java" />
     <MESSAGE value="add MaxSwapMin.java" />
     <MESSAGE value="add RowAndColumn.java" />
     <MESSAGE value="add TheLetterA.java" />
@@ -516,9 +515,10 @@
     <MESSAGE value="add FormatPhoneNumber.java" />
     <MESSAGE value="add Recursion.java" />
     <MESSAGE value="add RecursionWithCache.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add Factorial.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Factorial.java" />
+    <MESSAGE value="add NumberOfSeconds.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
