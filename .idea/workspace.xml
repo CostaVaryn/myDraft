@@ -7,7 +7,6 @@
     <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/Maximin.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/TheFirstRow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00687" summary="add IntHashSet.java">
-      <created>1666186671442</created>
-      <option name="number" value="00687" />
-      <option name="presentableId" value="LOCAL-00687" />
-      <option name="project" value="LOCAL" />
-      <updated>1666186671442</updated>
     </task>
     <task id="LOCAL-00688" summary="update workspace.xml">
       <created>1666251179069</created>
@@ -478,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666436826908</updated>
     </task>
-    <option name="localTasksCounter" value="736" />
+    <task id="LOCAL-00736" summary="update workspace.xml">
+      <created>1666437774868</created>
+      <option name="number" value="00736" />
+      <option name="presentableId" value="LOCAL-00736" />
+      <option name="project" value="LOCAL" />
+      <updated>1666437774868</updated>
+    </task>
+    <option name="localTasksCounter" value="737" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
