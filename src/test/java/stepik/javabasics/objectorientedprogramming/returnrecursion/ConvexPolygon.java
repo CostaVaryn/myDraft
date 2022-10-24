@@ -36,9 +36,7 @@ public class ConvexPolygon {
         double area2 = 0;
         double[][] copy = new double[matrix.length+1][2];
         for (int i = 0; i < copy.length - 1; i++) {
-            for (int j = 0; j < 2; j++) {
-                copy[i][j] = matrix[i][j];
-            }
+            System.arraycopy(matrix[i], 0, copy[i], 0, 2);
         }
         copy[matrix.length][0] = matrix[0][0];
         copy[matrix.length][1] = matrix[0][1];
