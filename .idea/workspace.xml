@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update TheFirstRow.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add AckermannFunction.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/Maximin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/AckermannFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/ConvexPolygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/King.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/SimpleDynamics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecursionWithCache">
+  <component name="RunManager" selected="Application.SimpleDynamics">
     <configuration name="IsThere0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.IsThere0" />
       <module name="myDraft" />
@@ -92,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurfaceAreaOfTheParallelepiped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.SurfaceAreaOfTheParallelepiped" />
+    <configuration name="SimpleDynamics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.SimpleDynamics" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleDynamics" />
         <item itemvalue="Application.RecursionWithCache" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.TestVar" />
         <item itemvalue="Application.IsThere0" />
-        <item itemvalue="Application.SurfaceAreaOfTheParallelepiped" />
       </list>
     </recent_temporary>
   </component>
@@ -136,41 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00692" summary="update workspace.xml">
-      <created>1666251661695</created>
-      <option name="number" value="00692" />
-      <option name="presentableId" value="LOCAL-00692" />
-      <option name="project" value="LOCAL" />
-      <updated>1666251661695</updated>
-    </task>
-    <task id="LOCAL-00693" summary="add Discriminant.java">
-      <created>1666251667947</created>
-      <option name="number" value="00693" />
-      <option name="presentableId" value="LOCAL-00693" />
-      <option name="project" value="LOCAL" />
-      <updated>1666251667947</updated>
-    </task>
-    <task id="LOCAL-00694" summary="add HowManyRoots.java">
-      <created>1666251673775</created>
-      <option name="number" value="00694" />
-      <option name="presentableId" value="LOCAL-00694" />
-      <option name="project" value="LOCAL" />
-      <updated>1666251673775</updated>
-    </task>
-    <task id="LOCAL-00695" summary="update workspace.xml">
-      <created>1666252162099</created>
-      <option name="number" value="00695" />
-      <option name="presentableId" value="LOCAL-00695" />
-      <option name="project" value="LOCAL" />
-      <updated>1666252162099</updated>
-    </task>
-    <task id="LOCAL-00696" summary="add MultiplesOf3.java">
-      <created>1666252167160</created>
-      <option name="number" value="00696" />
-      <option name="presentableId" value="LOCAL-00696" />
-      <option name="project" value="LOCAL" />
-      <updated>1666252167160</updated>
     </task>
     <task id="LOCAL-00697" summary="add SumOfNumbersEndingIn7or3.java">
       <created>1666252172913</created>
@@ -480,7 +442,42 @@
       <option name="project" value="LOCAL" />
       <updated>1666602005760</updated>
     </task>
-    <option name="localTasksCounter" value="741" />
+    <task id="LOCAL-00741" summary="update workspace.xml">
+      <created>1666603206288</created>
+      <option name="number" value="00741" />
+      <option name="presentableId" value="LOCAL-00741" />
+      <option name="project" value="LOCAL" />
+      <updated>1666603206288</updated>
+    </task>
+    <task id="LOCAL-00742" summary="add King.java">
+      <created>1666603211287</created>
+      <option name="number" value="00742" />
+      <option name="presentableId" value="LOCAL-00742" />
+      <option name="project" value="LOCAL" />
+      <updated>1666603211287</updated>
+    </task>
+    <task id="LOCAL-00743" summary="add ConvexPolygon.java">
+      <created>1666603217706</created>
+      <option name="number" value="00743" />
+      <option name="presentableId" value="LOCAL-00743" />
+      <option name="project" value="LOCAL" />
+      <updated>1666603217706</updated>
+    </task>
+    <task id="LOCAL-00744" summary="update ConvexPolygon.java">
+      <created>1666603262914</created>
+      <option name="number" value="00744" />
+      <option name="presentableId" value="LOCAL-00744" />
+      <option name="project" value="LOCAL" />
+      <updated>1666603262914</updated>
+    </task>
+    <task id="LOCAL-00745" summary="add AckermannFunction.java">
+      <created>1666603269610</created>
+      <option name="number" value="00745" />
+      <option name="presentableId" value="LOCAL-00745" />
+      <option name="project" value="LOCAL" />
+      <updated>1666603269610</updated>
+    </task>
+    <option name="localTasksCounter" value="746" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,10 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add TheLetterA.java" />
-    <MESSAGE value="add ProductOfThreeNumbers.java" />
-    <MESSAGE value="add TwoFunctions.java" />
-    <MESSAGE value="add WhichWordIsLonger.java" />
     <MESSAGE value="relocate" />
     <MESSAGE value="add AreaAndPerimeter.java" />
     <MESSAGE value="add CheckResume.java" />
@@ -518,9 +511,13 @@
     <MESSAGE value="add Factorial.java" />
     <MESSAGE value="add NumberOfSeconds.java" />
     <MESSAGE value="add TheFirstRow.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update TheFirstRow.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update TheFirstRow.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add King.java" />
+    <MESSAGE value="add ConvexPolygon.java" />
+    <MESSAGE value="update ConvexPolygon.java" />
+    <MESSAGE value="add AckermannFunction.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add AckermannFunction.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
