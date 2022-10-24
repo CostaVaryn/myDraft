@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/solvingproblemsusingfunctions/MinimumOf4Numbers.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add MinimumOf4Numbers.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/solvingproblemsusingfunctions/HowManyDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/solvingproblemsusingfunctions/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/solvingproblemsusingfunctions/XOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,20 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00702" summary="add TheLetterA.java">
-      <created>1666256882978</created>
-      <option name="number" value="00702" />
-      <option name="presentableId" value="LOCAL-00702" />
-      <option name="project" value="LOCAL" />
-      <updated>1666256882978</updated>
-    </task>
-    <task id="LOCAL-00703" summary="update workspace.xml">
-      <created>1666258322019</created>
-      <option name="number" value="00703" />
-      <option name="presentableId" value="LOCAL-00703" />
-      <option name="project" value="LOCAL" />
-      <updated>1666258322019</updated>
     </task>
     <task id="LOCAL-00704" summary="add ProductOfThreeNumbers.java">
       <created>1666258339072</created>
@@ -476,7 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666607914536</updated>
     </task>
-    <option name="localTasksCounter" value="751" />
+    <task id="LOCAL-00751" summary="update workspace.xml">
+      <created>1666608272438</created>
+      <option name="number" value="00751" />
+      <option name="presentableId" value="LOCAL-00751" />
+      <option name="project" value="LOCAL" />
+      <updated>1666608272438</updated>
+    </task>
+    <task id="LOCAL-00752" summary="add MinimumOf4Numbers.java">
+      <created>1666608276795</created>
+      <option name="number" value="00752" />
+      <option name="presentableId" value="LOCAL-00752" />
+      <option name="project" value="LOCAL" />
+      <updated>1666608276795</updated>
+    </task>
+    <option name="localTasksCounter" value="753" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add HeronsFormula.java" />
     <MESSAGE value="add MonotonicNonDecreasing.java" />
     <MESSAGE value="add PrimeNumber.java" />
     <MESSAGE value="add PrimeNumbersInBetween.java" />
@@ -516,7 +518,8 @@
     <MESSAGE value="update Maximin.java" />
     <MESSAGE value="add SimpleDynamics.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add MinimumOf4Numbers.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add MinimumOf4Numbers.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
