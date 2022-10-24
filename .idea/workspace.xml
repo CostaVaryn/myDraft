@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SimpleDynamics.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/solvingproblemsusingfunctions/MinimumOf4Numbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00701" summary="update workspace.xml">
-      <created>1666256877984</created>
-      <option name="number" value="00701" />
-      <option name="presentableId" value="LOCAL-00701" />
-      <option name="project" value="LOCAL" />
-      <updated>1666256877984</updated>
     </task>
     <task id="LOCAL-00702" summary="add TheLetterA.java">
       <created>1666256882978</created>
@@ -476,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666603826887</updated>
     </task>
-    <option name="localTasksCounter" value="750" />
+    <task id="LOCAL-00750" summary="update workspace.xml">
+      <created>1666607914536</created>
+      <option name="number" value="00750" />
+      <option name="presentableId" value="LOCAL-00750" />
+      <option name="project" value="LOCAL" />
+      <updated>1666607914536</updated>
+    </task>
+    <option name="localTasksCounter" value="751" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,11 +512,11 @@
     <MESSAGE value="add ConvexPolygon.java" />
     <MESSAGE value="update ConvexPolygon.java" />
     <MESSAGE value="add AckermannFunction.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add Maximin.java" />
     <MESSAGE value="update Maximin.java" />
     <MESSAGE value="add SimpleDynamics.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add SimpleDynamics.java" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
