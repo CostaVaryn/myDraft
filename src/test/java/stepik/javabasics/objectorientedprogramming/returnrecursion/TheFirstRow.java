@@ -22,17 +22,26 @@ public class TheFirstRow {
         else
             System.out.println("Таких строк нет");
     }
+    static int p = 0;
+    static int i = 0;
+    static int plus = 0;
+
     static int find_line7(int[][] mas) {
-        int index = -1;
-        int sum = 0;
-        for (int i = 0; i < mas.length; i++) {
-            for (int j = 0; j < mas[i].length; j++)
-                if (mas[i].length % 7 == 0) {
-                    index = i+1;
-                    return index;
-                }
+        if (i != mas.length) {
+            if (p != mas[i].length) {
+                plus = plus + mas[i][p];
+                p++;
+                return find_line7(mas);
+            }
+            if (plus % 7 == 0) {
+                return i;
+            }
+            i++;
+            p = 0;
+            plus = 0;
+            return find_line7(mas);
         }
-        return index;
+        return -1;
     }
 }
 
