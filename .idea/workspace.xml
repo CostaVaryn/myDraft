@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add AckermannFunction.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/functionparameters/Maximin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/returnrecursion/SimpleDynamics.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add SimpleDynamics.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,34 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00697" summary="add SumOfNumbersEndingIn7or3.java">
-      <created>1666252172913</created>
-      <option name="number" value="00697" />
-      <option name="presentableId" value="LOCAL-00697" />
-      <option name="project" value="LOCAL" />
-      <updated>1666252172913</updated>
-    </task>
-    <task id="LOCAL-00698" summary="update workspace.xml">
-      <created>1666255483576</created>
-      <option name="number" value="00698" />
-      <option name="presentableId" value="LOCAL-00698" />
-      <option name="project" value="LOCAL" />
-      <updated>1666255483576</updated>
-    </task>
-    <task id="LOCAL-00699" summary="add MaxSwapMin.java">
-      <created>1666255487981</created>
-      <option name="number" value="00699" />
-      <option name="presentableId" value="LOCAL-00699" />
-      <option name="project" value="LOCAL" />
-      <updated>1666255487981</updated>
-    </task>
-    <task id="LOCAL-00700" summary="add RowAndColumn.java">
-      <created>1666255492564</created>
-      <option name="number" value="00700" />
-      <option name="presentableId" value="LOCAL-00700" />
-      <option name="project" value="LOCAL" />
-      <updated>1666255492564</updated>
     </task>
     <task id="LOCAL-00701" summary="update workspace.xml">
       <created>1666256877984</created>
@@ -477,7 +448,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666603269610</updated>
     </task>
-    <option name="localTasksCounter" value="746" />
+    <task id="LOCAL-00746" summary="update workspace.xml">
+      <created>1666603777886</created>
+      <option name="number" value="00746" />
+      <option name="presentableId" value="LOCAL-00746" />
+      <option name="project" value="LOCAL" />
+      <updated>1666603777886</updated>
+    </task>
+    <task id="LOCAL-00747" summary="add Maximin.java">
+      <created>1666603784762</created>
+      <option name="number" value="00747" />
+      <option name="presentableId" value="LOCAL-00747" />
+      <option name="project" value="LOCAL" />
+      <updated>1666603784762</updated>
+    </task>
+    <task id="LOCAL-00748" summary="update Maximin.java">
+      <created>1666603822389</created>
+      <option name="number" value="00748" />
+      <option name="presentableId" value="LOCAL-00748" />
+      <option name="project" value="LOCAL" />
+      <updated>1666603822389</updated>
+    </task>
+    <task id="LOCAL-00749" summary="add SimpleDynamics.java">
+      <created>1666603826887</created>
+      <option name="number" value="00749" />
+      <option name="presentableId" value="LOCAL-00749" />
+      <option name="project" value="LOCAL" />
+      <updated>1666603826887</updated>
+    </task>
+    <option name="localTasksCounter" value="750" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,9 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="relocate" />
-    <MESSAGE value="add AreaAndPerimeter.java" />
-    <MESSAGE value="add CheckResume.java" />
     <MESSAGE value="add HeronsFormula.java" />
     <MESSAGE value="add MonotonicNonDecreasing.java" />
     <MESSAGE value="add PrimeNumber.java" />
@@ -512,12 +508,15 @@
     <MESSAGE value="add NumberOfSeconds.java" />
     <MESSAGE value="add TheFirstRow.java" />
     <MESSAGE value="update TheFirstRow.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add King.java" />
     <MESSAGE value="add ConvexPolygon.java" />
     <MESSAGE value="update ConvexPolygon.java" />
     <MESSAGE value="add AckermannFunction.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add AckermannFunction.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add Maximin.java" />
+    <MESSAGE value="update Maximin.java" />
+    <MESSAGE value="add SimpleDynamics.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SimpleDynamics.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
