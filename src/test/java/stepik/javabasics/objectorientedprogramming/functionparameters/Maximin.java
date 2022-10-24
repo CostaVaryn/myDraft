@@ -19,7 +19,7 @@ public class Maximin {
         maximin(mas);
     }
     static void maximin(int[][] mas) {
-        int max = Integer.MIN_VALUE;
+        int max;
         int min = Integer.MAX_VALUE;
         for (int j = 0; j < mas.length; j++) {
             if (mas[0][j] < min) {
