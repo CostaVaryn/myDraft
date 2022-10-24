@@ -51,13 +51,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SimpleDynamics">
-    <configuration name="IsThere0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.IsThere0" />
+  <component name="RunManager" selected="Application.NumsArr">
+    <configuration name="NumsArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.NumsArr" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.returnrecursion.*" />
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumsArr" />
         <item itemvalue="Application.SimpleDynamics" />
         <item itemvalue="Application.RecursionWithCache" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.TestVar" />
-        <item itemvalue="Application.IsThere0" />
       </list>
     </recent_temporary>
   </component>
