@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Main.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Animal.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,41 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00725" summary="update workspace.xml">
-      <created>1666357410001</created>
-      <option name="number" value="00725" />
-      <option name="presentableId" value="LOCAL-00725" />
-      <option name="project" value="LOCAL" />
-      <updated>1666357410001</updated>
-    </task>
-    <task id="LOCAL-00726" summary="add ConditionsGuards.java">
-      <created>1666357415179</created>
-      <option name="number" value="00726" />
-      <option name="presentableId" value="LOCAL-00726" />
-      <option name="project" value="LOCAL" />
-      <updated>1666357415179</updated>
-    </task>
-    <task id="LOCAL-00727" summary="add FormatPhoneNumber.java">
-      <created>1666357419978</created>
-      <option name="number" value="00727" />
-      <option name="presentableId" value="LOCAL-00727" />
-      <option name="project" value="LOCAL" />
-      <updated>1666357419978</updated>
-    </task>
-    <task id="LOCAL-00728" summary="update workspace.xml">
-      <created>1666358722212</created>
-      <option name="number" value="00728" />
-      <option name="presentableId" value="LOCAL-00728" />
-      <option name="project" value="LOCAL" />
-      <updated>1666358722212</updated>
-    </task>
-    <task id="LOCAL-00729" summary="add Recursion.java">
-      <created>1666358730948</created>
-      <option name="number" value="00729" />
-      <option name="presentableId" value="LOCAL-00729" />
-      <option name="project" value="LOCAL" />
-      <updated>1666358730948</updated>
     </task>
     <task id="LOCAL-00730" summary="add RecursionWithCache.java">
       <created>1666358738316</created>
@@ -480,7 +442,42 @@
       <option name="project" value="LOCAL" />
       <updated>1666700323158</updated>
     </task>
-    <option name="localTasksCounter" value="774" />
+    <task id="LOCAL-00774" summary="update workspace.xml">
+      <created>1666701855814</created>
+      <option name="number" value="00774" />
+      <option name="presentableId" value="LOCAL-00774" />
+      <option name="project" value="LOCAL" />
+      <updated>1666701855815</updated>
+    </task>
+    <task id="LOCAL-00775" summary="update Program.java">
+      <created>1666701860455</created>
+      <option name="number" value="00775" />
+      <option name="presentableId" value="LOCAL-00775" />
+      <option name="project" value="LOCAL" />
+      <updated>1666701860455</updated>
+    </task>
+    <task id="LOCAL-00776" summary="update Person.java">
+      <created>1666701865875</created>
+      <option name="number" value="00776" />
+      <option name="presentableId" value="LOCAL-00776" />
+      <option name="project" value="LOCAL" />
+      <updated>1666701865875</updated>
+    </task>
+    <task id="LOCAL-00777" summary="update Main.java">
+      <created>1666701871608</created>
+      <option name="number" value="00777" />
+      <option name="presentableId" value="LOCAL-00777" />
+      <option name="project" value="LOCAL" />
+      <updated>1666701871608</updated>
+    </task>
+    <task id="LOCAL-00778" summary="update Animal.java">
+      <created>1666701877549</created>
+      <option name="number" value="00778" />
+      <option name="presentableId" value="LOCAL-00778" />
+      <option name="project" value="LOCAL" />
+      <updated>1666701877549</updated>
+    </task>
+    <option name="localTasksCounter" value="779" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,10 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add TheFirstRow.java" />
-    <MESSAGE value="update TheFirstRow.java" />
-    <MESSAGE value="add King.java" />
-    <MESSAGE value="add ConvexPolygon.java" />
     <MESSAGE value="update ConvexPolygon.java" />
     <MESSAGE value="add AckermannFunction.java" />
     <MESSAGE value="add Maximin.java" />
@@ -517,10 +510,14 @@
     <MESSAGE value="add Generator.java" />
     <MESSAGE value="add Program.java" />
     <MESSAGE value="add Person.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add Animal.java" />
     <MESSAGE value="add Main.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Main.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update Program.java" />
+    <MESSAGE value="update Person.java" />
+    <MESSAGE value="update Main.java" />
+    <MESSAGE value="update Animal.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Animal.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
