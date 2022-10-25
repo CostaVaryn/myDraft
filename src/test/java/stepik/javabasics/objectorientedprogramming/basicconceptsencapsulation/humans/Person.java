@@ -25,16 +25,16 @@ class Person {
         System.out.printf("Phone: %s \n", phone);
     }
 
-    public String getName(){
+    public String getNameHuman(){
         return this.name;
     }
-    public void setName(String name){
+    public void setNameHuman(String name){
         this.name = name;
     }
-    public int getAge(){
+    public int getAgeHuman(){
         return this.age;
     }
-    public void setAge(int age){
+    public void setAgeHuman(int age){
         if(age > 0 && age < 110)
             this.age = age;
     }
