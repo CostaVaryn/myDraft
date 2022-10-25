@@ -4,6 +4,30 @@ public class Main {
     public static void main(String[] args) {
 
         Animal tiger = new Animal("тигр", "Артём");
+        tiger.setAge(15);
+        tiger.setWeight(300.6);
+        tiger.setSwimm(true);
+        tiger.setWalk(true);
+        tiger.setFly(false);
+        tiger.display();
+
+        Animal duck = new Animal("Утка", "Утя", 3, 5.8, true, true, true);
+        duck.holiday(5);
+        duck.rename("Утя-Утя");
+        duck.display();
+        System.out.println(duck.getAge());
+        System.out.println(duck.getName());
+        System.out.println(duck.getWeight());
+        System.out.println(duck.getType());
+        System.out.println(duck.isSwimm());
+        System.out.println(duck.isWalk());
+        System.out.println(duck.isFly());
+
+        /*
+
+        ### lesson 2 ###
+
+        Animal tiger = new Animal("тигр", "Артём");
         tiger.age = 15;
         tiger.weight = 300.6;
         tiger.isSwim = true;
@@ -22,8 +46,8 @@ public class Main {
         duck.holiday(5);
         duck.rename("Утя-Утя");
         duck.display();
-        /*
-        # lesson 1
+
+        ### lesson 1 ###
 
         Animal tiger = new Animal();
         tiger.type = "тигр";
