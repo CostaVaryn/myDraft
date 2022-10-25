@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add FastExponentiationRecursion.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update PlusThreeMultyFive.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/solvingproblemsusingfunctions/Generator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/solvingproblemsusingfunctions/PlusThreeMultyFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/solvingproblemsusingfunctions/PlusThreeMultyFive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CheckResume">
+  <component name="RunManager" selected="Application.Generator">
     <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.ArraySort" />
       <module name="myDraft" />
@@ -89,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.Generator" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumsArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.NumsArr" />
       <module name="myDraft" />
@@ -102,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleDynamics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.returnrecursion.SimpleDynamics" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.returnrecursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Generator" />
         <item itemvalue="Application.CheckResume" />
         <item itemvalue="Application.Exponentiation" />
         <item itemvalue="Application.ArraySort" />
         <item itemvalue="Application.NumsArr" />
-        <item itemvalue="Application.SimpleDynamics" />
       </list>
     </recent_temporary>
   </component>
@@ -133,20 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00715" summary="add PrimeNumber.java">
-      <created>1666347267756</created>
-      <option name="number" value="00715" />
-      <option name="presentableId" value="LOCAL-00715" />
-      <option name="project" value="LOCAL" />
-      <updated>1666347267756</updated>
-    </task>
-    <task id="LOCAL-00716" summary="add PrimeNumbersInBetween.java">
-      <created>1666347273902</created>
-      <option name="number" value="00716" />
-      <option name="presentableId" value="LOCAL-00716" />
-      <option name="project" value="LOCAL" />
-      <updated>1666347273902</updated>
     </task>
     <task id="LOCAL-00717" summary="add SortByStringLength.java">
       <created>1666347297558</created>
@@ -477,7 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666616745584</updated>
     </task>
-    <option name="localTasksCounter" value="764" />
+    <task id="LOCAL-00764" summary="update workspace.xml">
+      <created>1666687503705</created>
+      <option name="number" value="00764" />
+      <option name="presentableId" value="LOCAL-00764" />
+      <option name="project" value="LOCAL" />
+      <updated>1666687503705</updated>
+    </task>
+    <task id="LOCAL-00765" summary="update PlusThreeMultyFive.java">
+      <created>1666687511614</created>
+      <option name="number" value="00765" />
+      <option name="presentableId" value="LOCAL-00765" />
+      <option name="project" value="LOCAL" />
+      <updated>1666687511614</updated>
+    </task>
+    <option name="localTasksCounter" value="766" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ConditionsGuards.java" />
     <MESSAGE value="add FormatPhoneNumber.java" />
     <MESSAGE value="add Recursion.java" />
     <MESSAGE value="add RecursionWithCache.java" />
@@ -512,12 +511,13 @@
     <MESSAGE value="add XOR.java" />
     <MESSAGE value="add HowManyDigits.java" />
     <MESSAGE value="add NumsArr.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add ArraySort.java" />
     <MESSAGE value="add Exponentiation.java" />
     <MESSAGE value="add PlusThreeMultyFive.java" />
     <MESSAGE value="add FastExponentiationRecursion.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add FastExponentiationRecursion.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update PlusThreeMultyFive.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update PlusThreeMultyFive.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
