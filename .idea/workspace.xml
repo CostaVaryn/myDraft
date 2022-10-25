@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update PlusThreeMultyFive.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/solvingproblemsusingfunctions/Generator.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Generator.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Generator">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.ArraySort" />
       <module name="myDraft" />
@@ -102,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumsArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.NumsArr" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans.Program" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.*" />
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Generator" />
         <item itemvalue="Application.CheckResume" />
         <item itemvalue="Application.Exponentiation" />
         <item itemvalue="Application.ArraySort" />
-        <item itemvalue="Application.NumsArr" />
       </list>
     </recent_temporary>
   </component>
@@ -133,20 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00717" summary="add SortByStringLength.java">
-      <created>1666347297558</created>
-      <option name="number" value="00717" />
-      <option name="presentableId" value="LOCAL-00717" />
-      <option name="project" value="LOCAL" />
-      <updated>1666347297558</updated>
-    </task>
-    <task id="LOCAL-00718" summary="update workspace.xml">
-      <created>1666348052759</created>
-      <option name="number" value="00718" />
-      <option name="presentableId" value="LOCAL-00718" />
-      <option name="project" value="LOCAL" />
-      <updated>1666348052759</updated>
     </task>
     <task id="LOCAL-00719" summary="update workspace.xml">
       <created>1666350513782</created>
@@ -477,7 +466,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666687511614</updated>
     </task>
-    <option name="localTasksCounter" value="766" />
+    <task id="LOCAL-00766" summary="update workspace.xml">
+      <created>1666689071254</created>
+      <option name="number" value="00766" />
+      <option name="presentableId" value="LOCAL-00766" />
+      <option name="project" value="LOCAL" />
+      <updated>1666689071254</updated>
+    </task>
+    <task id="LOCAL-00767" summary="add Generator.java">
+      <created>1666689075490</created>
+      <option name="number" value="00767" />
+      <option name="presentableId" value="LOCAL-00767" />
+      <option name="project" value="LOCAL" />
+      <updated>1666689075490</updated>
+    </task>
+    <option name="localTasksCounter" value="768" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +495,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add FormatPhoneNumber.java" />
     <MESSAGE value="add Recursion.java" />
     <MESSAGE value="add RecursionWithCache.java" />
     <MESSAGE value="add Factorial.java" />
@@ -515,9 +517,10 @@
     <MESSAGE value="add Exponentiation.java" />
     <MESSAGE value="add PlusThreeMultyFive.java" />
     <MESSAGE value="add FastExponentiationRecursion.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update PlusThreeMultyFive.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update PlusThreeMultyFive.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add Generator.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Generator.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
