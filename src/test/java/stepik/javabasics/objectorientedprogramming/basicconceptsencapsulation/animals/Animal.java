@@ -64,7 +64,15 @@ class Animal {
     public String getType(){
         return this.type;
     }
-
+    public String isSwimm () {
+        return isSwim ? "Да" : "Нет";
+    }
+    public String isWalk () {
+        return isWalk ? "Да" : "Нет";
+    }
+    public String isFly () {
+        return isFly ? "Да" : "Нет";
+    }
 
 
     /*
