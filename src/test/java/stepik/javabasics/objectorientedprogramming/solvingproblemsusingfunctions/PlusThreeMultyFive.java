@@ -15,6 +15,7 @@ public class PlusThreeMultyFive {
         if ((n - 1) % 3 == 0 || n % 5 == 0) return "YES";
         else return "NO";
     }
+
 }
 
 /*
