@@ -15,11 +15,11 @@ public class Program {
         //System.out.println(kate.phone);   // ! Ошибка, модификатор private
 
         Person anna = new Person("Anna", 30, "Limpopo", "+186468991");
-        System.out.println(anna.getAge());      // 30
-        anna.setAge(33);
-        System.out.println(anna.getAge());      // 33
-        anna.setAge(123450);
-        System.out.println(anna.getAge());      // 33
+        System.out.println(anna.getAgeHuman());      // 30
+        anna.setAgeHuman(33);
+        System.out.println(anna.getAgeHuman());      // 33
+        anna.setAgeHuman(123450);
+        System.out.println(anna.getAgeHuman());      // 33
 
     }
 }
