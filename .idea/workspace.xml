@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Generator.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Person.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.ArraySort" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CheckResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="checkuphhru.CheckResume" />
       <module name="myDraft" />
@@ -105,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.animals.Main" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans.Program" />
       <module name="myDraft" />
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Generator" />
         <item itemvalue="Application.CheckResume" />
         <item itemvalue="Application.Exponentiation" />
-        <item itemvalue="Application.ArraySort" />
       </list>
     </recent_temporary>
   </component>
@@ -136,27 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00719" summary="update workspace.xml">
-      <created>1666350513782</created>
-      <option name="number" value="00719" />
-      <option name="presentableId" value="LOCAL-00719" />
-      <option name="project" value="LOCAL" />
-      <updated>1666350513782</updated>
-    </task>
-    <task id="LOCAL-00720" summary="add SurfaceAreaOfTheParallelepiped.java">
-      <created>1666350538010</created>
-      <option name="number" value="00720" />
-      <option name="presentableId" value="LOCAL-00720" />
-      <option name="project" value="LOCAL" />
-      <updated>1666350538010</updated>
-    </task>
-    <task id="LOCAL-00721" summary="add StrengthOfArchimedes.java">
-      <created>1666350543012</created>
-      <option name="number" value="00721" />
-      <option name="presentableId" value="LOCAL-00721" />
-      <option name="project" value="LOCAL" />
-      <updated>1666350543012</updated>
     </task>
     <task id="LOCAL-00722" summary="add GoodDayTime.java">
       <created>1666350554060</created>
@@ -480,7 +457,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666689075490</updated>
     </task>
-    <option name="localTasksCounter" value="768" />
+    <task id="LOCAL-00768" summary="update workspace.xml">
+      <created>1666698403322</created>
+      <option name="number" value="00768" />
+      <option name="presentableId" value="LOCAL-00768" />
+      <option name="project" value="LOCAL" />
+      <updated>1666698403322</updated>
+    </task>
+    <task id="LOCAL-00769" summary="add Program.java">
+      <created>1666698410129</created>
+      <option name="number" value="00769" />
+      <option name="presentableId" value="LOCAL-00769" />
+      <option name="project" value="LOCAL" />
+      <updated>1666698410129</updated>
+    </task>
+    <task id="LOCAL-00770" summary="add Person.java">
+      <created>1666698417491</created>
+      <option name="number" value="00770" />
+      <option name="presentableId" value="LOCAL-00770" />
+      <option name="project" value="LOCAL" />
+      <updated>1666698417491</updated>
+    </task>
+    <option name="localTasksCounter" value="771" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,8 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Recursion.java" />
-    <MESSAGE value="add RecursionWithCache.java" />
     <MESSAGE value="add Factorial.java" />
     <MESSAGE value="add NumberOfSeconds.java" />
     <MESSAGE value="add TheFirstRow.java" />
@@ -518,9 +514,11 @@
     <MESSAGE value="add PlusThreeMultyFive.java" />
     <MESSAGE value="add FastExponentiationRecursion.java" />
     <MESSAGE value="update PlusThreeMultyFive.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add Generator.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Generator.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add Program.java" />
+    <MESSAGE value="add Person.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Person.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
