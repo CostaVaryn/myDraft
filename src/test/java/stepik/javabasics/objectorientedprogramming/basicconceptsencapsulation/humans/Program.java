@@ -24,7 +24,5 @@ public class Program {
 
         Person tom = new Person("Tom");
         tom.display();
-        Person sam = new Employee("Sam", "Oracle");
-        sam.display();
     }
 }
