@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Animal.java">
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update WritingMaterials.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,27 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00740" summary="update TheFirstRow.java">
-      <created>1666602005760</created>
-      <option name="number" value="00740" />
-      <option name="presentableId" value="LOCAL-00740" />
-      <option name="project" value="LOCAL" />
-      <updated>1666602005760</updated>
-    </task>
-    <task id="LOCAL-00741" summary="update workspace.xml">
-      <created>1666603206288</created>
-      <option name="number" value="00741" />
-      <option name="presentableId" value="LOCAL-00741" />
-      <option name="project" value="LOCAL" />
-      <updated>1666603206288</updated>
-    </task>
-    <task id="LOCAL-00742" summary="add King.java">
-      <created>1666603211287</created>
-      <option name="number" value="00742" />
-      <option name="presentableId" value="LOCAL-00742" />
-      <option name="project" value="LOCAL" />
-      <updated>1666603211287</updated>
     </task>
     <task id="LOCAL-00743" summary="add ConvexPolygon.java">
       <created>1666603217706</created>
@@ -476,7 +453,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666773692543</updated>
     </task>
-    <option name="localTasksCounter" value="789" />
+    <task id="LOCAL-00789" summary="update Animal.java">
+      <created>1666774044550</created>
+      <option name="number" value="00789" />
+      <option name="presentableId" value="LOCAL-00789" />
+      <option name="project" value="LOCAL" />
+      <updated>1666774044550</updated>
+    </task>
+    <task id="LOCAL-00790" summary="update workspace.xml">
+      <created>1666774049312</created>
+      <option name="number" value="00790" />
+      <option name="presentableId" value="LOCAL-00790" />
+      <option name="project" value="LOCAL" />
+      <updated>1666774049312</updated>
+    </task>
+    <task id="LOCAL-00791" summary="update WritingMaterials.java">
+      <created>1666774053896</created>
+      <option name="number" value="00791" />
+      <option name="presentableId" value="LOCAL-00791" />
+      <option name="project" value="LOCAL" />
+      <updated>1666774053896</updated>
+    </task>
+    <option name="localTasksCounter" value="792" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,11 +510,11 @@
     <MESSAGE value="update Main.java" />
     <MESSAGE value="add MainMats.java" />
     <MESSAGE value="add WritingMaterials.java" />
-    <MESSAGE value="update workspace.xml" />
-    <MESSAGE value="update WritingMaterials.java" />
     <MESSAGE value="update MainMats.java" />
     <MESSAGE value="update Animal.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Animal.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update WritingMaterials.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update WritingMaterials.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
