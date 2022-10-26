@@ -31,14 +31,11 @@ class Animal {
         this.weight = weight;
     }
 
-    public boolean setSwimm(boolean isSwim) {
-        return isSwim;
+    public void setSwimm(boolean isSwim) {
     }
-    public boolean setWalk(boolean isWalk) {
-        return isWalk;
+    public void setWalk(boolean isWalk) {
     }
-    public boolean setFly(boolean isFly) {
-        return isFly;
+    public void setFly(boolean isFly) {
     }
     public void display() {
         System.out.printf("Тип: %s, Имя: %s, Возраст: %d, Вес: %s, ", type, name, age, weight);
