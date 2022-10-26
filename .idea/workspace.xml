@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/MainMats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/WritingMaterials.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WritingMaterials.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/MainMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/MainMats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/WritingMaterials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/WritingMaterials.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,27 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00733" summary="add Factorial.java">
-      <created>1666435671040</created>
-      <option name="number" value="00733" />
-      <option name="presentableId" value="LOCAL-00733" />
-      <option name="project" value="LOCAL" />
-      <updated>1666435671040</updated>
-    </task>
-    <task id="LOCAL-00734" summary="add NumberOfSeconds.java">
-      <created>1666436816944</created>
-      <option name="number" value="00734" />
-      <option name="presentableId" value="LOCAL-00734" />
-      <option name="project" value="LOCAL" />
-      <updated>1666436816944</updated>
-    </task>
-    <task id="LOCAL-00735" summary="update workspace.xml">
-      <created>1666436826908</created>
-      <option name="number" value="00735" />
-      <option name="presentableId" value="LOCAL-00735" />
-      <option name="project" value="LOCAL" />
-      <updated>1666436826908</updated>
     </task>
     <task id="LOCAL-00736" summary="update workspace.xml">
       <created>1666437774868</created>
@@ -478,7 +458,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666771688504</updated>
     </task>
-    <option name="localTasksCounter" value="782" />
+    <task id="LOCAL-00782" summary="update workspace.xml">
+      <created>1666772946109</created>
+      <option name="number" value="00782" />
+      <option name="presentableId" value="LOCAL-00782" />
+      <option name="project" value="LOCAL" />
+      <updated>1666772946109</updated>
+    </task>
+    <task id="LOCAL-00783" summary="add MainMats.java">
+      <created>1666772950603</created>
+      <option name="number" value="00783" />
+      <option name="presentableId" value="LOCAL-00783" />
+      <option name="project" value="LOCAL" />
+      <updated>1666772950603</updated>
+    </task>
+    <task id="LOCAL-00784" summary="add WritingMaterials.java">
+      <created>1666772957555</created>
+      <option name="number" value="00784" />
+      <option name="presentableId" value="LOCAL-00784" />
+      <option name="project" value="LOCAL" />
+      <updated>1666772957555</updated>
+    </task>
+    <option name="localTasksCounter" value="785" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,8 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update ConvexPolygon.java" />
-    <MESSAGE value="add AckermannFunction.java" />
     <MESSAGE value="add Maximin.java" />
     <MESSAGE value="update Maximin.java" />
     <MESSAGE value="add SimpleDynamics.java" />
@@ -518,7 +517,9 @@
     <MESSAGE value="update Main.java" />
     <MESSAGE value="update Animal.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add MainMats.java" />
+    <MESSAGE value="add WritingMaterials.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add WritingMaterials.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
