@@ -1,10 +1,14 @@
 package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans;
 
-class Person {
+public class Person {
     String name;
     protected int age;
     public String address;
     private String phone;
+
+    public Person(String name) {
+        this.name = name;
+    }
 
     public Person(String name, int age, String address, String phone){
         this.name = name;
@@ -37,5 +41,9 @@ class Person {
     public void setAgeHuman(int age){
         if(age > 0 && age < 110)
             this.age = age;
+    }
+
+    public void display() {
+        System.out.println("Name: " + name);
     }
 }
