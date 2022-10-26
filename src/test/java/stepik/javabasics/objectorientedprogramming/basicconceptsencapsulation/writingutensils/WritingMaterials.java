@@ -2,7 +2,75 @@ package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.w
 
 class WritingMaterials {
 
+    String name;
+    String color;
+    double length;
+    double price;
+    boolean draw;
 
+    public WritingMaterials() {
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
+    public void setLength(double length) {
+        this.length = length;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public void setDraw(boolean draw) {
+        this.draw = draw;
+    }
+
+    public void display() {
+        System.out.printf("Название: %s, Цвет: %s, Длина: %s, ", name, color, length);
+        System.out.printf("Цена: %s, Умеет рисовать: %s.\n", price, draw ? "Да" : "Нет");
+    }
+    public void draw() {
+        if (draw) {
+            System.out.printf("%s провёл линию. Её цвет - %s.\n",name,color);
+        } else {
+            System.out.printf("%s не может ничего нарисовать.\n",name);
+        }
+    }
+    public void replace_rod(String str) {
+        this.color = str;
+    }
+    public void priceDown(double n) {
+        price -= n;
+    }
+    public void priceUp(double n) {
+        price += n;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public double getLength() {
+        return length;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public String isDraw() {
+        return draw ? "Да" : "Нет";
+    }
     /*
 
         ### lesson 2 ###
