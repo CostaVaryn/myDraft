@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add WritingMaterials.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Animal.java">
       <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/animals/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/MainMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/MainMats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/WritingMaterials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/writingutensils/WritingMaterials.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainMats">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CheckResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="checkuphhru.CheckResume" />
       <module name="myDraft" />
@@ -119,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainMats" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainMats" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Generator" />
         <item itemvalue="Application.CheckResume" />
@@ -135,34 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00736" summary="update workspace.xml">
-      <created>1666437774868</created>
-      <option name="number" value="00736" />
-      <option name="presentableId" value="LOCAL-00736" />
-      <option name="project" value="LOCAL" />
-      <updated>1666437774868</updated>
-    </task>
-    <task id="LOCAL-00737" summary="update workspace.xml">
-      <created>1666534844581</created>
-      <option name="number" value="00737" />
-      <option name="presentableId" value="LOCAL-00737" />
-      <option name="project" value="LOCAL" />
-      <updated>1666534844581</updated>
-    </task>
-    <task id="LOCAL-00738" summary="add TheFirstRow.java">
-      <created>1666534861458</created>
-      <option name="number" value="00738" />
-      <option name="presentableId" value="LOCAL-00738" />
-      <option name="project" value="LOCAL" />
-      <updated>1666534861458</updated>
-    </task>
-    <task id="LOCAL-00739" summary="update workspace.xml">
-      <created>1666601995635</created>
-      <option name="number" value="00739" />
-      <option name="presentableId" value="LOCAL-00739" />
-      <option name="project" value="LOCAL" />
-      <updated>1666601995635</updated>
     </task>
     <task id="LOCAL-00740" summary="update TheFirstRow.java">
       <created>1666602005760</created>
@@ -479,7 +448,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666772957555</updated>
     </task>
-    <option name="localTasksCounter" value="785" />
+    <task id="LOCAL-00785" summary="update workspace.xml">
+      <created>1666773675698</created>
+      <option name="number" value="00785" />
+      <option name="presentableId" value="LOCAL-00785" />
+      <option name="project" value="LOCAL" />
+      <updated>1666773675698</updated>
+    </task>
+    <task id="LOCAL-00786" summary="update WritingMaterials.java">
+      <created>1666773679868</created>
+      <option name="number" value="00786" />
+      <option name="presentableId" value="LOCAL-00786" />
+      <option name="project" value="LOCAL" />
+      <updated>1666773679868</updated>
+    </task>
+    <task id="LOCAL-00787" summary="update MainMats.java">
+      <created>1666773685924</created>
+      <option name="number" value="00787" />
+      <option name="presentableId" value="LOCAL-00787" />
+      <option name="project" value="LOCAL" />
+      <updated>1666773685924</updated>
+    </task>
+    <task id="LOCAL-00788" summary="update Animal.java">
+      <created>1666773692543</created>
+      <option name="number" value="00788" />
+      <option name="presentableId" value="LOCAL-00788" />
+      <option name="project" value="LOCAL" />
+      <updated>1666773692543</updated>
+    </task>
+    <option name="localTasksCounter" value="789" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,8 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Maximin.java" />
-    <MESSAGE value="update Maximin.java" />
     <MESSAGE value="add SimpleDynamics.java" />
     <MESSAGE value="add MinimumOf4Numbers.java" />
     <MESSAGE value="add Vote.java" />
@@ -515,11 +510,13 @@
     <MESSAGE value="update Program.java" />
     <MESSAGE value="update Person.java" />
     <MESSAGE value="update Main.java" />
-    <MESSAGE value="update Animal.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add MainMats.java" />
     <MESSAGE value="add WritingMaterials.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add WritingMaterials.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update WritingMaterials.java" />
+    <MESSAGE value="update MainMats.java" />
+    <MESSAGE value="update Animal.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Animal.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
