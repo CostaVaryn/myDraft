@@ -118,7 +118,7 @@ class Animal {
         weight = weight + 0.1 * a;
     }
 
-    # lesson 1:
+    ### lesson 1 ###
 
     String type;
     String name;
