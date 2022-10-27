@@ -10,7 +10,6 @@ public class Animal {
     boolean isWalk;
     boolean isSwim;
     public Animal() {
-
     }
 
     public Animal(String type, String name, int age, double weight, boolean isFly, boolean isWalk, boolean isSwim) {
@@ -83,7 +82,6 @@ public class Animal {
         this.type = type;
         this.name = name;
     }
-
     public Animal(String type, String name, int age, double weight, boolean isFly, boolean isWalk, boolean isSwim) {
         this.type = type;
         this.name = name;
@@ -99,7 +97,6 @@ public class Animal {
     public void setWeight(double weight){
         this.weight = weight;
     }
-
     public void setSwimm(boolean isSwim) {
     }
     public void setWalk(boolean isWalk) {
@@ -121,13 +118,13 @@ public class Animal {
     public int getAge(){
         return this.age;
     }
-    public String getName(){
+    public String getName() {
         return this.name;
     }
-    public double getWeight(){
+    public double getWeight() {
         return this.weight;
     }
-    public String getType(){
+    public String getType() {
         return this.type;
     }
     public String isSwimm () {
@@ -190,6 +187,7 @@ public class Animal {
     boolean isFly;
     boolean isWalk;
     boolean isSwim;
+
     public void display() {
         System.out.printf("Тип: %s, Имя: %s, Возраст: %d, Вес: %s, ", type, name, age, weight);
         System.out.printf("Умеет летать: %s, ", isFly ? "Да" : "Нет");
@@ -225,15 +223,12 @@ class Bird extends Animal {
     }
     public void setWinterFly(boolean b) {
     }
-
     public String getArea() {
         return area;
     }
-
     public boolean isWinterFly() {
         return winterFly;
     }
-
     @Override
     public void display() {
         System.out.println("I am Bird");
@@ -249,11 +244,11 @@ class Bird extends Animal {
 class Fish extends Animal {
     String squama;
     boolean upStreamSwim;
+
     public Fish() {
         type = "Fish";
         isSwim = true;
     }
-
     public Fish(String type, String name, int age, double weight, boolean isFly, boolean isWalk, boolean isSwim, String squama, boolean upStreamSwim) {
         super(type,name,age,weight,isFly,isWalk,isSwim);
         this.squama = squama;
@@ -262,23 +257,18 @@ class Fish extends Animal {
     public void bul_bul() {
         System.out.println("Bul-bul");
     }
-
     public void setSquama(String squama) {
         this.squama = squama;
     }
-
     public void setUpStreamSwim(boolean upStreamSwim) {
         this.upStreamSwim = upStreamSwim;
     }
-
     public String getSquama() {
         return squama;
     }
-
     public boolean isUpStreamSwim() {
         return upStreamSwim;
     }
-
     @Override
     public void display() {
         System.out.println("I am Fish");
@@ -294,6 +284,7 @@ class Fish extends Animal {
 class Insect extends Animal {
     int wingCount;
     boolean likeJesus;
+
     public Insect() {
         type = "Insect";
         isWalk = true;
@@ -306,19 +297,15 @@ class Insect extends Animal {
     public void ggggg() {
         System.out.println("Ggggg");
     }
-
     public void setWingCount(int wingCount) {
         this.wingCount = wingCount;
     }
-
     public void setLikeJesus(boolean likeJesus) {
         this.likeJesus = likeJesus;
     }
-
     public int getWingCount() {
         return wingCount;
     }
-
     public boolean isLikeJesus() {
         return likeJesus;
     }
