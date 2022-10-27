@@ -3,13 +3,13 @@ package stepik.javabasics.objectorientedprogramming.returnrecursion;
 import java.util.Scanner;
 
 public class AckermannFunction {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int m = sc.nextInt();
         int n = sc.nextInt();
         System.out.println(akkerman(m, n));
     }
-    public static long akkerman(long m, long n){
+    public static long akkerman(long m, long n) {
         if (m == 0) {
             return n + 1;
         } else if (m > 0 && n == 0) {
