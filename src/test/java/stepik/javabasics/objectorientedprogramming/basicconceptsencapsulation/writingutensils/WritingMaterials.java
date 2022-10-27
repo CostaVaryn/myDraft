@@ -8,6 +8,98 @@ class WritingMaterials {
     double price;
     boolean draw;
 
+    public WritingMaterials(String name, String color, double length, double price, boolean draw) {
+        this.name = name;
+        this.color = color;
+        this.length = length;
+        this.price = price;
+        this.draw = draw;
+    }
+
+    public WritingMaterials() {
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+    public void setLength(double length) {
+        this.length = length;
+    }
+
+    public void display() {
+        System.out.printf("Название: %s, Цвет: %s, Длина: %s, ", name, color, length);
+        System.out.printf("Цена: %s, Умеет рисовать: %s.\n", price, draw ? "Да" : "Нет");
+    }
+
+    /*
+
+        ### lesson 4 ###
+
+    String name;
+    String color;
+    double length;
+    double price;
+    boolean draw;
+
+    public WritingMaterials() {
+    }
+
+    public WritingMaterials(String name, double length) {
+        this.name = name;
+        this.length = length;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+    public void setColor(String color) {
+        this.color = color;
+    }
+    public void setLength(double length) {
+        this.length = length;
+    }
+    public void setPrice(double price) {
+        this.price = price;
+    }
+    public void setDraw(boolean draw) {
+        this.draw = draw;
+    }
+    public void draw() {
+        if (draw) {
+            System.out.printf("%s провёл линий: 1. Их цвет - %s.\n", name, color);
+        } else {
+            System.out.printf("%s не может ничего нарисовать.\n", name);
+        }
+    }
+    public void draw(int n) {
+        if (draw) {
+            System.out.printf("%s провёл линий: %d. Их цвет - %s.\n", name, n, color);
+        } else {
+            System.out.printf("%s не может ничего нарисовать.\n", name);
+        }
+    }
+    public void draw(String color) {
+        if (draw) {
+            System.out.printf("%s провёл линий: 1. Их цвет - %s.\n", name, color);
+        } else {
+            System.out.printf("%s не может ничего нарисовать.\n", name);
+        }
+    }
+    public void draw(String color, int n) {
+        if (draw) {
+            System.out.printf("%s провёл линий: %d. Их цвет - %s.\n", name, n, color);
+        } else {
+            System.out.printf("%s не может ничего нарисовать.\n", name);
+        }
+    }
+
+        ### lesson 3 ###
+
+    String name;
+    String color;
+    double length;
+    double price;
+    boolean draw;
+
     public WritingMaterials() {
     }
 
@@ -160,3 +252,4 @@ class WritingMaterials {
     }
     */
 }
+
