@@ -3,7 +3,7 @@ package stepik.javabasics.objectorientedprogramming.returnrecursion;
 import java.util.Scanner;
 
 public class SimpleDynamics {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
         System.out.println(rec(n));
