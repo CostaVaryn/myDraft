@@ -3,7 +3,7 @@ package stepik.javabasics.objectorientedprogramming.functionparameters;
 import java.util.*;
 
 public class SortByStringLength {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
 
