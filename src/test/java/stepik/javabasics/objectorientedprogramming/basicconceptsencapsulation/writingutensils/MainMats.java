@@ -3,6 +3,61 @@ package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.w
 public class MainMats {
     public static void main(String[] args) {
 
+        WritingMaterials wm = new WritingMaterials("ручка", "Красный", 145, 15.6, true);
+        wm.display();
+
+        Pen p = new Pen();
+        p.setName("Паркер");
+        p.setCountColor(2);
+        p.setAuto(false);
+        p.display();
+        System.out.println(p.getCountColor());
+        System.out.println(p.isAuto());
+        p.writeMyName();
+
+        Ruler r = new Ruler();
+        r.setName("Линейка");
+        r.setLength(25);
+        r.setWood(true);
+        r.display();
+        System.out.println(r.getLength());
+        System.out.println(r.isWood());
+        r.measure();
+
+        Divider d = new Divider();
+        d.setName("Циркуль");
+        d.setDividerType("С карандашом");
+        d.setMetal(true);
+        d.display();
+        System.out.println(d.getDividerType());
+        System.out.println(d.isMetal());
+        d.draw_circle();
+
+        /*
+
+            ### lesson 4 ###
+
+        WritingMaterials pen = new WritingMaterials();
+        pen.setName("ручка");
+        pen.setColor("Красный");
+        pen.setLength(11.6);
+        pen.setPrice(167);
+        pen.setDraw(true);
+        pen.draw();
+        pen.draw("Синий");
+        pen.draw("Зелёный", 15);
+        pen.draw(4);
+
+        WritingMaterials ruler = new WritingMaterials("линека", 34);
+        ruler.setDraw(false);
+        ruler.draw();
+        ruler.draw("Синий");
+        ruler.draw("Зелёный", 15);
+        ruler.draw(4);
+
+
+            ### lesson 3 ###
+
         WritingMaterials pen = new WritingMaterials();
         pen.setName("ручка");
         pen.setColor("Красный");
@@ -22,8 +77,6 @@ public class MainMats {
         System.out.println(pen.getLength());
         System.out.println(pen.getPrice());
         System.out.println(pen.isDraw());
-
-        /*
 
             ### lesson 2 ###
 
