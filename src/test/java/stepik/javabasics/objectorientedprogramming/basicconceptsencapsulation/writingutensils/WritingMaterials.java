@@ -15,7 +15,6 @@ class WritingMaterials {
         this.price = price;
         this.draw = draw;
     }
-
     public WritingMaterials() {
     }
     public void setName(String name) {
@@ -24,7 +23,6 @@ class WritingMaterials {
     public void setLength(double length) {
         this.length = length;
     }
-
     public void display() {
         System.out.printf("Название: %s, Цвет: %s, Длина: %s, ", name, color, length);
         System.out.printf("Цена: %s, Умеет рисовать: %s.\n", price, draw ? "Да" : "Нет");
@@ -42,12 +40,10 @@ class WritingMaterials {
 
     public WritingMaterials() {
     }
-
     public WritingMaterials(String name, double length) {
         this.name = name;
         this.length = length;
     }
-
     public void setName(String name) {
         this.name = name;
     }
@@ -102,27 +98,21 @@ class WritingMaterials {
 
     public WritingMaterials() {
     }
-
     public void setName(String name) {
         this.name = name;
     }
-
     public void setColor(String color) {
         this.color = color;
     }
-
     public void setLength(double length) {
         this.length = length;
     }
-
     public void setPrice(double price) {
         this.price = price;
     }
-
     public void setDraw(boolean draw) {
         this.draw = draw;
     }
-
     public void display() {
         System.out.printf("Название: %s, Цвет: %s, Длина: %s, ", name, color, length);
         System.out.printf("Цена: %s, Умеет рисовать: %s.\n", price, draw ? "Да" : "Нет");
@@ -143,23 +133,18 @@ class WritingMaterials {
     public void priceUp(double n) {
         price += n;
     }
-
     public String getName() {
         return name;
     }
-
     public String getColor() {
         return color;
     }
-
     public double getLength() {
         return length;
     }
-
     public double getPrice() {
         return price;
     }
-
     public String isDraw() {
         return draw ? "Да" : "Нет";
     }
@@ -177,13 +162,11 @@ class WritingMaterials {
         this.name = name;
         this.color = color;
     }
-
     public WritingMaterials(String name, double price) {
         this.name = name;
         this.price = price;
         color = "No Color";
     }
-
     public WritingMaterials(double length, double price, boolean draw) {
         this.length = length;
         this.price = price;
@@ -191,7 +174,6 @@ class WritingMaterials {
         name = "No Name";
         color = "No Color";
     }
-
     public WritingMaterials(String name, String color, double length, double price, boolean draw) {
         this.name = name;
         this.color = color;
@@ -227,6 +209,7 @@ class WritingMaterials {
     double length;
     int price;
     boolean draw;
+
     public void display() {
         System.out.printf("Название: %s, Цвет: %s, Длина: %s, ", name, color, length);
         System.out.printf("Цена: %d, Умеет рисовать: %s.\n", price, draw ? "Да" : "Нет");
@@ -247,7 +230,6 @@ class WritingMaterials {
     public int priceUp(int n) {
         return price += n;
     }
-
     public WritingMaterials() {
     }
     */
