@@ -3,7 +3,7 @@ package stepik.javabasics.objectorientedprogramming.functionparameters;
 import java.util.Scanner;
 
 public class HeronsFormula {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double s1 = sc.nextDouble();
         double s2 = sc.nextDouble();
