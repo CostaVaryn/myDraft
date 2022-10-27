@@ -55,7 +55,6 @@ public class MainMats {
         ruler.draw("Зелёный", 15);
         ruler.draw(4);
 
-
             ### lesson 3 ###
 
         WritingMaterials pen = new WritingMaterials();
