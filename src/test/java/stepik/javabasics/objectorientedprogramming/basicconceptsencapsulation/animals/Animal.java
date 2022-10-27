@@ -32,8 +32,6 @@ public class Animal {
         name = str;
     }
 
-
-
     /*
 
         ### lesson 4 ###
@@ -211,6 +209,7 @@ class Bird extends Animal {
     String area;
     boolean winterFly;
     public Bird() {
+        type = "Bird";
         isFly = true;
     }
     public Bird(String type, String name, int age, double weight, boolean isFly, boolean isWalk, boolean isSwim, String area, boolean winterFly) {
@@ -234,12 +233,24 @@ class Bird extends Animal {
     public boolean isWinterFly() {
         return winterFly;
     }
+
+    @Override
+    public void display() {
+        System.out.println("I am Bird");
+        System.out.printf("Тип: %s, Возраст: %d, Вес: %s, ", type, age, weight);
+        System.out.printf("Среда обитания: %s, ", area);
+        System.out.printf("Умеет летать: %s, ", isFly ? "Да" : "Нет");
+        System.out.printf("Улетает зимовать: %s, ", winterFly ? "Да" : "Нет");
+        System.out.printf("Умеет ходить: %s, ", isWalk ? "Да" : "Нет");
+        System.out.printf("Умеет плавать: %s.\n", isSwim ? "Да" : "Нет");
+    }
 }
 
 class Fish extends Animal {
     String squama;
     boolean upStreamSwim;
     public Fish() {
+        type = "Fish";
         isSwim = true;
     }
 
@@ -267,12 +278,24 @@ class Fish extends Animal {
     public boolean isUpStreamSwim() {
         return upStreamSwim;
     }
+
+    @Override
+    public void display() {
+        System.out.println("I am Fish");
+        System.out.printf("Тип: %s, Возраст: %d, Вес: %s, ", type, age, weight);
+        System.out.printf("Тип чешуи: %s, ", squama);
+        System.out.printf("Умеет летать: %s, ", isFly ? "Да" : "Нет");
+        System.out.printf("Умеет ходить: %s, ", isWalk ? "Да" : "Нет");
+        System.out.printf("Умеет плавать: %s.\n", isSwim ? "Да" : "Нет");
+        System.out.printf("Умеет плавать против течения: %s, ", upStreamSwim ? "Да" : "Нет");
+    }
 }
 
 class Insect extends Animal {
     int wingCount;
     boolean likeJesus;
     public Insect() {
+        type = "Insect";
         isWalk = true;
     }
     public Insect (String type, String name, int age, double weight, boolean isFly, boolean isWalk, boolean isSwim, int wingCount, boolean likeJesus) {
@@ -298,5 +321,15 @@ class Insect extends Animal {
 
     public boolean isLikeJesus() {
         return likeJesus;
+    }
+    @Override
+    public void display() {
+        System.out.println("I am Insect");
+        System.out.printf("Тип: %s, Возраст: %d, Вес: %s, ", type, age, weight);
+        System.out.printf("Количество крыльев: %s, ", wingCount);
+        System.out.printf("Умеет летать: %s, ", isFly ? "Да" : "Нет");
+        System.out.printf("Умеет ходить: %s, ", isWalk ? "Да" : "Нет");
+        System.out.printf("Умеет ходить по воде: %s, ", likeJesus ? "Да" : "Нет");
+        System.out.printf("Умеет плавать: %s.\n", isSwim ? "Да" : "Нет");
     }
 }
