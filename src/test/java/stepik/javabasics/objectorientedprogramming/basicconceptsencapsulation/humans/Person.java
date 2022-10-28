@@ -6,6 +6,15 @@ public class Person {
     public String address;
     private String phone;
 
+    {
+        name = "Undefined";
+        age = 18;
+    }
+    Person(){
+    }
+    void displayInfo(){
+        System.out.printf("Name: %s \tAge: %d\n", name, age);
+    }
     public Person(String name) {
         this.name = name;
     }
