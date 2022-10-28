@@ -2,12 +2,24 @@ package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.w
 
 class WritingMaterials {
 
+    public static int COUNTER;
     String name;
     String color;
     double length;
     double price;
     boolean draw;
+    {
+        name = name;
+        color = color;
+        COUNTER++;
+    }
 
+    public static void isWritingMaterials() {
+        System.out.println("Это абсолютно точно письменная принадлежность.");
+    }
+    public final static String descripton() {
+        return "Это: ";
+    }
     public WritingMaterials(String name, String color, double length, double price, boolean draw) {
         this.name = name;
         this.color = color;
