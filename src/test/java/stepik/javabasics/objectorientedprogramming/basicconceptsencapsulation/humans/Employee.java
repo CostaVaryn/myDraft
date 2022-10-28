@@ -1,6 +1,24 @@
 package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans;
 
-public class Employee  {
+public class Employee extends Person{
+
+    private String bank;
+
+    public Employee(String name, String company) {
+
+        super(name);
+        this.bank = company;
+    }
+
+    public void display(){
+
+        System.out.printf("Employee Name: %s \t Bank: %s \n", super.getName(), bank);
+    }
+
+    /*
+
+        ### lesson 1 ###
+
     private String name;
     private String address;
     private int number;
@@ -36,7 +54,9 @@ public class Employee  {
         return number;
     }
 
-    /*
+
+        last use, no redacted
+
     String company;
 
     public Employee(String name, String company) {
