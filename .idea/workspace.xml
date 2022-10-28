@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Client.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Figure.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,20 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00795" summary="add Employee.java">
-      <created>1666775622459</created>
-      <option name="number" value="00795" />
-      <option name="presentableId" value="LOCAL-00795" />
-      <option name="project" value="LOCAL" />
-      <updated>1666775622459</updated>
-    </task>
-    <task id="LOCAL-00796" summary="update Person.java">
-      <created>1666775633640</created>
-      <option name="number" value="00796" />
-      <option name="presentableId" value="LOCAL-00796" />
-      <option name="project" value="LOCAL" />
-      <updated>1666775633640</updated>
     </task>
     <task id="LOCAL-00797" summary="update workspace.xml">
       <created>1666777067018</created>
@@ -474,7 +462,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666964058049</updated>
     </task>
-    <option name="localTasksCounter" value="844" />
+    <task id="LOCAL-00844" summary="update workspace.xml">
+      <created>1666964580039</created>
+      <option name="number" value="00844" />
+      <option name="presentableId" value="LOCAL-00844" />
+      <option name="project" value="LOCAL" />
+      <updated>1666964580039</updated>
+    </task>
+    <task id="LOCAL-00845" summary="add Figure.java">
+      <created>1666964585550</created>
+      <option name="number" value="00845" />
+      <option name="presentableId" value="LOCAL-00845" />
+      <option name="project" value="LOCAL" />
+      <updated>1666964585550</updated>
+    </task>
+    <option name="localTasksCounter" value="846" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Employee.java" />
     <MESSAGE value="add Salary.java" />
     <MESSAGE value="update MainMats.java" />
     <MESSAGE value="add Pen.java" />
@@ -509,12 +510,13 @@
     <MESSAGE value="update Animal.java" />
     <MESSAGE value="update Pen.java" />
     <MESSAGE value="update WritingMaterials.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Program.java" />
     <MESSAGE value="update Person.java" />
     <MESSAGE value="update Employee.java" />
     <MESSAGE value="update Client.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Client.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add Figure.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Figure.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
