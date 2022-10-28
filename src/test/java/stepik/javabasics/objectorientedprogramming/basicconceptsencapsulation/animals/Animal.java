@@ -2,6 +2,46 @@ package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.a
 
 public class Animal {
 
+    static int COUNTER = 1;
+    String type;
+    String name;
+    int age;
+    double weight;
+    boolean isFly;
+    boolean isWalk;
+    boolean isSwim;
+    {
+        name = name;
+        type = type;
+    }
+    public Animal() {
+        COUNTER++;
+    }
+    public String toString() {
+        return "Тип: " + type + ", Имя: " +  name + ", Возраст: " + age + ", Вес: " + weight;
+    }
+
+    public Animal(String type, String name) {
+        this.type = type;
+        this.name = name;
+    }
+    public static void isAnimal() {
+        System.out.println("Of course");
+    }
+    public static String Description(){
+        return "I am an animal. I am not afraid";
+    }
+    public void display() {
+        System.out.printf("Тип: %s, Имя: %s, Возраст: %d, Вес: %s, ", type, name, age, weight);
+        System.out.printf("Умеет летать: %s, ", isFly ? "Да" : "Нет");
+        System.out.printf("Умеет ходить: %s, ", isWalk ? "Да" : "Нет");
+        System.out.printf("Умеет плавать: %s.\n", isSwim ? "Да" : "Нет");
+    }
+
+    /*
+
+        ### lesson 5 ###
+
     String type;
     String name;
     int age;
@@ -30,8 +70,6 @@ public class Animal {
     public void setName(String str) {
         name = str;
     }
-
-    /*
 
         ### lesson 4 ###
 
@@ -206,14 +244,11 @@ public class Animal {
 class Bird extends Animal {
     String area;
     boolean winterFly;
-    public Bird() {
+    {
+        name = "Ara";
         type = "Bird";
-        isFly = true;
     }
-    public Bird(String type, String name, int age, double weight, boolean isFly, boolean isWalk, boolean isSwim, String area, boolean winterFly) {
-        super(type, name, age, weight, isFly, isWalk, isSwim);
-        this.area = area;
-        this.winterFly = winterFly;
+    public Bird() {
     }
     public void chirick_chirick() {
         System.out.println("Chirik-Chirik");
@@ -245,14 +280,11 @@ class Fish extends Animal {
     String squama;
     boolean upStreamSwim;
 
-    public Fish() {
+    {
+        name = "Fugu";
         type = "Fish";
-        isSwim = true;
     }
-    public Fish(String type, String name, int age, double weight, boolean isFly, boolean isWalk, boolean isSwim, String squama, boolean upStreamSwim) {
-        super(type,name,age,weight,isFly,isWalk,isSwim);
-        this.squama = squama;
-        this.upStreamSwim = upStreamSwim;
+    public Fish() {
     }
     public void bul_bul() {
         System.out.println("Bul-bul");
@@ -285,15 +317,13 @@ class Insect extends Animal {
     int wingCount;
     boolean likeJesus;
 
-    public Insect() {
+    {
+        name = "Bugger";
         type = "Insect";
-        isWalk = true;
     }
-    public Insect (String type, String name, int age, double weight, boolean isFly, boolean isWalk, boolean isSwim, int wingCount, boolean likeJesus) {
-        super(type,name,age,weight,isFly,isWalk,isSwim);
-        this.wingCount = wingCount;
-        this.likeJesus = likeJesus;
+    public Insect() {
     }
+
     public void ggggg() {
         System.out.println("Ggggg");
     }
