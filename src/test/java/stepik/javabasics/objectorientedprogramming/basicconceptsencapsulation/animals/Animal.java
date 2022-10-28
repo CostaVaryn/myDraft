@@ -28,7 +28,7 @@ public class Animal {
     public static void isAnimal() {
         System.out.println("Of course");
     }
-    public static String Description(){
+    public final static String Description(){
         return "I am an animal. I am not afraid";
     }
     public void display() {
@@ -37,7 +37,41 @@ public class Animal {
         System.out.printf("Умеет ходить: %s, ", isWalk ? "Да" : "Нет");
         System.out.printf("Умеет плавать: %s.\n", isSwim ? "Да" : "Нет");
     }
+    public final void rename(String name) {
+        this.name = name;
+    }
 
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setWeight(double weight) {
+        this.weight = weight;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public double getWeight() {
+        return weight;
+    }
     /*
 
         ### lesson 5 ###
@@ -276,7 +310,7 @@ class Bird extends Animal {
     }
 }
 
-class Fish extends Animal {
+final class Fish extends Animal {
     String squama;
     boolean upStreamSwim;
 
