@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update WritingMaterials.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Client.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,41 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00790" summary="update workspace.xml">
-      <created>1666774049312</created>
-      <option name="number" value="00790" />
-      <option name="presentableId" value="LOCAL-00790" />
-      <option name="project" value="LOCAL" />
-      <updated>1666774049312</updated>
-    </task>
-    <task id="LOCAL-00791" summary="update WritingMaterials.java">
-      <created>1666774053896</created>
-      <option name="number" value="00791" />
-      <option name="presentableId" value="LOCAL-00791" />
-      <option name="project" value="LOCAL" />
-      <updated>1666774053896</updated>
-    </task>
-    <task id="LOCAL-00792" summary="update workspace.xml">
-      <created>1666774118791</created>
-      <option name="number" value="00792" />
-      <option name="presentableId" value="LOCAL-00792" />
-      <option name="project" value="LOCAL" />
-      <updated>1666774118791</updated>
-    </task>
-    <task id="LOCAL-00793" summary="update workspace.xml">
-      <created>1666775613378</created>
-      <option name="number" value="00793" />
-      <option name="presentableId" value="LOCAL-00793" />
-      <option name="project" value="LOCAL" />
-      <updated>1666775613378</updated>
-    </task>
-    <task id="LOCAL-00794" summary="update Program.java">
-      <created>1666775618118</created>
-      <option name="number" value="00794" />
-      <option name="presentableId" value="LOCAL-00794" />
-      <option name="project" value="LOCAL" />
-      <updated>1666775618118</updated>
     </task>
     <task id="LOCAL-00795" summary="add Employee.java">
       <created>1666775622459</created>
@@ -474,7 +439,42 @@
       <option name="project" value="LOCAL" />
       <updated>1666963468752</updated>
     </task>
-    <option name="localTasksCounter" value="839" />
+    <task id="LOCAL-00839" summary="update workspace.xml">
+      <created>1666964029419</created>
+      <option name="number" value="00839" />
+      <option name="presentableId" value="LOCAL-00839" />
+      <option name="project" value="LOCAL" />
+      <updated>1666964029419</updated>
+    </task>
+    <task id="LOCAL-00840" summary="update Program.java">
+      <created>1666964038940</created>
+      <option name="number" value="00840" />
+      <option name="presentableId" value="LOCAL-00840" />
+      <option name="project" value="LOCAL" />
+      <updated>1666964038940</updated>
+    </task>
+    <task id="LOCAL-00841" summary="update Person.java">
+      <created>1666964044889</created>
+      <option name="number" value="00841" />
+      <option name="presentableId" value="LOCAL-00841" />
+      <option name="project" value="LOCAL" />
+      <updated>1666964044889</updated>
+    </task>
+    <task id="LOCAL-00842" summary="update Employee.java">
+      <created>1666964052261</created>
+      <option name="number" value="00842" />
+      <option name="presentableId" value="LOCAL-00842" />
+      <option name="project" value="LOCAL" />
+      <updated>1666964052261</updated>
+    </task>
+    <task id="LOCAL-00843" summary="update Client.java">
+      <created>1666964058049</created>
+      <option name="number" value="00843" />
+      <option name="presentableId" value="LOCAL-00843" />
+      <option name="project" value="LOCAL" />
+      <updated>1666964058049</updated>
+    </task>
+    <option name="localTasksCounter" value="844" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,10 +489,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add WritingMaterials.java" />
     <MESSAGE value="add Employee.java" />
     <MESSAGE value="add Salary.java" />
-    <MESSAGE value="update Employee.java" />
     <MESSAGE value="update MainMats.java" />
     <MESSAGE value="add Pen.java" />
     <MESSAGE value="correction AckermannFunction.java" />
@@ -507,14 +505,16 @@
     <MESSAGE value="correction SortByStringLength.java" />
     <MESSAGE value="correction StrengthOfArchimedes.java" />
     <MESSAGE value="correction WritingMaterials.java" />
-    <MESSAGE value="update Program.java" />
-    <MESSAGE value="update Person.java" />
     <MESSAGE value="update Main.java" />
     <MESSAGE value="update Animal.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Pen.java" />
     <MESSAGE value="update WritingMaterials.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update WritingMaterials.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update Program.java" />
+    <MESSAGE value="update Person.java" />
+    <MESSAGE value="update Employee.java" />
+    <MESSAGE value="update Client.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Client.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
