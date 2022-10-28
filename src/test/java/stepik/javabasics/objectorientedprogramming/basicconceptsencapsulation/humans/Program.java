@@ -21,8 +21,10 @@ public class Program {
         anna.setAgeHuman(123450);
         System.out.println(anna.getAgeHuman());      // 33
 
-
         Person tom = new Person("Tom");
         tom.display();
+
+        Person undef = new Person();
+        undef.displayInfo();
     }
 }
