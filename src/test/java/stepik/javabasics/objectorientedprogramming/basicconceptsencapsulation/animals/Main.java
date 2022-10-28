@@ -3,6 +3,11 @@ package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.a
 public class Main {
     public static void main(String[] args) {
 
+        /*
+
+        ### lesson 5 ###
+
+
         Animal duck = new Animal("Утка", "Утя", 3, 5.8, true, true, true);
         duck.display();
 
