@@ -1,6 +1,22 @@
 package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans;
 
-public class Person {
+abstract class Person {
+
+    private String name;
+
+    public String getName() { return name; }
+
+    public Person(String name){
+
+        this.name=name;
+    }
+
+    public abstract void display();
+
+    /*
+
+        ### lesson 1 ###
+
     String name;
     protected int age;
     public String address;
@@ -55,4 +71,6 @@ public class Person {
     public void display() {
         System.out.println("Name: " + name);
     }
+
+     */
 }
