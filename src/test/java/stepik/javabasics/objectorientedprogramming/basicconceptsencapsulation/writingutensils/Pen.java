@@ -38,7 +38,7 @@ class Pen extends WritingMaterials {
 }
 
 
-class Ruler extends WritingMaterials {
+final class Ruler extends WritingMaterials {
 
     int length;
     boolean wood;
@@ -83,7 +83,7 @@ class Divider extends WritingMaterials {
         draw = true;
     }
 
-    public void draw_circle() {
+    public final void draw_circle() {
         System.out.println("Нарисован круг");
     }
 
