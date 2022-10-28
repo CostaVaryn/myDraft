@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00776" summary="update Person.java">
-      <created>1666701865875</created>
-      <option name="number" value="00776" />
-      <option name="presentableId" value="LOCAL-00776" />
-      <option name="project" value="LOCAL" />
-      <updated>1666701865875</updated>
     </task>
     <task id="LOCAL-00777" summary="update Main.java">
       <created>1666701871608</created>
@@ -474,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666880611068</updated>
     </task>
-    <option name="localTasksCounter" value="825" />
+    <task id="LOCAL-00825" summary="update workspace.xml">
+      <created>1666956555643</created>
+      <option name="number" value="00825" />
+      <option name="presentableId" value="LOCAL-00825" />
+      <option name="project" value="LOCAL" />
+      <updated>1666956555643</updated>
+    </task>
+    <option name="localTasksCounter" value="826" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
