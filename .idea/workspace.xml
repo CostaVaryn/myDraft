@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Animal.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,27 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00783" summary="add MainMats.java">
-      <created>1666772950603</created>
-      <option name="number" value="00783" />
-      <option name="presentableId" value="LOCAL-00783" />
-      <option name="project" value="LOCAL" />
-      <updated>1666772950603</updated>
-    </task>
-    <task id="LOCAL-00784" summary="add WritingMaterials.java">
-      <created>1666772957555</created>
-      <option name="number" value="00784" />
-      <option name="presentableId" value="LOCAL-00784" />
-      <option name="project" value="LOCAL" />
-      <updated>1666772957555</updated>
-    </task>
-    <task id="LOCAL-00785" summary="update workspace.xml">
-      <created>1666773675698</created>
-      <option name="number" value="00785" />
-      <option name="presentableId" value="LOCAL-00785" />
-      <option name="project" value="LOCAL" />
-      <updated>1666773675698</updated>
     </task>
     <task id="LOCAL-00786" summary="update WritingMaterials.java">
       <created>1666773679868</created>
@@ -476,7 +453,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666961382983</updated>
     </task>
-    <option name="localTasksCounter" value="832" />
+    <task id="LOCAL-00832" summary="update workspace.xml">
+      <created>1666961405668</created>
+      <option name="number" value="00832" />
+      <option name="presentableId" value="LOCAL-00832" />
+      <option name="project" value="LOCAL" />
+      <updated>1666961405668</updated>
+    </task>
+    <task id="LOCAL-00833" summary="update Main.java">
+      <created>1666961611527</created>
+      <option name="number" value="00833" />
+      <option name="presentableId" value="LOCAL-00833" />
+      <option name="project" value="LOCAL" />
+      <updated>1666961611527</updated>
+    </task>
+    <task id="LOCAL-00834" summary="update Animal.java">
+      <created>1666961618617</created>
+      <option name="number" value="00834" />
+      <option name="presentableId" value="LOCAL-00834" />
+      <option name="project" value="LOCAL" />
+      <updated>1666961618617</updated>
+    </task>
+    <option name="localTasksCounter" value="835" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -513,10 +511,10 @@
     <MESSAGE value="correction WritingMaterials.java" />
     <MESSAGE value="update Program.java" />
     <MESSAGE value="update Person.java" />
+    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Main.java" />
     <MESSAGE value="update Animal.java" />
-    <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Animal.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
