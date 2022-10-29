@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add Figure.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ProgInterface.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/MainCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/SomeClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/VirtualDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/VirtualDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,20 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainMats">
-    <configuration name="CheckResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="checkuphhru.CheckResume" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="checkuphhru.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainCallBack">
     <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.solvingproblemsusingfunctions.Generator" />
       <module name="myDraft" />
@@ -81,6 +75,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCallBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.interfaces.MainCallBack" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainCallBack" />
         <item itemvalue="Application.MainMats" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Generator" />
-        <item itemvalue="Application.CheckResume" />
       </list>
     </recent_temporary>
   </component>
@@ -132,20 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00797" summary="update workspace.xml">
-      <created>1666777067018</created>
-      <option name="number" value="00797" />
-      <option name="presentableId" value="LOCAL-00797" />
-      <option name="project" value="LOCAL" />
-      <updated>1666777067018</updated>
-    </task>
-    <task id="LOCAL-00798" summary="add Salary.java">
-      <created>1666777073969</created>
-      <option name="number" value="00798" />
-      <option name="presentableId" value="LOCAL-00798" />
-      <option name="project" value="LOCAL" />
-      <updated>1666777073969</updated>
     </task>
     <task id="LOCAL-00799" summary="add Salary.java">
       <created>1666777076712</created>
@@ -476,7 +469,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666964585550</updated>
     </task>
-    <option name="localTasksCounter" value="846" />
+    <task id="LOCAL-00846" summary="update workspace.xml">
+      <created>1666965151962</created>
+      <option name="number" value="00846" />
+      <option name="presentableId" value="LOCAL-00846" />
+      <option name="project" value="LOCAL" />
+      <updated>1666965151962</updated>
+    </task>
+    <task id="LOCAL-00847" summary="add ProgInterface.java">
+      <created>1666965157366</created>
+      <option name="number" value="00847" />
+      <option name="presentableId" value="LOCAL-00847" />
+      <option name="project" value="LOCAL" />
+      <updated>1666965157366</updated>
+    </task>
+    <option name="localTasksCounter" value="848" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Salary.java" />
     <MESSAGE value="update MainMats.java" />
     <MESSAGE value="add Pen.java" />
     <MESSAGE value="correction AckermannFunction.java" />
@@ -514,9 +520,10 @@
     <MESSAGE value="update Person.java" />
     <MESSAGE value="update Employee.java" />
     <MESSAGE value="update Client.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="add Figure.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Figure.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add ProgInterface.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ProgInterface.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
