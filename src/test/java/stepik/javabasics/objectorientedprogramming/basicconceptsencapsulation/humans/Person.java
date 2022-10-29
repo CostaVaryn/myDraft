@@ -1,6 +1,6 @@
 package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans;
 
-abstract class Person {
+class Person {
 
     private String name;
 
@@ -11,7 +11,9 @@ abstract class Person {
         this.name=name;
     }
 
-    public abstract void display();
+    public void display(){
+        System.out.println("Name: " + name);
+    }
 
     /*
 
