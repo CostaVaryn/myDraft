@@ -3,8 +3,14 @@ package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.h
 public class Salary extends Employee {
     private double salary; // Годовая заработная плата
 
-    public Salary(String name, String address, int number, double salary) {
-        super(name, address, number);
+
+    //public Salary(String name, String address, int number, double salary) {
+       // super(name, address, number);
+        //setSalary(salary);
+    //}
+
+    public Salary(String name, String company, double salary) {
+        super(name, company);
         setSalary(salary);
     }
 
