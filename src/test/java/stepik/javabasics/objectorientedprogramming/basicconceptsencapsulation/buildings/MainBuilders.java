@@ -2,7 +2,7 @@ package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.b
 
 public class MainBuilders {
     public static void main(String[] args) {
-        Building lib = new Library("Arcana", "Cooper street", 1703,"Vanja Dontstupid",false,true);
+        Library lib = new Library("Arcana", "Cooper street", 1703,"Vanja Dontstupid",false,true);
         lib.toString(); // is ignored
         lib.startEvent();
         lib.print();
