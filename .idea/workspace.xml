@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update MainBuilders.java">
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/MainBuilders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/MainBuilders.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Building.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/LivingHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/SocialHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/PrimeCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,27 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00826" summary="update Program.java">
-      <created>1666959764015</created>
-      <option name="number" value="00826" />
-      <option name="presentableId" value="LOCAL-00826" />
-      <option name="project" value="LOCAL" />
-      <updated>1666959764015</updated>
-    </task>
-    <task id="LOCAL-00827" summary="update workspace.xml">
-      <created>1666959793289</created>
-      <option name="number" value="00827" />
-      <option name="presentableId" value="LOCAL-00827" />
-      <option name="project" value="LOCAL" />
-      <updated>1666959793289</updated>
-    </task>
-    <task id="LOCAL-00828" summary="update Person.java">
-      <created>1666959804579</created>
-      <option name="number" value="00828" />
-      <option name="presentableId" value="LOCAL-00828" />
-      <option name="project" value="LOCAL" />
-      <updated>1666959804579</updated>
     </task>
     <task id="LOCAL-00829" summary="update Main.java">
       <created>1666961370536</created>
@@ -477,7 +458,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667211852799</updated>
     </task>
-    <option name="localTasksCounter" value="875" />
+    <task id="LOCAL-00875" summary="update MainBuilders.java">
+      <created>1667212086697</created>
+      <option name="number" value="00875" />
+      <option name="presentableId" value="LOCAL-00875" />
+      <option name="project" value="LOCAL" />
+      <updated>1667212086698</updated>
+    </task>
+    <task id="LOCAL-00876" summary="update workspace.xml">
+      <created>1667212092372</created>
+      <option name="number" value="00876" />
+      <option name="presentableId" value="LOCAL-00876" />
+      <option name="project" value="LOCAL" />
+      <updated>1667212092372</updated>
+    </task>
+    <task id="LOCAL-00877" summary="update Building.java">
+      <created>1667212097362</created>
+      <option name="number" value="00877" />
+      <option name="presentableId" value="LOCAL-00877" />
+      <option name="project" value="LOCAL" />
+      <updated>1667212097362</updated>
+    </task>
+    <option name="localTasksCounter" value="878" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,10 +516,10 @@
     <MESSAGE value="update SwapAdjacent.java" />
     <MESSAGE value="add Building.java" />
     <MESSAGE value="add MainBuilders.java" />
+    <MESSAGE value="update MainBuilders.java" />
     <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Building.java" />
-    <MESSAGE value="update MainBuilders.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update MainBuilders.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Building.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
