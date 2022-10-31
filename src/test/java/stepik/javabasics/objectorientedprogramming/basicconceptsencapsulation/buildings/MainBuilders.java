@@ -1,13 +1,15 @@
 package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.buildings;
 
-import java.text.SimpleDateFormat;
-import java.time.Instant;
-import java.util.Date;
-
 public class MainBuilders {
     public static void main(String[] args) {
-        Date date = new Date();
-        SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
-        System.out.println("Сегодня: " + format.format(date));
+        Building lib = new Library("Arcana", "Cooper street", 1703,"Vanja Dontstupid",false,true);
+        lib.toString(); // is ignored
+        lib.startEvent();
+        lib.print();
+
+        Building house = new House("My House", "Ronny squre", 1999,"My construction",false,true);
+        house.toString();
+        house.startEvent();
+        house.print();
     }
 }
