@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add MyClass.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update SwapAdjacent.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,27 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00807" summary="update workspace.xml">
-      <created>1666879519396</created>
-      <option name="number" value="00807" />
-      <option name="presentableId" value="LOCAL-00807" />
-      <option name="project" value="LOCAL" />
-      <updated>1666879519396</updated>
-    </task>
-    <task id="LOCAL-00808" summary="update WritingMaterials.java">
-      <created>1666879556564</created>
-      <option name="number" value="00808" />
-      <option name="presentableId" value="LOCAL-00808" />
-      <option name="project" value="LOCAL" />
-      <updated>1666879556564</updated>
-    </task>
-    <task id="LOCAL-00809" summary="update MainMats.java">
-      <created>1666879563677</created>
-      <option name="number" value="00809" />
-      <option name="presentableId" value="LOCAL-00809" />
-      <option name="project" value="LOCAL" />
-      <updated>1666879563677</updated>
     </task>
     <task id="LOCAL-00810" summary="update Animal.java">
       <created>1666879579221</created>
@@ -474,7 +453,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667051864858</updated>
     </task>
-    <option name="localTasksCounter" value="856" />
+    <task id="LOCAL-00856" summary="update workspace.xml">
+      <created>1667131213355</created>
+      <option name="number" value="00856" />
+      <option name="presentableId" value="LOCAL-00856" />
+      <option name="project" value="LOCAL" />
+      <updated>1667131213355</updated>
+    </task>
+    <task id="LOCAL-00857" summary="update SwapPlaces.java">
+      <created>1667131369512</created>
+      <option name="number" value="00857" />
+      <option name="presentableId" value="LOCAL-00857" />
+      <option name="project" value="LOCAL" />
+      <updated>1667131369512</updated>
+    </task>
+    <task id="LOCAL-00858" summary="update SwapAdjacent.java">
+      <created>1667131374350</created>
+      <option name="number" value="00858" />
+      <option name="presentableId" value="LOCAL-00858" />
+      <option name="project" value="LOCAL" />
+      <updated>1667131374350</updated>
+    </task>
+    <option name="localTasksCounter" value="859" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,8 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction FormatPhoneNumber.java" />
-    <MESSAGE value="correction HeronsFormula.java" />
     <MESSAGE value="correction King.java" />
     <MESSAGE value="correction MainMats.java" />
     <MESSAGE value="correction PrimeNumber.java" />
@@ -506,7 +504,6 @@
     <MESSAGE value="update Client.java" />
     <MESSAGE value="add Figure.java" />
     <MESSAGE value="add ProgInterface.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Employee.java" />
     <MESSAGE value="update Person.java" />
     <MESSAGE value="update Salary.java" />
@@ -514,7 +511,10 @@
     <MESSAGE value="add MainCallBack.java" />
     <MESSAGE value="add SomeClass.java" />
     <MESSAGE value="add MyClass.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add MyClass.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update SwapPlaces.java" />
+    <MESSAGE value="update SwapAdjacent.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update SwapAdjacent.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
