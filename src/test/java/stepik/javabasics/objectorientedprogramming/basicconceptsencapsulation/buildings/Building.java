@@ -35,6 +35,7 @@ abstract class Building {
         this.isCulturalMonument = isCulturalMonument;
     }
     public abstract void startEvent();
+    public abstract String toString();
 }
 
 class Library extends Building {
@@ -48,6 +49,11 @@ class Library extends Building {
         SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
         System.out.println("Сегодня: " + format.format(date));
         System.out.println("Литературный праздник");
+    }
+
+    @Override
+    public String toString() {
+        return title;
     }
 }
 
@@ -63,6 +69,10 @@ class House extends Building {
         System.out.println("Сегодня: " + format.format(date));
         System.out.println("У кого день рождения?");
     }
+    @Override
+    public String toString() {
+        return title;
+    }
 }
 
 class PoliceDepartment extends Building {
@@ -76,6 +86,10 @@ class PoliceDepartment extends Building {
         SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
         System.out.println("Сегодня: " + format.format(date));
         System.out.println("День полиции?");
+    }
+    @Override
+    public String toString() {
+        return title;
     }
 }
 
@@ -91,6 +105,10 @@ class University extends Building {
         System.out.println("Сегодня: " + format.format(date));
         System.out.println("День рождения ректора!");
     }
+    @Override
+    public String toString() {
+        return title;
+    }
 }
 
 class ShoppingCenter extends Building {
@@ -105,6 +123,10 @@ class ShoppingCenter extends Building {
         System.out.println("Сегодня: " + format.format(date));
         System.out.println("Распродажи!!!");
     }
+    @Override
+    public String toString() {
+        return title;
+    }
 }
 
 class HighRiseBuilding extends Building {
@@ -118,5 +140,9 @@ class HighRiseBuilding extends Building {
         SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
         System.out.println("Сегодня: " + format.format(date));
         System.out.println("Что за праздник?");
+    }
+    @Override
+    public String toString() {
+        return title;
     }
 }
