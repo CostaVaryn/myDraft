@@ -57,7 +57,8 @@ class Library extends Building {
 
     @Override
     public String toString() {
-        return title;
+        System.out.println("What this");
+        return "What this";
     }
 
     @Override
