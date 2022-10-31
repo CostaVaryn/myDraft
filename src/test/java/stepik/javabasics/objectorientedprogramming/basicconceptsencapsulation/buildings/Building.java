@@ -47,6 +47,7 @@ class Library extends Building {
         Date date = new Date();
         SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
         System.out.println("Сегодня: " + format.format(date));
+        System.out.println("Литературный праздник");
     }
 }
 
@@ -57,7 +58,10 @@ class House extends Building {
         this.isPrivate = isPrivate;
     }
     public void startEvent() {
-        System.out.println("Сегодня: ");
+        Date date = new Date();
+        SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
+        System.out.println("Сегодня: " + format.format(date));
+        System.out.println("У кого день рождения?");
     }
 }
 
@@ -68,7 +72,10 @@ class PoliceDepartment extends Building {
         this.isFBI = isFBI;
     }
     public void startEvent() {
-        System.out.println("Сегодня: ");
+        Date date = new Date();
+        SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
+        System.out.println("Сегодня: " + format.format(date));
+        System.out.println("День полиции?");
     }
 }
 
@@ -79,7 +86,10 @@ class University extends Building {
         this.isAcademy = isAcademy;
     }
     public void startEvent() {
-        System.out.println("Сегодня: ");
+        Date date = new Date();
+        SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
+        System.out.println("Сегодня: " + format.format(date));
+        System.out.println("День рождения ректора!");
     }
 }
 
@@ -90,7 +100,10 @@ class ShoppingCenter extends Building {
         this.isCountry = isCountry;
     }
     public void startEvent() {
-        System.out.println("Сегодня: ");
+        Date date = new Date();
+        SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
+        System.out.println("Сегодня: " + format.format(date));
+        System.out.println("Распродажи!!!");
     }
 }
 
@@ -101,6 +114,9 @@ class HighRiseBuilding extends Building {
         this.isMemorial = isMemorial;
     }
     public void startEvent() {
-        System.out.println("Сегодня: ");
+        Date date = new Date();
+        SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
+        System.out.println("Сегодня: " + format.format(date));
+        System.out.println("Что за праздник?");
     }
 }
