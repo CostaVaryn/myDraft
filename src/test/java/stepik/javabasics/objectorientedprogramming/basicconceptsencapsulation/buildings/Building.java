@@ -1,5 +1,9 @@
 package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.buildings;
 
+import java.text.SimpleDateFormat;
+import java.time.Instant;
+import java.util.Date;
+
 abstract class Building {
     String title;
     String address;
@@ -30,6 +34,7 @@ abstract class Building {
         this.architectName = architectName;
         this.isCulturalMonument = isCulturalMonument;
     }
+    public abstract void startEvent();
 }
 
 class Library extends Building {
@@ -38,8 +43,10 @@ class Library extends Building {
         super(title, address, yearOfConstruction, architectName, isCulturalMonument);
         this.hasAWebsite = hasAWebsite;
     }
-    public void startEvent(String event) {
-        System.out.println("Сегодня: " + event);
+    public void startEvent() {
+        Date date = new Date();
+        SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy hh:mm");
+        System.out.println("Сегодня: " + format.format(date));
     }
 }
 
@@ -49,6 +56,9 @@ class House extends Building {
         super(title, address, yearOfConstruction, architectName, isCulturalMonument);
         this.isPrivate = isPrivate;
     }
+    public void startEvent() {
+        System.out.println("Сегодня: ");
+    }
 }
 
 class PoliceDepartment extends Building {
@@ -56,6 +66,9 @@ class PoliceDepartment extends Building {
     public PoliceDepartment(String title, String address, int yearOfConstruction, String architectName, boolean isCulturalMonument, boolean isFBI) {
         super(title, address, yearOfConstruction, architectName, isCulturalMonument);
         this.isFBI = isFBI;
+    }
+    public void startEvent() {
+        System.out.println("Сегодня: ");
     }
 }
 
@@ -65,6 +78,9 @@ class University extends Building {
         super(title, address, yearOfConstruction, architectName, isCulturalMonument);
         this.isAcademy = isAcademy;
     }
+    public void startEvent() {
+        System.out.println("Сегодня: ");
+    }
 }
 
 class ShoppingCenter extends Building {
@@ -73,6 +89,9 @@ class ShoppingCenter extends Building {
         super(title, address, yearOfConstruction, architectName, isCulturalMonument);
         this.isCountry = isCountry;
     }
+    public void startEvent() {
+        System.out.println("Сегодня: ");
+    }
 }
 
 class HighRiseBuilding extends Building {
@@ -80,5 +99,8 @@ class HighRiseBuilding extends Building {
     public HighRiseBuilding(String title, String address, int yearOfConstruction, String architectName, boolean isCulturalMonument, boolean isMemorial) {
         super(title, address, yearOfConstruction, architectName, isCulturalMonument);
         this.isMemorial = isMemorial;
+    }
+    public void startEvent() {
+        System.out.println("Сегодня: ");
     }
 }
