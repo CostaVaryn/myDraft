@@ -1,7 +1,6 @@
 package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.buildings;
 
 import java.text.SimpleDateFormat;
-import java.time.Instant;
 import java.util.Date;
 
 abstract class Building implements Printable {
@@ -79,9 +78,10 @@ class House extends Building {
         System.out.println("Сегодня: " + format.format(date));
         System.out.println("У кого день рождения?");
     }
+
     @Override
     public String toString() {
-        return title;
+        return "Вы кто?";
     }
     @Override
     public void print() {
