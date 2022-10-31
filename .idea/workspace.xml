@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Building.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/MainBuilders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/MainBuilders.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,41 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00816" summary="correction HeronsFormula.java">
-      <created>1666880562195</created>
-      <option name="number" value="00816" />
-      <option name="presentableId" value="LOCAL-00816" />
-      <option name="project" value="LOCAL" />
-      <updated>1666880562195</updated>
-    </task>
-    <task id="LOCAL-00817" summary="correction King.java">
-      <created>1666880566663</created>
-      <option name="number" value="00817" />
-      <option name="presentableId" value="LOCAL-00817" />
-      <option name="project" value="LOCAL" />
-      <updated>1666880566663</updated>
-    </task>
-    <task id="LOCAL-00818" summary="correction MainMats.java">
-      <created>1666880571432</created>
-      <option name="number" value="00818" />
-      <option name="presentableId" value="LOCAL-00818" />
-      <option name="project" value="LOCAL" />
-      <updated>1666880571432</updated>
-    </task>
-    <task id="LOCAL-00819" summary="correction PrimeNumber.java">
-      <created>1666880576942</created>
-      <option name="number" value="00819" />
-      <option name="presentableId" value="LOCAL-00819" />
-      <option name="project" value="LOCAL" />
-      <updated>1666880576942</updated>
-    </task>
-    <task id="LOCAL-00820" summary="correction SimpleDynamics.java">
-      <created>1666880582869</created>
-      <option name="number" value="00820" />
-      <option name="presentableId" value="LOCAL-00820" />
-      <option name="project" value="LOCAL" />
-      <updated>1666880582869</updated>
     </task>
     <task id="LOCAL-00821" summary="correction SortByStringLength.java">
       <created>1666880592203</created>
@@ -478,7 +442,42 @@
       <option name="project" value="LOCAL" />
       <updated>1667207962280</updated>
     </task>
-    <option name="localTasksCounter" value="865" />
+    <task id="LOCAL-00865" summary="update workspace.xml">
+      <created>1667208842935</created>
+      <option name="number" value="00865" />
+      <option name="presentableId" value="LOCAL-00865" />
+      <option name="project" value="LOCAL" />
+      <updated>1667208842935</updated>
+    </task>
+    <task id="LOCAL-00866" summary="update Building.java">
+      <created>1667208850554</created>
+      <option name="number" value="00866" />
+      <option name="presentableId" value="LOCAL-00866" />
+      <option name="project" value="LOCAL" />
+      <updated>1667208850554</updated>
+    </task>
+    <task id="LOCAL-00867" summary="update MainBuilders.java">
+      <created>1667208857527</created>
+      <option name="number" value="00867" />
+      <option name="presentableId" value="LOCAL-00867" />
+      <option name="project" value="LOCAL" />
+      <updated>1667208857527</updated>
+    </task>
+    <task id="LOCAL-00868" summary="update Building.java">
+      <created>1667209683515</created>
+      <option name="number" value="00868" />
+      <option name="presentableId" value="LOCAL-00868" />
+      <option name="project" value="LOCAL" />
+      <updated>1667209683515</updated>
+    </task>
+    <task id="LOCAL-00869" summary="update Building.java">
+      <created>1667210136729</created>
+      <option name="number" value="00869" />
+      <option name="presentableId" value="LOCAL-00869" />
+      <option name="project" value="LOCAL" />
+      <updated>1667210136729</updated>
+    </task>
+    <option name="localTasksCounter" value="870" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction SimpleDynamics.java" />
     <MESSAGE value="correction SortByStringLength.java" />
     <MESSAGE value="correction StrengthOfArchimedes.java" />
     <MESSAGE value="correction WritingMaterials.java" />
@@ -516,9 +514,10 @@
     <MESSAGE value="update SwapAdjacent.java" />
     <MESSAGE value="add Building.java" />
     <MESSAGE value="add MainBuilders.java" />
-    <MESSAGE value="update Building.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="update MainBuilders.java" />
+    <MESSAGE value="update Building.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Building.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -578,7 +577,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/MainBuilders.java</url>
-          <line>6</line>
+          <line>7</line>
           <properties class="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.buildings.MainBuilders" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
