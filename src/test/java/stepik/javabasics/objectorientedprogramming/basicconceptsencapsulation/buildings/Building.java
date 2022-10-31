@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.time.Instant;
 import java.util.Date;
 
-abstract class Building {
+abstract class Building implements Printable {
     String title;
     String address;
     int yearOfConstruction;
@@ -38,6 +38,11 @@ abstract class Building {
     public abstract String toString();
 }
 
+abstract interface Printable{
+
+    void print();
+}
+
 class Library extends Building {
     boolean hasAWebsite;
     public Library(String title, String address, int yearOfConstruction, String architectName, boolean isCulturalMonument, boolean hasAWebsite) {
@@ -54,6 +59,11 @@ class Library extends Building {
     @Override
     public String toString() {
         return title;
+    }
+
+    @Override
+    public void print() {
+        System.out.printf("Находится по адресу: %s \n", address);
     }
 }
 
@@ -73,6 +83,10 @@ class House extends Building {
     public String toString() {
         return title;
     }
+    @Override
+    public void print() {
+
+    }
 }
 
 class PoliceDepartment extends Building {
@@ -90,6 +104,10 @@ class PoliceDepartment extends Building {
     @Override
     public String toString() {
         return title;
+    }
+    @Override
+    public void print() {
+
     }
 }
 
@@ -109,6 +127,10 @@ class University extends Building {
     public String toString() {
         return title;
     }
+    @Override
+    public void print() {
+
+    }
 }
 
 class ShoppingCenter extends Building {
@@ -127,6 +149,10 @@ class ShoppingCenter extends Building {
     public String toString() {
         return title;
     }
+    @Override
+    public void print() {
+
+    }
 }
 
 class HighRiseBuilding extends Building {
@@ -144,5 +170,9 @@ class HighRiseBuilding extends Building {
     @Override
     public String toString() {
         return title;
+    }
+    @Override
+    public void print() {
+
     }
 }
