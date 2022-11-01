@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update PrimeCalc.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/ExTryCatchFin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/ExTryCatchThrow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/MainCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/MainCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/PrimeCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/PrimeCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/ProgInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/ProgInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/ProgWaterPipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/ProgWaterPipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/SomeClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +56,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainBuilders">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.animals.Main" />
+  <component name="RunManager" selected="Application.ExTryCatchThrow">
+    <configuration name="ExTryCatchFin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.ExTryCatchFin" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.animals.*" />
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExTryCatchThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.ExTryCatchThrow" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans.Program" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExTryCatchThrow" />
+        <item itemvalue="Application.ExTryCatchFin" />
         <item itemvalue="Application.MainBuilders" />
         <item itemvalue="Application.MainCallBack" />
         <item itemvalue="Application.MainMats" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -132,13 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00839" summary="update workspace.xml">
-      <created>1666964029419</created>
-      <option name="number" value="00839" />
-      <option name="presentableId" value="LOCAL-00839" />
-      <option name="project" value="LOCAL" />
-      <updated>1666964029419</updated>
     </task>
     <task id="LOCAL-00840" summary="update Program.java">
       <created>1666964038940</created>
@@ -476,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667290419573</updated>
     </task>
-    <option name="localTasksCounter" value="888" />
+    <task id="LOCAL-00888" summary="updated workspace.xml">
+      <created>1667295191548</created>
+      <option name="number" value="00888" />
+      <option name="presentableId" value="LOCAL-00888" />
+      <option name="project" value="LOCAL" />
+      <updated>1667295191548</updated>
+    </task>
+    <option name="localTasksCounter" value="889" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update Pen.java" />
     <MESSAGE value="update WritingMaterials.java" />
     <MESSAGE value="update Program.java" />
     <MESSAGE value="update Client.java" />
@@ -516,7 +523,8 @@
     <MESSAGE value="add ProgWaterPipe.java" />
     <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update PrimeCalc.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update PrimeCalc.java" />
+    <MESSAGE value="updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
