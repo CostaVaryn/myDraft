@@ -7,9 +7,18 @@ public class MainBuilders {
         lib.startEvent();
         lib.print();
 
-        Building house = new House("My House", "Ronny squre", 1999,"My construction",false,true);
-        house.toString();
-        house.startEvent();
-        house.print();
+        Building myHouse = new House("My House", "Ronny squre", 1999,"My construction",false,true);
+        myHouse.toString();
+        myHouse.startEvent();
+        myHouse.print();
+        House.LivingHouse.print();
+
+        Building police = new PoliceDepartment("Police Department", "Legal street", 1111,"Sir Patrick Justice", true,false);
+        police.startEvent();
+        police.print();
+
+        Building mit = new University("Massachusetts Institute of Technology", "77 Massachusetts Avenue", 4-10-1861," Eero Saarine", true,false);
+        mit.startEvent();
+        mit.print();
     }
 }
