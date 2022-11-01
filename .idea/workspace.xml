@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add ProgWaterPipe.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/ProgWaterPipe.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update PrimeCalc.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,27 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00836" summary="update workspace.xml">
-      <created>1666963454581</created>
-      <option name="number" value="00836" />
-      <option name="presentableId" value="LOCAL-00836" />
-      <option name="project" value="LOCAL" />
-      <updated>1666963454581</updated>
-    </task>
-    <task id="LOCAL-00837" summary="update Pen.java">
-      <created>1666963462817</created>
-      <option name="number" value="00837" />
-      <option name="presentableId" value="LOCAL-00837" />
-      <option name="project" value="LOCAL" />
-      <updated>1666963462817</updated>
-    </task>
-    <task id="LOCAL-00838" summary="update WritingMaterials.java">
-      <created>1666963468752</created>
-      <option name="number" value="00838" />
-      <option name="presentableId" value="LOCAL-00838" />
-      <option name="project" value="LOCAL" />
-      <updated>1666963468752</updated>
     </task>
     <task id="LOCAL-00839" summary="update workspace.xml">
       <created>1666964029419</created>
@@ -477,7 +455,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667289775091</updated>
     </task>
-    <option name="localTasksCounter" value="885" />
+    <task id="LOCAL-00885" summary="add ProgWaterPipe.java">
+      <created>1667290331894</created>
+      <option name="number" value="00885" />
+      <option name="presentableId" value="LOCAL-00885" />
+      <option name="project" value="LOCAL" />
+      <updated>1667290331894</updated>
+    </task>
+    <task id="LOCAL-00886" summary="update workspace.xml">
+      <created>1667290342390</created>
+      <option name="number" value="00886" />
+      <option name="presentableId" value="LOCAL-00886" />
+      <option name="project" value="LOCAL" />
+      <updated>1667290342390</updated>
+    </task>
+    <task id="LOCAL-00887" summary="update PrimeCalc.java">
+      <created>1667290419573</created>
+      <option name="number" value="00887" />
+      <option name="presentableId" value="LOCAL-00887" />
+      <option name="project" value="LOCAL" />
+      <updated>1667290419573</updated>
+    </task>
+    <option name="localTasksCounter" value="888" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update Animal.java" />
     <MESSAGE value="update Pen.java" />
     <MESSAGE value="update WritingMaterials.java" />
     <MESSAGE value="update Program.java" />
@@ -513,11 +511,12 @@
     <MESSAGE value="add SocialHouse.java" />
     <MESSAGE value="add PrimeCalc.java" />
     <MESSAGE value="add LivingHouse.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Building.java" />
     <MESSAGE value="update MainBuilders.java" />
     <MESSAGE value="add ProgWaterPipe.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ProgWaterPipe.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="update PrimeCalc.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update PrimeCalc.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
