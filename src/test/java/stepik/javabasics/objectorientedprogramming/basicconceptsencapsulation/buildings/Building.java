@@ -68,6 +68,12 @@ class Library extends Building {
 }
 
 class House extends Building {
+
+    interface LivingHouse {
+        static void print() {
+            System.out.println("This is a living house.");
+        }
+    }
     boolean isPrivate;
     public House(String title, String address, int yearOfConstruction, String architectName, boolean isCulturalMonument, boolean isPrivate) {
         super(title, address, yearOfConstruction, architectName, isCulturalMonument);
@@ -86,7 +92,6 @@ class House extends Building {
     }
     @Override
     public void print() {
-
     }
 }
 
