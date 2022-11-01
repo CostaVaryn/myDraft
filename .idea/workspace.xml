@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added ExTryCatchFin.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,27 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00849" summary="update Employee.java">
-      <created>1667051796898</created>
-      <option name="number" value="00849" />
-      <option name="presentableId" value="LOCAL-00849" />
-      <option name="project" value="LOCAL" />
-      <updated>1667051796898</updated>
-    </task>
-    <task id="LOCAL-00850" summary="update Person.java">
-      <created>1667051806398</created>
-      <option name="number" value="00850" />
-      <option name="presentableId" value="LOCAL-00850" />
-      <option name="project" value="LOCAL" />
-      <updated>1667051806398</updated>
-    </task>
-    <task id="LOCAL-00851" summary="update Salary.java">
-      <created>1667051816393</created>
-      <option name="number" value="00851" />
-      <option name="presentableId" value="LOCAL-00851" />
-      <option name="project" value="LOCAL" />
-      <updated>1667051816393</updated>
     </task>
     <task id="LOCAL-00852" summary="update VirtualDemo.java">
       <created>1667051823673</created>
@@ -474,7 +453,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667296296505</updated>
     </task>
-    <option name="localTasksCounter" value="898" />
+    <task id="LOCAL-00898" summary="added ExThrows.java">
+      <created>1667296735538</created>
+      <option name="number" value="00898" />
+      <option name="presentableId" value="LOCAL-00898" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296735538</updated>
+    </task>
+    <task id="LOCAL-00899" summary="updated MainBuilders.java">
+      <created>1667296744426</created>
+      <option name="number" value="00899" />
+      <option name="presentableId" value="LOCAL-00899" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296744426</updated>
+    </task>
+    <task id="LOCAL-00900" summary="updated workspace.xml">
+      <created>1667296748941</created>
+      <option name="number" value="00900" />
+      <option name="presentableId" value="LOCAL-00900" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296748941</updated>
+    </task>
+    <option name="localTasksCounter" value="901" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,8 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update VirtualDemo.java" />
-    <MESSAGE value="add MainCallBack.java" />
     <MESSAGE value="add SomeClass.java" />
     <MESSAGE value="add MyClass.java" />
     <MESSAGE value="update SwapPlaces.java" />
@@ -511,10 +509,12 @@
     <MESSAGE value="relocated PrimeCalc.java" />
     <MESSAGE value="relocated MyClass.java" />
     <MESSAGE value="relocated MainCallBack.java" />
-    <MESSAGE value="updated workspace.xml" />
     <MESSAGE value="added ExTryCatchThrow.java" />
     <MESSAGE value="added ExTryCatchFin.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ExTryCatchFin.java" />
+    <MESSAGE value="added ExThrows.java" />
+    <MESSAGE value="updated MainBuilders.java" />
+    <MESSAGE value="updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
