@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update Building.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/LivingHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/SocialHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/PrimeCalc.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="add LivingHouse.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/ProgWaterPipe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/MainBuilders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/buildings/MainBuilders.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,34 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00829" summary="update Main.java">
-      <created>1666961370536</created>
-      <option name="number" value="00829" />
-      <option name="presentableId" value="LOCAL-00829" />
-      <option name="project" value="LOCAL" />
-      <updated>1666961370537</updated>
-    </task>
-    <task id="LOCAL-00830" summary="update Animal.java">
-      <created>1666961377454</created>
-      <option name="number" value="00830" />
-      <option name="presentableId" value="LOCAL-00830" />
-      <option name="project" value="LOCAL" />
-      <updated>1666961377454</updated>
-    </task>
-    <task id="LOCAL-00831" summary="update workspace.xml">
-      <created>1666961382983</created>
-      <option name="number" value="00831" />
-      <option name="presentableId" value="LOCAL-00831" />
-      <option name="project" value="LOCAL" />
-      <updated>1666961382983</updated>
-    </task>
-    <task id="LOCAL-00832" summary="update workspace.xml">
-      <created>1666961405668</created>
-      <option name="number" value="00832" />
-      <option name="presentableId" value="LOCAL-00832" />
-      <option name="project" value="LOCAL" />
-      <updated>1666961405668</updated>
     </task>
     <task id="LOCAL-00833" summary="update Main.java">
       <created>1666961611527</created>
@@ -479,7 +451,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667212097362</updated>
     </task>
-    <option name="localTasksCounter" value="878" />
+    <task id="LOCAL-00878" summary="update workspace.xml">
+      <created>1667221464953</created>
+      <option name="number" value="00878" />
+      <option name="presentableId" value="LOCAL-00878" />
+      <option name="project" value="LOCAL" />
+      <updated>1667221464953</updated>
+    </task>
+    <task id="LOCAL-00879" summary="add SocialHouse.java">
+      <created>1667221478677</created>
+      <option name="number" value="00879" />
+      <option name="presentableId" value="LOCAL-00879" />
+      <option name="project" value="LOCAL" />
+      <updated>1667221478677</updated>
+    </task>
+    <task id="LOCAL-00880" summary="add PrimeCalc.java">
+      <created>1667221482623</created>
+      <option name="number" value="00880" />
+      <option name="presentableId" value="LOCAL-00880" />
+      <option name="project" value="LOCAL" />
+      <updated>1667221482623</updated>
+    </task>
+    <task id="LOCAL-00881" summary="add LivingHouse.java">
+      <created>1667221489563</created>
+      <option name="number" value="00881" />
+      <option name="presentableId" value="LOCAL-00881" />
+      <option name="project" value="LOCAL" />
+      <updated>1667221489563</updated>
+    </task>
+    <option name="localTasksCounter" value="882" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,9 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction SortByStringLength.java" />
-    <MESSAGE value="correction StrengthOfArchimedes.java" />
-    <MESSAGE value="correction WritingMaterials.java" />
     <MESSAGE value="update Main.java" />
     <MESSAGE value="update Animal.java" />
     <MESSAGE value="update Pen.java" />
@@ -517,9 +514,12 @@
     <MESSAGE value="add Building.java" />
     <MESSAGE value="add MainBuilders.java" />
     <MESSAGE value="update MainBuilders.java" />
-    <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update Building.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Building.java" />
+    <MESSAGE value="update workspace.xml" />
+    <MESSAGE value="add SocialHouse.java" />
+    <MESSAGE value="add PrimeCalc.java" />
+    <MESSAGE value="add LivingHouse.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add LivingHouse.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
