@@ -1,4 +1,4 @@
-package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.interfaces;
+package stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.humans.interfaces;
 
 public class ProgWaterPipe {
     public static void main(String[] args) {
