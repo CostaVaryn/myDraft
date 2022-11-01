@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/ExTryCatchFin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/ExTryCatchThrow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/MainCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/MainCallBack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/PrimeCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/PrimeCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/ProgInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/ProgInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/ProgWaterPipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/ProgWaterPipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/interfaces/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/basicconceptsencapsulation/humans/interfaces/SomeClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added ExTryCatchFin.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +46,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExTryCatchThrow">
+  <component name="RunManager" selected="Application.MainBuilders">
+    <configuration name="ExThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.ExThrows" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExTryCatchFin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.ExTryCatchFin" />
       <module name="myDraft" />
@@ -109,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainMats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.writingutensils.MainMats" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.writingutensils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainBuilders" />
+        <item itemvalue="Application.ExThrows" />
         <item itemvalue="Application.ExTryCatchThrow" />
         <item itemvalue="Application.ExTryCatchFin" />
-        <item itemvalue="Application.MainBuilders" />
         <item itemvalue="Application.MainCallBack" />
-        <item itemvalue="Application.MainMats" />
       </list>
     </recent_temporary>
   </component>
@@ -140,69 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00840" summary="update Program.java">
-      <created>1666964038940</created>
-      <option name="number" value="00840" />
-      <option name="presentableId" value="LOCAL-00840" />
-      <option name="project" value="LOCAL" />
-      <updated>1666964038940</updated>
-    </task>
-    <task id="LOCAL-00841" summary="update Person.java">
-      <created>1666964044889</created>
-      <option name="number" value="00841" />
-      <option name="presentableId" value="LOCAL-00841" />
-      <option name="project" value="LOCAL" />
-      <updated>1666964044889</updated>
-    </task>
-    <task id="LOCAL-00842" summary="update Employee.java">
-      <created>1666964052261</created>
-      <option name="number" value="00842" />
-      <option name="presentableId" value="LOCAL-00842" />
-      <option name="project" value="LOCAL" />
-      <updated>1666964052261</updated>
-    </task>
-    <task id="LOCAL-00843" summary="update Client.java">
-      <created>1666964058049</created>
-      <option name="number" value="00843" />
-      <option name="presentableId" value="LOCAL-00843" />
-      <option name="project" value="LOCAL" />
-      <updated>1666964058049</updated>
-    </task>
-    <task id="LOCAL-00844" summary="update workspace.xml">
-      <created>1666964580039</created>
-      <option name="number" value="00844" />
-      <option name="presentableId" value="LOCAL-00844" />
-      <option name="project" value="LOCAL" />
-      <updated>1666964580039</updated>
-    </task>
-    <task id="LOCAL-00845" summary="add Figure.java">
-      <created>1666964585550</created>
-      <option name="number" value="00845" />
-      <option name="presentableId" value="LOCAL-00845" />
-      <option name="project" value="LOCAL" />
-      <updated>1666964585550</updated>
-    </task>
-    <task id="LOCAL-00846" summary="update workspace.xml">
-      <created>1666965151962</created>
-      <option name="number" value="00846" />
-      <option name="presentableId" value="LOCAL-00846" />
-      <option name="project" value="LOCAL" />
-      <updated>1666965151962</updated>
-    </task>
-    <task id="LOCAL-00847" summary="add ProgInterface.java">
-      <created>1666965157366</created>
-      <option name="number" value="00847" />
-      <option name="presentableId" value="LOCAL-00847" />
-      <option name="project" value="LOCAL" />
-      <updated>1666965157366</updated>
-    </task>
-    <task id="LOCAL-00848" summary="update workspace.xml">
-      <created>1667051786055</created>
-      <option name="number" value="00848" />
-      <option name="presentableId" value="LOCAL-00848" />
-      <option name="project" value="LOCAL" />
-      <updated>1667051786056</updated>
     </task>
     <task id="LOCAL-00849" summary="update Employee.java">
       <created>1667051796898</created>
@@ -484,7 +411,70 @@
       <option name="project" value="LOCAL" />
       <updated>1667295191548</updated>
     </task>
-    <option name="localTasksCounter" value="889" />
+    <task id="LOCAL-00889" summary="relocated SomeClass.java">
+      <created>1667296236217</created>
+      <option name="number" value="00889" />
+      <option name="presentableId" value="LOCAL-00889" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296236217</updated>
+    </task>
+    <task id="LOCAL-00890" summary="relocated ProgWaterPipe.java">
+      <created>1667296252007</created>
+      <option name="number" value="00890" />
+      <option name="presentableId" value="LOCAL-00890" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296252007</updated>
+    </task>
+    <task id="LOCAL-00891" summary="relocated ProgInterface.java">
+      <created>1667296256437</created>
+      <option name="number" value="00891" />
+      <option name="presentableId" value="LOCAL-00891" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296256437</updated>
+    </task>
+    <task id="LOCAL-00892" summary="relocated PrimeCalc.java">
+      <created>1667296262088</created>
+      <option name="number" value="00892" />
+      <option name="presentableId" value="LOCAL-00892" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296262088</updated>
+    </task>
+    <task id="LOCAL-00893" summary="relocated MyClass.java">
+      <created>1667296266560</created>
+      <option name="number" value="00893" />
+      <option name="presentableId" value="LOCAL-00893" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296266560</updated>
+    </task>
+    <task id="LOCAL-00894" summary="relocated MainCallBack.java">
+      <created>1667296273931</created>
+      <option name="number" value="00894" />
+      <option name="presentableId" value="LOCAL-00894" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296273931</updated>
+    </task>
+    <task id="LOCAL-00895" summary="updated workspace.xml">
+      <created>1667296283712</created>
+      <option name="number" value="00895" />
+      <option name="presentableId" value="LOCAL-00895" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296283712</updated>
+    </task>
+    <task id="LOCAL-00896" summary="added ExTryCatchThrow.java">
+      <created>1667296290023</created>
+      <option name="number" value="00896" />
+      <option name="presentableId" value="LOCAL-00896" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296290023</updated>
+    </task>
+    <task id="LOCAL-00897" summary="added ExTryCatchFin.java">
+      <created>1667296296505</created>
+      <option name="number" value="00897" />
+      <option name="presentableId" value="LOCAL-00897" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296296505</updated>
+    </task>
+    <option name="localTasksCounter" value="898" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,14 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update WritingMaterials.java" />
-    <MESSAGE value="update Program.java" />
-    <MESSAGE value="update Client.java" />
-    <MESSAGE value="add Figure.java" />
-    <MESSAGE value="add ProgInterface.java" />
-    <MESSAGE value="update Employee.java" />
-    <MESSAGE value="update Person.java" />
-    <MESSAGE value="update Salary.java" />
     <MESSAGE value="update VirtualDemo.java" />
     <MESSAGE value="add MainCallBack.java" />
     <MESSAGE value="add SomeClass.java" />
@@ -523,8 +505,16 @@
     <MESSAGE value="add ProgWaterPipe.java" />
     <MESSAGE value="update workspace.xml" />
     <MESSAGE value="update PrimeCalc.java" />
+    <MESSAGE value="relocated SomeClass.java" />
+    <MESSAGE value="relocated ProgWaterPipe.java" />
+    <MESSAGE value="relocated ProgInterface.java" />
+    <MESSAGE value="relocated PrimeCalc.java" />
+    <MESSAGE value="relocated MyClass.java" />
+    <MESSAGE value="relocated MainCallBack.java" />
     <MESSAGE value="updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
+    <MESSAGE value="added ExTryCatchThrow.java" />
+    <MESSAGE value="added ExTryCatchFin.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ExTryCatchFin.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
