@@ -1,4 +1,4 @@
-package stepik.javabasics.graphicaluserinterface.graphicsinjava;
+package stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel;
 
 import java.awt.BorderLayout;
 import java.awt.Container;
@@ -16,7 +16,7 @@ public class MainWin extends JFrame implements ActionListener {
     // версия класса
     private static final long serialVersionUID = 1L;
     // некоторые элементы окна
-    private JTextArea jta = new JTextArea(
+    private final JTextArea jta = new JTextArea(
             "Scroll bar will appear, when much text");
     public MainWin() {
         // ------------------------------------------
@@ -65,7 +65,7 @@ public class MainWin extends JFrame implements ActionListener {
         //    if(arg0.getSource().equals(jbOK))
     }
     // запуск оконного приложения
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         new MainWin();
     }
 }
