@@ -4,8 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 // класс рисования двух типов фигур с текстом
-public class Figure extends JComponent
-{
+public class Figure extends JComponent {
     private static final long serialVersionUID = 1L;
     private Color color;
     private int type;
