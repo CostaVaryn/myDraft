@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/SimpleCalcEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/reader/JustReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/reader/ProgOutStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/reader/ProgToWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/reader/ReadingFromFile.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added SimpleCalcEx.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ContentPaneReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/JOptionPaneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/MainWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/MiniWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/MyPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +54,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ProgToWrite">
-    <configuration name="ExThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.ExThrows" />
+  <component name="RunManager" selected="Application.JOptionPaneTest">
+    <configuration name="ContentPaneReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.ContentPaneReplace" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JustReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.JustReader" />
+    <configuration name="JLayeredPaneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JLayeredPaneTest" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.buildings.MainBuilders" />
+    <configuration name="JOptionPaneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JOptionPaneTest" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.buildings.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgOutStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.ProgOutStream" />
+    <configuration name="MainWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.MainWin" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgToWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.ProgToWrite" />
+    <configuration name="MiniWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.MiniWin" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProgToWrite" />
-        <item itemvalue="Application.ProgOutStream" />
-        <item itemvalue="Application.JustReader" />
-        <item itemvalue="Application.MainBuilders" />
-        <item itemvalue="Application.ExThrows" />
+        <item itemvalue="Application.JOptionPaneTest" />
+        <item itemvalue="Application.ContentPaneReplace" />
+        <item itemvalue="Application.JLayeredPaneTest" />
+        <item itemvalue="Application.MiniWin" />
+        <item itemvalue="Application.MainWin" />
       </list>
     </recent_temporary>
   </component>
@@ -137,48 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00854" summary="add SomeClass.java">
-      <created>1667051851593</created>
-      <option name="number" value="00854" />
-      <option name="presentableId" value="LOCAL-00854" />
-      <option name="project" value="LOCAL" />
-      <updated>1667051851593</updated>
-    </task>
-    <task id="LOCAL-00855" summary="add MyClass.java">
-      <created>1667051864858</created>
-      <option name="number" value="00855" />
-      <option name="presentableId" value="LOCAL-00855" />
-      <option name="project" value="LOCAL" />
-      <updated>1667051864858</updated>
-    </task>
-    <task id="LOCAL-00856" summary="update workspace.xml">
-      <created>1667131213355</created>
-      <option name="number" value="00856" />
-      <option name="presentableId" value="LOCAL-00856" />
-      <option name="project" value="LOCAL" />
-      <updated>1667131213355</updated>
-    </task>
-    <task id="LOCAL-00857" summary="update SwapPlaces.java">
-      <created>1667131369512</created>
-      <option name="number" value="00857" />
-      <option name="presentableId" value="LOCAL-00857" />
-      <option name="project" value="LOCAL" />
-      <updated>1667131369512</updated>
-    </task>
-    <task id="LOCAL-00858" summary="update SwapAdjacent.java">
-      <created>1667131374350</created>
-      <option name="number" value="00858" />
-      <option name="presentableId" value="LOCAL-00858" />
-      <option name="project" value="LOCAL" />
-      <updated>1667131374350</updated>
-    </task>
-    <task id="LOCAL-00859" summary="update workspace.xml">
-      <created>1667204242643</created>
-      <option name="number" value="00859" />
-      <option name="presentableId" value="LOCAL-00859" />
-      <option name="project" value="LOCAL" />
-      <updated>1667204242643</updated>
     </task>
     <task id="LOCAL-00860" summary="add Building.java">
       <created>1667206158319</created>
@@ -481,7 +440,49 @@
       <option name="project" value="LOCAL" />
       <updated>1667296844606</updated>
     </task>
-    <option name="localTasksCounter" value="903" />
+    <task id="LOCAL-00903" summary="updated workspace.xml">
+      <created>1667376705131</created>
+      <option name="number" value="00903" />
+      <option name="presentableId" value="LOCAL-00903" />
+      <option name="project" value="LOCAL" />
+      <updated>1667376705132</updated>
+    </task>
+    <task id="LOCAL-00904" summary="added JustReader.java">
+      <created>1667376713601</created>
+      <option name="number" value="00904" />
+      <option name="presentableId" value="LOCAL-00904" />
+      <option name="project" value="LOCAL" />
+      <updated>1667376713601</updated>
+    </task>
+    <task id="LOCAL-00905" summary="added ProgOutStream.java">
+      <created>1667376718290</created>
+      <option name="number" value="00905" />
+      <option name="presentableId" value="LOCAL-00905" />
+      <option name="project" value="LOCAL" />
+      <updated>1667376718290</updated>
+    </task>
+    <task id="LOCAL-00906" summary="added ProgToWrite.java">
+      <created>1667376723507</created>
+      <option name="number" value="00906" />
+      <option name="presentableId" value="LOCAL-00906" />
+      <option name="project" value="LOCAL" />
+      <updated>1667376723507</updated>
+    </task>
+    <task id="LOCAL-00907" summary="added ReadingFromFile.java">
+      <created>1667376728150</created>
+      <option name="number" value="00907" />
+      <option name="presentableId" value="LOCAL-00907" />
+      <option name="project" value="LOCAL" />
+      <updated>1667376728150</updated>
+    </task>
+    <task id="LOCAL-00908" summary="added SimpleCalcEx.java">
+      <created>1667376735740</created>
+      <option name="number" value="00908" />
+      <option name="presentableId" value="LOCAL-00908" />
+      <option name="project" value="LOCAL" />
+      <updated>1667376735740</updated>
+    </task>
+    <option name="localTasksCounter" value="909" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,11 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add MyClass.java" />
-    <MESSAGE value="update SwapPlaces.java" />
-    <MESSAGE value="update SwapAdjacent.java" />
-    <MESSAGE value="add Building.java" />
-    <MESSAGE value="add MainBuilders.java" />
     <MESSAGE value="add SocialHouse.java" />
     <MESSAGE value="add PrimeCalc.java" />
     <MESSAGE value="add LivingHouse.java" />
@@ -521,7 +517,12 @@
     <MESSAGE value="updated MainBuilders.java" />
     <MESSAGE value="updated ExThrows.java" />
     <MESSAGE value="updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
+    <MESSAGE value="added JustReader.java" />
+    <MESSAGE value="added ProgOutStream.java" />
+    <MESSAGE value="added ProgToWrite.java" />
+    <MESSAGE value="added ReadingFromFile.java" />
+    <MESSAGE value="added SimpleCalcEx.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added SimpleCalcEx.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
