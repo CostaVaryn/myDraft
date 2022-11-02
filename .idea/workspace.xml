@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/SimpleCalcEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/reader/JustReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/reader/ProgOutStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/reader/ProgToWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/objectorientedprogramming/exceptionhandling/reader/ReadingFromFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainBuilders">
+  <component name="RunManager" selected="Application.ProgToWrite">
     <configuration name="ExThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.ExThrows" />
       <module name="myDraft" />
@@ -60,25 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExTryCatchFin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.ExTryCatchFin" />
+    <configuration name="JustReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.JustReader" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExTryCatchThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.ExTryCatchThrow" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.*" />
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +93,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainCallBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.interfaces.MainCallBack" />
+    <configuration name="ProgOutStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.ProgOutStream" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.basicconceptsencapsulation.interfaces.*" />
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgToWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.ProgToWrite" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.objectorientedprogramming.exceptionhandling.reader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgToWrite" />
+        <item itemvalue="Application.ProgOutStream" />
+        <item itemvalue="Application.JustReader" />
         <item itemvalue="Application.MainBuilders" />
         <item itemvalue="Application.ExThrows" />
-        <item itemvalue="Application.ExTryCatchThrow" />
-        <item itemvalue="Application.ExTryCatchFin" />
-        <item itemvalue="Application.MainCallBack" />
       </list>
     </recent_temporary>
   </component>
@@ -130,20 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00852" summary="update VirtualDemo.java">
-      <created>1667051823673</created>
-      <option name="number" value="00852" />
-      <option name="presentableId" value="LOCAL-00852" />
-      <option name="project" value="LOCAL" />
-      <updated>1667051823673</updated>
-    </task>
-    <task id="LOCAL-00853" summary="add MainCallBack.java">
-      <created>1667051843342</created>
-      <option name="number" value="00853" />
-      <option name="presentableId" value="LOCAL-00853" />
-      <option name="project" value="LOCAL" />
-      <updated>1667051843342</updated>
     </task>
     <task id="LOCAL-00854" summary="add SomeClass.java">
       <created>1667051851593</created>
@@ -474,7 +467,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667296748941</updated>
     </task>
-    <option name="localTasksCounter" value="901" />
+    <task id="LOCAL-00901" summary="updated ExThrows.java">
+      <created>1667296839724</created>
+      <option name="number" value="00901" />
+      <option name="presentableId" value="LOCAL-00901" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296839724</updated>
+    </task>
+    <task id="LOCAL-00902" summary="updated workspace.xml">
+      <created>1667296844606</created>
+      <option name="number" value="00902" />
+      <option name="presentableId" value="LOCAL-00902" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296844606</updated>
+    </task>
+    <option name="localTasksCounter" value="903" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add SomeClass.java" />
     <MESSAGE value="add MyClass.java" />
     <MESSAGE value="update SwapPlaces.java" />
     <MESSAGE value="update SwapAdjacent.java" />
@@ -513,6 +519,7 @@
     <MESSAGE value="added ExTryCatchFin.java" />
     <MESSAGE value="added ExThrows.java" />
     <MESSAGE value="updated MainBuilders.java" />
+    <MESSAGE value="updated ExThrows.java" />
     <MESSAGE value="updated workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
   </component>
