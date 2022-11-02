@@ -1,4 +1,4 @@
-package stepik.javabasics.graphicaluserinterface.graphicsinjava;
+package stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel;
 
 import java.awt.BorderLayout;
 import java.awt.Container;
