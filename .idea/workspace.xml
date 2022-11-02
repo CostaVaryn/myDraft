@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ImageDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/JDialogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/JFrameWindowListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/MainWin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MainWin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/MiniWin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MiniWin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MyPanel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,9 +54,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JOptionPaneTest">
-    <configuration name="ContentPaneReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.ContentPaneReplace" />
+  <component name="RunManager" selected="Application.JFrameDecorations">
+    <configuration name="JDialogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JDialogTest" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +68,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JLayeredPaneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JLayeredPaneTest" />
+    <configuration name="JFrameDecorations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JFrameDecorations" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JFrameWindowListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JFrameWindowListener" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -78,7 +99,7 @@
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,21 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.MainWin" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MiniWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.MiniWin" />
+    <configuration name="JWindowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JWindowTest" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JFrameDecorations" />
+        <item itemvalue="Application.JDialogTest" />
+        <item itemvalue="Application.JFrameWindowListener" />
+        <item itemvalue="Application.JWindowTest" />
         <item itemvalue="Application.JOptionPaneTest" />
-        <item itemvalue="Application.ContentPaneReplace" />
-        <item itemvalue="Application.JLayeredPaneTest" />
-        <item itemvalue="Application.MiniWin" />
-        <item itemvalue="Application.MainWin" />
       </list>
     </recent_temporary>
   </component>
@@ -130,13 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00867" summary="update MainBuilders.java">
-      <created>1667208857527</created>
-      <option name="number" value="00867" />
-      <option name="presentableId" value="LOCAL-00867" />
-      <option name="project" value="LOCAL" />
-      <updated>1667208857527</updated>
     </task>
     <task id="LOCAL-00868" summary="update Building.java">
       <created>1667209683515</created>
@@ -474,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667386031360</updated>
     </task>
-    <option name="localTasksCounter" value="916" />
+    <task id="LOCAL-00916" summary="update workspace.xml">
+      <created>1667387980967</created>
+      <option name="number" value="00916" />
+      <option name="presentableId" value="LOCAL-00916" />
+      <option name="project" value="LOCAL" />
+      <updated>1667387980967</updated>
+    </task>
+    <option name="localTasksCounter" value="917" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
