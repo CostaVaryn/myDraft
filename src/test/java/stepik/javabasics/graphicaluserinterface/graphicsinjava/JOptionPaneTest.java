@@ -11,8 +11,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
 
-public class JOptionPaneTest extends JFrame
-{
+public class JOptionPaneTest extends JFrame {
     private static final long serialVersionUID = 1L;
     public static final Font FONT = new Font("Verdana", Font.PLAIN, 11);
     public static void createGUI() {
