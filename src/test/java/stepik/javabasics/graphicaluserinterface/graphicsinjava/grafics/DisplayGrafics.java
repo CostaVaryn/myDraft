@@ -3,7 +3,7 @@ package stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics;
 import java.awt.*;
 import javax.swing.JFrame;
 
-public class DisplayGraphics extends Canvas {
+public class DisplayGrafics extends Canvas {
 
     public void paint(Graphics g) {
         g.drawString("Hello",80,60); // строка текста
@@ -19,11 +19,11 @@ public class DisplayGraphics extends Canvas {
 
     }
     public static void main(String[] args) {
-        DisplayGraphics m = new DisplayGraphics();
+        DisplayGrafics m = new DisplayGrafics();
         JFrame f = new JFrame();
         f.add(m);
         f.setSize(600,600);
-        //f.setLayout(null);
+        //f.setLayout(new FlowLayout(FlowLayout.CENTER));
         f.setVisible(true);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
