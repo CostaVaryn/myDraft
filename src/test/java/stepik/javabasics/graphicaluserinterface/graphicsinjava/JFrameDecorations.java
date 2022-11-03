@@ -1,6 +1,7 @@
 package stepik.javabasics.graphicaluserinterface.graphicsinjava;
 
 import javax.swing.*;
+import java.awt.*;
 
 public class JFrameDecorations {
     public static void main(String[] args) {
