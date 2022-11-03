@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ImageDraw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/JDialogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/JFrameWindowListener.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added JFrameWindowListener.java">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ShapesPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayGraphics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/MainWin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MainWin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/MiniWin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MiniWin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MyPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/JFrameDecorations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/JFrameDecorations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,38 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JFrameDecorations">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\graphicsinjava\grafics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="DisplayGraphics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.DisplayGraphics" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.Example" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JDialogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JDialogTest" />
       <module name="myDraft" />
@@ -81,38 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JFrameWindowListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JFrameWindowListener" />
+    <configuration name="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.DisplayGraphics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.DisplayGraphics" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JOptionPaneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JOptionPaneTest" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JWindowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.JWindowTest" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.DisplayGraphics" />
+        <item itemvalue="Application.DisplayGraphics" />
         <item itemvalue="Application.JFrameDecorations" />
         <item itemvalue="Application.JDialogTest" />
-        <item itemvalue="Application.JFrameWindowListener" />
-        <item itemvalue="Application.JWindowTest" />
-        <item itemvalue="Application.JOptionPaneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -138,76 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00868" summary="update Building.java">
-      <created>1667209683515</created>
-      <option name="number" value="00868" />
-      <option name="presentableId" value="LOCAL-00868" />
-      <option name="project" value="LOCAL" />
-      <updated>1667209683515</updated>
-    </task>
-    <task id="LOCAL-00869" summary="update Building.java">
-      <created>1667210136729</created>
-      <option name="number" value="00869" />
-      <option name="presentableId" value="LOCAL-00869" />
-      <option name="project" value="LOCAL" />
-      <updated>1667210136729</updated>
-    </task>
-    <task id="LOCAL-00870" summary="update Building.java">
-      <created>1667210728079</created>
-      <option name="number" value="00870" />
-      <option name="presentableId" value="LOCAL-00870" />
-      <option name="project" value="LOCAL" />
-      <updated>1667210728079</updated>
-    </task>
-    <task id="LOCAL-00871" summary="update workspace.xml">
-      <created>1667210737421</created>
-      <option name="number" value="00871" />
-      <option name="presentableId" value="LOCAL-00871" />
-      <option name="project" value="LOCAL" />
-      <updated>1667210737421</updated>
-    </task>
-    <task id="LOCAL-00872" summary="update workspace.xml">
-      <created>1667211763924</created>
-      <option name="number" value="00872" />
-      <option name="presentableId" value="LOCAL-00872" />
-      <option name="project" value="LOCAL" />
-      <updated>1667211763924</updated>
-    </task>
-    <task id="LOCAL-00873" summary="update Building.java">
-      <created>1667211847682</created>
-      <option name="number" value="00873" />
-      <option name="presentableId" value="LOCAL-00873" />
-      <option name="project" value="LOCAL" />
-      <updated>1667211847682</updated>
-    </task>
-    <task id="LOCAL-00874" summary="update MainBuilders.java">
-      <created>1667211852799</created>
-      <option name="number" value="00874" />
-      <option name="presentableId" value="LOCAL-00874" />
-      <option name="project" value="LOCAL" />
-      <updated>1667211852799</updated>
-    </task>
-    <task id="LOCAL-00875" summary="update MainBuilders.java">
-      <created>1667212086697</created>
-      <option name="number" value="00875" />
-      <option name="presentableId" value="LOCAL-00875" />
-      <option name="project" value="LOCAL" />
-      <updated>1667212086698</updated>
-    </task>
-    <task id="LOCAL-00876" summary="update workspace.xml">
-      <created>1667212092372</created>
-      <option name="number" value="00876" />
-      <option name="presentableId" value="LOCAL-00876" />
-      <option name="project" value="LOCAL" />
-      <updated>1667212092372</updated>
-    </task>
-    <task id="LOCAL-00877" summary="update Building.java">
-      <created>1667212097362</created>
-      <option name="number" value="00877" />
-      <option name="presentableId" value="LOCAL-00877" />
-      <option name="project" value="LOCAL" />
-      <updated>1667212097362</updated>
     </task>
     <task id="LOCAL-00878" summary="update workspace.xml">
       <created>1667221464953</created>
@@ -482,7 +414,77 @@
       <option name="project" value="LOCAL" />
       <updated>1667387980967</updated>
     </task>
-    <option name="localTasksCounter" value="917" />
+    <task id="LOCAL-00917" summary="update workspace.xml">
+      <created>1667391063730</created>
+      <option name="number" value="00917" />
+      <option name="presentableId" value="LOCAL-00917" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391063731</updated>
+    </task>
+    <task id="LOCAL-00918" summary="relocated MyPanel.java">
+      <created>1667391077227</created>
+      <option name="number" value="00918" />
+      <option name="presentableId" value="LOCAL-00918" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391077227</updated>
+    </task>
+    <task id="LOCAL-00919" summary="relocated MiniWin.java">
+      <created>1667391084122</created>
+      <option name="number" value="00919" />
+      <option name="presentableId" value="LOCAL-00919" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391084122</updated>
+    </task>
+    <task id="LOCAL-00920" summary="relocated MainWin.java">
+      <created>1667391112163</created>
+      <option name="number" value="00920" />
+      <option name="presentableId" value="LOCAL-00920" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391112163</updated>
+    </task>
+    <task id="LOCAL-00921" summary="updated JOptionPaneTest.java">
+      <created>1667391154598</created>
+      <option name="number" value="00921" />
+      <option name="presentableId" value="LOCAL-00921" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391154598</updated>
+    </task>
+    <task id="LOCAL-00922" summary="updated Figure.java">
+      <created>1667391164306</created>
+      <option name="number" value="00922" />
+      <option name="presentableId" value="LOCAL-00922" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391164306</updated>
+    </task>
+    <task id="LOCAL-00923" summary="added ImageDraw.java">
+      <created>1667391179190</created>
+      <option name="number" value="00923" />
+      <option name="presentableId" value="LOCAL-00923" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391179190</updated>
+    </task>
+    <task id="LOCAL-00924" summary="added JDialogTest.java">
+      <created>1667391185609</created>
+      <option name="number" value="00924" />
+      <option name="presentableId" value="LOCAL-00924" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391185609</updated>
+    </task>
+    <task id="LOCAL-00925" summary="added JFrameDecorations.java">
+      <created>1667391190369</created>
+      <option name="number" value="00925" />
+      <option name="presentableId" value="LOCAL-00925" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391190369</updated>
+    </task>
+    <task id="LOCAL-00926" summary="added JFrameWindowListener.java">
+      <created>1667391196460</created>
+      <option name="number" value="00926" />
+      <option name="presentableId" value="LOCAL-00926" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391196460</updated>
+    </task>
+    <option name="localTasksCounter" value="927" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,15 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update PrimeCalc.java" />
-    <MESSAGE value="relocated SomeClass.java" />
-    <MESSAGE value="relocated ProgWaterPipe.java" />
-    <MESSAGE value="relocated ProgInterface.java" />
-    <MESSAGE value="relocated PrimeCalc.java" />
-    <MESSAGE value="relocated MyClass.java" />
-    <MESSAGE value="relocated MainCallBack.java" />
-    <MESSAGE value="added ExTryCatchThrow.java" />
-    <MESSAGE value="added ExTryCatchFin.java" />
     <MESSAGE value="added ExThrows.java" />
     <MESSAGE value="updated MainBuilders.java" />
     <MESSAGE value="updated ExThrows.java" />
@@ -522,7 +515,16 @@
     <MESSAGE value="added MiniWin.java" />
     <MESSAGE value="added MyPanel.java" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="relocated MyPanel.java" />
+    <MESSAGE value="relocated MiniWin.java" />
+    <MESSAGE value="relocated MainWin.java" />
+    <MESSAGE value="updated JOptionPaneTest.java" />
+    <MESSAGE value="updated Figure.java" />
+    <MESSAGE value="added ImageDraw.java" />
+    <MESSAGE value="added JDialogTest.java" />
+    <MESSAGE value="added JFrameDecorations.java" />
+    <MESSAGE value="added JFrameWindowListener.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added JFrameWindowListener.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
