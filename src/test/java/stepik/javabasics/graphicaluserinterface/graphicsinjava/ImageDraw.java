@@ -6,7 +6,7 @@ import java.awt.*;
 
 // Класс прорисовки изображения
 class ImageDraw extends JComponent {
-    private Image capture;
+    private final Image capture;
     ImageDraw (Image capture) {
         this.capture = capture;
     }
@@ -15,8 +15,7 @@ class ImageDraw extends JComponent {
         g.drawImage(capture, 0, 0, this);
     }
 }
-class JWindowTest extends JWindow
-{
+class JWindowTest extends JWindow {
     // изображение "рабочего стола"
     private Image capture;
     // Размер окна
@@ -31,9 +30,10 @@ class JWindowTest extends JWindow
         try {
             // "Вырезаем" часть изображения "рабочего стола"
             Robot robot = new Robot();
-            capture = robot.createScreenCapture(
-                    new Rectangle(5, 5, window_w, window_h));
-        } catch (Exception ex) { ex.printStackTrace(); }
+            capture = robot.createScreenCapture(new Rectangle(5, 5, window_w, window_h));
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
         // Добавляем в интерфейс изображение
         getContentPane().add(new ImageDraw(capture));
         // Открываем окно
@@ -42,7 +42,8 @@ class JWindowTest extends JWindow
             // Заканчиваем работу через 10 сек
             Thread.currentThread();
             Thread.sleep(10000);
-        } catch (Exception e) { }
+        } catch (Exception e) {
+        }
         System.exit(0);
     }
     public static void main(String[] args) {
