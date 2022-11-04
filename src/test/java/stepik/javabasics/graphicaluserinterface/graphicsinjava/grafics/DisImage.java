@@ -162,7 +162,7 @@ public class DisImage extends Canvas{
         g.drawPolyline(xVest1,yVest1,xVest1.length);
         g.drawPolyline(xVest2,yVest2,xVest2.length);
         g.drawLine(-30 + xBias,(-80 - yBias) * (-1), -60 + xBias,(-80 - yBias) * (-1));
-        g.drawLine(30 + xBias,(-80 - yBias) * (-1), 30 + xBias,(-80 - yBias) * (-1));
+        g.drawLine(30 + xBias,(-80 - yBias) * (-1), 60 + xBias,(-80 - yBias) * (-1));
 
         int[] xApron = {-20,-20,-30,-30,-25,25,30,30,20,20};
         int[] yApron = {-45,-70,-80,-85,-90,-90,-85,-80,-70,-45};
@@ -170,7 +170,7 @@ public class DisImage extends Canvas{
             xApron[i] = xApron[i] + xBias;
             yApron[i] = (yApron[i] - yBias) * (-1);
         }
-        g.drawPolygon(xApron,yApron,xApron.length);
+        g.drawPolyline(xApron,yApron,xApron.length);
         g.drawLine(-20 + xBias,(20 - yBias) * (-1), 20 + xBias,(20 - yBias) * (-1));
         g.drawLine(-20 + xBias,(10 - yBias) * (-1), 20 + xBias,(10 - yBias) * (-1));
 
@@ -187,6 +187,9 @@ public class DisImage extends Canvas{
         }
         g.drawPolygon(xBow1,yBow1,xBow1.length);
         g.drawPolygon(xBow2,yBow2,xBow2.length);
+
+
+
 
     }
 
