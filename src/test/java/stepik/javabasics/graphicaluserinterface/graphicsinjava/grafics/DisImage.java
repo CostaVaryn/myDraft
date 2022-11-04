@@ -36,19 +36,23 @@ public class DisImage extends Canvas{
         int[] yCent = {100,60,100};
         g.fillPolygon(xCent,yCent,3);
 
-        /*
-             Matreshka failed, very small
+        // контур
         g.setColor(Color.BLACK);
-        double[] xVal = {-8,-8,-7,-5.5,-5.5,-4.5,-3,-1,1,3,4.5,5.5,5.5,7,8,8,8,7.5,6,5,2,-2,-5,-6,-7.5,-8,-8};
-        int[] xValInt = new int[xVal.length];
-        double[] yVal = {0,3,5,10,12,14.5,15.5,16.5,16.5,15.5,14.5,12,10,5,3,0,-3,-5,-8,-10,-10.5,10.5,-10,-8,-5,-3,0};
+        int[] xVal = {-80,-80,-70,-55,-55,-45,-30,-10,10,30,45,55,55,70,80,80,80,75,60,50,20,-20,-50,-60,-75,-80,-80};
+        int[] yVal = {0,30,50,100,120,145,155,165,165,155,145,120,100,50,30,0,-30,-50,-80,-100,-105,-105,-100,-80,-50,-30,0};
         for(int i = 0; i < xVal.length; i++) {
-            xValInt[i] = (int)xVal[i] + ;
+            xVal[i] = xVal[i] + 400;
+            yVal[i] = (yVal[i] - 300) * (-1);
         }
-        Polygon contur = new Polygon(xVal,yVal,xVal.length);
+        g.drawPolygon(xVal,yVal,xVal.length);
 
-         */
-
+        int[] xxVal = {55,60,50,30,-30,-50,-60,-55};
+        int[] yyVal = {-90,-100,-110,-120,-120,-110,-100,-90};
+        for(int i = 0; i < xxVal.length; i++) {
+            xxVal[i] = xxVal[i] + 400;
+            yyVal[i] = (yyVal[i] - 300) * (-1);
+        }
+        g.drawPolyline(xxVal,yyVal,8);
 
     }
 
