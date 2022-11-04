@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added DisplayGomer.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayGomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayGomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayGomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayHomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\graphicsinjava\grafics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DisImage">
+  <component name="RunManager" selected="Application.DisplayHomer">
     <configuration name="DisGraf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.DisGraf" />
       <module name="myDraft" />
@@ -70,6 +70,19 @@
     </configuration>
     <configuration name="DisImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.DisImage" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplayHomer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.DisplayHomer" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -107,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringLayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.layout.SpringLayoutTest" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.layout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DisplayHomer" />
         <item itemvalue="Application.DisImage" />
         <item itemvalue="Application.PolygonsJPanel" />
         <item itemvalue="Application.DisplayImage" />
         <item itemvalue="Application.DisGraf" />
-        <item itemvalue="Application.SpringLayoutTest" />
       </list>
     </recent_temporary>
   </component>
@@ -138,20 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00910" summary="added Figure.java">
-      <created>1667385998401</created>
-      <option name="number" value="00910" />
-      <option name="presentableId" value="LOCAL-00910" />
-      <option name="project" value="LOCAL" />
-      <updated>1667385998401</updated>
-    </task>
-    <task id="LOCAL-00911" summary="added JOptionPaneTest.java">
-      <created>1667386004143</created>
-      <option name="number" value="00911" />
-      <option name="presentableId" value="LOCAL-00911" />
-      <option name="project" value="LOCAL" />
-      <updated>1667386004143</updated>
     </task>
     <task id="LOCAL-00912" summary="added MainWin.java">
       <created>1667386010365</created>
@@ -482,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667559233501</updated>
     </task>
-    <option name="localTasksCounter" value="959" />
+    <task id="LOCAL-00959" summary="updated DisplayGomer.java">
+      <created>1667561430630</created>
+      <option name="number" value="00959" />
+      <option name="presentableId" value="LOCAL-00959" />
+      <option name="project" value="LOCAL" />
+      <updated>1667561430630</updated>
+    </task>
+    <task id="LOCAL-00960" summary="updated workspace.xml">
+      <created>1667561435741</created>
+      <option name="number" value="00960" />
+      <option name="presentableId" value="LOCAL-00960" />
+      <option name="project" value="LOCAL" />
+      <updated>1667561435741</updated>
+    </task>
+    <option name="localTasksCounter" value="961" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added JFrameDecorations.java" />
     <MESSAGE value="added JFrameWindowListener.java" />
     <MESSAGE value="added DisplayGraphics.java" />
     <MESSAGE value="added ShapesPanel.java" />
@@ -519,10 +518,11 @@
     <MESSAGE value="added MainMenu.java" />
     <MESSAGE value="added PolygonsJPanel.java" />
     <MESSAGE value="updated" />
-    <MESSAGE value="updated workspace.xml" />
     <MESSAGE value="updated DisImage.java" />
     <MESSAGE value="added DisplayGomer.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added DisplayGomer.java" />
+    <MESSAGE value="updated DisplayGomer.java" />
+    <MESSAGE value="updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
