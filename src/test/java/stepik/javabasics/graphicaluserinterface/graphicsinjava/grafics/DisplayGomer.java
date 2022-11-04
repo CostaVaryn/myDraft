@@ -11,6 +11,7 @@ public class DisplayGomer extends Canvas{
         g.setFont(font); // принимаем текущий шрифт
         g.setColor(newColor); // принимаем текущий цвет
         g.drawString("Лайтовые рисунки",100,30); // выводим строку
+
     }
     public static void main(String[] args) {
         DisplayGomer m = new DisplayGomer();
