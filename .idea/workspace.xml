@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated DisplayGomer.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayGomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayHomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,27 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00912" summary="added MainWin.java">
-      <created>1667386010365</created>
-      <option name="number" value="00912" />
-      <option name="presentableId" value="LOCAL-00912" />
-      <option name="project" value="LOCAL" />
-      <updated>1667386010365</updated>
-    </task>
-    <task id="LOCAL-00913" summary="added MiniWin.java">
-      <created>1667386016937</created>
-      <option name="number" value="00913" />
-      <option name="presentableId" value="LOCAL-00913" />
-      <option name="project" value="LOCAL" />
-      <updated>1667386016937</updated>
-    </task>
-    <task id="LOCAL-00914" summary="added MyPanel.java">
-      <created>1667386022860</created>
-      <option name="number" value="00914" />
-      <option name="presentableId" value="LOCAL-00914" />
-      <option name="project" value="LOCAL" />
-      <updated>1667386022860</updated>
     </task>
     <task id="LOCAL-00915" summary="update workspace.xml">
       <created>1667386031360</created>
@@ -482,7 +460,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667561435741</updated>
     </task>
-    <option name="localTasksCounter" value="961" />
+    <task id="LOCAL-00961" summary="updated workspace.xml">
+      <created>1667563222587</created>
+      <option name="number" value="00961" />
+      <option name="presentableId" value="LOCAL-00961" />
+      <option name="project" value="LOCAL" />
+      <updated>1667563222587</updated>
+    </task>
+    <task id="LOCAL-00962" summary="updated DisplayGomer.java">
+      <created>1667563246927</created>
+      <option name="number" value="00962" />
+      <option name="presentableId" value="LOCAL-00962" />
+      <option name="project" value="LOCAL" />
+      <updated>1667563246927</updated>
+    </task>
+    <task id="LOCAL-00963" summary="updated DisplayGomer.java">
+      <created>1667563251727</created>
+      <option name="number" value="00963" />
+      <option name="presentableId" value="LOCAL-00963" />
+      <option name="project" value="LOCAL" />
+      <updated>1667563251727</updated>
+    </task>
+    <option name="localTasksCounter" value="964" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -520,9 +519,9 @@
     <MESSAGE value="updated" />
     <MESSAGE value="updated DisImage.java" />
     <MESSAGE value="added DisplayGomer.java" />
-    <MESSAGE value="updated DisplayGomer.java" />
     <MESSAGE value="updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
+    <MESSAGE value="updated DisplayGomer.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated DisplayGomer.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
