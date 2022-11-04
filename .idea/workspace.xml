@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated DisplayGomer.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayHomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayHomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00915" summary="update workspace.xml">
-      <created>1667386031360</created>
-      <option name="number" value="00915" />
-      <option name="presentableId" value="LOCAL-00915" />
-      <option name="project" value="LOCAL" />
-      <updated>1667386031360</updated>
     </task>
     <task id="LOCAL-00916" summary="update workspace.xml">
       <created>1667387980967</created>
@@ -481,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667563251727</updated>
     </task>
-    <option name="localTasksCounter" value="964" />
+    <task id="LOCAL-00964" summary="updated workspace.xml">
+      <created>1667564822794</created>
+      <option name="number" value="00964" />
+      <option name="presentableId" value="LOCAL-00964" />
+      <option name="project" value="LOCAL" />
+      <updated>1667564822794</updated>
+    </task>
+    <option name="localTasksCounter" value="965" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,9 +519,9 @@
     <MESSAGE value="updated" />
     <MESSAGE value="updated DisImage.java" />
     <MESSAGE value="added DisplayGomer.java" />
-    <MESSAGE value="updated workspace.xml" />
     <MESSAGE value="updated DisplayGomer.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated DisplayGomer.java" />
+    <MESSAGE value="updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
