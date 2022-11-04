@@ -25,7 +25,7 @@ public class DisplayHomer extends Canvas{
         int[] yHead = {-100,-140,-160,-140,-115,-115,-110,-100,-90,-80,-60,-45,-45,-40,-30,
                         -20,-15,0,20,40,60,80,100,115,125,135,140,145,145,145,
                         145,140,130,120,100,90,80,70,60,55,50,30,20,15,5,
-                        0,-5,-5,-10,-20,-30,-40,-50,-60,-70,-75,-80,-85,-95};
+                        0,-5,-5,-10,-20,-30,-40,-50,-60,-65,-75,-80,-85,-95};
         for(int i = 0; i < xHead.length; i++) {
             xHead[i] = xHead[i] + xBias;
             yHead[i] = (yHead[i] - yBias) * (-1);
@@ -44,6 +44,17 @@ public class DisplayHomer extends Canvas{
 
         // mouth
         g.setColor(new Color(0xA0AD6B0F, true));
+        int[] xMouth = {50,40,20,0,-10,-20,-20,-15,-5,10,30,60,75,80,85,90,95,95,95,90,75,75,70,60,55};
+        int[] yMouth = {-100,-105,-105,-100,-90,-70,-60,-40,-30,-20,-10,-5,-5,-5,-10,-20,-30,-40,-50,-60,-65,-75,-80,-85,-95};
+        for(int i = 0; i < xMouth.length; i++) {
+            xMouth[i] = xMouth[i] + xBias;
+            yMouth[i] = (yMouth[i] - yBias) * (-1);
+        }
+        g.fillPolygon(xMouth,yMouth,xMouth.length);
+
+        // hair
+        g.setColor(Color.BLACK);
+
 
     }
     public static void main(String[] args) {
