@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated DisImage.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayGomer.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added DisplayGomer.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayGomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayGomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,27 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00907" summary="added ReadingFromFile.java">
-      <created>1667376728150</created>
-      <option name="number" value="00907" />
-      <option name="presentableId" value="LOCAL-00907" />
-      <option name="project" value="LOCAL" />
-      <updated>1667376728150</updated>
-    </task>
-    <task id="LOCAL-00908" summary="added SimpleCalcEx.java">
-      <created>1667376735740</created>
-      <option name="number" value="00908" />
-      <option name="presentableId" value="LOCAL-00908" />
-      <option name="project" value="LOCAL" />
-      <updated>1667376735740</updated>
-    </task>
-    <task id="LOCAL-00909" summary="added ContentPaneReplace.java">
-      <created>1667385991711</created>
-      <option name="number" value="00909" />
-      <option name="presentableId" value="LOCAL-00909" />
-      <option name="project" value="LOCAL" />
-      <updated>1667385991711</updated>
     </task>
     <task id="LOCAL-00910" summary="added Figure.java">
       <created>1667385998401</created>
@@ -483,7 +461,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667557529986</updated>
     </task>
-    <option name="localTasksCounter" value="956" />
+    <task id="LOCAL-00956" summary="updated DisImage.java">
+      <created>1667559209565</created>
+      <option name="number" value="00956" />
+      <option name="presentableId" value="LOCAL-00956" />
+      <option name="project" value="LOCAL" />
+      <updated>1667559209565</updated>
+    </task>
+    <task id="LOCAL-00957" summary="updated DisImage.java">
+      <created>1667559217869</created>
+      <option name="number" value="00957" />
+      <option name="presentableId" value="LOCAL-00957" />
+      <option name="project" value="LOCAL" />
+      <updated>1667559217869</updated>
+    </task>
+    <task id="LOCAL-00958" summary="added DisplayGomer.java">
+      <created>1667559233501</created>
+      <option name="number" value="00958" />
+      <option name="presentableId" value="LOCAL-00958" />
+      <option name="project" value="LOCAL" />
+      <updated>1667559233501</updated>
+    </task>
+    <option name="localTasksCounter" value="959" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added JDialogTest.java" />
     <MESSAGE value="added JFrameDecorations.java" />
     <MESSAGE value="added JFrameWindowListener.java" />
     <MESSAGE value="added DisplayGraphics.java" />
@@ -523,7 +521,8 @@
     <MESSAGE value="updated" />
     <MESSAGE value="updated workspace.xml" />
     <MESSAGE value="updated DisImage.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated DisImage.java" />
+    <MESSAGE value="added DisplayGomer.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added DisplayGomer.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
