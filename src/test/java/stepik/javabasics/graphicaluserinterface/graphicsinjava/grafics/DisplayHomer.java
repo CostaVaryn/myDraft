@@ -4,12 +4,12 @@ import javax.swing.*;
 import java.awt.*;
 
 public class DisplayHomer extends Canvas{
-    static int xBias = 150;
+    static int xBias = 270;
     static int yBias = 250;
     public void paint(Graphics g) {
         setBackground(Color.WHITE);
         Font font = new Font("Tahoma", Font.BOLD|Font.ITALIC, 40); // задаем шрифт
-        Color newColor = new Color(191, 0, 255, 255); // задаем цвет
+        Color newColor = new Color(247, 255, 0, 250); // задаем цвет
         g.setFont(font); // принимаем текущий шрифт
         g.setColor(newColor); // принимаем текущий цвет
         g.drawString("I'm Homer Jay Simpson",20,30); // выводим строку
@@ -106,6 +106,10 @@ public class DisplayHomer extends Canvas{
         g.drawPolyline(xEL,yEL,xEL.length);
         g.drawLine(30 + xBias,(55 - yBias) * (-1), 35 + xBias,(40 - yBias) * (-1));
         g.drawLine(35 + xBias,(40 - yBias) * (-1), 35 + xBias,(20 - yBias) * (-1));
+        // eye points
+        g.fillOval(-5 + xBias,(30 - yBias) * (-1),10,10);
+        g.fillOval(55 + xBias,(40 - yBias) * (-1),10,10);
+
         // ear contour
         g.drawLine(-45 + xBias,(-40 - yBias) * (-1), -50 + xBias,(-45 - yBias) * (-1));
         g.drawLine(-50 + xBias,(-45 - yBias) * (-1), -60 + xBias,(-45 - yBias) * (-1));
@@ -115,6 +119,27 @@ public class DisplayHomer extends Canvas{
         g.drawLine(-60 + xBias,(-30 - yBias) * (-1), -55 + xBias,(-25 - yBias) * (-1));
         g.drawLine(-60 + xBias,(-30 - yBias) * (-1), -55 + xBias,(-30 - yBias) * (-1));
         g.drawLine(-60 + xBias,(-30 - yBias) * (-1), -55 + xBias,(-35 - yBias) * (-1));
+
+        // shirt outline
+        g.drawLine(50 + xBias,(-100 - yBias) * (-1), 65 + xBias,(-110 - yBias) * (-1));
+        g.drawLine(65 + xBias,(-110 - yBias) * (-1), 55 + xBias,(-140 - yBias) * (-1));
+        g.drawLine(55 + xBias,(-140 - yBias) * (-1), 65 + xBias,(-140 - yBias) * (-1));
+        g.drawLine(65 + xBias,(-140 - yBias) * (-1), 80 + xBias,(-160 - yBias) * (-1));
+        g.drawLine(80 + xBias,(-160 - yBias) * (-1), 75 + xBias,(-145 - yBias) * (-1));
+        g.drawLine(-75 + xBias,(-130 - yBias) * (-1), -80 + xBias,(-140 - yBias) * (-1));
+        g.drawLine(-80 + xBias,(-140 - yBias) * (-1), -85 + xBias,(-145 - yBias) * (-1));
+        int[] xS1 = {65,70,75,110,130,-130,-110,-100,-75,-50};
+        int[] xS2 = {15,5,0,-20,-50,-70,-75,-75,-70,-60};
+        int[] yS1 = {-110,-130,-145,-150,-170,-170,-150,-145,-145,-170};
+        int[] yS2 = {-115,-130,-165,-160,-150,-140,-130,-120,-100,-90};
+        for(int i = 0; i < xS1.length; i++) {
+            xS1[i] = xS1[i] + xBias;
+            xS2[i] = xS2[i] + xBias;
+            yS1[i] = (yS1[i] - yBias) * (-1);
+            yS2[i] = (yS2[i] - yBias) * (-1);
+        }
+        g.drawPolyline(xS1,yS1,xS1.length);
+        g.drawPolyline(xS2,yS2,xS2.length);
 
 
     }
