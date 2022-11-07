@@ -8,6 +8,7 @@ class Example extends JFrame {
     public static void main(String[] args) {
         GraphicsDemo myGraphicsFrame = new GraphicsDemo();
         myGraphicsFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        myGraphicsFrame.setLocationRelativeTo(null);
     }
 }
 
