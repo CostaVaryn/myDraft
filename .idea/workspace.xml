@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added AbstractListEditor.java" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00929" summary="added Graphics_drawXxx.png">
-      <created>1667462995144</created>
-      <option name="number" value="00929" />
-      <option name="presentableId" value="LOCAL-00929" />
-      <option name="project" value="LOCAL" />
-      <updated>1667462995144</updated>
     </task>
     <task id="LOCAL-00930" summary="updated workspace.xml">
       <created>1667463003222</created>
@@ -479,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667727323274</updated>
     </task>
-    <option name="localTasksCounter" value="978" />
+    <task id="LOCAL-00978" summary="updated workspace.xml">
+      <created>1667806309326</created>
+      <option name="number" value="00978" />
+      <option name="presentableId" value="LOCAL-00978" />
+      <option name="project" value="LOCAL" />
+      <updated>1667806309326</updated>
+    </task>
+    <option name="localTasksCounter" value="979" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,11 +515,11 @@
     <MESSAGE value="updated DisplayHomer.java" />
     <MESSAGE value="added MyComponent.java" />
     <MESSAGE value="added Stars.java" />
-    <MESSAGE value="updated workspace.xml" />
     <MESSAGE value="added ListUtils.java" />
     <MESSAGE value="added ListEditor.java" />
     <MESSAGE value="added AbstractListEditor.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added AbstractListEditor.java" />
+    <MESSAGE value="updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
