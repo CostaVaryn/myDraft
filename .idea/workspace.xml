@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/graphics2d/AbstractListEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/graphics2d/ListEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/graphics2d/ListUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added AbstractListEditor.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,34 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00925" summary="added JFrameDecorations.java">
-      <created>1667391190369</created>
-      <option name="number" value="00925" />
-      <option name="presentableId" value="LOCAL-00925" />
-      <option name="project" value="LOCAL" />
-      <updated>1667391190369</updated>
-    </task>
-    <task id="LOCAL-00926" summary="added JFrameWindowListener.java">
-      <created>1667391196460</created>
-      <option name="number" value="00926" />
-      <option name="presentableId" value="LOCAL-00926" />
-      <option name="project" value="LOCAL" />
-      <updated>1667391196460</updated>
-    </task>
-    <task id="LOCAL-00927" summary="added DisplayGraphics.java">
-      <created>1667462973820</created>
-      <option name="number" value="00927" />
-      <option name="presentableId" value="LOCAL-00927" />
-      <option name="project" value="LOCAL" />
-      <updated>1667462973820</updated>
-    </task>
-    <task id="LOCAL-00928" summary="added ShapesPanel.java">
-      <created>1667462985614</created>
-      <option name="number" value="00928" />
-      <option name="presentableId" value="LOCAL-00928" />
-      <option name="project" value="LOCAL" />
-      <updated>1667462985614</updated>
     </task>
     <task id="LOCAL-00929" summary="added Graphics_drawXxx.png">
       <created>1667462995144</created>
@@ -484,7 +451,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667724347740</updated>
     </task>
-    <option name="localTasksCounter" value="974" />
+    <task id="LOCAL-00974" summary="updated workspace.xml">
+      <created>1667727300914</created>
+      <option name="number" value="00974" />
+      <option name="presentableId" value="LOCAL-00974" />
+      <option name="project" value="LOCAL" />
+      <updated>1667727300914</updated>
+    </task>
+    <task id="LOCAL-00975" summary="added ListUtils.java">
+      <created>1667727309029</created>
+      <option name="number" value="00975" />
+      <option name="presentableId" value="LOCAL-00975" />
+      <option name="project" value="LOCAL" />
+      <updated>1667727309029</updated>
+    </task>
+    <task id="LOCAL-00976" summary="added ListEditor.java">
+      <created>1667727315601</created>
+      <option name="number" value="00976" />
+      <option name="presentableId" value="LOCAL-00976" />
+      <option name="project" value="LOCAL" />
+      <updated>1667727315602</updated>
+    </task>
+    <task id="LOCAL-00977" summary="added AbstractListEditor.java">
+      <created>1667727323274</created>
+      <option name="number" value="00977" />
+      <option name="presentableId" value="LOCAL-00977" />
+      <option name="project" value="LOCAL" />
+      <updated>1667727323274</updated>
+    </task>
+    <option name="localTasksCounter" value="978" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,9 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added Graphics_drawXxx.png" />
-    <MESSAGE value="updated JFrameDecorations.java" />
-    <MESSAGE value="updated ShapesPanel.java" />
     <MESSAGE value="updated ImageDraw.java" />
     <MESSAGE value="added CardLayoutTest.java" />
     <MESSAGE value="added FlowLayoutTest.java" />
@@ -524,7 +516,10 @@
     <MESSAGE value="added MyComponent.java" />
     <MESSAGE value="added Stars.java" />
     <MESSAGE value="updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
+    <MESSAGE value="added ListUtils.java" />
+    <MESSAGE value="added ListEditor.java" />
+    <MESSAGE value="added AbstractListEditor.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added AbstractListEditor.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
