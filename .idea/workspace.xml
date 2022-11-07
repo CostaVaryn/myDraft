@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/addingimages/TestFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/addingimages/TestFrame.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added SimpleTimer.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,34 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00933" summary="updated workspace.xml">
-      <created>1667464392354</created>
-      <option name="number" value="00933" />
-      <option name="presentableId" value="LOCAL-00933" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464392354</updated>
-    </task>
-    <task id="LOCAL-00934" summary="updated ImageDraw.java">
-      <created>1667464397440</created>
-      <option name="number" value="00934" />
-      <option name="presentableId" value="LOCAL-00934" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464397440</updated>
-    </task>
-    <task id="LOCAL-00935" summary="added CardLayoutTest.java">
-      <created>1667464405202</created>
-      <option name="number" value="00935" />
-      <option name="presentableId" value="LOCAL-00935" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464405202</updated>
-    </task>
-    <task id="LOCAL-00936" summary="added DisplayImage.java">
-      <created>1667464410994</created>
-      <option name="number" value="00936" />
-      <option name="presentableId" value="LOCAL-00936" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464410994</updated>
     </task>
     <task id="LOCAL-00937" summary="added FlowLayoutTest.java">
       <created>1667464416011</created>
@@ -481,7 +453,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667807088254</updated>
     </task>
-    <option name="localTasksCounter" value="982" />
+    <task id="LOCAL-00982" summary="updated workspace.xml">
+      <created>1667807303373</created>
+      <option name="number" value="00982" />
+      <option name="presentableId" value="LOCAL-00982" />
+      <option name="project" value="LOCAL" />
+      <updated>1667807303373</updated>
+    </task>
+    <task id="LOCAL-00983" summary="updated TestFrame.java">
+      <created>1667807310711</created>
+      <option name="number" value="00983" />
+      <option name="presentableId" value="LOCAL-00983" />
+      <option name="project" value="LOCAL" />
+      <updated>1667807310711</updated>
+    </task>
+    <task id="LOCAL-00984" summary="updated workspace.xml">
+      <created>1667808580903</created>
+      <option name="number" value="00984" />
+      <option name="presentableId" value="LOCAL-00984" />
+      <option name="project" value="LOCAL" />
+      <updated>1667808580903</updated>
+    </task>
+    <task id="LOCAL-00985" summary="added SimpleTimer.java">
+      <created>1667808588684</created>
+      <option name="number" value="00985" />
+      <option name="presentableId" value="LOCAL-00985" />
+      <option name="project" value="LOCAL" />
+      <updated>1667808588684</updated>
+    </task>
+    <option name="localTasksCounter" value="986" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,8 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added CardLayoutTest.java" />
-    <MESSAGE value="added FlowLayoutTest.java" />
     <MESSAGE value="added GridLayoutTest.java" />
     <MESSAGE value="added GroupLayoutTest.java" />
     <MESSAGE value="added ManagerLayoutsTest.java" />
@@ -520,8 +518,10 @@
     <MESSAGE value="added ListEditor.java" />
     <MESSAGE value="added AbstractListEditor.java" />
     <MESSAGE value="added TestFrame.java" />
+    <MESSAGE value="updated TestFrame.java" />
     <MESSAGE value="updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
+    <MESSAGE value="added SimpleTimer.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added SimpleTimer.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
