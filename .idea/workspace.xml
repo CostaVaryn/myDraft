@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated ContentPaneReplace.java">
       <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/addingimages/ImagePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ContentPaneReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ContentPaneReplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ShapesPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ShapesPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayHomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayHomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MyPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\graphicsinjava\grafics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ImagePanel">
+  <component name="RunManager" selected="Application.GraphicsMyPanel">
     <configuration name="ContentPaneReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.ContentPaneReplace" />
       <module name="myDraft" />
@@ -126,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ImagePanel" />
         <item itemvalue="Application.GraphicsMyPanel" />
+        <item itemvalue="Application.ImagePanel" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.MyPanel" />
         <item itemvalue="Application.ContentPaneReplace" />
@@ -142,48 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00939" summary="added GroupLayoutTest.java">
-      <created>1667464427614</created>
-      <option name="number" value="00939" />
-      <option name="presentableId" value="LOCAL-00939" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464427614</updated>
-    </task>
-    <task id="LOCAL-00940" summary="added ManagerLayoutsTest.java">
-      <created>1667464432185</created>
-      <option name="number" value="00940" />
-      <option name="presentableId" value="LOCAL-00940" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464432185</updated>
-    </task>
-    <task id="LOCAL-00941" summary="added SpringLayoutTest.java">
-      <created>1667464436967</created>
-      <option name="number" value="00941" />
-      <option name="presentableId" value="LOCAL-00941" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464436967</updated>
-    </task>
-    <task id="LOCAL-00942" summary="added VerticalLayout.java">
-      <created>1667464442762</created>
-      <option name="number" value="00942" />
-      <option name="presentableId" value="LOCAL-00942" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464442762</updated>
-    </task>
-    <task id="LOCAL-00943" summary="added DisplayImage.java">
-      <created>1667471247522</created>
-      <option name="number" value="00943" />
-      <option name="presentableId" value="LOCAL-00943" />
-      <option name="project" value="LOCAL" />
-      <updated>1667471247522</updated>
-    </task>
-    <task id="LOCAL-00944" summary="added DisGraf.java">
-      <created>1667471254564</created>
-      <option name="number" value="00944" />
-      <option name="presentableId" value="LOCAL-00944" />
-      <option name="project" value="LOCAL" />
-      <updated>1667471254564</updated>
     </task>
     <task id="LOCAL-00945" summary="added DisImage.java">
       <created>1667471263575</created>
@@ -486,7 +439,49 @@
       <option name="project" value="LOCAL" />
       <updated>1667810130883</updated>
     </task>
-    <option name="localTasksCounter" value="988" />
+    <task id="LOCAL-00988" summary="updated workspace.xml">
+      <created>1667811901551</created>
+      <option name="number" value="00988" />
+      <option name="presentableId" value="LOCAL-00988" />
+      <option name="project" value="LOCAL" />
+      <updated>1667811901551</updated>
+    </task>
+    <task id="LOCAL-00989" summary="updated workspace.xml">
+      <created>1667811985698</created>
+      <option name="number" value="00989" />
+      <option name="presentableId" value="LOCAL-00989" />
+      <option name="project" value="LOCAL" />
+      <updated>1667811985698</updated>
+    </task>
+    <task id="LOCAL-00990" summary="updated ShapesPanel.java">
+      <created>1667811991423</created>
+      <option name="number" value="00990" />
+      <option name="presentableId" value="LOCAL-00990" />
+      <option name="project" value="LOCAL" />
+      <updated>1667811991423</updated>
+    </task>
+    <task id="LOCAL-00991" summary="updated MyPanel.java">
+      <created>1667811997395</created>
+      <option name="number" value="00991" />
+      <option name="presentableId" value="LOCAL-00991" />
+      <option name="project" value="LOCAL" />
+      <updated>1667811997395</updated>
+    </task>
+    <task id="LOCAL-00992" summary="updated DisplayHomer.java">
+      <created>1667812003135</created>
+      <option name="number" value="00992" />
+      <option name="presentableId" value="LOCAL-00992" />
+      <option name="project" value="LOCAL" />
+      <updated>1667812003135</updated>
+    </task>
+    <task id="LOCAL-00993" summary="updated ContentPaneReplace.java">
+      <created>1667812010442</created>
+      <option name="number" value="00993" />
+      <option name="presentableId" value="LOCAL-00993" />
+      <option name="project" value="LOCAL" />
+      <updated>1667812010442</updated>
+    </task>
+    <option name="localTasksCounter" value="994" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,9 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added GridLayoutTest.java" />
-    <MESSAGE value="added GroupLayoutTest.java" />
-    <MESSAGE value="added ManagerLayoutsTest.java" />
     <MESSAGE value="added SpringLayoutTest.java" />
     <MESSAGE value="added VerticalLayout.java" />
     <MESSAGE value="added DisplayImage.java" />
@@ -516,7 +508,6 @@
     <MESSAGE value="updated DisImage.java" />
     <MESSAGE value="added DisplayGomer.java" />
     <MESSAGE value="updated DisplayGomer.java" />
-    <MESSAGE value="updated DisplayHomer.java" />
     <MESSAGE value="added MyComponent.java" />
     <MESSAGE value="added Stars.java" />
     <MESSAGE value="added ListUtils.java" />
@@ -526,7 +517,11 @@
     <MESSAGE value="updated TestFrame.java" />
     <MESSAGE value="added SimpleTimer.java" />
     <MESSAGE value="updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
+    <MESSAGE value="updated ShapesPanel.java" />
+    <MESSAGE value="updated MyPanel.java" />
+    <MESSAGE value="updated DisplayHomer.java" />
+    <MESSAGE value="updated ContentPaneReplace.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated ContentPaneReplace.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
