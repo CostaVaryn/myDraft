@@ -1,7 +1,11 @@
 package stepik.javabasics.graphicaluserinterface.graphicsinjava.box;
 
+import stepik.javabasics.graphicaluserinterface.graphicsinjava.ShapesPanel;
+import stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel.MyPanel;
+
 import javax.swing.*;
 import java.awt.*;
+import java.util.Collection;
 
 public class MainMenu {
     JFrame mainMenu;
