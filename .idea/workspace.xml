@@ -58,7 +58,7 @@
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\graphicsinjava\grafics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GraphicsMyPanel">
+  <component name="RunManager" selected="Application.ImagePanel">
     <configuration name="ContentPaneReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.ContentPaneReplace" />
       <module name="myDraft" />
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImagePanel" />
         <item itemvalue="Application.GraphicsMyPanel" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.MyPanel" />
         <item itemvalue="Application.ContentPaneReplace" />
-        <item itemvalue="Application.ImagePanel" />
       </list>
     </recent_temporary>
   </component>
