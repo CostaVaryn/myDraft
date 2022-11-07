@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/addingimages/ImagePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ContentPaneReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ContentPaneReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ShapesPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/ShapesPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayHomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/grafics/DisplayHomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/graphicsinjava/winpanel/MyPanel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,13 +58,13 @@
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\graphicsinjava\grafics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleTimer">
-    <configuration name="DisplayHomer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.DisplayHomer" />
+  <component name="RunManager" selected="Application.GraphicsMyPanel">
+    <configuration name="ContentPaneReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.ContentPaneReplace" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyComponent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.MyComponent" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.Example" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.addingimages.SimpleTimer" />
+    <configuration name="GraphicsMyPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel.GraphicsMyPanel" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImagePanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.addingimages.ImagePanel" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
@@ -91,25 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.Stars" />
+    <configuration name="MyPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel.MyPanel" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.grafics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.addingimages.TestFrame" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.addingimages.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleTimer" />
-        <item itemvalue="Application.TestFrame" />
-        <item itemvalue="Application.Stars" />
-        <item itemvalue="Application.MyComponent" />
-        <item itemvalue="Application.DisplayHomer" />
+        <item itemvalue="Application.GraphicsMyPanel" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.MyPanel" />
+        <item itemvalue="Application.ContentPaneReplace" />
+        <item itemvalue="Application.ImagePanel" />
       </list>
     </recent_temporary>
   </component>
@@ -135,13 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00938" summary="added GridLayoutTest.java">
-      <created>1667464421421</created>
-      <option name="number" value="00938" />
-      <option name="presentableId" value="LOCAL-00938" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464421421</updated>
     </task>
     <task id="LOCAL-00939" summary="added GroupLayoutTest.java">
       <created>1667464427614</created>
@@ -479,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667809703644</updated>
     </task>
-    <option name="localTasksCounter" value="987" />
+    <task id="LOCAL-00987" summary="updated workspace.xml">
+      <created>1667810130883</created>
+      <option name="number" value="00987" />
+      <option name="presentableId" value="LOCAL-00987" />
+      <option name="project" value="LOCAL" />
+      <updated>1667810130883</updated>
+    </task>
+    <option name="localTasksCounter" value="988" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
