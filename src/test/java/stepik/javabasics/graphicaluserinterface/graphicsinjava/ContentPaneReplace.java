@@ -1,5 +1,7 @@
 package stepik.javabasics.graphicaluserinterface.graphicsinjava;
 
+import stepik.javabasics.graphicaluserinterface.addingimages.TestFrame;
+
 import javax.swing.*;
 public class ContentPaneReplace extends JFrame {
     private static final long serialVersionUID = 1L;
@@ -21,7 +23,12 @@ public class ContentPaneReplace extends JFrame {
         setVisible(true);
     }
     public static void main(String[] args) {
-        JFrame.setDefaultLookAndFeelDecorated(true);
-        new ContentPaneReplace();
+        javax.swing.SwingUtilities.invokeLater(() -> {
+            JFrame.setDefaultLookAndFeelDecorated(true);
+            ContentPaneReplace frame = new ContentPaneReplace();
+            frame.pack();
+            frame.setLocationRelativeTo(null);
+            frame.setVisible(true);
+        });
     }
 }
