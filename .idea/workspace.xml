@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added SimpleTimer.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00937" summary="added FlowLayoutTest.java">
-      <created>1667464416011</created>
-      <option name="number" value="00937" />
-      <option name="presentableId" value="LOCAL-00937" />
-      <option name="project" value="LOCAL" />
-      <updated>1667464416011</updated>
     </task>
     <task id="LOCAL-00938" summary="added GridLayoutTest.java">
       <created>1667464421421</created>
@@ -481,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667808588684</updated>
     </task>
-    <option name="localTasksCounter" value="986" />
+    <task id="LOCAL-00986" summary="updated workspace.xml">
+      <created>1667809703644</created>
+      <option name="number" value="00986" />
+      <option name="presentableId" value="LOCAL-00986" />
+      <option name="project" value="LOCAL" />
+      <updated>1667809703644</updated>
+    </task>
+    <option name="localTasksCounter" value="987" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,9 +517,9 @@
     <MESSAGE value="added AbstractListEditor.java" />
     <MESSAGE value="added TestFrame.java" />
     <MESSAGE value="updated TestFrame.java" />
-    <MESSAGE value="updated workspace.xml" />
     <MESSAGE value="added SimpleTimer.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added SimpleTimer.java" />
+    <MESSAGE value="updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
