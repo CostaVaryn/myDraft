@@ -57,7 +57,7 @@ public class MyPanel extends JPanel {
 class GraphicsMyPanel extends JFrame {
     public GraphicsMyPanel(){
         this.getContentPane().add(new MyPanel());
-        setTitle("Демонстрация основного метода рисования");
+        setTitle("Демонстрация панели");
         setSize(300, 300);
         setVisible(true);
     }
