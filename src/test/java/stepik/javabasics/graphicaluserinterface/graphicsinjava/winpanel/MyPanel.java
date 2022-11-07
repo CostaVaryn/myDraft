@@ -3,13 +3,7 @@ package stepik.javabasics.graphicaluserinterface.graphicsinjava.winpanel;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.GridLayout;
-import javax.swing.BorderFactory;
-import javax.swing.Box;
-import javax.swing.BoxLayout;
-import javax.swing.JButton;
-import javax.swing.JComboBox;
-import javax.swing.JPanel;
-import javax.swing.JTextArea;
+import javax.swing.*;
 
 public class MyPanel extends JPanel {
     private static final long serialVersionUID = 1L;
@@ -56,5 +50,20 @@ public class MyPanel extends JPanel {
         bv.add(Box.createVerticalStrut(15));
         add(jp); // добавляем панель в центр
         add(bv, BorderLayout.WEST); // добавляем ящик влево
+    }
+
+}
+
+class GraphicsMyPanel extends JFrame {
+    public GraphicsMyPanel(){
+        this.getContentPane().add(new MyPanel());
+        setTitle("Демонстрация основного метода рисования");
+        setSize(300, 300);
+        setVisible(true);
+    }
+    public static void main(String[] args) {
+        GraphicsMyPanel myGraphicsFrame = new GraphicsMyPanel();
+        myGraphicsFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        myGraphicsFrame.setLocationRelativeTo(null);
     }
 }
