@@ -1,7 +1,6 @@
 package stepik.javabasics.graphicaluserinterface.addingimages;
 
-import java.awt.Dimension;
-import java.awt.FlowLayout;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -57,9 +56,29 @@ public class TestFrame extends JFrame {
 
     public class TestActionListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
+            JButton button = (JButton) e.getSource();
+            System.out.println (button.getText() + ", " +
+                    e.getActionCommand());
+            if (e.getSource() != button3) {
+                textField.setText(e.getActionCommand());
+            } else {
+                ActionEvent e1 = new ActionEvent(button2,
+                        Event.MOUSE_DOWN,
+                        "Button 2 was pressed programmatically!");
+                ActionListener[] listeners;
+                listeners = button2.getActionListeners();
+                listeners[0].actionPerformed(e1);
+            }
+        }
+    }
+
+    /*
+    public class TestActionListener implements ActionListener {
+        public void actionPerformed(ActionEvent e) {
             textField.setText(e.getActionCommand());
         }
     }
+     */
 
     public static void main(String[] args) {
         javax.swing.SwingUtilities.invokeLater(new Runnable() {
