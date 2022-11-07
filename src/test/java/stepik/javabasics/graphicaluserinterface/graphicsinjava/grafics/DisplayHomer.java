@@ -14,8 +14,6 @@ public class DisplayHomer extends Canvas{
         g.setColor(newColor); // принимаем текущий цвет
         g.drawString("I'm Homer Jay Simpson",20,30); // выводим строку
 
-
-
         // head
         g.setColor(Color.YELLOW);
         int[] xHead = {50,55,45,30,15,-10,-30,-50,-60,-55,-55,-55,-60,-65,-68,
@@ -140,7 +138,6 @@ public class DisplayHomer extends Canvas{
         }
         g.drawPolyline(xS1,yS1,xS1.length);
         g.drawPolyline(xS2,yS2,xS2.length);
-
 
     }
     public static void main(String[] args) {
