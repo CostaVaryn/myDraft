@@ -5,9 +5,9 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.*;
 
-public class GameSnake {
+public class SimpleGameSnake {
     //game constants
-    final String TITLE_OF_PROGRAM = "Classic Game Snake";
+    final String TITLE_OF_PROGRAM = "Simple Game Snake";
     final String GAME_OVER_MSG = "GAME OVER";
     final int POINT_RADIUS = 20;
     final int FILLED_WIDTH = 20;
@@ -34,7 +34,7 @@ public class GameSnake {
 
 
     public static void main(String[] args) {
-        new GameSnake().go();
+        new SimpleGameSnake().go();
     }
     void go(){
         frame = new JFrame(TITLE_OF_PROGRAM + " : " + START_SNAKE_SIZE);
