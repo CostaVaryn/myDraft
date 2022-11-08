@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated MainMenu.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/addingimages/ImagePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/JMenuBarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/JMenuTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/JToolBarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/XMLMenuCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/XMLMenuCreatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/XMLMenuParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/XMLReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/menu.xml" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added Board.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/animations/GameSnake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/animations/SimpleGameSnake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/animations/snake/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/graphicaluserinterface/animations/snake/Board.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\javaonline" />
@@ -64,13 +57,13 @@
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\graphicsinjava\grafics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MenuFrame">
-    <configuration name="JMenuBarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.javaonline.JMenuBarTest" />
+  <component name="RunManager" selected="Application.Snake">
+    <configuration name="SampleImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.animations.SampleImage" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.javaonline.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.animations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JMenuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.javaonline.JMenuTest" />
+    <configuration name="SimpleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.animations.SimpleApp" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.javaonline.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.animations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JToolBarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.javaonline.JToolBarTest" />
+    <configuration name="SimpleGameSnake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.animations.SimpleGameSnake" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.javaonline.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.animations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.addingimages.MenuFrame" />
+    <configuration name="Snake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.animations.snake.Snake" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.addingimages.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.animations.snake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XMLMenuCreatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.javaonline.XMLMenuCreatorTest" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.graphicaluserinterface.animations.Solution" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.javaonline.*" />
+          <option name="PATTERN" value="stepik.javabasics.graphicaluserinterface.animations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MenuFrame" />
-        <item itemvalue="Application.JToolBarTest" />
-        <item itemvalue="Application.XMLMenuCreatorTest" />
-        <item itemvalue="Application.JMenuBarTest" />
-        <item itemvalue="Application.JMenuTest" />
+        <item itemvalue="Application.Snake" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.SimpleGameSnake" />
+        <item itemvalue="Application.SimpleApp" />
+        <item itemvalue="Application.SampleImage" />
       </list>
     </recent_temporary>
   </component>
@@ -148,167 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-00949" summary="updated workspace.xml">
-      <created>1667547713326</created>
-      <option name="number" value="00949" />
-      <option name="presentableId" value="LOCAL-00949" />
-      <option name="project" value="LOCAL" />
-      <updated>1667547713326</updated>
-    </task>
-    <task id="LOCAL-00950" summary="added MainMenu.java">
-      <created>1667547725925</created>
-      <option name="number" value="00950" />
-      <option name="presentableId" value="LOCAL-00950" />
-      <option name="project" value="LOCAL" />
-      <updated>1667547725925</updated>
-    </task>
-    <task id="LOCAL-00951" summary="added PolygonsJPanel.java">
-      <created>1667547734646</created>
-      <option name="number" value="00951" />
-      <option name="presentableId" value="LOCAL-00951" />
-      <option name="project" value="LOCAL" />
-      <updated>1667547734646</updated>
-    </task>
-    <task id="LOCAL-00952" summary="updated">
-      <created>1667550106491</created>
-      <option name="number" value="00952" />
-      <option name="presentableId" value="LOCAL-00952" />
-      <option name="project" value="LOCAL" />
-      <updated>1667550106491</updated>
-    </task>
-    <task id="LOCAL-00953" summary="updated workspace.xml">
-      <created>1667550112265</created>
-      <option name="number" value="00953" />
-      <option name="presentableId" value="LOCAL-00953" />
-      <option name="project" value="LOCAL" />
-      <updated>1667550112265</updated>
-    </task>
-    <task id="LOCAL-00954" summary="updated workspace.xml">
-      <created>1667557525223</created>
-      <option name="number" value="00954" />
-      <option name="presentableId" value="LOCAL-00954" />
-      <option name="project" value="LOCAL" />
-      <updated>1667557525223</updated>
-    </task>
-    <task id="LOCAL-00955" summary="updated DisImage.java">
-      <created>1667557529986</created>
-      <option name="number" value="00955" />
-      <option name="presentableId" value="LOCAL-00955" />
-      <option name="project" value="LOCAL" />
-      <updated>1667557529986</updated>
-    </task>
-    <task id="LOCAL-00956" summary="updated DisImage.java">
-      <created>1667559209565</created>
-      <option name="number" value="00956" />
-      <option name="presentableId" value="LOCAL-00956" />
-      <option name="project" value="LOCAL" />
-      <updated>1667559209565</updated>
-    </task>
-    <task id="LOCAL-00957" summary="updated DisImage.java">
-      <created>1667559217869</created>
-      <option name="number" value="00957" />
-      <option name="presentableId" value="LOCAL-00957" />
-      <option name="project" value="LOCAL" />
-      <updated>1667559217869</updated>
-    </task>
-    <task id="LOCAL-00958" summary="added DisplayGomer.java">
-      <created>1667559233501</created>
-      <option name="number" value="00958" />
-      <option name="presentableId" value="LOCAL-00958" />
-      <option name="project" value="LOCAL" />
-      <updated>1667559233501</updated>
-    </task>
-    <task id="LOCAL-00959" summary="updated DisplayGomer.java">
-      <created>1667561430630</created>
-      <option name="number" value="00959" />
-      <option name="presentableId" value="LOCAL-00959" />
-      <option name="project" value="LOCAL" />
-      <updated>1667561430630</updated>
-    </task>
-    <task id="LOCAL-00960" summary="updated workspace.xml">
-      <created>1667561435741</created>
-      <option name="number" value="00960" />
-      <option name="presentableId" value="LOCAL-00960" />
-      <option name="project" value="LOCAL" />
-      <updated>1667561435741</updated>
-    </task>
-    <task id="LOCAL-00961" summary="updated workspace.xml">
-      <created>1667563222587</created>
-      <option name="number" value="00961" />
-      <option name="presentableId" value="LOCAL-00961" />
-      <option name="project" value="LOCAL" />
-      <updated>1667563222587</updated>
-    </task>
-    <task id="LOCAL-00962" summary="updated DisplayGomer.java">
-      <created>1667563246927</created>
-      <option name="number" value="00962" />
-      <option name="presentableId" value="LOCAL-00962" />
-      <option name="project" value="LOCAL" />
-      <updated>1667563246927</updated>
-    </task>
-    <task id="LOCAL-00963" summary="updated DisplayGomer.java">
-      <created>1667563251727</created>
-      <option name="number" value="00963" />
-      <option name="presentableId" value="LOCAL-00963" />
-      <option name="project" value="LOCAL" />
-      <updated>1667563251727</updated>
-    </task>
-    <task id="LOCAL-00964" summary="updated workspace.xml">
-      <created>1667564822794</created>
-      <option name="number" value="00964" />
-      <option name="presentableId" value="LOCAL-00964" />
-      <option name="project" value="LOCAL" />
-      <updated>1667564822794</updated>
-    </task>
-    <task id="LOCAL-00965" summary="updated workspace.xml">
-      <created>1667565582477</created>
-      <option name="number" value="00965" />
-      <option name="presentableId" value="LOCAL-00965" />
-      <option name="project" value="LOCAL" />
-      <updated>1667565582477</updated>
-    </task>
-    <task id="LOCAL-00966" summary="updated DisplayHomer.java">
-      <created>1667565587090</created>
-      <option name="number" value="00966" />
-      <option name="presentableId" value="LOCAL-00966" />
-      <option name="project" value="LOCAL" />
-      <updated>1667565587090</updated>
-    </task>
-    <task id="LOCAL-00967" summary="updated DisplayHomer.java">
-      <created>1667568204223</created>
-      <option name="number" value="00967" />
-      <option name="presentableId" value="LOCAL-00967" />
-      <option name="project" value="LOCAL" />
-      <updated>1667568204223</updated>
-    </task>
-    <task id="LOCAL-00968" summary="updated workspace.xml">
-      <created>1667568210053</created>
-      <option name="number" value="00968" />
-      <option name="presentableId" value="LOCAL-00968" />
-      <option name="project" value="LOCAL" />
-      <updated>1667568210053</updated>
-    </task>
-    <task id="LOCAL-00969" summary="updated workspace.xml">
-      <created>1667644856499</created>
-      <option name="number" value="00969" />
-      <option name="presentableId" value="LOCAL-00969" />
-      <option name="project" value="LOCAL" />
-      <updated>1667644856499</updated>
-    </task>
-    <task id="LOCAL-00970" summary="updated DisplayHomer.java">
-      <created>1667644866994</created>
-      <option name="number" value="00970" />
-      <option name="presentableId" value="LOCAL-00970" />
-      <option name="project" value="LOCAL" />
-      <updated>1667644866994</updated>
-    </task>
-    <task id="LOCAL-00971" summary="added MyComponent.java">
-      <created>1667644879029</created>
-      <option name="number" value="00971" />
-      <option name="presentableId" value="LOCAL-00971" />
-      <option name="project" value="LOCAL" />
-      <updated>1667644879029</updated>
     </task>
     <task id="LOCAL-00972" summary="added Stars.java">
       <created>1667644940613</created>
@@ -492,7 +324,168 @@
       <option name="project" value="LOCAL" />
       <updated>1667815340279</updated>
     </task>
-    <option name="localTasksCounter" value="998" />
+    <task id="LOCAL-00998" summary="added ImagePanel.java">
+      <created>1667823295084</created>
+      <option name="number" value="00998" />
+      <option name="presentableId" value="LOCAL-00998" />
+      <option name="project" value="LOCAL" />
+      <updated>1667823295084</updated>
+    </task>
+    <task id="LOCAL-00999" summary="added MenuFrame.java">
+      <created>1667823304349</created>
+      <option name="number" value="00999" />
+      <option name="presentableId" value="LOCAL-00999" />
+      <option name="project" value="LOCAL" />
+      <updated>1667823304349</updated>
+    </task>
+    <task id="LOCAL-01000" summary="updated workspace.xml">
+      <created>1667823313777</created>
+      <option name="number" value="01000" />
+      <option name="presentableId" value="LOCAL-01000" />
+      <option name="project" value="LOCAL" />
+      <updated>1667823313777</updated>
+    </task>
+    <task id="LOCAL-01001" summary="added XMLReader.java">
+      <created>1667898268284</created>
+      <option name="number" value="01001" />
+      <option name="presentableId" value="LOCAL-01001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898268285</updated>
+    </task>
+    <task id="LOCAL-01002" summary="added XMLMenuParser.java">
+      <created>1667898275049</created>
+      <option name="number" value="01002" />
+      <option name="presentableId" value="LOCAL-01002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898275049</updated>
+    </task>
+    <task id="LOCAL-01003" summary="added XMLMenuCreatorTest.java">
+      <created>1667898282714</created>
+      <option name="number" value="01003" />
+      <option name="presentableId" value="LOCAL-01003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898282714</updated>
+    </task>
+    <task id="LOCAL-01004" summary="added XMLMenuCreator.java">
+      <created>1667898288849</created>
+      <option name="number" value="01004" />
+      <option name="presentableId" value="LOCAL-01004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898288849</updated>
+    </task>
+    <task id="LOCAL-01005" summary="added menu.xml">
+      <created>1667898294868</created>
+      <option name="number" value="01005" />
+      <option name="presentableId" value="LOCAL-01005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898294868</updated>
+    </task>
+    <task id="LOCAL-01006" summary="added JToolBarTest.java">
+      <created>1667898303251</created>
+      <option name="number" value="01006" />
+      <option name="presentableId" value="LOCAL-01006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898303251</updated>
+    </task>
+    <task id="LOCAL-01007" summary="added JMenuTest.java">
+      <created>1667898309964</created>
+      <option name="number" value="01007" />
+      <option name="presentableId" value="LOCAL-01007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898309964</updated>
+    </task>
+    <task id="LOCAL-01008" summary="added JMenuBarTest.java">
+      <created>1667898317271</created>
+      <option name="number" value="01008" />
+      <option name="presentableId" value="LOCAL-01008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898317271</updated>
+    </task>
+    <task id="LOCAL-01009" summary="added copy.png">
+      <created>1667898328832</created>
+      <option name="number" value="01009" />
+      <option name="presentableId" value="LOCAL-01009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898328832</updated>
+    </task>
+    <task id="LOCAL-01010" summary="added cut.png">
+      <created>1667898336333</created>
+      <option name="number" value="01010" />
+      <option name="presentableId" value="LOCAL-01010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898336333</updated>
+    </task>
+    <task id="LOCAL-01011" summary="added exit.png">
+      <created>1667898346922</created>
+      <option name="number" value="01011" />
+      <option name="presentableId" value="LOCAL-01011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898346922</updated>
+    </task>
+    <task id="LOCAL-01012" summary="added open.png">
+      <created>1667898355718</created>
+      <option name="number" value="01012" />
+      <option name="presentableId" value="LOCAL-01012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898355718</updated>
+    </task>
+    <task id="LOCAL-01013" summary="added MovingCircle.java">
+      <created>1667904708908</created>
+      <option name="number" value="01013" />
+      <option name="presentableId" value="LOCAL-01013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667904708908</updated>
+    </task>
+    <task id="LOCAL-01014" summary="added SampleImage.java">
+      <created>1667904718625</created>
+      <option name="number" value="01014" />
+      <option name="presentableId" value="LOCAL-01014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667904718625</updated>
+    </task>
+    <task id="LOCAL-01015" summary="added astronaut.png">
+      <created>1667904728896</created>
+      <option name="number" value="01015" />
+      <option name="presentableId" value="LOCAL-01015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667904728896</updated>
+    </task>
+    <task id="LOCAL-01016" summary="added SimpleApp.java">
+      <created>1667907885563</created>
+      <option name="number" value="01016" />
+      <option name="presentableId" value="LOCAL-01016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667907885563</updated>
+    </task>
+    <task id="LOCAL-01017" summary="added simplecanvas.html">
+      <created>1667907892132</created>
+      <option name="number" value="01017" />
+      <option name="presentableId" value="LOCAL-01017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667907892132</updated>
+    </task>
+    <task id="LOCAL-01018" summary="added GameSnake.java">
+      <created>1667913068460</created>
+      <option name="number" value="01018" />
+      <option name="presentableId" value="LOCAL-01018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913068460</updated>
+    </task>
+    <task id="LOCAL-01019" summary="added Snake.java">
+      <created>1667916473303</created>
+      <option name="number" value="01019" />
+      <option name="presentableId" value="LOCAL-01019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667916473303</updated>
+    </task>
+    <task id="LOCAL-01020" summary="added Board.java">
+      <created>1667916479666</created>
+      <option name="number" value="01020" />
+      <option name="presentableId" value="LOCAL-01020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667916479666</updated>
+    </task>
+    <option name="localTasksCounter" value="1021" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,32 +500,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added VerticalLayout.java" />
-    <MESSAGE value="added DisplayImage.java" />
-    <MESSAGE value="added DisGraf.java" />
-    <MESSAGE value="added DisImage.java" />
-    <MESSAGE value="updated DisplayGrafics.java" />
-    <MESSAGE value="added MainMenu.java" />
-    <MESSAGE value="added PolygonsJPanel.java" />
-    <MESSAGE value="updated" />
-    <MESSAGE value="updated DisImage.java" />
-    <MESSAGE value="added DisplayGomer.java" />
-    <MESSAGE value="updated DisplayGomer.java" />
-    <MESSAGE value="added MyComponent.java" />
-    <MESSAGE value="added Stars.java" />
-    <MESSAGE value="added ListUtils.java" />
-    <MESSAGE value="added ListEditor.java" />
-    <MESSAGE value="added AbstractListEditor.java" />
-    <MESSAGE value="added TestFrame.java" />
-    <MESSAGE value="updated TestFrame.java" />
-    <MESSAGE value="added SimpleTimer.java" />
-    <MESSAGE value="updated ShapesPanel.java" />
-    <MESSAGE value="updated DisplayHomer.java" />
-    <MESSAGE value="updated ContentPaneReplace.java" />
     <MESSAGE value="updated MyPanel.java" />
-    <MESSAGE value="updated workspace.xml" />
     <MESSAGE value="updated MainMenu.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated MainMenu.java" />
+    <MESSAGE value="added ImagePanel.java" />
+    <MESSAGE value="added MenuFrame.java" />
+    <MESSAGE value="updated workspace.xml" />
+    <MESSAGE value="added XMLReader.java" />
+    <MESSAGE value="added XMLMenuParser.java" />
+    <MESSAGE value="added XMLMenuCreatorTest.java" />
+    <MESSAGE value="added XMLMenuCreator.java" />
+    <MESSAGE value="added menu.xml" />
+    <MESSAGE value="added JToolBarTest.java" />
+    <MESSAGE value="added JMenuTest.java" />
+    <MESSAGE value="added JMenuBarTest.java" />
+    <MESSAGE value="added copy.png" />
+    <MESSAGE value="added cut.png" />
+    <MESSAGE value="added exit.png" />
+    <MESSAGE value="added open.png" />
+    <MESSAGE value="added MovingCircle.java" />
+    <MESSAGE value="added SampleImage.java" />
+    <MESSAGE value="added astronaut.png" />
+    <MESSAGE value="added SimpleApp.java" />
+    <MESSAGE value="added simplecanvas.html" />
+    <MESSAGE value="added GameSnake.java" />
+    <MESSAGE value="added Snake.java" />
+    <MESSAGE value="added Board.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Board.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
