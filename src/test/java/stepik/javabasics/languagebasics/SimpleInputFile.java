@@ -1,7 +1,6 @@
 package stepik.javabasics.languagebasics;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
@@ -17,8 +16,6 @@ public class SimpleInputFile {
                 int real = input.read(buffer);
                 output.write(buffer, 0, real);
             }
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
