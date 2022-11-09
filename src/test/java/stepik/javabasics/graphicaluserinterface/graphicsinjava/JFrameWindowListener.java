@@ -52,8 +52,7 @@ public class JFrameWindowListener extends JFrame {
             }
         });
     }
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         JFrame.setDefaultLookAndFeelDecorated(true);
         new JFrameWindowListener();
     }
