@@ -31,8 +31,8 @@ public class Cat {
         Cat cat1 = new Cat("Jabba");
         Cat cat2 = new Cat("Leia");
 
-        cat1.getName();    // Returns Jabba
-        cat2.getName();    // Returns Leia
+        System.out.println(cat1.getName());    // Returns Jabba
+        System.out.println(cat2.getName());    // Returns Leia
         messWithCat(cat1);
         changeKitty(cat2);
         Cat cat3 = haveKitten();
