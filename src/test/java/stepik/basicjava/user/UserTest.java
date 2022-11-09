@@ -1,4 +1,4 @@
-package user;
+package stepik.basicjava.user;
 
 import org.junit.Assert;
 import org.junit.Before;
