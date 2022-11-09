@@ -17,7 +17,7 @@ public class MouseTest {
         frame.setVisible(true);
         //JLabel label = new JLabel(new ImageIcon("src/main/resources/pepe.png"));
         final JLabel label = new JLabel("JUSTICE!");
-        label.setFont(new Font("Arial", Font.BOLD, 55));
+        label.setFont(new Font("Arial", Font.BOLD, 20));
 
         // MouseListener
 
@@ -33,6 +33,7 @@ public class MouseTest {
             public void mousePressed(MouseEvent e) {
                 //System.out.println("mousePressed");
                 label.setForeground(Color.green);
+                label.setText("What do you want?");
             }
 
             @Override
@@ -83,7 +84,7 @@ public class MouseTest {
         });
 
 
-        //frame.add(label);
+        frame.add(label);
         frame.add(button);
     }
 }
