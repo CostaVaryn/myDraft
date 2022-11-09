@@ -1,5 +1,6 @@
 package stepik.javacore.mainmodule;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class TwoNumAndOneMin {
@@ -11,7 +12,8 @@ public class TwoNumAndOneMin {
             for (int i = 0; i < n; i++) {
                 arr[i] = in.nextInt();
             }
-            System.out.println(arr[n - 1]);
+            Arrays.sort(arr);
+            System.out.println(arr[1]);
         }
     }
 }
