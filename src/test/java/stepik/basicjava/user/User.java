@@ -1,4 +1,4 @@
-package user;
+package stepik.basicjava.user;
 
 import java.util.*;
 
