@@ -26,20 +26,20 @@ public class MouseTest {
             @Override
             public void mouseClicked(MouseEvent e) {
                 //System.out.println("mouseClicked");
-                label.setForeground(Color.red);
+                button.setForeground(Color.red);
             }
 
             @Override
             public void mousePressed(MouseEvent e) {
                 //System.out.println("mousePressed");
-                label.setForeground(Color.green);
+                button.setForeground(Color.green);
                 label.setText("What do you want?");
             }
 
             @Override
             public void mouseReleased(MouseEvent e) {
                 //System.out.println("mouseReleased");
-                label.setForeground(Color.yellow);
+                button.setForeground(Color.yellow);
             }
 
             @Override
