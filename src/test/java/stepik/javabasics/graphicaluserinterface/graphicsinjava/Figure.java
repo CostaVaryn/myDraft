@@ -35,6 +35,7 @@ class JLayeredPaneTest extends JFrame {
         super("Example LayeredTest");
         // выход при закрытии окна
         setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
         // определение многослойной панели
         JLayeredPane lp = getLayeredPane();
         // создание трех фигур
