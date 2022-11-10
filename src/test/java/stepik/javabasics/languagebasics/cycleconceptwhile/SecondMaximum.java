@@ -7,10 +7,10 @@ import java.util.Scanner;
 public class SecondMaximum {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        int i =0;
+        int i = 0;
         ArrayList<Integer> Mylist = new ArrayList<Integer>();
         int enter = sc.nextInt();
-        while(enter!=0) {
+        while(enter != 0) {
             Mylist.add(enter);
             enter = sc.nextInt();
         }
