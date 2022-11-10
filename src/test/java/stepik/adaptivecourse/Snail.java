@@ -4,16 +4,12 @@ import java.util.Scanner;
 
 public class Snail {
     public static void main(String[] args) {
-//        Scanner sc = new Scanner(System.in);
-//        int h = sc.nextInt();
-//        int a = sc.nextInt();
-//        int b = sc.nextInt();
-
-        int h = 20;
-        int a = 7;
-        int b = 3;
+        Scanner sc = new Scanner(System.in);
+        int h = sc.nextInt();
+        int a = sc.nextInt();
+        int b = sc.nextInt();
         int start = 0, day = 0;
-        //sc.close();
+        sc.close();
         for (int i = 1; start <= h; i++) {
             start += a;
             if (start >= h) {
