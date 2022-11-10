@@ -1,12 +1,22 @@
 package stepik.javacore.libraryjava;
 
 import javax.management.ObjectName;
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.Scanner;
+import java.util.*;
 
 public class ArrSort {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        ArrayList<String> list = new ArrayList<String>();
+        while(sc.hasNext()) {
+            String str = sc.next();
+            list.add(str);
+        }
+        Collections.sort(list);
+        for(String s : list) {
+            System.out.print(s + " ");
+        }
+
+        /*
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
         sc.close();
@@ -15,5 +25,7 @@ public class ArrSort {
         for(String s : arrStr) {
             System.out.print(s + " ");
         }
+         */
+
     }
 }
