@@ -14,6 +14,5 @@ public class PrinlList {
 
         List<String> set = new ArrayList<>(Arrays.asList("Alpha", "Gamma", "Omega"));
         System.out.println(set);
-
     }
 }
