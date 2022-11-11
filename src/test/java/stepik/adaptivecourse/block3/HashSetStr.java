@@ -1,4 +1,4 @@
-package stepik.adaptivecourse;
+package stepik.adaptivecourse.block3;
 
 import java.util.*;
 
