@@ -6,6 +6,7 @@ public class GradeA {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
+        sc.close();
         double val = s.replaceAll("[^ABCDEF]", "").length();
         double a = s.replaceAll("[^A]", "").length();
         System.out.println(a / val);
