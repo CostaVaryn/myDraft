@@ -5,8 +5,8 @@ public class Anagramma {
         if (surce.length() != revers.length())
             return -1;
 
-        char [] tempSourse = surce.toCharArray();
-        char [] tempRevers = revers.toCharArray();
+        char[] tempSourse = surce.toCharArray();
+        char[] tempRevers = revers.toCharArray();
         int summ = 0;
         for (int i = 0; i < tempSourse.length; i++) {
             summ += tempSourse[i] - tempRevers[tempSourse.length - 1 - i];
