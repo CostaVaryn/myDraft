@@ -52,7 +52,7 @@ public class NullObjectDesignPattern {
     public class Main {
         public void main(String[] args) {
 
-            /**
+            /*
             Emp emp1 = EmpData.getClient("Lokesh");
             Emp emp2 = EmpData.getClient("Kushagra");
             Emp emp3 = EmpData.getClient("Vikram");
