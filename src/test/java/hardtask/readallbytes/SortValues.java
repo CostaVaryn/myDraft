@@ -17,8 +17,8 @@ public class SortValues {
         try {
             BufferedReader reader = new BufferedReader (new InputStreamReader(System.in));
             FileInputStream stream = new FileInputStream(reader.readLine());
-            //String string = new String(stream.readAllBytes());
-            //String[] array = string.split("\r\n");
+            //String str = new String(stream.readAllBytes());
+            //String[] array = str.split("\r\n");
 
             reader.close();
             stream.close();
@@ -38,7 +38,7 @@ public class SortValues {
             for(Integer number : list)
                 System.out.println(number);
 
-        } catch (IOException e) {
+        } catch (IOException ignored) {
         }
     }
 }
