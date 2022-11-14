@@ -3,7 +3,7 @@ package stepik.javabasics.languagebasics.ternaryoperator;
 import java.util.Scanner;
 
 public class Queen {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double x1 = sc.nextDouble(), y1 = sc.nextDouble(), x2 = sc.nextDouble(), y2 = sc.nextDouble();
         if ((Math.abs(x1 - x2) == Math.abs(y1 - y2)) || ((x1 == x2) || (y1 == y2))) {
