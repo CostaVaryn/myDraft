@@ -23,8 +23,6 @@ public class Snail {
 }
 
 /*
-Snail
-
 Snail creeps up the vertical pole of height H feets.
 Per day it goes A feets up, and per night it goes B feets down.
 In which day the snail will reach the top of the pole?
