@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated ConditionalKamaz.java">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepik/javacore/libraryjava/GradeA.java" afterDir="false" />
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated DogMain.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,19 +50,22 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="stepik.basoop.block2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\javaonline" />
       <recent name="C:\Users\cosva\IdeaProjects\test" />
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\graphicsinjava\grafics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GradeA">
-    <configuration name="CycleKamaz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javabasics.block5.CycleKamaz" />
+  <component name="RunManager" selected="Application.DogMain">
+    <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.basoop.block1.DogMain" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javabasics.block5.*" />
+          <option name="PATTERN" value="stepik.basoop.block1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javacore.libraryjava.GradeA" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.basicjava.block3.timer.Main" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javacore.libraryjava.*" />
+          <option name="PATTERN" value="stepik.basicjava.block3.timer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Malevia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.adaptivecourse.block1.Malevia" />
+    <configuration name="MiniDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.practicejavabasic.block2.MiniDate" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.adaptivecourse.block1.*" />
+          <option name="PATTERN" value="stepik.practicejavabasic.block2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapGiven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.adaptivecourse.block3.MapGiven" />
+    <configuration name="SimpNumDivide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.basoop.block1.SimpNumDivide" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.adaptivecourse.block3.*" />
+          <option name="PATTERN" value="stepik.basoop.block1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumsJoinIsSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.javacore.libraryjava.NumsJoinIsSimple" />
+    <configuration name="stepik.basoop.block2.DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.basoop.block2.DogMain" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.javacore.libraryjava.*" />
+          <option name="PATTERN" value="stepik.basoop.block2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GradeA" />
-        <item itemvalue="Application.CycleKamaz" />
-        <item itemvalue="Application.MapGiven" />
-        <item itemvalue="Application.Malevia" />
-        <item itemvalue="Application.NumsJoinIsSimple" />
+        <item itemvalue="Application.DogMain" />
+        <item itemvalue="Application.stepik.basoop.block2.DogMain" />
+        <item itemvalue="Application.SimpNumDivide" />
+        <item itemvalue="Application.MiniDate" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -141,307 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-01034" summary="updated MouseTest.java">
-      <created>1667994102052</created>
-      <option name="number" value="01034" />
-      <option name="presentableId" value="LOCAL-01034" />
-      <option name="project" value="LOCAL" />
-      <updated>1667994102052</updated>
-    </task>
-    <task id="LOCAL-01035" summary="updated Figure.java">
-      <created>1667994111753</created>
-      <option name="number" value="01035" />
-      <option name="presentableId" value="LOCAL-01035" />
-      <option name="project" value="LOCAL" />
-      <updated>1667994111753</updated>
-    </task>
-    <task id="LOCAL-01036" summary="added pepe.png">
-      <created>1667994124047</created>
-      <option name="number" value="01036" />
-      <option name="presentableId" value="LOCAL-01036" />
-      <option name="project" value="LOCAL" />
-      <updated>1667994124047</updated>
-    </task>
-    <task id="LOCAL-01037" summary="updated MouseTest.java">
-      <created>1667994585965</created>
-      <option name="number" value="01037" />
-      <option name="presentableId" value="LOCAL-01037" />
-      <option name="project" value="LOCAL" />
-      <updated>1667994585965</updated>
-    </task>
-    <task id="LOCAL-01038" summary="updated MouseTest.java">
-      <created>1667998404549</created>
-      <option name="number" value="01038" />
-      <option name="presentableId" value="LOCAL-01038" />
-      <option name="project" value="LOCAL" />
-      <updated>1667998404549</updated>
-    </task>
-    <task id="LOCAL-01039" summary="moved Sex.java">
-      <created>1668001475710</created>
-      <option name="number" value="01039" />
-      <option name="presentableId" value="LOCAL-01039" />
-      <option name="project" value="LOCAL" />
-      <updated>1668001475710</updated>
-    </task>
-    <task id="LOCAL-01040" summary="moved User.java">
-      <created>1668001481681</created>
-      <option name="number" value="01040" />
-      <option name="presentableId" value="LOCAL-01040" />
-      <option name="project" value="LOCAL" />
-      <updated>1668001481681</updated>
-    </task>
-    <task id="LOCAL-01041" summary="moved UserTest.java">
-      <created>1668001487785</created>
-      <option name="number" value="01041" />
-      <option name="presentableId" value="LOCAL-01041" />
-      <option name="project" value="LOCAL" />
-      <updated>1668001487785</updated>
-    </task>
-    <task id="LOCAL-01042" summary="updated TwoNumAndOneMin.java">
-      <created>1668003292917</created>
-      <option name="number" value="01042" />
-      <option name="presentableId" value="LOCAL-01042" />
-      <option name="project" value="LOCAL" />
-      <updated>1668003292917</updated>
-    </task>
-    <task id="LOCAL-01043" summary="updated TwoNumAndOneMin.java">
-      <created>1668003305917</created>
-      <option name="number" value="01043" />
-      <option name="presentableId" value="LOCAL-01043" />
-      <option name="project" value="LOCAL" />
-      <updated>1668003305917</updated>
-    </task>
-    <task id="LOCAL-01044" summary="updated ArrOccurringNumberSequence.java">
-      <created>1668068929484</created>
-      <option name="number" value="01044" />
-      <option name="presentableId" value="LOCAL-01044" />
-      <option name="project" value="LOCAL" />
-      <updated>1668068929484</updated>
-    </task>
-    <task id="LOCAL-01045" summary="updated ForSimpleNum.java">
-      <created>1668068934624</created>
-      <option name="number" value="01045" />
-      <option name="presentableId" value="LOCAL-01045" />
-      <option name="project" value="LOCAL" />
-      <updated>1668068934624</updated>
-    </task>
-    <task id="LOCAL-01046" summary="updated MinusNums.java">
-      <created>1668068942750</created>
-      <option name="number" value="01046" />
-      <option name="presentableId" value="LOCAL-01046" />
-      <option name="project" value="LOCAL" />
-      <updated>1668068942750</updated>
-    </task>
-    <task id="LOCAL-01047" summary="added ArrSimpleNums.java">
-      <created>1668068951220</created>
-      <option name="number" value="01047" />
-      <option name="presentableId" value="LOCAL-01047" />
-      <option name="project" value="LOCAL" />
-      <updated>1668068951220</updated>
-    </task>
-    <task id="LOCAL-01048" summary="added ArrTwoNums.java">
-      <created>1668068955415</created>
-      <option name="number" value="01048" />
-      <option name="presentableId" value="LOCAL-01048" />
-      <option name="project" value="LOCAL" />
-      <updated>1668068955415</updated>
-    </task>
-    <task id="LOCAL-01049" summary="added PlusNums.java">
-      <created>1668068960887</created>
-      <option name="number" value="01049" />
-      <option name="presentableId" value="LOCAL-01049" />
-      <option name="project" value="LOCAL" />
-      <updated>1668068960887</updated>
-    </task>
-    <task id="LOCAL-01050" summary="added TestMaven.java">
-      <created>1668070085891</created>
-      <option name="number" value="01050" />
-      <option name="presentableId" value="LOCAL-01050" />
-      <option name="project" value="LOCAL" />
-      <updated>1668070085891</updated>
-    </task>
-    <task id="LOCAL-01051" summary="updated pom.xml">
-      <created>1668070093868</created>
-      <option name="number" value="01051" />
-      <option name="presentableId" value="LOCAL-01051" />
-      <option name="project" value="LOCAL" />
-      <updated>1668070093868</updated>
-    </task>
-    <task id="LOCAL-01052" summary="updated workspace.xml">
-      <created>1668070098970</created>
-      <option name="number" value="01052" />
-      <option name="presentableId" value="LOCAL-01052" />
-      <option name="project" value="LOCAL" />
-      <updated>1668070098970</updated>
-    </task>
-    <task id="LOCAL-01053" summary="added SimpleString.java">
-      <created>1668072196082</created>
-      <option name="number" value="01053" />
-      <option name="presentableId" value="LOCAL-01053" />
-      <option name="project" value="LOCAL" />
-      <updated>1668072196082</updated>
-    </task>
-    <task id="LOCAL-01054" summary="added StringSubstringIndex.java">
-      <created>1668072211389</created>
-      <option name="number" value="01054" />
-      <option name="presentableId" value="LOCAL-01054" />
-      <option name="project" value="LOCAL" />
-      <updated>1668072211389</updated>
-    </task>
-    <task id="LOCAL-01055" summary="added ArrSort.java">
-      <created>1668078816858</created>
-      <option name="number" value="01055" />
-      <option name="presentableId" value="LOCAL-01055" />
-      <option name="project" value="LOCAL" />
-      <updated>1668078816858</updated>
-    </task>
-    <task id="LOCAL-01056" summary="added JOptionPaneTest2.java">
-      <created>1668078826098</created>
-      <option name="number" value="01056" />
-      <option name="presentableId" value="LOCAL-01056" />
-      <option name="project" value="LOCAL" />
-      <updated>1668078826098</updated>
-    </task>
-    <task id="LOCAL-01057" summary="added warning.png">
-      <created>1668078835259</created>
-      <option name="number" value="01057" />
-      <option name="presentableId" value="LOCAL-01057" />
-      <option name="project" value="LOCAL" />
-      <updated>1668078835259</updated>
-    </task>
-    <task id="LOCAL-01058" summary="added ConditionalKamaz.java">
-      <created>1668079643346</created>
-      <option name="number" value="01058" />
-      <option name="presentableId" value="LOCAL-01058" />
-      <option name="project" value="LOCAL" />
-      <updated>1668079643346</updated>
-    </task>
-    <task id="LOCAL-01059" summary="added TooManyArguments.java">
-      <created>1668085725640</created>
-      <option name="number" value="01059" />
-      <option name="presentableId" value="LOCAL-01059" />
-      <option name="project" value="LOCAL" />
-      <updated>1668085725640</updated>
-    </task>
-    <task id="LOCAL-01060" summary="added Snail.java">
-      <created>1668085739249</created>
-      <option name="number" value="01060" />
-      <option name="presentableId" value="LOCAL-01060" />
-      <option name="project" value="LOCAL" />
-      <updated>1668085739249</updated>
-    </task>
-    <task id="LOCAL-01061" summary="updated Snail.java">
-      <created>1668085768867</created>
-      <option name="number" value="01061" />
-      <option name="presentableId" value="LOCAL-01061" />
-      <option name="project" value="LOCAL" />
-      <updated>1668085768867</updated>
-    </task>
-    <task id="LOCAL-01062" summary="updated SecondMaximum.java">
-      <created>1668085778160</created>
-      <option name="number" value="01062" />
-      <option name="presentableId" value="LOCAL-01062" />
-      <option name="project" value="LOCAL" />
-      <updated>1668085778160</updated>
-    </task>
-    <task id="LOCAL-01063" summary="updated DisplayingNumbersDown.java">
-      <created>1668085786140</created>
-      <option name="number" value="01063" />
-      <option name="presentableId" value="LOCAL-01063" />
-      <option name="project" value="LOCAL" />
-      <updated>1668085786140</updated>
-    </task>
-    <task id="LOCAL-01064" summary="updated ConditionalKamaz.java">
-      <created>1668085790020</created>
-      <option name="number" value="01064" />
-      <option name="presentableId" value="LOCAL-01064" />
-      <option name="project" value="LOCAL" />
-      <updated>1668085790020</updated>
-    </task>
-    <task id="LOCAL-01065" summary="updated AverageAge.java">
-      <created>1668085797280</created>
-      <option name="number" value="01065" />
-      <option name="presentableId" value="LOCAL-01065" />
-      <option name="project" value="LOCAL" />
-      <updated>1668085797280</updated>
-    </task>
-    <task id="LOCAL-01066" summary="updated ArrSort.java">
-      <created>1668085804047</created>
-      <option name="number" value="01066" />
-      <option name="presentableId" value="LOCAL-01066" />
-      <option name="project" value="LOCAL" />
-      <updated>1668085804047</updated>
-    </task>
-    <task id="LOCAL-01067" summary="added Grades.java">
-      <created>1668153692529</created>
-      <option name="number" value="01067" />
-      <option name="presentableId" value="LOCAL-01067" />
-      <option name="project" value="LOCAL" />
-      <updated>1668153692530</updated>
-    </task>
-    <task id="LOCAL-01068" summary="added HashSetStr.java">
-      <created>1668153699581</created>
-      <option name="number" value="01068" />
-      <option name="presentableId" value="LOCAL-01068" />
-      <option name="project" value="LOCAL" />
-      <updated>1668153699581</updated>
-    </task>
-    <task id="LOCAL-01069" summary="added PrinlList.java">
-      <created>1668153707517</created>
-      <option name="number" value="01069" />
-      <option name="presentableId" value="LOCAL-01069" />
-      <option name="project" value="LOCAL" />
-      <updated>1668153707517</updated>
-    </task>
-    <task id="LOCAL-01070" summary="updated ArrSort.java">
-      <created>1668154219059</created>
-      <option name="number" value="01070" />
-      <option name="presentableId" value="LOCAL-01070" />
-      <option name="project" value="LOCAL" />
-      <updated>1668154219059</updated>
-    </task>
-    <task id="LOCAL-01071" summary="updated Grades.java">
-      <created>1668154223964</created>
-      <option name="number" value="01071" />
-      <option name="presentableId" value="LOCAL-01071" />
-      <option name="project" value="LOCAL" />
-      <updated>1668154223964</updated>
-    </task>
-    <task id="LOCAL-01072" summary="updated HashSetStr.java">
-      <created>1668154230339</created>
-      <option name="number" value="01072" />
-      <option name="presentableId" value="LOCAL-01072" />
-      <option name="project" value="LOCAL" />
-      <updated>1668154230339</updated>
-    </task>
-    <task id="LOCAL-01073" summary="updated PrinlList.java">
-      <created>1668154255119</created>
-      <option name="number" value="01073" />
-      <option name="presentableId" value="LOCAL-01073" />
-      <option name="project" value="LOCAL" />
-      <updated>1668154255119</updated>
-    </task>
-    <task id="LOCAL-01074" summary="moved HashSetStr.java">
-      <created>1668154801552</created>
-      <option name="number" value="01074" />
-      <option name="presentableId" value="LOCAL-01074" />
-      <option name="project" value="LOCAL" />
-      <updated>1668154801552</updated>
-    </task>
-    <task id="LOCAL-01075" summary="added QueuesDeques.java">
-      <created>1668154812154</created>
-      <option name="number" value="01075" />
-      <option name="presentableId" value="LOCAL-01075" />
-      <option name="project" value="LOCAL" />
-      <updated>1668154812154</updated>
-    </task>
-    <task id="LOCAL-01076" summary="added StreamIntNums.java">
-      <created>1668157673950</created>
-      <option name="number" value="01076" />
-      <option name="presentableId" value="LOCAL-01076" />
-      <option name="project" value="LOCAL" />
-      <updated>1668157673950</updated>
     </task>
     <task id="LOCAL-01077" summary="added NumsJoin.java">
       <created>1668157688399</created>
@@ -485,7 +186,308 @@
       <option name="project" value="LOCAL" />
       <updated>1668174550522</updated>
     </task>
-    <option name="localTasksCounter" value="1083" />
+    <task id="LOCAL-01083" summary="updated workspace.xml">
+      <created>1668175810144</created>
+      <option name="number" value="01083" />
+      <option name="presentableId" value="LOCAL-01083" />
+      <option name="project" value="LOCAL" />
+      <updated>1668175810144</updated>
+    </task>
+    <task id="LOCAL-01084" summary="added GradeA.java">
+      <created>1668175814713</created>
+      <option name="number" value="01084" />
+      <option name="presentableId" value="LOCAL-01084" />
+      <option name="project" value="LOCAL" />
+      <updated>1668175814713</updated>
+    </task>
+    <task id="LOCAL-01085" summary="updated GradeA.java">
+      <created>1668175843478</created>
+      <option name="number" value="01085" />
+      <option name="presentableId" value="LOCAL-01085" />
+      <option name="project" value="LOCAL" />
+      <updated>1668175843478</updated>
+    </task>
+    <task id="LOCAL-01086" summary="added notes3.txt">
+      <created>1668176155943</created>
+      <option name="number" value="01086" />
+      <option name="presentableId" value="LOCAL-01086" />
+      <option name="project" value="LOCAL" />
+      <updated>1668176155943</updated>
+    </task>
+    <task id="LOCAL-01087" summary="added DateTest.java">
+      <created>1668416959158</created>
+      <option name="number" value="01087" />
+      <option name="presentableId" value="LOCAL-01087" />
+      <option name="project" value="LOCAL" />
+      <updated>1668416959158</updated>
+    </task>
+    <task id="LOCAL-01088" summary="added LarSmalPerf.java">
+      <created>1668416971734</created>
+      <option name="number" value="01088" />
+      <option name="presentableId" value="LOCAL-01088" />
+      <option name="project" value="LOCAL" />
+      <updated>1668416971734</updated>
+    </task>
+    <task id="LOCAL-01089" summary="added QueenAtt.java">
+      <created>1668416976398</created>
+      <option name="number" value="01089" />
+      <option name="presentableId" value="LOCAL-01089" />
+      <option name="project" value="LOCAL" />
+      <updated>1668416976399</updated>
+    </task>
+    <task id="LOCAL-01090" summary="added StreamStr.java">
+      <created>1668416983351</created>
+      <option name="number" value="01090" />
+      <option name="presentableId" value="LOCAL-01090" />
+      <option name="project" value="LOCAL" />
+      <updated>1668416983351</updated>
+    </task>
+    <task id="LOCAL-01091" summary="added SumNums.java">
+      <created>1668416989731</created>
+      <option name="number" value="01091" />
+      <option name="presentableId" value="LOCAL-01091" />
+      <option name="project" value="LOCAL" />
+      <updated>1668416989731</updated>
+    </task>
+    <task id="LOCAL-01092" summary="added ThreeSet.java">
+      <created>1668416994946</created>
+      <option name="number" value="01092" />
+      <option name="presentableId" value="LOCAL-01092" />
+      <option name="project" value="LOCAL" />
+      <updated>1668416994946</updated>
+    </task>
+    <task id="LOCAL-01093" summary="updated StreamIntNums.java">
+      <created>1668417008021</created>
+      <option name="number" value="01093" />
+      <option name="presentableId" value="LOCAL-01093" />
+      <option name="project" value="LOCAL" />
+      <updated>1668417008022</updated>
+    </task>
+    <task id="LOCAL-01094" summary="added ExitMain1.java">
+      <created>1668422512804</created>
+      <option name="number" value="01094" />
+      <option name="presentableId" value="LOCAL-01094" />
+      <option name="project" value="LOCAL" />
+      <updated>1668422512804</updated>
+    </task>
+    <task id="LOCAL-01095" summary="updated AvgNums.java">
+      <created>1668423399523</created>
+      <option name="number" value="01095" />
+      <option name="presentableId" value="LOCAL-01095" />
+      <option name="project" value="LOCAL" />
+      <updated>1668423399523</updated>
+    </task>
+    <task id="LOCAL-01096" summary="updated CheckResume.java">
+      <created>1668423405637</created>
+      <option name="number" value="01096" />
+      <option name="presentableId" value="LOCAL-01096" />
+      <option name="project" value="LOCAL" />
+      <updated>1668423405638</updated>
+    </task>
+    <task id="LOCAL-01097" summary="updated MapGiven.java">
+      <created>1668423412350</created>
+      <option name="number" value="01097" />
+      <option name="presentableId" value="LOCAL-01097" />
+      <option name="project" value="LOCAL" />
+      <updated>1668423412350</updated>
+    </task>
+    <task id="LOCAL-01098" summary="updated PalindromeClass.java">
+      <created>1668423418194</created>
+      <option name="number" value="01098" />
+      <option name="presentableId" value="LOCAL-01098" />
+      <option name="project" value="LOCAL" />
+      <updated>1668423418194</updated>
+    </task>
+    <task id="LOCAL-01099" summary="updated Queen.java">
+      <created>1668423423408</created>
+      <option name="number" value="01099" />
+      <option name="presentableId" value="LOCAL-01099" />
+      <option name="project" value="LOCAL" />
+      <updated>1668423423408</updated>
+    </task>
+    <task id="LOCAL-01100" summary="updated Snail.java">
+      <created>1668423429057</created>
+      <option name="number" value="01100" />
+      <option name="presentableId" value="LOCAL-01100" />
+      <option name="project" value="LOCAL" />
+      <updated>1668423429057</updated>
+    </task>
+    <task id="LOCAL-01101" summary="updated SortValues.java">
+      <created>1668423439460</created>
+      <option name="number" value="01101" />
+      <option name="presentableId" value="LOCAL-01101" />
+      <option name="project" value="LOCAL" />
+      <updated>1668423439460</updated>
+    </task>
+    <task id="LOCAL-01102" summary="updated StreamIntNums.java">
+      <created>1668423444014</created>
+      <option name="number" value="01102" />
+      <option name="presentableId" value="LOCAL-01102" />
+      <option name="project" value="LOCAL" />
+      <updated>1668423444014</updated>
+    </task>
+    <task id="LOCAL-01103" summary="updated AddNum.java">
+      <created>1668424406246</created>
+      <option name="number" value="01103" />
+      <option name="presentableId" value="LOCAL-01103" />
+      <option name="project" value="LOCAL" />
+      <updated>1668424406246</updated>
+    </task>
+    <task id="LOCAL-01104" summary="updated Anagramma.java">
+      <created>1668424410455</created>
+      <option name="number" value="01104" />
+      <option name="presentableId" value="LOCAL-01104" />
+      <option name="project" value="LOCAL" />
+      <updated>1668424410455</updated>
+    </task>
+    <task id="LOCAL-01105" summary="updated NullObjectDesignPattern.java">
+      <created>1668424415726</created>
+      <option name="number" value="01105" />
+      <option name="presentableId" value="LOCAL-01105" />
+      <option name="project" value="LOCAL" />
+      <updated>1668424415726</updated>
+    </task>
+    <task id="LOCAL-01106" summary="updated TestScanner.java">
+      <created>1668424421272</created>
+      <option name="number" value="01106" />
+      <option name="presentableId" value="LOCAL-01106" />
+      <option name="project" value="LOCAL" />
+      <updated>1668424421272</updated>
+    </task>
+    <task id="LOCAL-01107" summary="updated AvgNums.java">
+      <created>1668500908529</created>
+      <option name="number" value="01107" />
+      <option name="presentableId" value="LOCAL-01107" />
+      <option name="project" value="LOCAL" />
+      <updated>1668500908529</updated>
+    </task>
+    <task id="LOCAL-01108" summary="updated SortValues.java">
+      <created>1668500914532</created>
+      <option name="number" value="01108" />
+      <option name="presentableId" value="LOCAL-01108" />
+      <option name="project" value="LOCAL" />
+      <updated>1668500914532</updated>
+    </task>
+    <task id="LOCAL-01109" summary="added AgentPass.java">
+      <created>1668500919866</created>
+      <option name="number" value="01109" />
+      <option name="presentableId" value="LOCAL-01109" />
+      <option name="project" value="LOCAL" />
+      <updated>1668500919866</updated>
+    </task>
+    <task id="LOCAL-01110" summary="added DogMain.java">
+      <created>1668500924828</created>
+      <option name="number" value="01110" />
+      <option name="presentableId" value="LOCAL-01110" />
+      <option name="project" value="LOCAL" />
+      <updated>1668500924828</updated>
+    </task>
+    <task id="LOCAL-01111" summary="added LeapYearYN.java">
+      <created>1668500932609</created>
+      <option name="number" value="01111" />
+      <option name="presentableId" value="LOCAL-01111" />
+      <option name="project" value="LOCAL" />
+      <updated>1668500932609</updated>
+    </task>
+    <task id="LOCAL-01112" summary="added MiniDate.java">
+      <created>1668500938992</created>
+      <option name="number" value="01112" />
+      <option name="presentableId" value="LOCAL-01112" />
+      <option name="project" value="LOCAL" />
+      <updated>1668500938992</updated>
+    </task>
+    <task id="LOCAL-01113" summary="added SimpNumDivide.java">
+      <created>1668500944701</created>
+      <option name="number" value="01113" />
+      <option name="presentableId" value="LOCAL-01113" />
+      <option name="project" value="LOCAL" />
+      <updated>1668500944701</updated>
+    </task>
+    <task id="LOCAL-01114" summary="updated DogMain.java">
+      <created>1668501978376</created>
+      <option name="number" value="01114" />
+      <option name="presentableId" value="LOCAL-01114" />
+      <option name="project" value="LOCAL" />
+      <updated>1668501978376</updated>
+    </task>
+    <task id="LOCAL-01115" summary="updated DogMain.java">
+      <created>1668502791070</created>
+      <option name="number" value="01115" />
+      <option name="presentableId" value="LOCAL-01115" />
+      <option name="project" value="LOCAL" />
+      <updated>1668502791070</updated>
+    </task>
+    <task id="LOCAL-01116" summary="added SortMinMax.java">
+      <created>1668508139266</created>
+      <option name="number" value="01116" />
+      <option name="presentableId" value="LOCAL-01116" />
+      <option name="project" value="LOCAL" />
+      <updated>1668508139266</updated>
+    </task>
+    <task id="LOCAL-01117" summary="added ConvertMain.java">
+      <created>1668508143435</created>
+      <option name="number" value="01117" />
+      <option name="presentableId" value="LOCAL-01117" />
+      <option name="project" value="LOCAL" />
+      <updated>1668508143435</updated>
+    </task>
+    <task id="LOCAL-01118" summary="added DogMain.java">
+      <created>1668510028662</created>
+      <option name="number" value="01118" />
+      <option name="presentableId" value="LOCAL-01118" />
+      <option name="project" value="LOCAL" />
+      <updated>1668510028662</updated>
+    </task>
+    <task id="LOCAL-01119" summary="updated ConvertMain.java">
+      <created>1668510039074</created>
+      <option name="number" value="01119" />
+      <option name="presentableId" value="LOCAL-01119" />
+      <option name="project" value="LOCAL" />
+      <updated>1668510039074</updated>
+    </task>
+    <task id="LOCAL-01120" summary="updated MiniDate.java">
+      <created>1668510043940</created>
+      <option name="number" value="01120" />
+      <option name="presentableId" value="LOCAL-01120" />
+      <option name="project" value="LOCAL" />
+      <updated>1668510043940</updated>
+    </task>
+    <task id="LOCAL-01121" summary="updated SimpNumDivide.java">
+      <created>1668510048076</created>
+      <option name="number" value="01121" />
+      <option name="presentableId" value="LOCAL-01121" />
+      <option name="project" value="LOCAL" />
+      <updated>1668510048076</updated>
+    </task>
+    <task id="LOCAL-01122" summary="updated SortMinMax.java">
+      <created>1668510052508</created>
+      <option name="number" value="01122" />
+      <option name="presentableId" value="LOCAL-01122" />
+      <option name="project" value="LOCAL" />
+      <updated>1668510052508</updated>
+    </task>
+    <task id="LOCAL-01123" summary="updated DogMain.java">
+      <created>1668511096260</created>
+      <option name="number" value="01123" />
+      <option name="presentableId" value="LOCAL-01123" />
+      <option name="project" value="LOCAL" />
+      <updated>1668511096260</updated>
+    </task>
+    <task id="LOCAL-01124" summary="added NegativeAgeException.java">
+      <created>1668511102106</created>
+      <option name="number" value="01124" />
+      <option name="presentableId" value="LOCAL-01124" />
+      <option name="project" value="LOCAL" />
+      <updated>1668511102106</updated>
+    </task>
+    <task id="LOCAL-01125" summary="updated DogMain.java">
+      <created>1668515013389</created>
+      <option name="number" value="01125" />
+      <option name="presentableId" value="LOCAL-01125" />
+      <option name="project" value="LOCAL" />
+      <updated>1668515013389</updated>
+    </task>
+    <option name="localTasksCounter" value="1126" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,32 +502,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added warning.png" />
-    <MESSAGE value="added ConditionalKamaz.java" />
-    <MESSAGE value="added TooManyArguments.java" />
-    <MESSAGE value="added Snail.java" />
+    <MESSAGE value="updated CheckResume.java" />
+    <MESSAGE value="updated MapGiven.java" />
+    <MESSAGE value="updated PalindromeClass.java" />
+    <MESSAGE value="updated Queen.java" />
     <MESSAGE value="updated Snail.java" />
-    <MESSAGE value="updated SecondMaximum.java" />
-    <MESSAGE value="updated DisplayingNumbersDown.java" />
-    <MESSAGE value="updated AverageAge.java" />
-    <MESSAGE value="added Grades.java" />
-    <MESSAGE value="added HashSetStr.java" />
-    <MESSAGE value="added PrinlList.java" />
-    <MESSAGE value="updated ArrSort.java" />
-    <MESSAGE value="updated Grades.java" />
-    <MESSAGE value="updated HashSetStr.java" />
-    <MESSAGE value="updated PrinlList.java" />
-    <MESSAGE value="moved PrinlList.java" />
-    <MESSAGE value="moved HashSetStr.java" />
-    <MESSAGE value="added QueuesDeques.java" />
-    <MESSAGE value="added StreamIntNums.java" />
-    <MESSAGE value="added NumsJoin.java" />
-    <MESSAGE value="added NumsJoinIsSimple.java" />
-    <MESSAGE value="added Malevia.java" />
-    <MESSAGE value="added MapGiven.java" />
-    <MESSAGE value="added CycleKamaz.java" />
-    <MESSAGE value="updated ConditionalKamaz.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated ConditionalKamaz.java" />
+    <MESSAGE value="updated StreamIntNums.java" />
+    <MESSAGE value="updated AddNum.java" />
+    <MESSAGE value="updated Anagramma.java" />
+    <MESSAGE value="updated NullObjectDesignPattern.java" />
+    <MESSAGE value="updated TestScanner.java" />
+    <MESSAGE value="updated AvgNums.java" />
+    <MESSAGE value="updated SortValues.java" />
+    <MESSAGE value="added AgentPass.java" />
+    <MESSAGE value="added LeapYearYN.java" />
+    <MESSAGE value="added MiniDate.java" />
+    <MESSAGE value="added SimpNumDivide.java" />
+    <MESSAGE value="added SortMinMax.java" />
+    <MESSAGE value="added ConvertMain.java" />
+    <MESSAGE value="added DogMain.java" />
+    <MESSAGE value="updated ConvertMain.java" />
+    <MESSAGE value="updated MiniDate.java" />
+    <MESSAGE value="updated SimpNumDivide.java" />
+    <MESSAGE value="updated SortMinMax.java" />
+    <MESSAGE value="added NegativeAgeException.java" />
+    <MESSAGE value="updated DogMain.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated DogMain.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
