@@ -31,7 +31,7 @@ public class SortValues {
             List<Integer> listCopy = new ArrayList<>();
             listCopy.addAll(list);
             for(Integer number : listCopy)
-                if (number%2 != 0) list.remove(number);
+                if (number % 2 != 0) list.remove(number);
 
             sort(list);
 
