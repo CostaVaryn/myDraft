@@ -9,17 +9,14 @@ public class MinPizza {
         int onePiz = sc.nextInt();
         int val = onePiz;
         int count = 0;
-        if (onePiz % people == 0) {
-            count++;
-            System.out.println(count);
-        } else {
-            count++;
+        count++;
+        if (onePiz % people != 0) {
             while (onePiz % people != 0) {
                 count++;
                 onePiz += val;
             }
-            System.out.println(count);
         }
+        System.out.println(count);
     }
 }
 
