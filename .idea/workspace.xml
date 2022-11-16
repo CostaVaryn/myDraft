@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated DogMain.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added AvgNumFromArrays.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -59,7 +64,7 @@
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\graphicsinjava\grafics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DogMain">
+  <component name="RunManager" selected="Application.MinPizza">
     <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepik.basoop.block1.DogMain" />
       <module name="myDraft" />
@@ -73,25 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.basicjava.block3.timer.Main" />
+    <configuration name="MinPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.practicejavabasic.block3.MinPizza" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.basicjava.block3.timer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MiniDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.practicejavabasic.block2.MiniDate" />
-      <module name="myDraft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.practicejavabasic.block2.*" />
+          <option name="PATTERN" value="stepik.practicejavabasic.block3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,6 +97,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stepik.basoop.block1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.practicejavabasic.block3.SnailTest" />
+      <module name="myDraft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.practicejavabasic.block3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DogMain" />
         <item itemvalue="Application.stepik.basoop.block2.DogMain" />
+        <item itemvalue="Application.SnailTest" />
         <item itemvalue="Application.SimpNumDivide" />
-        <item itemvalue="Application.MiniDate" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MinPizza" />
+        <item itemvalue="Application.DogMain" />
       </list>
     </recent_temporary>
   </component>
@@ -143,76 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
-    </task>
-    <task id="LOCAL-01077" summary="added NumsJoin.java">
-      <created>1668157688399</created>
-      <option name="number" value="01077" />
-      <option name="presentableId" value="LOCAL-01077" />
-      <option name="project" value="LOCAL" />
-      <updated>1668157688399</updated>
-    </task>
-    <task id="LOCAL-01078" summary="added NumsJoinIsSimple.java">
-      <created>1668158053719</created>
-      <option name="number" value="01078" />
-      <option name="presentableId" value="LOCAL-01078" />
-      <option name="project" value="LOCAL" />
-      <updated>1668158053719</updated>
-    </task>
-    <task id="LOCAL-01079" summary="added Malevia.java">
-      <created>1668168881911</created>
-      <option name="number" value="01079" />
-      <option name="presentableId" value="LOCAL-01079" />
-      <option name="project" value="LOCAL" />
-      <updated>1668168881911</updated>
-    </task>
-    <task id="LOCAL-01080" summary="added MapGiven.java">
-      <created>1668169735475</created>
-      <option name="number" value="01080" />
-      <option name="presentableId" value="LOCAL-01080" />
-      <option name="project" value="LOCAL" />
-      <updated>1668169735475</updated>
-    </task>
-    <task id="LOCAL-01081" summary="added CycleKamaz.java">
-      <created>1668174543938</created>
-      <option name="number" value="01081" />
-      <option name="presentableId" value="LOCAL-01081" />
-      <option name="project" value="LOCAL" />
-      <updated>1668174543938</updated>
-    </task>
-    <task id="LOCAL-01082" summary="updated ConditionalKamaz.java">
-      <created>1668174550522</created>
-      <option name="number" value="01082" />
-      <option name="presentableId" value="LOCAL-01082" />
-      <option name="project" value="LOCAL" />
-      <updated>1668174550522</updated>
-    </task>
-    <task id="LOCAL-01083" summary="updated workspace.xml">
-      <created>1668175810144</created>
-      <option name="number" value="01083" />
-      <option name="presentableId" value="LOCAL-01083" />
-      <option name="project" value="LOCAL" />
-      <updated>1668175810144</updated>
-    </task>
-    <task id="LOCAL-01084" summary="added GradeA.java">
-      <created>1668175814713</created>
-      <option name="number" value="01084" />
-      <option name="presentableId" value="LOCAL-01084" />
-      <option name="project" value="LOCAL" />
-      <updated>1668175814713</updated>
-    </task>
-    <task id="LOCAL-01085" summary="updated GradeA.java">
-      <created>1668175843478</created>
-      <option name="number" value="01085" />
-      <option name="presentableId" value="LOCAL-01085" />
-      <option name="project" value="LOCAL" />
-      <updated>1668175843478</updated>
-    </task>
-    <task id="LOCAL-01086" summary="added notes3.txt">
-      <created>1668176155943</created>
-      <option name="number" value="01086" />
-      <option name="presentableId" value="LOCAL-01086" />
-      <option name="project" value="LOCAL" />
-      <updated>1668176155943</updated>
     </task>
     <task id="LOCAL-01087" summary="added DateTest.java">
       <created>1668416959158</created>
@@ -487,7 +422,77 @@
       <option name="project" value="LOCAL" />
       <updated>1668515013389</updated>
     </task>
-    <option name="localTasksCounter" value="1126" />
+    <task id="LOCAL-01126" summary="updated workspace.xml">
+      <created>1668515040440</created>
+      <option name="number" value="01126" />
+      <option name="presentableId" value="LOCAL-01126" />
+      <option name="project" value="LOCAL" />
+      <updated>1668515040440</updated>
+    </task>
+    <task id="LOCAL-01127" summary="added HelloNo.java">
+      <created>1668522903267</created>
+      <option name="number" value="01127" />
+      <option name="presentableId" value="LOCAL-01127" />
+      <option name="project" value="LOCAL" />
+      <updated>1668522903267</updated>
+    </task>
+    <task id="LOCAL-01128" summary="updated HelloNo.java">
+      <created>1668585504761</created>
+      <option name="number" value="01128" />
+      <option name="presentableId" value="LOCAL-01128" />
+      <option name="project" value="LOCAL" />
+      <updated>1668585504762</updated>
+    </task>
+    <task id="LOCAL-01129" summary="updated PrinlList.java">
+      <created>1668586146274</created>
+      <option name="number" value="01129" />
+      <option name="presentableId" value="LOCAL-01129" />
+      <option name="project" value="LOCAL" />
+      <updated>1668586146274</updated>
+    </task>
+    <task id="LOCAL-01130" summary="updated PersonData.java">
+      <created>1668586150988</created>
+      <option name="number" value="01130" />
+      <option name="presentableId" value="LOCAL-01130" />
+      <option name="project" value="LOCAL" />
+      <updated>1668586150988</updated>
+    </task>
+    <task id="LOCAL-01131" summary="added SnailTest.java">
+      <created>1668586175738</created>
+      <option name="number" value="01131" />
+      <option name="presentableId" value="LOCAL-01131" />
+      <option name="project" value="LOCAL" />
+      <updated>1668586175738</updated>
+    </task>
+    <task id="LOCAL-01132" summary="added MinPizza.java">
+      <created>1668600560567</created>
+      <option name="number" value="01132" />
+      <option name="presentableId" value="LOCAL-01132" />
+      <option name="project" value="LOCAL" />
+      <updated>1668600560567</updated>
+    </task>
+    <task id="LOCAL-01133" summary="added MaxValue.java">
+      <created>1668600565680</created>
+      <option name="number" value="01133" />
+      <option name="presentableId" value="LOCAL-01133" />
+      <option name="project" value="LOCAL" />
+      <updated>1668600565680</updated>
+    </task>
+    <task id="LOCAL-01134" summary="added CheckPay.java">
+      <created>1668600571736</created>
+      <option name="number" value="01134" />
+      <option name="presentableId" value="LOCAL-01134" />
+      <option name="project" value="LOCAL" />
+      <updated>1668600571737</updated>
+    </task>
+    <task id="LOCAL-01135" summary="added AvgNumFromArrays.java">
+      <created>1668600577290</created>
+      <option name="number" value="01135" />
+      <option name="presentableId" value="LOCAL-01135" />
+      <option name="project" value="LOCAL" />
+      <updated>1668600577290</updated>
+    </task>
+    <option name="localTasksCounter" value="1136" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,16 +507,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated CheckResume.java" />
-    <MESSAGE value="updated MapGiven.java" />
-    <MESSAGE value="updated PalindromeClass.java" />
-    <MESSAGE value="updated Queen.java" />
-    <MESSAGE value="updated Snail.java" />
-    <MESSAGE value="updated StreamIntNums.java" />
-    <MESSAGE value="updated AddNum.java" />
-    <MESSAGE value="updated Anagramma.java" />
-    <MESSAGE value="updated NullObjectDesignPattern.java" />
-    <MESSAGE value="updated TestScanner.java" />
     <MESSAGE value="updated AvgNums.java" />
     <MESSAGE value="updated SortValues.java" />
     <MESSAGE value="added AgentPass.java" />
@@ -527,7 +522,17 @@
     <MESSAGE value="updated SortMinMax.java" />
     <MESSAGE value="added NegativeAgeException.java" />
     <MESSAGE value="updated DogMain.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated DogMain.java" />
+    <MESSAGE value="updated workspace.xml" />
+    <MESSAGE value="added HelloNo.java" />
+    <MESSAGE value="updated HelloNo.java" />
+    <MESSAGE value="updated PrinlList.java" />
+    <MESSAGE value="updated PersonData.java" />
+    <MESSAGE value="added SnailTest.java" />
+    <MESSAGE value="added MinPizza.java" />
+    <MESSAGE value="added MaxValue.java" />
+    <MESSAGE value="added CheckPay.java" />
+    <MESSAGE value="added AvgNumFromArrays.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added AvgNumFromArrays.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
