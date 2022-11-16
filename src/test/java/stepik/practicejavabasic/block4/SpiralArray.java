@@ -11,20 +11,17 @@ public class SpiralArray {
         sc.close();
         for (int[] row : spiral(n, m)) {
             System.out.println(Arrays.toString(row)
-                    .replaceAll("^\\[|\\]$", "")
+                    .replaceAll("^\\[|]$", "")
                     .replace(",",""));
         }
-
     }
+
     public static int[][] spiral(int rows, int cols) {
         int[][] arr = new int[rows][cols];
-
         int num = 1;
         int max = rows * cols;
-
         int rmin = 0, rmax = rows - 1;
         int cmin = 0, cmax = cols - 1;
-
         while (num <= max) {
             // проход влево по верхней строке, инкремент столбцов
             for (int i = cmin; num <= max && i <= cmax; i++) {
@@ -47,7 +44,6 @@ public class SpiralArray {
             }
             cmin++;
         }
-
         return arr;
     }
 }
