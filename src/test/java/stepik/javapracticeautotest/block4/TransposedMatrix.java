@@ -44,6 +44,7 @@ Sample Input:
 5 6 7 8
 9 10 11 12
 13 14 15 16
+
 Sample Output:
 1 5 9 13
 2 6 10 14
