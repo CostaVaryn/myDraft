@@ -18,10 +18,12 @@ public class NumsJoinIsSimple {
         for(Integer s: mySet){
             System.out.println(s + " " + Collections.frequency(asList,s));
         }
+
         /*
         Arrays.stream(nums)
                 .collect(Collectors.groupingBy(s -> s))
                 .forEach((k, v) -> System.out.println(k + " " + v.size()));
          */
+
     }
 }
