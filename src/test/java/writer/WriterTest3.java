@@ -5,12 +5,11 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class WriterTest3 {
-
     public static void main(String[] args) throws IOException {
 
-        String src = "C:\\Users\\cosva\\Desktop\\test\\log.txt";
+        String src = "C:\\Users\\...\\Desktop\\test\\log.txt";
         OutputStream newFile = Files.newOutputStream(Paths.get(src));
-        String dest = "C:\\Users\\cosva\\Desktop\\test\\copy.txt";
+        String dest = "C:\\Users\\...\\Desktop\\test\\copy.txt";
 
         try(FileReader reader = new FileReader(src);
             FileWriter writer = new FileWriter(dest)) {
