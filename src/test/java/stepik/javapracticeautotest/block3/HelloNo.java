@@ -1,4 +1,4 @@
-package stepik.practicejavabasic.block3;
+package stepik.javapracticeautotest.block3;
 
 import java.io.IOException;
 import java.util.Scanner;

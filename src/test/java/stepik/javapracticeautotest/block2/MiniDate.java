@@ -1,4 +1,4 @@
-package stepik.practicejavabasic.block2;
+package stepik.javapracticeautotest.block2;
 
 import java.util.Scanner;
 
