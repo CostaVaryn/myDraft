@@ -24,7 +24,6 @@ public class StringSubstringIndex {
         } else {
             result.forEach(System.out::println);
         }
-
-        //System.out.println(Arrays.toString(result.toArray()));
+        // System.out.println(Arrays.toString(result.toArray()));
     }
 }
