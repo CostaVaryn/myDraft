@@ -56,6 +56,7 @@ public class SpiralArray {
 
 Пример входных данных:
 5 6
+
 Вывод в консоль:
 1 2 3 4 5 6
 18 19 20 21 22 7
@@ -65,6 +66,7 @@ public class SpiralArray {
 
 Sample Input:
 5 5
+
 Sample Output:
 1 2 3 4 5
 16 17 18 19 6
