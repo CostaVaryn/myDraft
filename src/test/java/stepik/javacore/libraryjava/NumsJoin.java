@@ -31,7 +31,6 @@ public class NumsJoin {
             System.out.println(str.replace('=', ' '));
             System.out.println(o);
         }
-
     }
 }
 
