@@ -21,7 +21,6 @@ public class WriterTest2 {
         InputStream newFile = Files.newInputStream(Paths.get(src));
         newFile.read();
 
-
         String data = "Test data, only string? This hope or no? Maybe need help?";
 
         OutputStream file = Files.newOutputStream(Paths.get("C:\\Users\\...\\Desktop\\test\\1\\readme122.txt"));
