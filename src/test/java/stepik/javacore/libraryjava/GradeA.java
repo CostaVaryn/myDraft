@@ -15,7 +15,6 @@ public class GradeA {
 
 /*
 Write a program which finds the percentage of students who have received the A grade.
-
 Used the five-point grading scale with grades A, B, C, D and F.
 
 Input format:
