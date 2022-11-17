@@ -5,14 +5,12 @@ import java.util.Arrays;
 public class SimpleString {
     public static void main(String[] args) {
         StringBuffer sb1 = new StringBuffer();
-
         sb1.append(new Integer(2))
                 .append("; ")
                 .append(false)
                 .append("; ")
                 .append(Arrays.asList(1,2,3))
                 .append("; ");
-
         System.out.println(sb1); // 2; false; [1, 2, 3];
 
         String numbers = "0123456789";
