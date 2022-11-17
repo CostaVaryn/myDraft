@@ -10,7 +10,6 @@ public class SnailTest {
         int h = sc.nextInt();
         int start = 0, day = 0;
         sc.close();
-
         if (a <= b && a < h) {
             System.out.println("Никогда");
         } else {
@@ -44,8 +43,4 @@ Sample Input:
 
 Sample Output:
 6
-
-2
-2
-4
  */
