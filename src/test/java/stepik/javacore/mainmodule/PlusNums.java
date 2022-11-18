@@ -6,7 +6,6 @@ public class PlusNums {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         String s1 = sc.next();
-        //sc.next();
         String s2 = sc.next();
         sc.close();
         System.out.println(minus(s1, s2));
@@ -21,7 +20,6 @@ public class PlusNums {
                     Integer.parseInt(Character.toString(s11.charAt(i1)));
             int digit2 = i2 < 0 ? 0 :
                     Integer.parseInt(Character.toString(s22.charAt(i2)));
-
             int digit = digit1 + digit2 + carry;
             if (digit > 9) {
                 carry = 1;
@@ -29,7 +27,6 @@ public class PlusNums {
             } else {
                 carry = 0;
             }
-
             buf.append(digit);
         }
         return buf.reverse().toString();
