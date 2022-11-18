@@ -9,24 +9,24 @@ public class ForNumBetweenInt {
         int b = sc.nextInt();
 
         for (int i = a; i <= b; i++) {
-            if (i%2 == 1 || i%2 == -1) {
+            if (i % 2 == 1 || i % 2 == -1) {
                 System.out.print(i + " ");
             }
         }
         for (int i = b; i <= a; i++) {
-            if (i%2 == -1 || i%2 == 1) {
+            if (i % 2 == -1 || i % 2 == 1) {
                 System.out.print(i + " ");
             }
         }
         for (int i = a; i == b;) {
-            if (i%2 == 1 || i%2 == -1) {
+            if (i % 2 == 1 || i % 2 == -1) {
                 System.out.print(" ");
             }
         }
     }
 }
 
-/**
+/*
  * Выведите все нечётные целые числа, находящиеся между введёнными числами (включительно),
  * в одной строке через пробел, в порядке возрастания.
  *
