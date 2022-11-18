@@ -8,7 +8,6 @@ public class NumbGame {
         z += x--;
         x = y + z;
         System.out.print(++x);
-
         int xx = 25; int yy = -12;
         xx += yy;
         System.out.print(xx);
