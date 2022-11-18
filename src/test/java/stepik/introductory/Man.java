@@ -8,7 +8,6 @@ public class Man {
         System.out.println(name);
         System.out.println(age);
         System.out.println(height);
-
         int x = 2; int y = 4;
         int myVar = x + y;
         System.out.print(myVar);
