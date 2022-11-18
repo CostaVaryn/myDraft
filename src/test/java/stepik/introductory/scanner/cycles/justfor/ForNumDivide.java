@@ -6,8 +6,9 @@ public class ForNumDivide {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = Math.abs(sc.nextInt());
+        sc.close();
         int b = 1;
-        for (int i = 1; i<=a; i++) {
+        for (int i = 1; i <= a; i++) {
             if ((i % 2 == 0) && (i % 3 == 0)) {
                 b = i;
                 System.out.print(b + " ");
@@ -16,11 +17,10 @@ public class ForNumDivide {
         if (b == 1) {
             System.out.println("Таких чисел нет");
         }
-        sc.close();
     }
 }
 
-/**
+/*
  * На вход подаётся натуральное число n.
  * Выведите на печать в одной строке через пробел все числа от 1 до n включительно,
  * которые одновременно без остатка делятся на 2 и на 3.
