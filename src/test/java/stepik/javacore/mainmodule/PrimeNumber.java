@@ -11,12 +11,12 @@ public class PrimeNumber {
         boolean isprime;
         int[] arr = new int[100000];
         if (1 <= index && index <= 100000) {
-            for(i=2; i < 100; i++) {
+            for(i = 2; i < 100; i++) {
                 isprime = true;
                 // проверить, делится ли число без остатка
-                for (j=2; j <= i/j; j++)
+                for (j=2; j <= i / j; j++)
                     // если число делится без остатка, значит, оно не простое
-                    if((i%j) == 0) isprime = false;
+                    if((i % j) == 0) isprime = false;
                 if (isprime) {
                     arr[id] = i;
                     id++;
