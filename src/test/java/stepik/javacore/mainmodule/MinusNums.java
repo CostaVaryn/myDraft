@@ -22,7 +22,6 @@ public class MinusNums {
                     Integer.parseInt(Character.toString(s11.charAt(i1)));
             int digit2 = i2 < 0 ? 0 :
                     Integer.parseInt(Character.toString(s22.charAt(i2)));
-
             int digit = digit1 - digit2 - carry;
             if (digit < 0) {
                 carry = 1;
@@ -30,7 +29,6 @@ public class MinusNums {
             } else {
                 carry = 0;
             }
-
             buf.append(digit);
         }
         return buf.reverse().toString();
