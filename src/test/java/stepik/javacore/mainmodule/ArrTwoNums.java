@@ -15,7 +15,6 @@ public class ArrTwoNums {
             for (int j = 0; j < m; j++) {
                 arrInt[i][j] = Integer.parseInt(arrStr[j]);
             }
-
         }
 
         int[] rows = new int[n];
@@ -47,6 +46,5 @@ public class ArrTwoNums {
         } else {
             System.out.println("" + a + " " + b);
         }
-
     }
 }
