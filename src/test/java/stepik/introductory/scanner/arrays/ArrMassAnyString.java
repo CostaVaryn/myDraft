@@ -18,7 +18,7 @@ public class ArrMassAnyString {
         } while(sc.hasNext());
         sc.close();
 
-/**
+/*
         for (int i = 0; i <= size; i++) {
                 str[i] = sc.nextLine().split(" ");
                     System.out.println(Arrays.deepToString(str[0]));
@@ -27,7 +27,7 @@ public class ArrMassAnyString {
 */
     }
 }
-/**
+/*
  * На ввод подаются несколько строк текста. Вначале подаётся число n - количество строк, а затем сами строки.
  * Знаки препинания удалены.
  * Образуйте многомерный массив слов из этих строк и выведите его на печать.
