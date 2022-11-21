@@ -8,11 +8,9 @@ public class MathConstants {
         double b = Math.pow(y, x);
         if (a > b) {
             System.out.println(">");
-        }
-        if (a == b) {
+        } else if (a == b) {
             System.out.println("=");
-        }
-        if (a < b) {
+        } else if (a < b) {
             System.out.println("<");
         }
     }
