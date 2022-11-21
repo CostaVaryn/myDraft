@@ -6,6 +6,7 @@ public class ArrMassMultiplyTable {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(), m = sc.nextInt();
+        sc.close();
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= m; j++ ) {
                 System.out.print(j < m? j * i + " " : j * i);
@@ -15,7 +16,7 @@ public class ArrMassMultiplyTable {
     }
 }
 
-/**
+/*
  * Два индийских программиста, Махатма и Джавахарлал, вдруг обнаружили,
  * что таблица умножения иногда весьма полезна для программистов, и решили её выучить.
  * Помогите нашим индийским друзьям!
