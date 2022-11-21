@@ -10,6 +10,7 @@ public class ArrLengthNums {
         for(int i = 0; i < n; i++) {
             arr[i] = arr[i] + sc.nextInt();
         }
+        sc.close();
         System.out.print(arr[arr.length-1]);
     }
 }
