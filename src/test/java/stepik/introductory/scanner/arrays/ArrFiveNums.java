@@ -6,6 +6,7 @@ public class ArrFiveNums {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String nums = sc.nextLine();
+        sc.close();
         String[] dataHeight = nums.split(",");
         for (String el: dataHeight) {
             System.out.println(el);
