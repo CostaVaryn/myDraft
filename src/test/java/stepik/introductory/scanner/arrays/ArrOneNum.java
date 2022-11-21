@@ -6,8 +6,10 @@ import java.util.Scanner;
 public class ArrOneNum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();sc.nextLine();
+        int n = sc.nextInt();
+        sc.nextLine();
         String line = sc.nextLine();
+        sc.close();
         int b = line.replaceAll("\\s+","").length();
 
         if ( n < 0 || n >= b) {
@@ -20,7 +22,7 @@ public class ArrOneNum {
     }
 }
 
-/**
+/*
  * На вход подаётся целое число n, а на следующей строке - последовательность целых чисел через пробел,
  * Выведите число с индексом n. Если числа с таким индексом нет, выведите "Неверный ввод".
  *
