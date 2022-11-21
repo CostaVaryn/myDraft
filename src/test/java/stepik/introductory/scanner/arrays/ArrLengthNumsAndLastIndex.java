@@ -11,6 +11,7 @@ public class ArrLengthNumsAndLastIndex {
             arr[i] = arr[i] + sc.nextInt();
         }
         System.out.println(arr[sc.nextInt()]);
+        sc.close();
     }
 }
 
