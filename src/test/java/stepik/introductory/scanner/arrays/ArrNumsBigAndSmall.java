@@ -13,5 +13,6 @@ public class ArrNumsBigAndSmall {
                 System.out.print(" " + arr[i]);
             }
         }
+        sc.close();
     }
 }
