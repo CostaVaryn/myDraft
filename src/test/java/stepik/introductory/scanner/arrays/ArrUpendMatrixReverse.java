@@ -8,27 +8,28 @@ public class ArrUpendMatrixReverse {
         int counter = 0;
         int k = 0;
         String str = "";
-        while(sc.hasNextLine()) {
+        while (sc.hasNextLine()) {
             String str1 = sc.nextLine();
             str = str + str1 + " ";
             counter++;
         }
+        sc.close();
 
         String[] arr = str.split(" ");
-        int b = arr.length/counter;
+        int b = arr.length / counter;
         String[][] matrix = new String[b][counter];
         for (int i = 0 ; i < counter; i++) {
-            for (int j = 0 ; j < (arr.length/counter); j++) {
-                matrix[j][counter-1-i] = arr[arr.length-1-k];
+            for (int j = 0 ; j < (arr.length / counter); j++) {
+                matrix[j][counter - 1 - i] = arr[arr.length - 1 - k];
                 k++;
             }
         }
 
-        for (String[]i: matrix) {
+        for (String[] i : matrix) {
             int z = 1;
-            for(String j:i) {
+            for (String j : i) {
                 System.out.print(j);
-                if(counter>z) {
+                if (counter > z) {
                     System.out.print(" ");
                     z++;
                 }
@@ -36,37 +37,36 @@ public class ArrUpendMatrixReverse {
             System.out.println();
         }
 
-        /**
+        /*
         String[] arr = str.split(" ");
-        String[][] matrix = new String[counter][arr.length/counter];
+        String[][] matrix = new String[counter][arr.length / counter];
         for (int i = 0 ; i < counter; i++) {
-            for (int j = 0 ; j < (arr.length/counter); j++) {
+            for (int j = 0 ; j < (arr.length / counter); j++) {
                 matrix[i][j] = arr[k];
                 k++;
             }
         }
-        String[][] matrix2 = new String[arr.length/counter][counter];
+        String[][] matrix2 = new String[arr.length / counter][counter];
         for (int x = 0; x < counter ; x++) {
-            for (int y = (arr.length/counter)-1; y >= 0; y--) {
-                matrix2[y][x] = arr[9-k];
+            for (int y = (arr.length / counter) - 1; y >= 0; y--) {
+                matrix2[y][x] = arr[9 - k];
                 k--;
             }
         }
-        for (int m = 0; m < (arr.length/counter); m++) {
+        for (int m = 0; m < (arr.length / counter); m++) {
             for (int n = 0; n < counter; n++) {
-                if (n == (counter-1))
+                if (n == (counter - 1))
                     System.out.print(matrix2[m][n]);
                 else
                     System.out.print(matrix2[m][n] + " ");
             }
             System.out.println();
         }
-
         */
     }
 }
 
-/**
+/*
  * На вход подаётся матрица (двумерный массив). Все элементы матрицы - целые числа.
  * Поверните матрицу на 90 градусов против часовой стрелки.
  *
