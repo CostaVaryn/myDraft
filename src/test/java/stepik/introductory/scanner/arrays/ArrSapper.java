@@ -16,16 +16,17 @@ public class ArrSapper {
         int k = sc.nextInt();
         for (int i = 0; i < k; i++) {
             int x = sc.nextInt(), y = sc.nextInt();
-            arr[x-1][y-1] = 1 ;
-        //System.out.print(arr[x-1][y-1]+" ");
+            arr[x - 1][y - 1] = 1 ;
+        //System.out.print(arr[x - 1][y - 1] + " ");
         }
+        sc.close();
 
         for (int i = 0 ; i < m; i++) {
             StringBuilder builder  = new StringBuilder();
             for (int j = 0; j < n; j++) {
-                if (arr[i][j] == 1)
+                if (arr[i][j] == 1) {
                     builder.append("m" + " ");
-                else {
+                } else {
                     int leftX = i == 0 ? 0 : i - 1;
                     int rightX = i + 1 >= m ? i : i + 1;
                     int topY = j == 0 ? 0 : j - 1;
@@ -46,7 +47,7 @@ public class ArrSapper {
     }
 }
 
-/**
+/*
  * Заполните поле для игры Сапёр.
  * На вход подаются натуральные числа m и n - размеры игрового поля, затем k - количество мин,
  * далее координаты мин - x и y для каждой мины, нумерация координат начинается с единицы.
