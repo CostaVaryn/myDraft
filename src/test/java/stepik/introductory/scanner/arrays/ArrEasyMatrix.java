@@ -12,6 +12,7 @@ public class ArrEasyMatrix {
             b = Arr.length;
             a++;
         }
+        sc.close();
         System.out.println("Строк: " + a);
         System.out.print("Столбцов: " + b);
     }
