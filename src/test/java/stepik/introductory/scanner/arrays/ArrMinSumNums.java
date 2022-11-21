@@ -7,6 +7,7 @@ public class ArrMinSumNums {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String line = sc.nextLine();
+        sc.close();
         String[] nums = line.split(" ");
         Arrays.sort(nums);
         int n = nums.length;
@@ -23,7 +24,7 @@ public class ArrMinSumNums {
     }
 }
 
-/**
+/*
  * Дана последовательность целых чисел.
  * Определите минимальную сумму пар элементов массива, расстояние (разница) между индексами которых равно 2.
  * Если таких пар нет, выведите 0.
