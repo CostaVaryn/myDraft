@@ -15,7 +15,7 @@ public class ScanAlphabetOrder {
         sc.close();
 
 
-        /**
+        /*
         if (s1 > s2 && s1 > s3 && s2 > s3) {
             System.out.println(str1);
             System.out.println(str2);
