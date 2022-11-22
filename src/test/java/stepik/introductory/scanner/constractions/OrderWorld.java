@@ -11,14 +11,13 @@ public class OrderWorld {
         if (str.contains(a) || str.contains(b) || str.contains(c) || str.contains(d)) {
             System.out.println("Добро пожаловать!");
         } else {
-
             System.out.println("Здесь никого нет, Вы ошиблись дверью");
         }
         sc.close();
     }
 }
 
-/**
+/*
  * На ввод подаётся фраза-приветствие.
  * Выведите "Добро пожаловать!", если имя есть в списке, и "Здесь никого нет, Вы ошиблись дверью" - если нет.
  * Примечание. Буква "ё".
