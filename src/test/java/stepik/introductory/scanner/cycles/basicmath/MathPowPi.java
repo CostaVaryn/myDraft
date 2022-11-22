@@ -6,6 +6,7 @@ public class MathPowPi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double x = sc.nextDouble(), y = sc.nextDouble(), n = sc.nextDouble();
+        sc.close();
         double res = Math.pow(Math.pow(x,y), 1/n);
         double scale = Math.pow(10, 5);
         System.out.println(Math.round(res * scale) / scale);
