@@ -4,8 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="added AvgNumFromArrays.java">
+    <list default="true" id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="updated MathConstants.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanDivideAndModulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanDivideAndModulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanDraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanDraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanEquationRoots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanEquationRoots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanHomeClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanHomeClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanLeapYears.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScanLeapYears.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScannerSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScannerSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScannerTextDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScannerTextDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScannerZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/basconcepts/ScannerZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/MaximumEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/MaximumEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/NumberWithDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/NumberWithDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/OrderWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/OrderWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanAlphabetOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanAlphabetOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanLeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/constractions/ScanLeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathExponentiation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathNumToRadians.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathNumToRadians.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathPowPi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathPowPi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathSinCos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/basicmath/MathSinCos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileAlphabetWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileAlphabetWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileHashNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileHashNext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileNumReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileNumReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileNumericalSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileNumericalSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhilePlusSqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhilePlusSqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileSubZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileSubZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/tasksontheconditionaloperatorlevelA/EquationTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +85,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -64,13 +98,13 @@
       <recent name="C:\Users\cosva\IdeaProjects\test\src\test\java\stepik\javabasics\graphicaluserinterface\graphicsinjava\grafics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinPizza">
-    <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.basoop.block1.DogMain" />
+  <component name="RunManager" selected="Application.MiniDate">
+    <configuration name="MiniDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javapracticeautotest.block2.MiniDate" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.basoop.block1.*" />
+          <option name="PATTERN" value="stepik.javapracticeautotest.block2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.practicejavabasic.block3.MinPizza" />
+    <configuration name="OperNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javapracticeautotest.block2.OperNums" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.practicejavabasic.block3.*" />
+          <option name="PATTERN" value="stepik.javapracticeautotest.block2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpNumDivide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.basoop.block1.SimpNumDivide" />
+    <configuration name="SpiralArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javapracticeautotest.block4.SpiralArray" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.basoop.block1.*" />
+          <option name="PATTERN" value="stepik.javapracticeautotest.block4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SnailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.practicejavabasic.block3.SnailTest" />
+    <configuration name="TransposedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.javapracticeautotest.block4.TransposedMatrix" />
       <module name="myDraft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.practicejavabasic.block3.*" />
+          <option name="PATTERN" value="stepik.javapracticeautotest.block4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,15 +166,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MiniDate" />
+        <item itemvalue="Application.OperNums" />
+        <item itemvalue="Application.TransposedMatrix" />
+        <item itemvalue="Application.SpiralArray" />
         <item itemvalue="Application.stepik.basoop.block2.DogMain" />
-        <item itemvalue="Application.SnailTest" />
-        <item itemvalue="Application.SimpNumDivide" />
-        <item itemvalue="Application.MinPizza" />
-        <item itemvalue="Application.DogMain" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\cosva\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="faca7090-daf1-47d4-88b4-85e5da896da9" name="Changes" comment="" />
@@ -149,350 +186,350 @@
       <option name="presentableId" value="Default" />
       <updated>1661781973743</updated>
     </task>
-    <task id="LOCAL-01087" summary="added DateTest.java">
-      <created>1668416959158</created>
-      <option name="number" value="01087" />
-      <option name="presentableId" value="LOCAL-01087" />
+    <task id="LOCAL-01165" summary="updated SimpleString.java">
+      <created>1668682405744</created>
+      <option name="number" value="01165" />
+      <option name="presentableId" value="LOCAL-01165" />
       <option name="project" value="LOCAL" />
-      <updated>1668416959158</updated>
+      <updated>1668682405744</updated>
     </task>
-    <task id="LOCAL-01088" summary="added LarSmalPerf.java">
-      <created>1668416971734</created>
-      <option name="number" value="01088" />
-      <option name="presentableId" value="LOCAL-01088" />
+    <task id="LOCAL-01166" summary="updated StringSubstringIndex.java">
+      <created>1668682413982</created>
+      <option name="number" value="01166" />
+      <option name="presentableId" value="LOCAL-01166" />
       <option name="project" value="LOCAL" />
-      <updated>1668416971734</updated>
+      <updated>1668682413982</updated>
     </task>
-    <task id="LOCAL-01089" summary="added QueenAtt.java">
-      <created>1668416976398</created>
-      <option name="number" value="01089" />
-      <option name="presentableId" value="LOCAL-01089" />
+    <task id="LOCAL-01167" summary="updated ArrSimpleNums.java">
+      <created>1668758725350</created>
+      <option name="number" value="01167" />
+      <option name="presentableId" value="LOCAL-01167" />
       <option name="project" value="LOCAL" />
-      <updated>1668416976399</updated>
+      <updated>1668758725350</updated>
     </task>
-    <task id="LOCAL-01090" summary="added StreamStr.java">
-      <created>1668416983351</created>
-      <option name="number" value="01090" />
-      <option name="presentableId" value="LOCAL-01090" />
+    <task id="LOCAL-01168" summary="updated ArrTwoNums.java">
+      <created>1668758729321</created>
+      <option name="number" value="01168" />
+      <option name="presentableId" value="LOCAL-01168" />
       <option name="project" value="LOCAL" />
-      <updated>1668416983351</updated>
+      <updated>1668758729321</updated>
     </task>
-    <task id="LOCAL-01091" summary="added SumNums.java">
-      <created>1668416989731</created>
-      <option name="number" value="01091" />
-      <option name="presentableId" value="LOCAL-01091" />
+    <task id="LOCAL-01169" summary="updated ForAlphabetWords.java">
+      <created>1668758733180</created>
+      <option name="number" value="01169" />
+      <option name="presentableId" value="LOCAL-01169" />
       <option name="project" value="LOCAL" />
-      <updated>1668416989731</updated>
+      <updated>1668758733180</updated>
     </task>
-    <task id="LOCAL-01092" summary="added ThreeSet.java">
-      <created>1668416994946</created>
-      <option name="number" value="01092" />
-      <option name="presentableId" value="LOCAL-01092" />
+    <task id="LOCAL-01170" summary="updated ForNumBetweenInt.java">
+      <created>1668758739983</created>
+      <option name="number" value="01170" />
+      <option name="presentableId" value="LOCAL-01170" />
       <option name="project" value="LOCAL" />
-      <updated>1668416994946</updated>
+      <updated>1668758739983</updated>
     </task>
-    <task id="LOCAL-01093" summary="updated StreamIntNums.java">
-      <created>1668417008021</created>
-      <option name="number" value="01093" />
-      <option name="presentableId" value="LOCAL-01093" />
+    <task id="LOCAL-01171" summary="updated ForNumDivide.java">
+      <created>1668758745220</created>
+      <option name="number" value="01171" />
+      <option name="presentableId" value="LOCAL-01171" />
       <option name="project" value="LOCAL" />
-      <updated>1668417008022</updated>
+      <updated>1668758745220</updated>
     </task>
-    <task id="LOCAL-01094" summary="added ExitMain1.java">
-      <created>1668422512804</created>
-      <option name="number" value="01094" />
-      <option name="presentableId" value="LOCAL-01094" />
+    <task id="LOCAL-01172" summary="updated ForNumLadder.java">
+      <created>1668758751415</created>
+      <option name="number" value="01172" />
+      <option name="presentableId" value="LOCAL-01172" />
       <option name="project" value="LOCAL" />
-      <updated>1668422512804</updated>
+      <updated>1668758751415</updated>
     </task>
-    <task id="LOCAL-01095" summary="updated AvgNums.java">
-      <created>1668423399523</created>
-      <option name="number" value="01095" />
-      <option name="presentableId" value="LOCAL-01095" />
+    <task id="LOCAL-01173" summary="updated ForNumLadderDouble.java">
+      <created>1668758756903</created>
+      <option name="number" value="01173" />
+      <option name="presentableId" value="LOCAL-01173" />
       <option name="project" value="LOCAL" />
-      <updated>1668423399523</updated>
+      <updated>1668758756903</updated>
     </task>
-    <task id="LOCAL-01096" summary="updated CheckResume.java">
-      <created>1668423405637</created>
-      <option name="number" value="01096" />
-      <option name="presentableId" value="LOCAL-01096" />
+    <task id="LOCAL-01174" summary="updated ForNumOddDivide.java">
+      <created>1668758761435</created>
+      <option name="number" value="01174" />
+      <option name="presentableId" value="LOCAL-01174" />
       <option name="project" value="LOCAL" />
-      <updated>1668423405638</updated>
+      <updated>1668758761435</updated>
     </task>
-    <task id="LOCAL-01097" summary="updated MapGiven.java">
-      <created>1668423412350</created>
-      <option name="number" value="01097" />
-      <option name="presentableId" value="LOCAL-01097" />
+    <task id="LOCAL-01175" summary="updated ForNumRepeat.java">
+      <created>1668758766545</created>
+      <option name="number" value="01175" />
+      <option name="presentableId" value="LOCAL-01175" />
       <option name="project" value="LOCAL" />
-      <updated>1668423412350</updated>
+      <updated>1668758766545</updated>
     </task>
-    <task id="LOCAL-01098" summary="updated PalindromeClass.java">
-      <created>1668423418194</created>
-      <option name="number" value="01098" />
-      <option name="presentableId" value="LOCAL-01098" />
+    <task id="LOCAL-01176" summary="updated ForNumSqrt.java">
+      <created>1668758770948</created>
+      <option name="number" value="01176" />
+      <option name="presentableId" value="LOCAL-01176" />
       <option name="project" value="LOCAL" />
-      <updated>1668423418194</updated>
+      <updated>1668758770948</updated>
     </task>
-    <task id="LOCAL-01099" summary="updated Queen.java">
-      <created>1668423423408</created>
-      <option name="number" value="01099" />
-      <option name="presentableId" value="LOCAL-01099" />
+    <task id="LOCAL-01177" summary="updated ForNumSubseqDouble.java">
+      <created>1668758777238</created>
+      <option name="number" value="01177" />
+      <option name="presentableId" value="LOCAL-01177" />
       <option name="project" value="LOCAL" />
-      <updated>1668423423408</updated>
+      <updated>1668758777238</updated>
     </task>
-    <task id="LOCAL-01100" summary="updated Snail.java">
-      <created>1668423429057</created>
-      <option name="number" value="01100" />
-      <option name="presentableId" value="LOCAL-01100" />
+    <task id="LOCAL-01178" summary="updated ForNumSubsequence.java">
+      <created>1668758784026</created>
+      <option name="number" value="01178" />
+      <option name="presentableId" value="LOCAL-01178" />
       <option name="project" value="LOCAL" />
-      <updated>1668423429057</updated>
+      <updated>1668758784026</updated>
     </task>
-    <task id="LOCAL-01101" summary="updated SortValues.java">
-      <created>1668423439460</created>
-      <option name="number" value="01101" />
-      <option name="presentableId" value="LOCAL-01101" />
+    <task id="LOCAL-01179" summary="updated ForSimpleNum.java">
+      <created>1668758787928</created>
+      <option name="number" value="01179" />
+      <option name="presentableId" value="LOCAL-01179" />
       <option name="project" value="LOCAL" />
-      <updated>1668423439460</updated>
+      <updated>1668758787928</updated>
     </task>
-    <task id="LOCAL-01102" summary="updated StreamIntNums.java">
-      <created>1668423444014</created>
-      <option name="number" value="01102" />
-      <option name="presentableId" value="LOCAL-01102" />
+    <task id="LOCAL-01180" summary="updated ForSimpleRectangle.java">
+      <created>1668758794005</created>
+      <option name="number" value="01180" />
+      <option name="presentableId" value="LOCAL-01180" />
       <option name="project" value="LOCAL" />
-      <updated>1668423444014</updated>
+      <updated>1668758794005</updated>
     </task>
-    <task id="LOCAL-01103" summary="updated AddNum.java">
-      <created>1668424406246</created>
-      <option name="number" value="01103" />
-      <option name="presentableId" value="LOCAL-01103" />
+    <task id="LOCAL-01181" summary="updated LogicExpression.java">
+      <created>1668758799231</created>
+      <option name="number" value="01181" />
+      <option name="presentableId" value="LOCAL-01181" />
       <option name="project" value="LOCAL" />
-      <updated>1668424406246</updated>
+      <updated>1668758799231</updated>
     </task>
-    <task id="LOCAL-01104" summary="updated Anagramma.java">
-      <created>1668424410455</created>
-      <option name="number" value="01104" />
-      <option name="presentableId" value="LOCAL-01104" />
+    <task id="LOCAL-01182" summary="updated Man.java">
+      <created>1668758803456</created>
+      <option name="number" value="01182" />
+      <option name="presentableId" value="LOCAL-01182" />
       <option name="project" value="LOCAL" />
-      <updated>1668424410455</updated>
+      <updated>1668758803456</updated>
     </task>
-    <task id="LOCAL-01105" summary="updated NullObjectDesignPattern.java">
-      <created>1668424415726</created>
-      <option name="number" value="01105" />
-      <option name="presentableId" value="LOCAL-01105" />
+    <task id="LOCAL-01183" summary="updated MaxNum.java">
+      <created>1668758809557</created>
+      <option name="number" value="01183" />
+      <option name="presentableId" value="LOCAL-01183" />
       <option name="project" value="LOCAL" />
-      <updated>1668424415726</updated>
+      <updated>1668758809557</updated>
     </task>
-    <task id="LOCAL-01106" summary="updated TestScanner.java">
-      <created>1668424421272</created>
-      <option name="number" value="01106" />
-      <option name="presentableId" value="LOCAL-01106" />
+    <task id="LOCAL-01184" summary="updated MinusNums.java">
+      <created>1668758826076</created>
+      <option name="number" value="01184" />
+      <option name="presentableId" value="LOCAL-01184" />
       <option name="project" value="LOCAL" />
-      <updated>1668424421272</updated>
+      <updated>1668758826076</updated>
     </task>
-    <task id="LOCAL-01107" summary="updated AvgNums.java">
-      <created>1668500908529</created>
-      <option name="number" value="01107" />
-      <option name="presentableId" value="LOCAL-01107" />
+    <task id="LOCAL-01185" summary="updated NumbGame.java">
+      <created>1668758831685</created>
+      <option name="number" value="01185" />
+      <option name="presentableId" value="LOCAL-01185" />
       <option name="project" value="LOCAL" />
-      <updated>1668500908529</updated>
+      <updated>1668758831685</updated>
     </task>
-    <task id="LOCAL-01108" summary="updated SortValues.java">
-      <created>1668500914532</created>
-      <option name="number" value="01108" />
-      <option name="presentableId" value="LOCAL-01108" />
+    <task id="LOCAL-01186" summary="updated PlusNums.java">
+      <created>1668758837312</created>
+      <option name="number" value="01186" />
+      <option name="presentableId" value="LOCAL-01186" />
       <option name="project" value="LOCAL" />
-      <updated>1668500914532</updated>
+      <updated>1668758837312</updated>
     </task>
-    <task id="LOCAL-01109" summary="added AgentPass.java">
-      <created>1668500919866</created>
-      <option name="number" value="01109" />
-      <option name="presentableId" value="LOCAL-01109" />
+    <task id="LOCAL-01187" summary="updated PrimeNumber.java">
+      <created>1668758843027</created>
+      <option name="number" value="01187" />
+      <option name="presentableId" value="LOCAL-01187" />
       <option name="project" value="LOCAL" />
-      <updated>1668500919866</updated>
+      <updated>1668758843027</updated>
     </task>
-    <task id="LOCAL-01110" summary="added DogMain.java">
-      <created>1668500924828</created>
-      <option name="number" value="01110" />
-      <option name="presentableId" value="LOCAL-01110" />
+    <task id="LOCAL-01188" summary="updated TwoNumAndOneMin.java">
+      <created>1668848418638</created>
+      <option name="number" value="01188" />
+      <option name="presentableId" value="LOCAL-01188" />
       <option name="project" value="LOCAL" />
-      <updated>1668500924828</updated>
+      <updated>1668848418638</updated>
     </task>
-    <task id="LOCAL-01111" summary="added LeapYearYN.java">
-      <created>1668500932609</created>
-      <option name="number" value="01111" />
-      <option name="presentableId" value="LOCAL-01111" />
+    <task id="LOCAL-01189" summary="updated WhileAlphabetWords.java">
+      <created>1668848425240</created>
+      <option name="number" value="01189" />
+      <option name="presentableId" value="LOCAL-01189" />
       <option name="project" value="LOCAL" />
-      <updated>1668500932609</updated>
+      <updated>1668848425240</updated>
     </task>
-    <task id="LOCAL-01112" summary="added MiniDate.java">
-      <created>1668500938992</created>
-      <option name="number" value="01112" />
-      <option name="presentableId" value="LOCAL-01112" />
+    <task id="LOCAL-01190" summary="updated WhileHashNext.java">
+      <created>1668848431933</created>
+      <option name="number" value="01190" />
+      <option name="presentableId" value="LOCAL-01190" />
       <option name="project" value="LOCAL" />
-      <updated>1668500938992</updated>
+      <updated>1668848431933</updated>
     </task>
-    <task id="LOCAL-01113" summary="added SimpNumDivide.java">
-      <created>1668500944701</created>
-      <option name="number" value="01113" />
-      <option name="presentableId" value="LOCAL-01113" />
+    <task id="LOCAL-01191" summary="updated WhileNumericalSequence.java">
+      <created>1669016321092</created>
+      <option name="number" value="01191" />
+      <option name="presentableId" value="LOCAL-01191" />
       <option name="project" value="LOCAL" />
-      <updated>1668500944701</updated>
+      <updated>1669016321093</updated>
     </task>
-    <task id="LOCAL-01114" summary="updated DogMain.java">
-      <created>1668501978376</created>
-      <option name="number" value="01114" />
-      <option name="presentableId" value="LOCAL-01114" />
+    <task id="LOCAL-01192" summary="updated WhileNumReverse.java">
+      <created>1669016325686</created>
+      <option name="number" value="01192" />
+      <option name="presentableId" value="LOCAL-01192" />
       <option name="project" value="LOCAL" />
-      <updated>1668501978376</updated>
+      <updated>1669016325686</updated>
     </task>
-    <task id="LOCAL-01115" summary="updated DogMain.java">
-      <created>1668502791070</created>
-      <option name="number" value="01115" />
-      <option name="presentableId" value="LOCAL-01115" />
+    <task id="LOCAL-01193" summary="updated WhilePlusSqrt.java">
+      <created>1669016329873</created>
+      <option name="number" value="01193" />
+      <option name="presentableId" value="LOCAL-01193" />
       <option name="project" value="LOCAL" />
-      <updated>1668502791070</updated>
+      <updated>1669016329873</updated>
     </task>
-    <task id="LOCAL-01116" summary="added SortMinMax.java">
-      <created>1668508139266</created>
-      <option name="number" value="01116" />
-      <option name="presentableId" value="LOCAL-01116" />
+    <task id="LOCAL-01194" summary="updated WhileRating.java">
+      <created>1669016334229</created>
+      <option name="number" value="01194" />
+      <option name="presentableId" value="LOCAL-01194" />
       <option name="project" value="LOCAL" />
-      <updated>1668508139266</updated>
+      <updated>1669016334229</updated>
     </task>
-    <task id="LOCAL-01117" summary="added ConvertMain.java">
-      <created>1668508143435</created>
-      <option name="number" value="01117" />
-      <option name="presentableId" value="LOCAL-01117" />
+    <task id="LOCAL-01195" summary="updated WhileSubZero.java">
+      <created>1669016340986</created>
+      <option name="number" value="01195" />
+      <option name="presentableId" value="LOCAL-01195" />
       <option name="project" value="LOCAL" />
-      <updated>1668508143435</updated>
+      <updated>1669016340986</updated>
     </task>
-    <task id="LOCAL-01118" summary="added DogMain.java">
-      <created>1668510028662</created>
-      <option name="number" value="01118" />
-      <option name="presentableId" value="LOCAL-01118" />
+    <task id="LOCAL-01196" summary="updated ArrEasyMatrix.java">
+      <created>1669017821486</created>
+      <option name="number" value="01196" />
+      <option name="presentableId" value="LOCAL-01196" />
       <option name="project" value="LOCAL" />
-      <updated>1668510028662</updated>
+      <updated>1669017821486</updated>
     </task>
-    <task id="LOCAL-01119" summary="updated ConvertMain.java">
-      <created>1668510039074</created>
-      <option name="number" value="01119" />
-      <option name="presentableId" value="LOCAL-01119" />
+    <task id="LOCAL-01197" summary="updated ArrFiveNums.java">
+      <created>1669018134637</created>
+      <option name="number" value="01197" />
+      <option name="presentableId" value="LOCAL-01197" />
       <option name="project" value="LOCAL" />
-      <updated>1668510039074</updated>
+      <updated>1669018134638</updated>
     </task>
-    <task id="LOCAL-01120" summary="updated MiniDate.java">
-      <created>1668510043940</created>
-      <option name="number" value="01120" />
-      <option name="presentableId" value="LOCAL-01120" />
+    <task id="LOCAL-01198" summary="updated ArrLengthNums.java">
+      <created>1669018139763</created>
+      <option name="number" value="01198" />
+      <option name="presentableId" value="LOCAL-01198" />
       <option name="project" value="LOCAL" />
-      <updated>1668510043940</updated>
+      <updated>1669018139763</updated>
     </task>
-    <task id="LOCAL-01121" summary="updated SimpNumDivide.java">
-      <created>1668510048076</created>
-      <option name="number" value="01121" />
-      <option name="presentableId" value="LOCAL-01121" />
+    <task id="LOCAL-01199" summary="updated ArrLengthNumsAndLastIndex.java">
+      <created>1669018146329</created>
+      <option name="number" value="01199" />
+      <option name="presentableId" value="LOCAL-01199" />
       <option name="project" value="LOCAL" />
-      <updated>1668510048076</updated>
+      <updated>1669018146329</updated>
     </task>
-    <task id="LOCAL-01122" summary="updated SortMinMax.java">
-      <created>1668510052508</created>
-      <option name="number" value="01122" />
-      <option name="presentableId" value="LOCAL-01122" />
+    <task id="LOCAL-01200" summary="updated ArrMassAnyString.java">
+      <created>1669018151556</created>
+      <option name="number" value="01200" />
+      <option name="presentableId" value="LOCAL-01200" />
       <option name="project" value="LOCAL" />
-      <updated>1668510052508</updated>
+      <updated>1669018151556</updated>
     </task>
-    <task id="LOCAL-01123" summary="updated DogMain.java">
-      <created>1668511096260</created>
-      <option name="number" value="01123" />
-      <option name="presentableId" value="LOCAL-01123" />
+    <task id="LOCAL-01201" summary="updated ArrMassMultiplyTable.java">
+      <created>1669018157252</created>
+      <option name="number" value="01201" />
+      <option name="presentableId" value="LOCAL-01201" />
       <option name="project" value="LOCAL" />
-      <updated>1668511096260</updated>
+      <updated>1669018157252</updated>
     </task>
-    <task id="LOCAL-01124" summary="added NegativeAgeException.java">
-      <created>1668511102106</created>
-      <option name="number" value="01124" />
-      <option name="presentableId" value="LOCAL-01124" />
+    <task id="LOCAL-01202" summary="updated ArrMinSumNums.java">
+      <created>1669018165114</created>
+      <option name="number" value="01202" />
+      <option name="presentableId" value="LOCAL-01202" />
       <option name="project" value="LOCAL" />
-      <updated>1668511102106</updated>
+      <updated>1669018165114</updated>
     </task>
-    <task id="LOCAL-01125" summary="updated DogMain.java">
-      <created>1668515013389</created>
-      <option name="number" value="01125" />
-      <option name="presentableId" value="LOCAL-01125" />
+    <task id="LOCAL-01203" summary="updated ArrNumFive.java">
+      <created>1669018180364</created>
+      <option name="number" value="01203" />
+      <option name="presentableId" value="LOCAL-01203" />
       <option name="project" value="LOCAL" />
-      <updated>1668515013389</updated>
+      <updated>1669018180364</updated>
     </task>
-    <task id="LOCAL-01126" summary="updated workspace.xml">
-      <created>1668515040440</created>
-      <option name="number" value="01126" />
-      <option name="presentableId" value="LOCAL-01126" />
+    <task id="LOCAL-01204" summary="updated ArrNumsAndSum.java">
+      <created>1669018187741</created>
+      <option name="number" value="01204" />
+      <option name="presentableId" value="LOCAL-01204" />
       <option name="project" value="LOCAL" />
-      <updated>1668515040440</updated>
+      <updated>1669018187741</updated>
     </task>
-    <task id="LOCAL-01127" summary="added HelloNo.java">
-      <created>1668522903267</created>
-      <option name="number" value="01127" />
-      <option name="presentableId" value="LOCAL-01127" />
+    <task id="LOCAL-01205" summary="updated ArrNumsBigAndSmall.java">
+      <created>1669018203830</created>
+      <option name="number" value="01205" />
+      <option name="presentableId" value="LOCAL-01205" />
       <option name="project" value="LOCAL" />
-      <updated>1668522903267</updated>
+      <updated>1669018203830</updated>
     </task>
-    <task id="LOCAL-01128" summary="updated HelloNo.java">
-      <created>1668585504761</created>
-      <option name="number" value="01128" />
-      <option name="presentableId" value="LOCAL-01128" />
+    <task id="LOCAL-01206" summary="updated ArrNumsPrintFull.java">
+      <created>1669018208103</created>
+      <option name="number" value="01206" />
+      <option name="presentableId" value="LOCAL-01206" />
       <option name="project" value="LOCAL" />
-      <updated>1668585504762</updated>
+      <updated>1669018208103</updated>
     </task>
-    <task id="LOCAL-01129" summary="updated PrinlList.java">
-      <created>1668586146274</created>
-      <option name="number" value="01129" />
-      <option name="presentableId" value="LOCAL-01129" />
+    <task id="LOCAL-01207" summary="updated ArrOccurringNumberSequence.java">
+      <created>1669018214336</created>
+      <option name="number" value="01207" />
+      <option name="presentableId" value="LOCAL-01207" />
       <option name="project" value="LOCAL" />
-      <updated>1668586146274</updated>
+      <updated>1669018214336</updated>
     </task>
-    <task id="LOCAL-01130" summary="updated PersonData.java">
-      <created>1668586150988</created>
-      <option name="number" value="01130" />
-      <option name="presentableId" value="LOCAL-01130" />
+    <task id="LOCAL-01208" summary="updated ArrOneNum.java">
+      <created>1669018218836</created>
+      <option name="number" value="01208" />
+      <option name="presentableId" value="LOCAL-01208" />
       <option name="project" value="LOCAL" />
-      <updated>1668586150988</updated>
+      <updated>1669018218836</updated>
     </task>
-    <task id="LOCAL-01131" summary="added SnailTest.java">
-      <created>1668586175738</created>
-      <option name="number" value="01131" />
-      <option name="presentableId" value="LOCAL-01131" />
+    <task id="LOCAL-01209" summary="updated ArrOneThreeTwo.java">
+      <created>1669018224974</created>
+      <option name="number" value="01209" />
+      <option name="presentableId" value="LOCAL-01209" />
       <option name="project" value="LOCAL" />
-      <updated>1668586175738</updated>
+      <updated>1669018224974</updated>
     </task>
-    <task id="LOCAL-01132" summary="added MinPizza.java">
-      <created>1668600560567</created>
-      <option name="number" value="01132" />
-      <option name="presentableId" value="LOCAL-01132" />
+    <task id="LOCAL-01210" summary="updated ArrSapper.java">
+      <created>1669018231683</created>
+      <option name="number" value="01210" />
+      <option name="presentableId" value="LOCAL-01210" />
       <option name="project" value="LOCAL" />
-      <updated>1668600560567</updated>
+      <updated>1669018231683</updated>
     </task>
-    <task id="LOCAL-01133" summary="added MaxValue.java">
-      <created>1668600565680</created>
-      <option name="number" value="01133" />
-      <option name="presentableId" value="LOCAL-01133" />
+    <task id="LOCAL-01211" summary="updated ArrUpendMatrix.java">
+      <created>1669018241166</created>
+      <option name="number" value="01211" />
+      <option name="presentableId" value="LOCAL-01211" />
       <option name="project" value="LOCAL" />
-      <updated>1668600565680</updated>
+      <updated>1669018241166</updated>
     </task>
-    <task id="LOCAL-01134" summary="added CheckPay.java">
-      <created>1668600571736</created>
-      <option name="number" value="01134" />
-      <option name="presentableId" value="LOCAL-01134" />
+    <task id="LOCAL-01212" summary="updated ArrUpendMatrixReverse.java">
+      <created>1669018247024</created>
+      <option name="number" value="01212" />
+      <option name="presentableId" value="LOCAL-01212" />
       <option name="project" value="LOCAL" />
-      <updated>1668600571737</updated>
+      <updated>1669018247024</updated>
     </task>
-    <task id="LOCAL-01135" summary="added AvgNumFromArrays.java">
-      <created>1668600577290</created>
-      <option name="number" value="01135" />
-      <option name="presentableId" value="LOCAL-01135" />
+    <task id="LOCAL-01213" summary="updated MathConstants.java">
+      <created>1669018284277</created>
+      <option name="number" value="01213" />
+      <option name="presentableId" value="LOCAL-01213" />
       <option name="project" value="LOCAL" />
-      <updated>1668600577290</updated>
+      <updated>1669018284278</updated>
     </task>
-    <option name="localTasksCounter" value="1136" />
+    <option name="localTasksCounter" value="1214" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,32 +544,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated AvgNums.java" />
-    <MESSAGE value="updated SortValues.java" />
-    <MESSAGE value="added AgentPass.java" />
-    <MESSAGE value="added LeapYearYN.java" />
-    <MESSAGE value="added MiniDate.java" />
-    <MESSAGE value="added SimpNumDivide.java" />
-    <MESSAGE value="added SortMinMax.java" />
-    <MESSAGE value="added ConvertMain.java" />
-    <MESSAGE value="added DogMain.java" />
-    <MESSAGE value="updated ConvertMain.java" />
-    <MESSAGE value="updated MiniDate.java" />
-    <MESSAGE value="updated SimpNumDivide.java" />
-    <MESSAGE value="updated SortMinMax.java" />
-    <MESSAGE value="added NegativeAgeException.java" />
-    <MESSAGE value="updated DogMain.java" />
-    <MESSAGE value="updated workspace.xml" />
-    <MESSAGE value="added HelloNo.java" />
-    <MESSAGE value="updated HelloNo.java" />
-    <MESSAGE value="updated PrinlList.java" />
-    <MESSAGE value="updated PersonData.java" />
-    <MESSAGE value="added SnailTest.java" />
-    <MESSAGE value="added MinPizza.java" />
-    <MESSAGE value="added MaxValue.java" />
-    <MESSAGE value="added CheckPay.java" />
-    <MESSAGE value="added AvgNumFromArrays.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added AvgNumFromArrays.java" />
+    <MESSAGE value="updated WhileAlphabetWords.java" />
+    <MESSAGE value="updated WhileHashNext.java" />
+    <MESSAGE value="updated WhileNumericalSequence.java" />
+    <MESSAGE value="updated WhileNumReverse.java" />
+    <MESSAGE value="updated WhilePlusSqrt.java" />
+    <MESSAGE value="updated WhileRating.java" />
+    <MESSAGE value="updated WhileSubZero.java" />
+    <MESSAGE value="updated ArrEasyMatrix.java" />
+    <MESSAGE value="updated ArrFiveNums.java" />
+    <MESSAGE value="updated ArrLengthNums.java" />
+    <MESSAGE value="updated ArrLengthNumsAndLastIndex.java" />
+    <MESSAGE value="updated ArrMassAnyString.java" />
+    <MESSAGE value="updated ArrMassMultiplyTable.java" />
+    <MESSAGE value="updated ArrMinSumNums.java" />
+    <MESSAGE value="updated ArrNumFive.java" />
+    <MESSAGE value="updated ArrNumsAndSum.java" />
+    <MESSAGE value="updated ArrNumsBigAndSmall.java" />
+    <MESSAGE value="updated ArrNumsPrintFull.java" />
+    <MESSAGE value="updated ArrOccurringNumberSequence.java" />
+    <MESSAGE value="updated ArrOneNum.java" />
+    <MESSAGE value="updated ArrOneThreeTwo.java" />
+    <MESSAGE value="updated ArrSapper.java" />
+    <MESSAGE value="updated ArrUpendMatrix.java" />
+    <MESSAGE value="updated ArrUpendMatrixReverse.java" />
+    <MESSAGE value="updated MathConstants.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated MathConstants.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -546,11 +583,6 @@
           <option name="timeStamp" value="6" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justwhile/WhileRating.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/stepik/introductory/scanner/cycles/justfor/ForEasyInserted.java</url>
           <line>8</line>
           <option name="timeStamp" value="12" />
@@ -559,11 +591,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/ternaryoperator/JustMainNums.java</url>
           <line>4</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/twodimensionalarrays/Rotate90Left.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/stepik/javabasics/languagebasics/basicstringfunctions/HowManyWords.java</url>
