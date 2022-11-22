@@ -12,7 +12,7 @@ public class MathExponentiation {
     }
 }
 
-/**
+/*
  * На вход подаются два числа, x и y. Выведите на печать  x^{y}
  *
  * Sample Input:
