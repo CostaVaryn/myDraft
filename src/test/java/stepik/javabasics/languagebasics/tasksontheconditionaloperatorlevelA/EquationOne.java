@@ -6,6 +6,7 @@ public class EquationOne {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt(), b = sc.nextInt();
+        sc.close();
         if (a == 0 && b == 0) {
             System.out.println("inf");
         } else {
@@ -24,6 +25,7 @@ Sample Input 1:
 -5
 Sample Output 1:
 1
+
 Sample Input 2:
 0
 2
