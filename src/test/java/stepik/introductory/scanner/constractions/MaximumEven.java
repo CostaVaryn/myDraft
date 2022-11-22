@@ -8,22 +8,21 @@ public class MaximumEven {
         int a = sc.nextInt(); int b = sc.nextInt(); int c = sc.nextInt();
         int min = Math.min(Math.min(a, b), c);
         int max = Math.max(Math.max(a, b), c);
-        int w = (a+b+c)-min-max;
+        int w = (a + b + c) - min - max;
         sc.close();
-        if (max%2==0) {
+        if (max % 2 == 0) {
             System.out.println(max);
-        }
-        else if (w%2==0) {
+        } else if (w % 2 == 0) {
             System.out.println(w);
-        }
-        else if (min%2==0) {
+        } else if (min % 2 == 0) {
             System.out.println(min);
+        } else {
+            System.out.println("Чётных чисел нет");
         }
-        else System.out.println("Чётных чисел нет");
     }
 }
 
-/**
+/*
  * На вход подаётся три целых числа. Выведите максимальное чётное из них.
  * Если чётных чисел нет, выведите "Чётных чисел нет".
  *
