@@ -6,7 +6,8 @@ class ScannerZero {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt(), y = sc.nextInt();
-        int z = ((x+1)/(y-1))+((y+1)/(x-1));
+        sc.close();
+        int z = ((x + 1) / (y - 1)) + ((y + 1) / (x - 1));
         System.out.println(z);
 
         char a, b, c;
@@ -17,7 +18,7 @@ class ScannerZero {
         System.out.println(b); // J
         System.out.println(c); // ⌚
 
-        /**
+        /*
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
         for (--x; x < 12; x++) {
