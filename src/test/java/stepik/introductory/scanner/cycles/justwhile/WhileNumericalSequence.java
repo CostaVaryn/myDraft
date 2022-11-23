@@ -6,7 +6,7 @@ public class WhileNumericalSequence {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt(), count = 0, sum = 0;
-
+        sc.close();
         while (true) {
             count++;
             if (x % 11 == 0) {
@@ -17,8 +17,6 @@ public class WhileNumericalSequence {
                 break;
             }
         }
-
-        sc.close();
         System.out.println(count);
         System.out.println(sum);
     }
