@@ -9,7 +9,7 @@ public class WhileAlphabetWords {
         int val1 = let1.charAt(0), val2 = let2.charAt(0);
         while (sc.hasNext()) {
             String str = sc.next();
-            if ((str.charAt(0) >=val1) && (str.charAt(0) <= val2)) {
+            if ((str.charAt(0) >= val1) && (str.charAt(0) <= val2)) {
                 System.out.println(str);
             }
         }
