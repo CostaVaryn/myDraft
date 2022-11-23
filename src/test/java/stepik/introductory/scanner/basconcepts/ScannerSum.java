@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class ScannerSum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         double x = sc.nextDouble(), y = sc.nextDouble();
         double square = x * y;
         double perimeter = 2 * (x + y);
@@ -13,7 +12,7 @@ public class ScannerSum {
         System.out.println(perimeter);
         sc.close();
 
-        /**
+        /*
          * x += y;    // То же самое, что и x = x + y;
          * x -= y;    // То же самое, что и x = x - y;
          * x *= y;    // То же самое, что и x = x * y;
@@ -22,7 +21,7 @@ public class ScannerSum {
          */
 
 
-       /**
+       /*
         int x = sc.nextInt(), y = sc.nextInt();
         int sum = x + y;
         System.out.print(sum);
