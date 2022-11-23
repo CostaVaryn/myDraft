@@ -6,9 +6,10 @@ public class WhileSubZero {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = 0, sum = 0;
-        while ((x=sc.nextInt()) != 0 ) {
+        while ((x = sc.nextInt()) != 0 ) {
             sum += x;
         }
+        sc.close();
         System.out.println(sum);
     }
 }
