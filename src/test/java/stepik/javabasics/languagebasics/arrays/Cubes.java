@@ -6,6 +6,7 @@ public class Cubes {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int f = sc.nextInt(), s = sc.nextInt();
+        sc.close();
         int n = 1001;
         int[] a = new int[n];
         for (int i = 0; i < n; i++) {
