@@ -17,6 +17,7 @@ public class WhileRating {
                 break;
             }
         }
+        sc.close();
         double res = ((sum - x) / (count - 1));
         System.out.println(res);
     }
