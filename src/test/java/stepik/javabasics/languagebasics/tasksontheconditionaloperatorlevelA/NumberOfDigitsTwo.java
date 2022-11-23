@@ -6,6 +6,7 @@ public class NumberOfDigitsTwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
+        sc.close();
         int n = str.length();
         System.out.println(n);
     }
