@@ -7,6 +7,6 @@ public class ScanLeapYears {
         Scanner sc = new Scanner(System.in);
         int year = sc.nextInt();
         sc.close();
-        System.out.printf("%s",(year/4)+(year/400)-(year/100));
+        System.out.printf("%s",(year / 4) + (year / 400) - (year / 100));
     }
 }
