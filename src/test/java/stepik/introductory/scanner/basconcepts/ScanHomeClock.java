@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ScanHomeClock {
 
-    /**
+    /*
      * Sample Input 1:
      * 41000
      * Sample Output 1:
@@ -19,6 +19,7 @@ public class ScanHomeClock {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int value = sc.nextInt();
+        sc.close();
         if (value > 86400) {
             value -= 86400;
         }
@@ -27,14 +28,14 @@ public class ScanHomeClock {
         int h = (value % 86400) / 3600;
         String.valueOf(System.out.format("%02d" + ":" + "%02d" + ":" + "%02d\n", h, m, s));
 
-        /**
+        /*
          *          int h = value / 3600;
          *          int m = (value % 3600) / 60;
          *          int s = (value % 3600) % 60;
          *          System.out.printf("%02d" + ":" + "%02d" + ":" + "%02d", h, m, s);
          */
 
-        /**
+        /*
          *         int value = sc.nextInt();
          *         int hours = value/3600;
          *         int minutes = (value - (3600 * hours))/60;
