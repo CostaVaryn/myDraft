@@ -1,5 +1,6 @@
 package stepik.javabasics.languagebasics.arrays;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class BowlingAlley {
@@ -7,9 +8,7 @@ public class BowlingAlley {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
         String[] pin = new String[N];
-        for (int i = 0; i < pin.length; i++) {
-            pin[i] = "I";
-        }
+        Arrays.fill(pin, "I");
         int K = sc.nextInt();
         for (int i = 1; i <= K; i++) {
             int a = sc.nextInt();
@@ -18,6 +17,7 @@ public class BowlingAlley {
                 pin[j] = ".";
             }
         }
+        sc.close();
         for (String j : pin) {
             System.out.print(j);
         }
