@@ -6,6 +6,7 @@ public class WhileNumReverse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String num = sc.nextLine();
+        sc.close();
         int val = num.length() - 1;
         do {
             System.out.print(num.charAt(val));
