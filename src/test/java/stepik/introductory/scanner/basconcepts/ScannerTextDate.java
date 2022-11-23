@@ -8,6 +8,7 @@ public class ScannerTextDate {
         int yy = sc.nextInt();
         String mm = sc.next();
         int dd = sc.nextInt();
-        System.out.println(dd+":"+mm+":"+yy);
+        sc.close();
+        System.out.println(dd + ":" + mm + ":" + yy);
     }
 }
