@@ -10,13 +10,13 @@ public class WhileHashNext {
         int count = 0;
         while (sc.hasNextInt()) {
             int a = sc.nextInt();
-            if(a % 11 == 0)
+            if (a % 11 == 0)
                 x = a;
             count++;
-            if(x % 3 == 0)
+            if (x % 3 == 0)
                 y += x;
         }
-        System.out.println(count-1);
+        System.out.println(count - 1);
         System.out.print(y - x);
     }
 }
