@@ -11,6 +11,7 @@ public class Task6 {
             count += a;
             a = sc.nextInt();
         }
+        sc.close();
         System.out.println(count);
     }
 }
