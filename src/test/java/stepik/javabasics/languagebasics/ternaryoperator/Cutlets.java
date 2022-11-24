@@ -6,6 +6,7 @@ public class Cutlets {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int k = sc.nextInt(), m = sc.nextInt(), n = sc.nextInt();
+        sc.close();
         int a = (n / k) * (2 * m);
         if (n % k > 0)
             a = a + (2 * m);
