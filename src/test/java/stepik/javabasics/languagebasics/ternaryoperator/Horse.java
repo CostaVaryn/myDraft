@@ -6,6 +6,7 @@ public class Horse {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         double x1 = sc.nextDouble(), y1 = sc.nextDouble(), x2 = sc.nextDouble(), y2 = sc.nextDouble();
+        sc.close();
         if (((x1 - 1 == x2) || (x1 + 1 == x2)) && ((y1 - 2 == y2) || (y1 + 2 == y2))) {
             System.out.println("YES");
         } else if (((x1 - 2 == x2) || (x1 + 2 == x2)) && ((y1 - 1 == y2) || (y1 + 1 == y2))) {
