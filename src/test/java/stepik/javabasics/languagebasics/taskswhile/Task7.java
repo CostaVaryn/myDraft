@@ -11,6 +11,7 @@ public class Task7 {
         while (sumX < n) {
             sumX += x;
         }
+        sc.close();
         System.out.println(sumX);
     }
 }
