@@ -6,7 +6,8 @@ public class PointFour {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         double x = sc.nextDouble(), y = sc.nextDouble();
-        if ((y < ((x*x)-3)) && ((y*y) <= (5-(x*x)))) {
+        sc.close();
+        if ((y < ((x * x) - 3)) && ((y * y) <= (5 - (x * x)))) {
             System.out.println("Yes");
         } else {
             System.out.println("No");
