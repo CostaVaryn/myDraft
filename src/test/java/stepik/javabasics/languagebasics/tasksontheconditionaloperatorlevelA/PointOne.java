@@ -6,7 +6,8 @@ public class PointOne {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double x = sc.nextDouble(), y = sc.nextDouble();
-        if (y > (2*x)) {
+        sc.close();
+        if (y > (2 * x)) {
             System.out.println("Yes");
         } else {
             System.out.println("No");
