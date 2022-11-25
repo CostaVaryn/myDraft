@@ -12,6 +12,7 @@ public class AverageAge {
             double age = sc.nextDouble();
             sumAge += age;
         }
+        sc.close();
         System.out.println(sumAge/n);
     }
 }
