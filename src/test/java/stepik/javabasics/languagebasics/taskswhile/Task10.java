@@ -6,6 +6,7 @@ public class Task10 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        sc.close();
         int num = 0;
         while (num < n) {
             num++;
