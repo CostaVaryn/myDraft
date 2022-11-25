@@ -8,7 +8,6 @@ public class Dollars {
         int a = sc.nextInt();
         int b = sc.nextInt();
         sc.close();
-        int sum = 0;
         if (a <= b) {
             for (int i = a; i <= b; i++) {
                 System.out.println(i + " " + i + ".$");
@@ -19,8 +18,8 @@ public class Dollars {
 
 /*
 Напишите программу, которая выводила бы на экран числа (например число а) следующим образом:
-
 a a.$
+
 Входные данные
 Вводятся два натуральных числа a и b (a <= b).
 
@@ -30,6 +29,7 @@ a a.$
 Sample Input:
 10
 25
+
 Sample Output:
 10 10.$
 11 11.$
