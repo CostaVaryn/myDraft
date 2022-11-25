@@ -6,6 +6,7 @@ public class WhoMore {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
+        sc.close();
         int countLetter = str.replaceAll("[^A-Za-zА-Яа-я]", "").length();
         int countDigit = str.replaceAll("[^0-9]", "").length();
         System.out.println(countLetter > countDigit ? "Letter" : countLetter == countDigit ? "Equal" : "Digit");
