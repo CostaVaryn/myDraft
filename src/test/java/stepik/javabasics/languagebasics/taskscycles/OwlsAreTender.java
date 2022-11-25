@@ -11,6 +11,7 @@ public class OwlsAreTender {
         String str5 = " ===m-m===";
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        sc.close();
         for (int i = 1; i <= n; i++) {
             System.out.println(str1);
             System.out.println(str2);
@@ -38,6 +39,7 @@ public class OwlsAreTender {
 
 Sample Input:
 2
+
 Sample Output:
 :)\_____/(:
  {(@)v(@)}
