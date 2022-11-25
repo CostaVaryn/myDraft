@@ -8,6 +8,7 @@ public class DisplayingNumbersDownPro {
         long a = sc.nextLong();
         long b = sc.nextLong();
         long c = sc.nextLong();
+        sc.close();
         for (; a >= b; a -= c) {
             System.out.println(a);
         }
