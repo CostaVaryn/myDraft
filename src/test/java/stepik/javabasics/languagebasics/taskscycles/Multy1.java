@@ -11,6 +11,7 @@ public class Multy1 {
             long a = sc.nextLong();
                 multi *= a;
         }
+        sc.close();
         System.out.println(multi);
     }
 }
