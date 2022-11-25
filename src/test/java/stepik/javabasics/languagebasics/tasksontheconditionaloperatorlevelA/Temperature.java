@@ -6,6 +6,7 @@ public class Temperature {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double now = sc.nextDouble();
+        sc.close();
         double normal = 22.4;
         if (now >= normal) {
             System.out.println(now == normal ? "Прохладно..." : "Тепло!");
