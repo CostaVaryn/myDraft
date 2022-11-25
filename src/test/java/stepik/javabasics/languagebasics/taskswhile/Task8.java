@@ -15,10 +15,10 @@ public class Task8 {
                 s++;
                 int k = sc.nextInt();
                 p = p * k;
-
             }
             System.out.print(s + " " + p);
         }
+        sc.close();
     }
 }
 
