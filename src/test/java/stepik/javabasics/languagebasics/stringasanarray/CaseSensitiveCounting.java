@@ -6,8 +6,8 @@ public class CaseSensitiveCounting {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
-        int count = str.replaceAll("[^f]", "")
-                .length();
+        sc.close();
+        int count = str.replaceAll("[^f]", "").length();
         System.out.println(count);
     }
 }
@@ -17,9 +17,8 @@ public class CaseSensitiveCounting {
 Подсчитайте количество вхождений только "маленькой буквы".
 
 Sample Input:
-
 Good morning my dear friend. This is fish.
-Sample Output:
 
+Sample Output:
 2
  */
