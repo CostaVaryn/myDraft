@@ -17,6 +17,7 @@ public class LotsOfInserts {
             int index = sc.nextInt();
             arrayList.add(index, Integer.toString(num));
         }
+        sc.close();
         System.out.println(String.join(" ", arrayList));
     }
 }
