@@ -19,6 +19,7 @@ public class NumberOfWords {
                 hashSet.add(arr[j]);
             }
         }
+        sc.close();
         System.out.println(hashSet.size());
     }
 }
