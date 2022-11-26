@@ -22,16 +22,17 @@ public class DictionariesAndSets {
         }
 
         int k = sc.nextInt();
+        sc.close();
         int max = 0;
         String winner = "";
         for (String key : map.keySet()){
             int p = 0;
             for (String word : map.get(key)){
-                if(word.length() >= k){
+                if (word.length() >= k){
                     p++;
                 }
             }
-            if(p > max){
+            if (p > max){
                 max = p;
                 winner = key;
             }
