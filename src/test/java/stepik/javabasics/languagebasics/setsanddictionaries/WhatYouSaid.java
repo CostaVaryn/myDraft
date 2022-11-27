@@ -12,6 +12,7 @@ public class WhatYouSaid {
             String str = sc.next();
             words.put(i, str);
         }
+        sc.close();
         int count = 0;
         int max = 0;
         String answer = "";
