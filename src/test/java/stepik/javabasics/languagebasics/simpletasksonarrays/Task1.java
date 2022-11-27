@@ -6,6 +6,7 @@ public class Task1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        sc.close();
         int[] array = new int[n];
         for (int j = 0; j < n; j++) {
             array[j] = j;
@@ -27,6 +28,7 @@ Sample Input 1:
 5
 Sample Output 1:
 0 1 2 3 4
+
 Sample Input 2:
 3
 Sample Output 2:
