@@ -23,6 +23,7 @@ public class PersonneStatistics {
                 answer = line;
             }
         }
+        in.close();
         System.out.println(count);
         System.out.println(answer);
         for (String str: prof.keySet()) {
