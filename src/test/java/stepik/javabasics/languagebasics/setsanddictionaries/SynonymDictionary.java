@@ -17,6 +17,7 @@ public class SynonymDictionary {
             synonyms.put(str2, str1);
         }
         String word = sc.next();
+        sc.close();
         for (String key : synonyms.keySet()) {
             if (word.equalsIgnoreCase(synonyms.get(key))) {
                 System.out.println(key);
