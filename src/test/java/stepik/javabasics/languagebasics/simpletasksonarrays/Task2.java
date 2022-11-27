@@ -6,12 +6,13 @@ public class Task2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        sc.close();
         int[] array = new int[n];
         for (int j = 0; j < n; j++) {
             array[j] = (int) Math.pow(j,2);
         }
-        for (int i = 0; i < array.length; i++) {
-            System.out.print(array[i] + " ");
+        for (int i : array) {
+            System.out.print(i + " ");
         }
     }
 }
