@@ -29,6 +29,7 @@ public class Kindergarten {
             redHead = sc.next();
             wolf = redHead;
         }
+        sc.close();
         System.out.println(redHead);
         System.out.println(wolf);
     }
