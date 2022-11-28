@@ -15,6 +15,7 @@ public class MultiplesOf3 {
             }
             n = sc.nextInt();
         }
+        sc.close();
         System.out.println(max > 0 ? max : "404");
     }
 }
