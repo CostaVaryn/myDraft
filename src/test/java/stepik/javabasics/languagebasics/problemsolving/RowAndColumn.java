@@ -16,6 +16,7 @@ public class RowAndColumn {
                 arr[i][j] = sc.nextInt();
             }
         }
+        sc.close();
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 multy *= arr[i][j];
@@ -34,7 +35,6 @@ public class RowAndColumn {
             }
             multy = 1;
         }
-
         System.out.println(is_15_Row ? "YES" : "NO");
         System.out.println(is_15_Column ? "YES" : "NO");
     }
@@ -47,13 +47,12 @@ public class RowAndColumn {
 Выведите на экран два ответа "YES/NO" построчно.
 
 Sample Input:
-
 3 4
 1 1 3 5
 4 6 7 8
 -5 6 3 4
-Sample Output:
 
+Sample Output:
 YES
 NO
  */
