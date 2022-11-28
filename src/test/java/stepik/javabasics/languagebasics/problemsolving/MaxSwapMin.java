@@ -10,6 +10,7 @@ public class MaxSwapMin {
         for (int i = 0; i < arr.length; i++) {
             arr[i]= sc.nextDouble();
         }
+        sc.close();
         double tempMax = arr[0];
         double tempMin = arr[0];
         int valueMax = 0;
