@@ -16,6 +16,7 @@ public class Subsequence333 {
                 negative++;
             }
         }
+        sc.close();
         if (mult3 > negative) {
             System.out.println("333");
         } else if (mult3 == negative) {
