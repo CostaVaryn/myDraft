@@ -20,9 +20,10 @@ public class FixTheCode {
                 break;
             }
         }
+        sc.close();
         if (pin_code_coincided){
             System.out.println("Error");
-        }else{
+        } else {
             System.out.println("CORRECT");
         }
     }
