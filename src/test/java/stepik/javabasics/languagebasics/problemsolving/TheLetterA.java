@@ -13,6 +13,7 @@ public class TheLetterA {
                 count++;
             }
         }
+        sc.close();
         System.out.println(count);
     }
 }
