@@ -49,6 +49,7 @@ public class Borrowed2 {
                 else System.out.println("Слабак!");
             }
         }
+        sc.close();
     }
 }
 
