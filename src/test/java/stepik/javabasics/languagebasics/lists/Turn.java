@@ -8,7 +8,7 @@ public class Turn {
         Scanner sc = new Scanner(System.in);
         ArrayList<String> list = new ArrayList<>();
         int n = sc.nextInt();
-        String str1 = null;
+        String str1;
         for (int i = 0; i < n; i++) {
             String str = sc.next();
             if (str.equalsIgnoreCase("push")) {
@@ -19,6 +19,7 @@ public class Turn {
                 list.remove(0);
             }
         }
+        sc.close();
         System.out.println(String.join(" ", list));
     }
 }
