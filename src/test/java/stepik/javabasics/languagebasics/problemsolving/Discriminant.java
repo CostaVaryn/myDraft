@@ -6,7 +6,8 @@ public class Discriminant {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
-        int D = (b*b) - 4 * a * c;
+        sc.close();
+        int D = (b * b) - 4 * a * c;
         System.out.print(D);
     }
 }
