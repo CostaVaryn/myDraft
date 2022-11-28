@@ -15,6 +15,7 @@ public class RepeatingLines {
                 }
             }
         }
+        sc.close();
         System.out.println(is_0 ? "YES" : "NO");
     }
 }
