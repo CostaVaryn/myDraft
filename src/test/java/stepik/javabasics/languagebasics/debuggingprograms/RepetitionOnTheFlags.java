@@ -7,12 +7,13 @@ public class RepetitionOnTheFlags {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         boolean is_0 = false;
-            for (int i = 1; i <= n; i++) {
-                int a = sc.nextInt();
-                if ((a % 10 == 4) || (a == 4)) {
-                    is_0 = true;
-                }
+        for (int i = 1; i <= n; i++) {
+            int a = sc.nextInt();
+            if ((a % 10 == 4) || (a == 4)) {
+                is_0 = true;
             }
+        }
+        sc.close();
         if (is_0) {
             System.out.println("Yes");
         } else {
