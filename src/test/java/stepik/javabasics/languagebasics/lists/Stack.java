@@ -8,7 +8,7 @@ public class Stack {
         Scanner sc = new Scanner(System.in);
         ArrayList<String> list = new ArrayList<>();
         int n = sc.nextInt();
-        String clothes = null;
+        String clothes;
         for (int i = 0; i < n; i++) {
             String str = sc.next();
             if (str.equalsIgnoreCase("push")) {
@@ -19,6 +19,7 @@ public class Stack {
                 list.remove(list.size() - 1);
             }
         }
+        sc.close();
         System.out.println(String.join(" ", list));
     }
 }
