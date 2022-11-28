@@ -9,6 +9,7 @@ public class CreateAList {
         ArrayList<Integer> arrayList = new ArrayList<>();
         arrayList.add(1);
         int n = sc.nextInt();
+        sc.close();
         for (int i = 0; i < n; i++) {
             arrayList.add(0);
         }
