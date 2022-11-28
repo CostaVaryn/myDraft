@@ -8,7 +8,7 @@ public class Borrowed {
         Scanner sc = new Scanner(System.in);
         ArrayList<String> list = new ArrayList<>();
         int n = sc.nextInt();
-        String name = null;
+        String name;
         for (int i = 0; i < n; i++) {
             String str = sc.next();
             if (str.equalsIgnoreCase("Добавить")) {
@@ -24,6 +24,7 @@ public class Borrowed {
                 list.add(index + 1, str);
             }
         }
+        sc.close();
         System.out.println(String.join(" ", list));
     }
 }
@@ -47,6 +48,7 @@ Sample Input:
 Марина занимала за Лена
 Следующий!
 Добавить Игорь
+
 Sample Output:
 Марина Коля Игорь
  */
