@@ -7,7 +7,8 @@ public class InReverseOrderOne {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        for(; b>=a; b -= 2) {
+        sc.close();
+        for(; b >= a; b -= 2) {
             System.out.println(b);
         }
     }
