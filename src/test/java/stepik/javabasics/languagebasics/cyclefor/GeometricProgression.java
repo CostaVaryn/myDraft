@@ -7,6 +7,7 @@ public class GeometricProgression {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int n = sc.nextInt();
+        sc.close();
         int sum = 0;
         for (int i = 0; i <= n; i++) {
             sum += Math.pow(a,i);
