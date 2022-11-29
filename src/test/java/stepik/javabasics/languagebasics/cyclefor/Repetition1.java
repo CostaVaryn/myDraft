@@ -13,6 +13,7 @@ public class Repetition1 {
             sum += a;
             count++;
         }
+        sc.close();
         System.out.println(sum);
     }
 }
