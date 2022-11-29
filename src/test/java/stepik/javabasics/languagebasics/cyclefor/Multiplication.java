@@ -6,7 +6,7 @@ public class Multiplication {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int multi = 0;
-        while(sc.hasNext()) {
+        while (sc.hasNext()) {
             String str = sc.nextLine();
             if (str.equals("СТОП")) {
                 break;
@@ -18,6 +18,7 @@ public class Multiplication {
                 multi += num;
             }
         }
+        sc.close();
         System.out.print((multi != 0) ? multi : "Не найдено");
     }
 }
