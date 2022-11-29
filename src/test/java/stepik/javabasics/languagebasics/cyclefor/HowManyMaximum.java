@@ -8,7 +8,6 @@ public class HowManyMaximum {
         int max = 0;
         int sum = 1;
         for (int a = sc.nextInt(); a >= 0; a = sc.nextInt()) {
-
             if (a == 0) {
                 break;
             } else if (a > max) {
@@ -18,6 +17,7 @@ public class HowManyMaximum {
                 ++sum;
             }
         }
+        sc.close();
         System.out.print(sum);
     }
 }
