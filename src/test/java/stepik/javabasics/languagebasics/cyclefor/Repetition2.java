@@ -15,6 +15,7 @@ public class Repetition2 {
             }
             s++;
         }
+        sc.close();
         System.out.println(count);
     }
 }
