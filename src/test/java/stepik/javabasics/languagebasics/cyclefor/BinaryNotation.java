@@ -6,6 +6,7 @@ public class BinaryNotation {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
+        sc.close();
         String str = Integer.toBinaryString(N);
         System.out.println(new StringBuilder(str).reverse());
     }
