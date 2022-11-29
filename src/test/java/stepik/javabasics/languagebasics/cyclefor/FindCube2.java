@@ -8,15 +8,16 @@ public class FindCube2 {
         boolean is_0 = false;
         int count = 0;
         int numCube = 0;
-        for(String i = sc.nextLine(); !(i.equals("СТОП")); i = sc.nextLine()){
-            if(!(i.equals("потом")) && !(i.equals("ээээ"))) {
+        for (String i = sc.nextLine(); !(i.equals("СТОП")); i = sc.nextLine()){
+            if (!(i.equals("потом")) && !(i.equals("ээээ"))) {
                 count++;
-                if(i.equals("Куб")) {
+                if (i.equals("Куб")) {
                     numCube = count;
                     is_0 = true;
                 }
             }
         }
+        sc.close();
         System.out.println((is_0) ? numCube : "NO");
     }
 }
