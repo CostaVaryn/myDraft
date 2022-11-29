@@ -11,6 +11,7 @@ public class MinAndMax {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
+        sc.close();
         Arrays.sort(arr);
         System.out.println(arr[0]);
         System.out.println(arr[n-1]);
