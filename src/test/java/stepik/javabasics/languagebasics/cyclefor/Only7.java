@@ -6,7 +6,7 @@ public class Only7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean is_0 = false;
-        while(sc.hasNext()) {
+        while (sc.hasNext()) {
             String str = sc.nextLine();
             if (str.equals("Куб")) {
                 is_0 = true;
@@ -16,6 +16,7 @@ public class Only7 {
                 break;
             }
         }
+        sc.close();
         if (is_0) {
             System.out.println("YES");
         } else {
