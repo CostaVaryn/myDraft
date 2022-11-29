@@ -7,6 +7,7 @@ public class AgainAmount {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
+        sc.close();
         int sum = 0;
         if (a <= b) {
             for (int i = a; i <= b; i++) {
