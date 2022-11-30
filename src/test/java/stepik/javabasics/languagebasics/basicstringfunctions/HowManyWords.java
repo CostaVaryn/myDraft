@@ -17,6 +17,7 @@ public class HowManyWords {
                 countMasha++;
             }
         }
+        sc.close();
         System.out.println(countMasha);
         System.out.println(countOleg);
     }
