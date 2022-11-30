@@ -7,13 +7,13 @@ import java.awt.event.*;
 public class JMenuBarTest extends JFrame {
     private static final long serialVersionUID = 1L;
     private  final  String[][]  menuFile =
-            {{"Файл"     ,  "Ф",  "", ""},
-                    {"Открыть"  ,  "О", "O", ""},
-                    {"Сохранить",  "С", "S", ""}};
+            {{"Файл","Ф","",""},
+            {"Открыть","О","O",""},
+            {"Сохранить","С","S",""}};
     private  final  String[][]  menuEdit =
-            {{"Редактирование" , "Р",  "", ""},
-                    {"Вырезать"  , "В", "X", "src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/cut.png"},
-                    {"Копировать", "К", "C", "src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/copy.png"}};
+            {{"Редактирование","Р","",""},
+            {"Вырезать","В","X","src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/cut.png"},
+            {"Копировать","К","C","src/test/java/stepik/javabasics/graphicaluserinterface/javaonline/copy.png"}};
 
     /**
      * Функция создания выпадающего меню
