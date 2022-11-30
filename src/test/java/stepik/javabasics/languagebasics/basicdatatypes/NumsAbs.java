@@ -6,6 +6,7 @@ public class NumsAbs {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
+        sc.close();
         int previous = a - 1;
         int next = a + 1;
         if (a >= 0 && Math.abs(a) < 10000) {
