@@ -11,6 +11,7 @@ public class JustConnectThem {
             str[i] = sc.next();
         }
         String hyphen = sc.next();
+        sc.close();
         String result = String.join(hyphen, str);
         System.out.println(result);
     }
