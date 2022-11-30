@@ -6,6 +6,7 @@ public class IsItANumber {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         char c = sc.next().charAt(0);
+        sc.close();
         if (c >= '0' && c <= '9') {
             System.out.println("yes");
         } else {
