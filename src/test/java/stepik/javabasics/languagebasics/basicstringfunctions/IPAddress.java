@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class IPAddress {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-
         String[] str = sc.nextLine().split("\\.");
+        sc.close();
         boolean isTrue = true;
         for (int i = 0; i < str.length; i++) {
             if (str.length <= 3 || str.length >= 5) {
@@ -23,7 +23,6 @@ public class IPAddress {
                 break;
             }
         }
-
         if (isTrue) {
             System.out.println("YES");
         } else {
