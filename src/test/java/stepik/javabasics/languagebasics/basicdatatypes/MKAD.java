@@ -6,6 +6,7 @@ public class MKAD {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int v = sc.nextInt(), t = sc.nextInt();
+        sc.close();
         int s = v * t;
         System.out.println((109 + s % 109) % 109);
     }
