@@ -7,10 +7,11 @@ public class DivideValue {
         Scanner sc = new Scanner(System.in);
         double a = sc.nextInt();
         double b = sc.nextInt();
-        if (b==0) {
+        sc.close();
+        if (b == 0) {
             System.out.println("Error");
         } else {
-            System.out.println(a/b);
+            System.out.println(a / b);
         }
     }
 }
