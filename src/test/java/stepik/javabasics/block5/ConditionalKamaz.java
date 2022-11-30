@@ -7,6 +7,7 @@ public class ConditionalKamaz {
         Scanner sc = new Scanner(System.in);
         int xMasKamaz = sc.nextInt(); // 7000
         int yMasGruz = sc.nextInt(); // 3951
+        sc.close();
         int maxMas = 15600;
         int sumMas = xMasKamaz + yMasGruz;
         if (sumMas > maxMas) {
