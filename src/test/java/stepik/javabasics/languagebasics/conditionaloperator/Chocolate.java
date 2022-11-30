@@ -6,6 +6,7 @@ public class Chocolate {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(), m = sc.nextInt(), k = sc.nextInt();
+        sc.close();
         if( (n * m > k) && (k <= 30000) && (k % n == 0 || k % m == 0)) {
             System.out.println("YES");
         } else {
