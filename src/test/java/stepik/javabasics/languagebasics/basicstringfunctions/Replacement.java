@@ -8,6 +8,7 @@ public class Replacement {
         String strAllergy = sc.nextLine();
         String replaceProduct = sc.nextLine();
         String book = sc.nextLine();
+        sc.close();
         System.out.println(book.replace(strAllergy, replaceProduct));
     }
 }
