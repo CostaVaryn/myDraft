@@ -8,6 +8,7 @@ public class TwoEqualLines {
         String s1 = sc.nextLine();
         String s2 = sc.nextLine();
         String s3 = sc.nextLine();
+        sc.close();
         if ((s1.equals(s2) && !s1.equals(s3)) || (s1.equals(s3) && !s1.equals(s2)) || (s2.equals(s3) && !s2.equals(s1))) {
             System.out.println("Yes");
         } else {
