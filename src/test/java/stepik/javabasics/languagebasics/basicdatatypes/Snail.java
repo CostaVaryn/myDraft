@@ -6,10 +6,10 @@ public class Snail {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int h = sc.nextInt(), a = sc.nextInt(), b = sc.nextInt();
+        sc.close();
         int q = h - b;
         int p = a - b;
-        int x = q/p;
-        x = (h - 2*b + a - 1)/(a - b);
+        int x = (h - 2 * b + a - 1)/(a - b);
         System.out.println(x);
     }
 }
