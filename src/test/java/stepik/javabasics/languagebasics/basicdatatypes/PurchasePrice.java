@@ -8,6 +8,7 @@ public class PurchasePrice {
         int a = sc.nextInt() * 100;
         int b = sc.nextInt() + a;
         int n = sc.nextInt();
+        sc.close();
         System.out.printf("%d %d", ((b * n) - ((b * n) % 100)) / 100, (b * n) % 100);
     }
 }
