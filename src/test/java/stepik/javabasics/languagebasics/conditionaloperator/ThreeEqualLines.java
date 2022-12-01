@@ -6,6 +6,7 @@ public class ThreeEqualLines {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s1 = sc.nextLine(), s2 = sc.nextLine(), s3 = sc.nextLine();
+        sc.close();
         if (s1.equals(s2) && s2.equals(s3)) {
             System.out.println("Yes");
         } else {
