@@ -6,7 +6,8 @@ public class WalleAndEleven {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int s = sc.nextInt(), v = sc.nextInt();
-        System.out.println((double)s/v);
+        sc.close();
+        System.out.println((double) s / v);
     }
 }
 
