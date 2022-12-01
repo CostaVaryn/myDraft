@@ -6,7 +6,8 @@ public class WalleAndSeven {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(), s = sc.nextInt(), d = sc.nextInt();
-        System.out.println(n-(s*d));
+        sc.close();
+        System.out.println(n - (s * d));
     }
 }
 
