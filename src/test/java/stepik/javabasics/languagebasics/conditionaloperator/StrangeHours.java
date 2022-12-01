@@ -6,7 +6,8 @@ public class StrangeHours {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int h = sc.nextInt(), m = sc.nextInt(), x = sc.nextInt();
-        int sec = (h*3600)+(m*60);
+        sc.close();
+        int sec = (h * 3600) + (m * 60);
         if (x <= sec) {
             System.out.println("Успел");
         } else {
