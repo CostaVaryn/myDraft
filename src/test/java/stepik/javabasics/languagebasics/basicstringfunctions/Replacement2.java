@@ -24,6 +24,7 @@ public class Replacement2 {
             products[count1] = (products[count1].trim().replaceAll(" - ", " "));
             count1++;
         }
+        sc.close();
 
         for (int i = 0; i < products.length; i++) {
             String[] s = products[i].split(" ");
