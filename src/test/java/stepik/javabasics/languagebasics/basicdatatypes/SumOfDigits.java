@@ -9,8 +9,8 @@ public class SumOfDigits {
         String[] line = nums.split("");
         sc.close();
         int[] arr = new int[nums.length()];
-        for(int i = 0; i < nums.length(); i++) {
-            arr[i] = Integer.valueOf(line[i]);
+        for (int i = 0; i < nums.length(); i++) {
+            arr[i] = Integer.parseInt(line[i]);
         }
         System.out.println(arr[0]+arr[1]+arr[2]);
     }
