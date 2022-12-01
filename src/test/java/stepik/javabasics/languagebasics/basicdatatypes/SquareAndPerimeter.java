@@ -6,6 +6,7 @@ public class SquareAndPerimeter {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt(), b = sc.nextInt();
+        sc.close();
         int per = 2 * (a + b);
         int square = a * b;
         System.out.println(square);
