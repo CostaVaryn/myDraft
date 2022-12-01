@@ -9,8 +9,9 @@ public class WalleAndFour {
         int t = sc.nextInt(); // 500
         int k = sc.nextInt(); // 30
         int n = sc.nextInt(); // 2
-        int sumTea = (t/100)*x;
-        int sumPir = x*n*k;
+        sc.close();
+        int sumTea = (t / 100) * x;
+        int sumPir = x * n * k;
         System.out.println(sumPir+sumTea);
     }
 }
