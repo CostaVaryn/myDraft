@@ -6,6 +6,7 @@ public class YashaSwimsInThePool {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt(), M = sc.nextInt(), x = sc.nextInt(), y = sc.nextInt();
+        sc.close();
         int z = N - x;
         int k = M - y;
         if (x < y && x < z && x < k) {
