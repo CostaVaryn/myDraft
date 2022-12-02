@@ -6,9 +6,10 @@ public class WalleAndThree {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int tX = sc.nextInt(), x = sc.nextInt(), y = sc.nextInt();
-        int line = (x*tX)*2;
-        int tY = (line/2)/y;
-        System.out.println(tX+tY);
+        sc.close();
+        int line = (x * tX) * 2;
+        int tY = (line / 2) / y;
+        System.out.println(tX + tY);
     }
 }
 
