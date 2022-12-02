@@ -6,7 +6,8 @@ public class WalleAndTen {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt(), n = sc.nextInt();
-        System.out.println((x%10)+n);
+        sc.close();
+        System.out.println((x % 10) + n);
     }
 }
 
