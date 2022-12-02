@@ -8,8 +8,9 @@ public class WalleAndTwo {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        int aa = a%10, bb = b%10, cc = c%10;
-        System.out.println((aa+bb+cc)+ "vll");
+        sc.close();
+        int aa = a % 10, bb = b % 10, cc = c % 10;
+        System.out.println((aa + bb + cc) + "vll");
     }
 }
 
