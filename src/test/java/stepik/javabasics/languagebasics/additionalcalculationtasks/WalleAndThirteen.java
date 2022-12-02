@@ -6,7 +6,8 @@ public class WalleAndThirteen {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int h = sc.nextInt(), g = sc.nextInt();
-        System.out.println((h*4)+(g*2));
+        sc.close();
+        System.out.println((h * 4) + (g * 2));
     }
 }
 
