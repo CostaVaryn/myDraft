@@ -7,7 +7,7 @@ public class LarSmalPerf {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int is0 = 0, is1 = 0, isM1 = 0;
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             int num = sc.nextInt();
             if (num == 0) {
                 is0++;
@@ -19,6 +19,7 @@ public class LarSmalPerf {
                 continue;
             }
         }
+        sc.close();
         System.out.printf("%d %d %d",is0,is1,isM1);
     }
 }
