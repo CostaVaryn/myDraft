@@ -6,6 +6,7 @@ public class HashSetStr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
+        sc.close();
         String[] arStr = str.split(" ");
 
         List list = new ArrayList(Arrays.asList(arStr));
