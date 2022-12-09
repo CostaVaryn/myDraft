@@ -15,6 +15,7 @@ public class AvgNums {
                 break;
             }
         }
+        sc.close();
         System.out.println(sum/(count-1));
     }
 }
