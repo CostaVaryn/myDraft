@@ -26,6 +26,7 @@ public class Malevia {
             default:
                 break;
         }
+        sc.close();
     }
 }
 
