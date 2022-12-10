@@ -10,6 +10,7 @@ public class ArrSort {
             String str = sc.next();
             list.add(str);
         }
+        sc.close();
         Collections.sort(list);
         for(String s : list) {
             System.out.print(s + " ");
