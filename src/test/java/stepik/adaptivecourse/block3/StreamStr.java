@@ -1,12 +1,13 @@
 package stepik.adaptivecourse.block3;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
 public class StreamStr {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         List<String> list = new ArrayList<String>();
         String[] read = reader.toString().split(" ");
@@ -16,6 +17,7 @@ public class StreamStr {
             }
         }
         System.out.println(list);
+        reader.close();
 
         //Stream stream = list.stream();
     }
