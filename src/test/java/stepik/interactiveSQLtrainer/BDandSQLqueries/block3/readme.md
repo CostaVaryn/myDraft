@@ -1,0 +1,12 @@
+#### Запросы для предметной области:
+
+* [`task1`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task1.sql) - Вывести абитуриентов, которые хотят поступать на определенную образовательную программу.
+* [`task2`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task2.sql) - Вывести образовательные программы, на которые для поступления необходим определенный предмет ЕГЭ.
+* [`task3`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task3.sql) - Вывести статистическую информацию по каждому предмету ЕГЭ.
+* [`task4`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task4.sql) - Вывести образовательные программы, минимальные баллы по каждому предмету которых, превышают заданное значение.
+* [`task5`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task5.sql) - Вывести образовательные программы. которые имеют самый большой план набора.
+* [`task6`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task6.sql) - Посчитать, сколько дополнительных баллов получит каждый абитуриент.
+* [`task7`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task7.sql) - Посчитать конкурс на каждую образовательную программу.
+* [`task8`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task8.sql) - Вывести образовательные программы, на которые для поступления необходимы два определенных предмета ЕГЭ.
+* [`task9`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task9.sql) - Посчитать количество баллов каждого абитуриента на каждую образовательную программу по результатам ЕГЭ.
+* [`task10`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block3/task9.sql) - Вывести абитуриентов, которые не могут быть зачислены на образовательную программу.
