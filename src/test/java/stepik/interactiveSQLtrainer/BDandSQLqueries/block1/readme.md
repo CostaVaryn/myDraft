@@ -1,11 +1,11 @@
 #### Запросы для предметной области:
 
-1. [`task1`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task1.sql) - Вывести студентов, которые сдавали определенную дисциплину.
-2. [`task2`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task2.sql) - Вывести количество попыток и средний результат по каждой дисциплине.
-3. [`task3`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task3.sql) - Вывести студента (студентов), которые набрали максимальный результат при тестировании.
-4. [`task4`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task4.sql) - Если студент совершал несколько попыток по одной и той же дисциплине, то вывести разницу в днях между первой и последней попыткой.
-5. [`task5`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task5.sql) - Вывести количество студентов, которые проходили тестирование по каждой дисциплине.
-6. [`task6`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task6.sql) - Случайным образом отобрать 3 вопроса по определенной дисциплине.
-7. [`task7`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task7.sql) - Вывести вопросы, на которые отвечал определенный студент в определенной попытке, ответ студента и результат (правильно или нет).
-8. [`task8`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task8.sql) - Посчитать результаты тестирования для всех попыток.
-9. [`task9`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task9.sql) -Для каждого вопроса вывести процент успешных решений и общее количество ответов.
+* [`task1`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task1.sql) - Вывести студентов, которые сдавали определенную дисциплину.
+* [`task2`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task2.sql) - Вывести количество попыток и средний результат по каждой дисциплине.
+* [`task3`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task3.sql) - Вывести студента (студентов), которые набрали максимальный результат при тестировании.
+* [`task4`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task4.sql) - Если студент совершал несколько попыток по одной и той же дисциплине, то вывести разницу в днях между первой и последней попыткой.
+* [`task5`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task5.sql) - Вывести количество студентов, которые проходили тестирование по каждой дисциплине.
+* [`task6`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task6.sql) - Случайным образом отобрать 3 вопроса по определенной дисциплине.
+* [`task7`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task7.sql) - Вывести вопросы, на которые отвечал определенный студент в определенной попытке, ответ студента и результат (правильно или нет).
+* [`task8`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task8.sql) - Посчитать результаты тестирования для всех попыток.
+* [`task9`](https://github.com/CostaVaryn/myDraft/tree/master/src/test/java/stepik/interactiveSQLtrainer/BDandSQLqueries/block1/task9.sql) - Для каждого вопроса вывести процент успешных решений и общее количество ответов.
