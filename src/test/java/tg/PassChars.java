@@ -2,13 +2,13 @@ package tg;
 
 import java.util.Random;
 
-public class passChars {
+public class PassChars {
     public static void main(String[] args) {
         int len = 10;
         System.out.println(geek_pass(len));
     }
     static char[] geek_pass(int len) {
-        System.out.println("Generating password using random()");
+        // System.out.println("Generating password using random()");
         System.out.println("Your new password is: ");
         String cap_chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         String small_chars = "abcdefghijklmnopqrstuvwxyz";
