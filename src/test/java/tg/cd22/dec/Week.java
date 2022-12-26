@@ -1,4 +1,4 @@
-package tg;
+package tg.cd22.dec;
 
 public class Week {
     public static void main(String[] args) {
