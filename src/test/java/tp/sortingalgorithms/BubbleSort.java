@@ -1,4 +1,4 @@
-package tp;
+package tp.sortingalgorithms;
 
 public class BubbleSort {
     public static void bubbleSort(int[] sortArr){
