@@ -1,4 +1,4 @@
-package tg;
+package tg.cd22.dec;
 
 import java.util.Random;
 
