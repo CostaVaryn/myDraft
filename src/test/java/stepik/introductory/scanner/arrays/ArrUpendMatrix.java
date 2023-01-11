@@ -8,7 +8,7 @@ public class ArrUpendMatrix {
         int counter = 0;
         int k = 0;
         String str = "";
-        while(sc.hasNextLine()) {
+        while (sc.hasNextLine()) {
             String str1 = sc.nextLine();
             str = str + str1 + " ";
             counter++;
@@ -16,15 +16,15 @@ public class ArrUpendMatrix {
         sc.close();
         String[] arr = str.split(" ");
         String[][] matrix = new String[counter][arr.length / counter];
-        for (int i = 0 ; i < counter; i++){
-            for (int j = 0 ; j < (arr.length / counter); j++) {
+        for (int i = 0; i < counter; i++) {
+            for (int j = 0; j < (arr.length / counter); j++) {
                 matrix[i][j] = arr[k];
                 k++;
             }
         }
         String[][] matrix2 = new String[arr.length / counter][counter];
-        for (int x = 0; x < counter ; x++) {
-            for (int y = (arr.length / counter)-1; y >= 0; y--) {
+        for (int x = 0; x < counter; x++) {
+            for (int y = (arr.length / counter) - 1; y >= 0; y--) {
                 matrix2[y][x] = arr[k - 1];
                 k--;
             }
