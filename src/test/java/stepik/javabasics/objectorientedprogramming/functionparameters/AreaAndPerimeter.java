@@ -11,23 +11,25 @@ public class AreaAndPerimeter {
         perimeter(figure, x);
         area(figure, x);
     }
+
     static void perimeter(String figure, int x) {
         if (figure.equalsIgnoreCase("Квадрат")) {
-            System.out.println(x*4);
+            System.out.println(x * 4);
         }
         if (figure.equalsIgnoreCase("Круг")) {
             double pi = 3.14;
-            int result = (int) Math.ceil(pi*2*x);
+            int result = (int) Math.ceil(pi * 2 * x);
             System.out.println(result);
         }
     }
+
     static void area(String figure, int x) {
         if (figure.equalsIgnoreCase("Квадрат")) {
-            System.out.println(x*x);
+            System.out.println(x * x);
         }
         if (figure.equalsIgnoreCase("Круг")) {
             double pi = 3.14;
-            int result = (int) Math.ceil(pi*(x*x));
+            int result = (int) Math.ceil(pi * (x * x));
             System.out.println(result);
         }
     }
