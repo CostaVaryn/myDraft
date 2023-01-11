@@ -13,7 +13,7 @@ public class FizzBuzzApp {
         //mInfoTextView.setText(monthString);
     }
     static void FizzBuzz(int a, int b) {
-        if(a > b) {
+        if (a > b) {
             return;
         }
         for (; a <= b; a++) {
