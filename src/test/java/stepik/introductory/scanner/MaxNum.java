@@ -7,9 +7,9 @@ public class MaxNum {
         Scanner sc = new Scanner(System.in);
         int num = Math.abs(sc.nextInt());
         byte maxVal;
-        maxVal = (byte)(num % 10);
+        maxVal = (byte) (num % 10);
         while (num > 0) {
-            byte curVal = (byte)(num % 10);
+            byte curVal = (byte) (num % 10);
             if (curVal > maxVal)
                 maxVal = curVal;
             num /= 10;
