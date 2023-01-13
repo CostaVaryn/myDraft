@@ -8,16 +8,16 @@ public class IPAddress {
         String[] str = sc.nextLine().split("\\.");
         sc.close();
         boolean isTrue = true;
-        for (int i = 0; i < str.length; i++) {
-            if (str.length <= 3 || str.length >= 5) {
+        for (String s : str) {
+            if (str.length != 4) {
                 isTrue = false;
                 break;
             }
-            if (str[i].isEmpty()) {
+            if (s.isEmpty()) {
                 isTrue = false;
                 break;
             }
-            int b = Integer.parseInt(str[i]);
+            int b = Integer.parseInt(s);
             if (b < 0 || b > 255) {
                 isTrue = false;
                 break;
