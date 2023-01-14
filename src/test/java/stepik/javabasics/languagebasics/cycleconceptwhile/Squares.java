@@ -3,12 +3,12 @@ package stepik.javabasics.languagebasics.cycleconceptwhile;
 import java.util.Scanner;
 
 public class Squares {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int i = sc.nextInt();
         int num = 1;
-        while (num*num <= i) {
-            System.out.println(num*num);
+        while (num * num <= i) {
+            System.out.println(num * num);
             num++;
         }
     }
