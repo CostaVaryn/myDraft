@@ -21,7 +21,7 @@ public class Subsequence333 {
             System.out.println("333");
         } else if (mult3 == negative) {
             System.out.println("Equal");
-        } else if (mult3 < negative){
+        } else {
             System.out.println("negative");
         }
     }
