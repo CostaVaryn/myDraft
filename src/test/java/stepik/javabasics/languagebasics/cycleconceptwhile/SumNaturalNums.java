@@ -12,7 +12,7 @@ public class SumNaturalNums {
         int sum = 0;
         String[] arr = nums.split("");
         while (count < val) {
-            sum += Integer.valueOf(arr[count]);
+            sum += Integer.parseInt(arr[count]);
             count++;
         }
         System.out.println(sum);
