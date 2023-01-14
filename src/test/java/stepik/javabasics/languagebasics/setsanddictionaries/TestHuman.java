@@ -9,7 +9,7 @@ public class TestHuman {
         human.put("name", "Wlad");
         human.put("secondName", "Kowalew");
         human.put("age", "25");
-        human.put("proffesion", "teacher");
+        human.put("profession", "teacher");
 
         System.out.println("-----------------------------");
         System.out.println("Size: " + human.size());
