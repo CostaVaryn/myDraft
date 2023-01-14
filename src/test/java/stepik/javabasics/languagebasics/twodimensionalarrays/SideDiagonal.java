@@ -3,7 +3,7 @@ package stepik.javabasics.languagebasics.twodimensionalarrays;
 import java.util.Scanner;
 
 public class SideDiagonal {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[][] mas = new int[n][n];
