@@ -12,7 +12,7 @@ public class NeighborsOfTheSameSign {
             arr[i] = sc.nextInt();
         }
         sc.close();
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             if (i - 1 >= 0) {
                 if (((arr[i] < 0) && (arr[i - 1] < 0)) || ((arr[i] > 0) && (arr[i - 1] > 0))) {
                     x = 0;
