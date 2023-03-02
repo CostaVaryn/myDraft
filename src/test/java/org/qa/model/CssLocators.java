@@ -15,7 +15,7 @@ public class CssLocators {
     public SelenideElement fullHeaderButton = $(By.cssSelector("a[href='/Den/list.asp'][class='home-link']"));
     public SelenideElement partialHeaderButton = $(By.cssSelector("a[href='/Den/list.asp'][class*='-link']"));
     public SelenideElement openNaughtyOrNiceListByClassAndHrefButton = $(By.cssSelector("a[href='/Den/list.asp'][class='home-btn']"));
-    public SelenideElement tableQuestionsByPartialIdField = $(By.cssSelector("form[id*='uest']"));
+    public SelenideElement tableQuestionsByPartialIdField = $(By.cssSelector("form[id*='quest']"));
     public SelenideElement headerTopByIdField = $(By.cssSelector("#top "));
     public ElementsCollection searchElementAndFilterAndClickRadioButton = $$(By.cssSelector("#questions > ul:nth-child(1) > li"));
     public SelenideElement headerNaughtyOrNiceListPage = $(By.cssSelector("img[src='../images/den/title_list.jpg']"));
