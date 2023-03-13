@@ -1,6 +1,7 @@
 package hardtask;
 
 import java.text.MessageFormat;
+import java.util.Arrays;
 import java.util.Date;
 
 public class MainFormatter {
@@ -13,5 +14,11 @@ public class MainFormatter {
                 planet, new Date(), event
         );
         System.out.println(result);
+        System.out.println("__________________________");
+        Double[] strs = new Double[]{7.99, 9.99, 15.99, 29.99, 49.99, 129.94};
+        for (Double d : strs) {
+            Double val = d * 0.08;
+            System.out.println(String.format("%.2f", val).replace(",", "."));
+        }
     }
 }
