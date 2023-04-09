@@ -13,7 +13,7 @@ import static java.lang.System.out;
 
 public class WriterTest2 {
 
-    public static void main (String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
 
         //Files.createDirectories(Paths.get("C:\\Users\\...\\Desktop\\test\\1\\2\\3"));
 
