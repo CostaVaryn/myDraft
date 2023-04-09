@@ -36,6 +36,7 @@ public class ArrayMergeSort {
         }
         return result;
     }
+
     public static void main(String[] args) {
         int[] sortArr = {12, 6, 4, 1, 15, 10};
         int[] result = mergeSort(sortArr);
