@@ -1,7 +1,7 @@
 package tp.sortingalgorithms;
 
 public class BubbleSort2 {
-    public static void matrixBubbleSort(int[][] sortMatrix){
+    public static void matrixBubbleSort(int[][] sortMatrix) {
         int swap;
         for (int i = 0; i < sortMatrix.length; i++) {
             for (int j = 0; j < sortMatrix[i].length; j++) {
@@ -20,9 +20,9 @@ public class BubbleSort2 {
 
     public static void main(String[] args) {
         int[][] sortMatrix = new int[][]{
-            {8, 3, 5},
-            {1, 4, 6},
-            {9, 7, 2}
+                {8, 3, 5},
+                {1, 4, 6},
+                {9, 7, 2}
         };
         matrixBubbleSort(sortMatrix);
 
