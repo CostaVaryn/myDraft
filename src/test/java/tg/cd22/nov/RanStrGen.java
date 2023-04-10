@@ -8,8 +8,9 @@ public class RanStrGen {
         System.out.println("Случайная строка из 32 символов: " + randomStr);
         // System.out.println(randomStr.length());
     }
+
     static String usingRandomUUID() {
         UUID randomUUID = UUID.randomUUID();
-        return randomUUID.toString().replaceAll("_","").replaceAll("-","");
+        return randomUUID.toString().replaceAll("_", "").replaceAll("-", "");
     }
 }
