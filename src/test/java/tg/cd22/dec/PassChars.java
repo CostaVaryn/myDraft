@@ -7,6 +7,7 @@ public class PassChars {
         int len = 10;
         System.out.println(geek_pass(len));
     }
+
     static char[] geek_pass(int len) {
         // System.out.println("Generating password using random()");
         System.out.println("Your new password is: ");
