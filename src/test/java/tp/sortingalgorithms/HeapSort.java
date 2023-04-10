@@ -36,7 +36,7 @@ public class HeapSort {
         }
         int top = sortArr[0];
 
-        sortArr[0] = sortArr[size-1];
+        sortArr[0] = sortArr[size - 1];
         heapify(sortArr, 0, size - 1);
         return top;
     }
