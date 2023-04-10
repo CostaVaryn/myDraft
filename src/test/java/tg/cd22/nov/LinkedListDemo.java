@@ -10,7 +10,6 @@ public class LinkedListDemo {
         list.add("Milk");
         list.add("11");
         System.out.println("LinkedList: " + list);
-
         Iterator x = list.descendingIterator();
         while (x.hasNext()) {
             System.out.println(x.next());
