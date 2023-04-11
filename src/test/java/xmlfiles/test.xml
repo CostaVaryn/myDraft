@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<book category="WEB">
+    <title lang="en">Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2003</year>
+    <human gender="male">
+        <name first="Ivan" second="Petrovich" />
+    </human>
+    <price>1500</price>
+</book>
