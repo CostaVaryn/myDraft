@@ -2,16 +2,18 @@ package writer;
 
 abstract class Shape {
     int width;
+
     abstract void area();
 }
 
 class Square extends Shape {
-    Square (int x) {
+    Square(int x) {
         width = x;
     }
+
     @Override
     void area() {
-        System.out.println(width*width);
+        System.out.println(width * width);
     }
 }
 
