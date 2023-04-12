@@ -7,9 +7,11 @@ import java.util.List;
 
 public class GenericArray {
     public static void main(String[] args) {
+        List list = new ArrayList<>(Arrays.asList(new String[]{"Str1", "Str2", "Str3"}));
         String[] strings = GenericArray.convert(
                 String.class,
-                List.of("Str1", "Str2", "Str3")
+                //List.of("Str1", "Str2", "Str3")
+                list
         );
         System.out.println(Arrays.toString(strings));
     }
